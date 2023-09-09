@@ -1,0 +1,10 @@
+N,F3B1-DF64,3/4 Time To Choose
+N,F0B1-DF64,1/2 Time To choose
+N,DCB1-DF64,1/4 Time To Choose
+N,C264-DF0F,Infinite Time To Choose
+N,DD62-DF07,Vowels Free (At $250)
+N,7462-DF07,Vowels Cost $50 (At $250)
+N,1062-DF07,Vowels Cost $100 (At $250)
+N,B162-DF07,Vowels Cost $150 (At $250)
+N,A662-DF07,Vowels Cost $200 (At $250)
+N,C2BE-DFDF,Keep Money On Bankrupt

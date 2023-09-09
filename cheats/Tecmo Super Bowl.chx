@@ -1,0 +1,62 @@
+N,DD66-14AC,P1 Touchdowns Worth 0 Points
+N,D766-14AC,P1 Touchdowns Worth 3 Points
+N,D966-14AC,P1 Touchdowns Worth 5 Points
+N,D666-14AC,P1 Touchdowns Worth 8 Points
+N,DD61-34DC,P1 Extra Points Worth 0 Points
+N,DD61-34DC,P1 Extra Points Worth 0 Points
+N,D761-34DC,P1 Extra Points Worth 3 Points
+N,D961-34DC,P1 Extra Points Worth 5 Points
+N,DB61-34DC,P1 Extra Points Worth 9 Points
+N,DD63-37AB,P1 Field Goals Worth 0 Points
+N,DF63-37AB,P1 Field Goals Worth 1 Points
+N,D963-37AB,P1 Field Goals Worth 5 Points
+N,DB63-37AB,P1 Field Goals Worth 9 Points
+N,DDB0-17AB,P1 Safeties Worth 0 Points
+N,DFB0-17AB,P1 Safeties Worth 1 Points
+N,D9B0-17AB,P1 Safeties Worth 5 Points
+N,DBB0-17AB,P1 Safeties Worth 9 Points
+N,DDCE-34A8,P2 Touchdown = 0 Points (1/2)
+N,DDBB-176B,P2 Touchdown = 0 Points (2/2)
+N,D7CE-34A8,P2 Touchdown = 3 Points (1/2)
+N,D7BB-176B,P2 Touchdown = 3 Points (2/2)
+N,D9CE-34A8,P2 Touchdown = 5 Points (1/2)
+N,D9BB-176B,P2 Touchdown = 5 Points (2/2)
+N,DBCE-34A8,P2 Touchdown = 9 Points (1/2)
+N,DBBB-176B,P2 Touchdown = 9 Points (2/2)
+N,DDB5-34AB,P2 Extra Points Worth 0 Points
+N,D7B5-34AB,P2 Extra Points Worth 3 Points
+N,D9B5-34AB,P2 Extra Points Worth 5 Points
+N,DBB5-34AB,P2 Extra Points Worth 9 Points
+N,DDBD-4DDB,P2 Field Goals Worth 0 Points
+N,DFBD-4DDB,P2 Field Goals Worth 1 Points
+N,D9BD-4DDB,P2 Field Goals Worth 5 Points
+N,DBBD-4DDB,P2 Field Goals Worth 9 Points
+N,DD67-17DC,P2 Safeties Worth 0 Points
+N,DF67-17DC,P2 Safeties Worth 1 Points
+N,D967-17DC,P2 Safeties Worth 5 Points
+N,DB67-17DC,P2 Safeties Worth 9 Points
+N,DDA5-1F2D,0 Timeouts In 1st Half
+N,D4A5-1F2D,2 Timeouts In 1st Half
+N,D5A5-1F2D,7 Timeouts In 1st Half
+N,DBA5-1F2D,9 Timeouts In 1st Half
+N,10A5-14FD,P1 Gets 0 Timeouts In 1st Half
+N,10A5-14BD,P2 Gets 0 Timeouts In 1st Half
+N,DDAA-14FD,0 Timeouts In 2nd Half
+N,D4AA-14FD,2 Timeouts In 2nd Half
+N,D5AA-14FD,7 Timeouts In 2nd Half
+N,DBAA-14FD,9 Timeouts In 2nd Half
+N,10AA-149D,P1 Gets 0 Timeouts In 2nd Half
+N,10AA-142D,P2 Gets 0 Timeouts In 2nd Half
+N,C9AA-149D,P1's Timeouts Are Not Reset
+N,C9AA-142D,P2's Timeouts Are Not Reset
+N,DFBA-170C,1 Play To Get A 1st Down
+N,D4BA-170C,2 Plays To Get A 1st Down
+N,D7BA-170C,3 Plays To Get A 1st Down
+N,D9BA-170C,5 Plays To Get A 1st Down
+N,D5BA-170C,7 Plays To Get A 1st Down
+N,C9BA-14DC,Always 1st Down
+N,7DB3-C705,Quarter 2 Min & 30 Sec (1/2)
+N,D4B3-C765,Quarter 2 Min & 30 Sec (2/2)
+N,7E0A1E00,Freeze Timer
+N,7E01BD07,Always Win (1/2)
+N,7E01BF00,Always Win (2/2)

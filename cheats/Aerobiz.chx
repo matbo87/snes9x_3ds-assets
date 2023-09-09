@@ -1,0 +1,89 @@
+N,03F8EA90,Master Code (Needed For All)
+N,04C18000,Scenario 1, Tokyo $650Ml
+N,04C18005,Scenario 1, Tokyo $7.2Bn
+N,04C18352,Scenario 1, Beijing $420Ml
+N,04C18405,Scenario 1, Beijing $7.4Bn
+N,04C18757,Scenario 1, Hong Kong $449Ml
+N,04C18805,Scenario 1, Hong Kong $7.5Bn
+N,04C18B4E,Scenario 1, Singapore $400Ml
+N,04C18C05,Scenario 1, Singapore $7.3Bn
+N,04C18F3A,Scenario 1, Sydney $300Ml
+N,04C19005,Scenario 1, Sydney $7.1Bn
+N,04C1933E,Scenario 1, Delhi $317Ml
+N,04C19405,Scenario 1, Delhi $7.2Bn
+N,04C1972E,Scenario 1, Tehran $239Ml
+N,04C19805,Scenario 1, Tehran $7Bn
+N,04C19B30,Scenario 1, Cairo $249Ml
+N,04C19C05,Scenario 1, Cairo $7,Bn
+N,04C19F27,Scenario 1, Nairobi $200Ml
+N,04C1A005,Scenario 1, Nairobi $7Bn
+N,04C1A32C,Scenario 1, Lagos $229Ml
+N,04C1A405,Scenario 1, Lagos $7Bn
+N,04C1A800,Scenario 1, Moscow $289Ml
+N,04C1A805,Scenario 1, Moscow $6.8Bn
+N,04C1AC00,Scenario 1, London $949Ml
+N,04C1AC05,Scenario 1, London $7.5Bn
+N,04C1B000,Scenario 1, Paris $289Ml
+N,04C1B005,Scenario 1, Paris $6.8Bn
+N,04C1B348,Scenario 1, Rome $371Ml
+N,04C1B405,Scenario 1, Rome $7.3Bn
+N,04C1B800,Scenario 1, New York $189Ml
+N,04C1B805,Scenario 1, New York $6.7Bn
+N,04C1BB32,Scenario 1, Vancouver $259Ml
+N,04C1BC05,Scenario 1, Vancouver $7Bn
+N,04C1C000,Scenario 1, Los Angeles $649Ml
+N,04C1C005,Scenario 1, Los Angeles $7.2Bn
+N,04C1C334,Scenario 1, Honolulu $267Ml
+N,04C1C405,Scenario 1, Honolulu $7.1Bn
+N,04C1C732,Scenario 1, Mexico City $259Ml
+N,04C1C805,Scenario 1, Mexico City $7.1Bn
+N,04C1CB23,Scenario 1, Lima $181Ml
+N,04C1CC05,Scenario 1, Lima $6,9Bn
+N,04C1CF3E,Scenario 1, Rio $317Mn
+N,04C1D005,Scenario 1, Rio  $7.2Bn
+N,04C1D329,Scenario 1, Buenos Aires $210Ml
+N,04C1D405,Scenario 1, Buenos $7Bn
+N,04C1D800,Scenario 2, Tokyo $1Bn
+N,04C1D805,Scenario 2, Tokyo $7.7Bn
+N,04C1DB61,Scenario 2, Beijing $498Ml
+N,04C1DC05,Scenario 2, Beijing $7.5Bn
+N,04C1DF7E,Scenario 2, Hong Kong $650Ml
+N,04C1E005,Scenario 2, Hong Kong $7.8Bn
+N,04C1E36B,Scenario 2, Singapore $552Ml
+N,04C1E405,Scenario 2, Singapore $7.7Bn
+N,04C1E771,Scenario 2, Sydney $581Ml
+N,04C1E805,Scenario 2, Sydney $7.7Bn
+N,04C1EB65,Scenario 2, Delhi $518Ml
+N,04C1EC05,Scenario 2, Delhi $7.6Bn
+N,04C1EF3A,Scenario 2, Tehran $298Ml
+N,04C1F005,Scenario 2, Tehran $7.1Bn
+N,04C1F34C,Scenario 2, Cairo $391Ml
+N,04C1F405,Scenario 2, Cairo $7.3Bn
+N,04C1F730,Scenario 2, Nairobi $249Ml
+N,04C1F805,Scenario 2, Nairobi $7,Bn
+N,04C1FB3A,Scenario 2, Lagos $299Ml
+N,04C1FC05,Scenario 2, Lagos $7.1Bn
+N,04C20000,Scenario 2, Moscow $689Ml
+N,04C20005,Scenario 2, Moscow $7.2Bn
+N,04C20400,Scenario 2, London $38Ml
+N,04C20405,Scenario 2, London $6.6Bn
+N,04C20800,Scenario 2, Paris $909Ml
+N,04C20805,Scenario 2, Paris $7.4Bn
+N,04C20B6F,Scenario 2, Rome $572Ml
+N,04C20C05,Scenario 2, Rome $7.7Bn
+N,04C21000,Scenario 2, New York $829Ml
+N,04C21005,Scenario 2, New York $7.4Bn
+N,04C21352,Scenario 2, Vancouver $420ml
+N,04C21405,Scenario 2, Vancouver $7.4Bn
+N,04C21800,Scenario 2, Los Angeles $1Bn
+N,04C21805,Scenario 2, Los Angeles $7.7Bn
+N,04C21B4A,Scenario 2, Honolulu $381Ml
+N,04C21C05,Scenario 2, Honolulu $7.3Bn
+N,04C21F5B,Scenario 2, Mexico City $467Ml
+N,04C22005,Scenario 2, Mexico City $7.5Bn
+N,04C22332,Scenario 2, Lima $259Ml
+N,04C22405,Scenario 2, Lima $7Bn
+N,04C2277B,Scenario 2, Rio $630Ml
+N,04C22805,Scenario 2, Rio $7.8Bn
+N,04C22B46,Scenario 2, Buenos Aires $361Mn
+N,04C22C05,Scenario 2, Buenos Aires $7.2Bn

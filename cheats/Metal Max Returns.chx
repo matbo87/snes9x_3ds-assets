@@ -1,0 +1,51 @@
+N,7E800A0F,Hero Max HP (1/2)
+N,7E800B27,Hero Max HP (2/2)
+N,7E800C0F,Hero Inf. HP (1/2)
+N,7E800D27,Hero Inf. HP (2/2)
+N,7E810C0F,Andy Inf. HP (1/2)
+N,7E810D27,Andy Inf. HP (2/2)
+N,7E810A0F,Andy Max HP (1/2)
+N,7E810B27,Andy Max HP (2/2)
+N,7E820C0F,Anne Inf. HP (1/2)
+N,7E820D27,Anne Inf. HP (2/2)
+N,7E820A0F,Anne Max HP (1/2)
+N,7E820B27,Anne Max HP (2/2)
+N,7E832840,Mosq. Inf. HP (1/2)
+N,7E83291F,Mosq. Inf. HP (2/2)
+N,7E8399FF,Mosq. Inf. Weight (1/2)
+N,7E839AFF,Mosq. Inf. Weight (2/2)
+N,7E8350FF,Mosq. Main Cannon Ammo
+N,7E8316FF,Mosq. Special Ammo Shell
+N,7E842840,Buggy Inf. HP (1/2)
+N,7E84291F,Buggy Inf. HP (2/2)
+N,7E8499FF,Buggy Inf. Weight (1/2)
+N,7E849AFF,Buggy Inf. Weight (2/2)
+N,7E882840,Abrams Inf. HP (1/2)
+N,7E88291F,Abrams Inf. HP (2/2)
+N,7E8899FF,Abrams Inf. Weight (1/2)
+N,7E889AFF,Abrams Inf. Weight (2/2)
+N,7E8840FF,Abrams Main Cannon
+N,7E8816FF,Abrams Inf. Special Ammo Shell
+N,7E8728FF,Tiger Inf. HP (1/2)
+N,7E8729FF,Tiger Inf. HP (2/2)
+N,7E8799FF,Tiger Inf. Weight (1/2)
+N,7E879AFF,Tiger Inf. Weight (2/2)
+N,7E8758FF,Tiger Main Cannon
+N,7E8716FF,Tiger S-E Ammo
+N,7E892840,Red Wolf Inf. HP (1/2)
+N,7E89291F,Red Wolf Inf. HP (2/2)
+N,7E8999FF,Red Wolf Inf. Weight (1/2)
+N,7E899AFF,Red Wolf Inf. Weight (2/2)
+N,7E8940FF,Red Wolf Main Cannon
+N,7E8950FF,Red Wolf S-E Ammo
+N,7E9102FF,Money (1/4)
+N,7E9103FF,Money (2/4)
+N,7E9104FF,Money (3/4)
+N,7E9105FF,Money (4/4)
+N,7E068520,No Random Encounters
+N,7E8014FF,Lots Of Exp (Hero) (1/2)
+N,7E801501,Lots Of Exp (Hero) (2/2)
+N,7E8114FF,Lots Of Exp (Mechanic) (1/2)
+N,7E811501,Lots Of Exp (Mechanic) (2/2)
+N,7E8214FF,Lots Of Exp (Soldier) (1/2)
+N,7E821501,Lots Of Exp (Soldier) (2/2)

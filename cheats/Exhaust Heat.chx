@@ -1,0 +1,82 @@
+N,BA26-A44F,Start With 0 Money
+N,3C26-AF4F,Start With $5.240 (1/3)
+N,CB26-AF1F,Start With $5.240 (2/3)
+N,D426-AF3F,Start With $5.240 (3/3)
+N,3C26-AF4F,Start With $20.600 (1/3)
+N,CB26-AF1F,Start With $20.600 (2/3)
+N,D626-AF3F,Start With $20.600 (3/3)
+N,3C26-AF4F,Start With $163.960 (1/3)
+N,CB26-AF1F,Start With $163.960 (2/3)
+N,0D26-AF3F,Start With $163.960 (3/3)
+N,3C26-AF4F,Start With $327.800 (1/3)
+N,CB26-AF1F,Start With $327.800 (2/3)
+N,6D26-AF3F,Start With $327.800 (3/3)
+N,3C26-AF4F,Start With $652.920 (1/3)
+N,CB26-AF1F,Start With $652.920 (2/3)
+N,EE26-AF3F,Start With $652.920 (3/3)
+N,C9A8-07DD,No Dmg When Hitting Walls
+N,C922-0FDD,No Dmg When Hitting Other Cars
+N,DDEE-6F21,Normal Tires Are Free
+N,DDEE-6491,Hi-Grip Tires Are Free
+N,DDEE-6F91,Rain Tires Are Free
+N,DDED-A491,2L Nitro Is Free
+N,DDED-A421,3L Nitro Is Free
+N,DDED-A791,4L Nitro Is Free
+N,DDEE-6721,Free Ford V-8 Engine (1/2)
+N,DDED-ADF1,Free Ford V-8 Engine (2/2)
+N,DDED-AD91,Free Ilmoa V-8 Engine (1/2)
+N,DDED-ADB1,Free Ilmoa V-8 Engine (2/2)
+N,DDED-AD21,Free Remart V-10 Engine (1/2)
+N,DDED-AFF1,Free Remart V-10 Engine (2/2)
+N,DDE3-6791,Free Low DF Rear Wing
+N,DDEE-6D91,Free High DF Rear Wing (1/2)
+N,DDEE-6DB1,Free High DF Rear Wing (2/2)
+N,DDE3-6D21,Free Low DF Front Wing 
+N,DDE3-6F21,Free High DF Front Wing (1/2)
+N,DDE3-64F1,Free High DF Front Wing (2/2)
+N,DDE3-6491,Free Special-L Front Wing (1/2)
+N,DDE3-64B1,Free Special-L Front Wing (2/2)
+N,DDE2-6421,Free Small Diffuser
+N,DDE2-6721,Free Large Diffuser
+N,DDE3-6D91,Free Special Diffuser (1/2)
+N,DDE3-6DB1,Free Special Diffuser (2/2)
+N,DDE2-6F21,Free Hard Suspension
+N,DDE2-6491,Free Active Suspension (1/2)
+N,DDE2-64B1,Free Active Suspension (2/2)
+N,DDE2-6D91,Free Carbon Brakes
+N,DDE2-6D21,Free Antilock Brakes (1/2)
+N,DDE2-6FF1,Free Antilock Brakes (2/2)
+N,DDEA-6491,Free 5-Speed Transmission
+N,DDEA-6421,Free 6-Spd Transmission (1/2)
+N,DDEA-67F1,Free 6-Spd Transmission (2/2)
+N,DDEA-6791,Free 7-Spd Transmission (1/2)
+N,DDEA-67B1,Free 7-Spd Transmission (2/2)
+N,DDEA-6D21,Free Type 2 Chassis (1/2)
+N,DDEA-6FF1,Free Type 2 Chassis (2/2)
+N,DDEA-6F91,Free Type 3 Chassis (1/2)
+N,DDEA-6FB1,Free Type 3 Chassis (2/2)
+N,7E13E2FF,Set Money To 655.350 (1/2)
+N,7E13E3FF,Set Money To 655.350 (2/2)
+N,7E05C6FF,Infinite Nitro
+N,7E007600,Take No Damage
+N,7E00AE00,Set Lower Time (Seconds)
+N,7E00AD00,Set Lower Time (Minutes)
+N,7E059B02,Set Chassis Type 3
+N,7E059C03,Set 7-Speed Transmission
+N,7E059D02,Set Antilock Brakes
+N,7E059E02,Set Active Suspension
+N,7E059F03,Set Special Diffuser
+N,7E05A004,Set Special W Front Wing
+N,7E05A102,Set Hi Def Rear Wing
+N,7E05A204,Set Special Tires
+N,7E05A305,Set Honda V12 Engine
+N,7E1468FF,Set Race Points To 255
+N,7E005D90,Auto Race At 350 MPH (1/2)
+N,7E005E01,Auto Race At 350 MPH (2/2)
+N,7E069D00,Freeze CPU Cars (1/7)
+N,7E069F00,Freeze CPU Cars (2/7)
+N,7E06A100,Freeze CPU Cars (3/7)
+N,7E06A300,Freeze CPU Cars (4/7)
+N,7E06A500,Freeze CPU Cars (5/7)
+N,7E069A00,Freeze CPU Cars (6/7)
+N,7E069900,Freeze CPU Cars (7/7)

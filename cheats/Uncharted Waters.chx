@@ -1,0 +1,107 @@
+N,DEEF-D7D5,Start With 4000 Gold
+N,45EF-D7D5,Start With 10,000 Gold
+N,1FEF-D7D5,Start With 25,000 Gold
+N,E2EF-D7D5,Start With 65,000 Gold
+N,7E087364,100% Strength
+N,7E086F64,100% Wisdom
+N,7E087164,100% Charisma
+N,7E087064,100% Intelligence
+N,7E087264,100% Courage
+N,7E087400,Zero Bonus
+N,7EE56D60,Infinite Money (1/2)
+N,7EE56EEA,Infinite Money (2/2)
+N,7EE98264,100% Loyalty Jose
+N,7EE99464,100% Loyalty Conrad
+N,7EE97064,100% Loyalty Fernando
+N,7EE97E64,100% Loyalty Cyran
+N,7EE996F1,100% Loyalty Marco
+N,7EE99064,100% Loyalty Miguel
+N,7EE98C64,100% Loyalty Nicolas
+N,7EE97464,100% Loyalty Christopher
+N,7EE97A64,100% Loyalty Benedetto
+N,66C5-87DD,Able To Go Through Land!
+N,EE11-742B,Get Mio Of Gold (Card Game)
+N,104E-927B,100 Gold (During Game)
+N,EE4E-927B,255 Gold (During Game)
+N,354E-927B,9999 Gold (During Game) (1/2)
+N,D74E-925B,9999 Gold (During Game) (2/2)
+N,EE4E-927B,65535 Gold (During Game) (1/2)
+N,EE4E-925B,65535 Gold (During Game) (2/2)
+N,EE4E-927B,Max Gold (During Game) (1/4)
+N,AB4E-925B,Max Gold (During Game) (2/4)
+N,BC4E-928B,Max Gold (During Game) (3/4)
+N,784E-92EB,Max Gold (During Game) (4/4)
+N,DDEA-F2E8,Always Recruit 0 Men
+N,10EA-F2E8,Always Recruit 100 Men
+N,A6EA-F2E8,Always Recruit 200 Men
+N,36D8-F3EC,1K Water Supply Transfer (1/2)
+N,D7D8-FE7C,1K Water Supply Transfer (2/2)
+N,36D8-FE5C,1K Food Supply Transfer (1/2)
+N,D7D8-FE8C,1K Food Supply Transfer (2/2)
+N,9D6B-2E56,50K Gold In Antwerp Yard (1/2)
+N,A76B-2E86,50K Gold In Antwerp Yard (2/2)
+N,CE49-77EB,Food Shops Don't Charge
+N,CE22-EDFA,Gear Shops Don't Charge
+N,CEB8-84D8,Supply Shops Don't Charge
+N,CE9A-EF17,Fortune Teller Doesn't Charge
+N,E96C-8D19,Start Game W/ Mega Gold
+N,CB53-7DB6,Always 5 Card Win In Blackjack
+N,CB41-7DB0,Main Stats = Max Frienship (1/5)
+N,A641-7D20,Main Stats = Max Frienship (2/5)
+N,A641-7FF0,Main Stats = Max Frienship (3/5)
+N,B441-7F90,Main Stats = Max Frienship (4/5)
+N,DA41-7FB0,Main Stats = Max Frienship (5/5)
+N,267E-5410,Donate 1 Gold = Max Gold
+N,B40C-774F,Max Store Invest = 50K T Fame
+N,A64F-7FAE,Defeat Ship = 50K P Fame (1/2)
+N,C944-7DDE,Defeat Ship = 50K P Fame (2/2)
+N,BF13-74CF,Sell A Discovery = 50K Adv Fame
+N,C955-7471,Infinite Water At Sea
+N,C958-5751,Infinite Food At Sea
+N,3C13-87AE,Freeze Sailing Time
+N,CBD0-7F47,Chg Load Cap = 32K Cgo (1/3)
+N,5ED0-7FC7,Chg Load Cap = 32K Cgo (2/3)
+N,3CD0-7F37,Chg Load Cap = 32K Cgo (3/3)
+N,CBD1-779E,Autosail To Any Port
+N,DBF3-5799,Enable All Skills (1/3)
+N,BFFE-5DF9,Enable All Skills (2/3)
+N,40FE-5D99,Enable All Skills (3/3)
+N,6D92-ED36,Next Port Max All Sailing Lv
+N,D697-7D1B,Max Stats Next Lv-Up (1/3)
+N,CB9B-7F4B,Max Stats Next Lv-Up (2/3)
+N,09B-7F1B,Max Stats Next Lv-Up (3/3)
+N,6D92-ED36,Bypass Lv 100 Next Port (1/2)
+N,EE93-EFC6,Bypass Lv 100 Next Port (2/2)
+N,CBCC-E439,Max Ryl Rnk Aft 1st Msn (1/2)
+N,DBCC-E749,Max Ryl Rnk Aft 1st Msn (2/2)
+N,DD4B-773F,Ships Built Take 0 Days
+N,DD09-7744,New Ships Rdy Immed (1/4)
+N,EE09-7714,New Ships Rdy Immed (2/4)
+N,BF09-77C4,New Ships Rdy Immed (3/4)
+N,DA09-7734,New Ships Rdy Immed (4/4)
+N,CBDD-8DB1,Speedy Ship & 255 Guns (1/3)
+N,EEDD-8FF1,Speedy Ship & 255 Guns (2/3)
+N,BFDD-84F1,Speedy Ship & 255 Guns (3/3)
+N,CB7A-7FCF,Only Goddess Fig In Store (1/3)
+N,DC7A-7F3F,Only Goddess Fig In Store (2/3)
+N,DD7A-744F,Only Goddess Fig In Store (3/3)
+N,D575-871F,Can Buy Carronade Gun (1/3)
+N,6775-873F,Can Buy Carronade Gun (2/3)
+N,F176-8D4F,Can Buy Carronade Gun (3/3)
+N,A757-77F9,Transfer Crew To Get Crew
+N,CBB4-E708,Supply All Option = Max (1/5)
+N,EEB4-E7A8,Supply All Option = Max (2/5)
+N,3CB7-EDD8,Supply All Option = Max (3/5)
+N,84B9-E468,Supply All Option = Max (4/5)
+N,A9B9-E7D8,Supply All Option = Max (5/5)
+N,DD1F-5D4D,Sell Existsing Discovery (1/2) 
+N,CB14-544D,Sell Existsing Discovery (2/2) 
+N,DD17-543D,Sell Discovery Multible Times
+N,CB69-7D93,Storie To Waitress = Discovery
+N,DDFB-5F58,All Trade Items Tax Free
+N,CB97-873B,Visited Ports Belong To Pt
+N,CB65-74E9,Always Ships Around (1/2)
+N,D165-7779,Always Ships Around (2/2)
+N,6DCC-5DC5,Stonehenge As Royal Discovery
+N,7E201B80,No Storms
+N,7E415E00,1 D.a.s., No Scurvy

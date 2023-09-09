@@ -1,0 +1,42 @@
+N,009C6500,Punches & Kicks Do No Damage
+N,009C6503,Punches & Kicks Do More Damage
+N,009C6506,Punches & Kicks Do Massive Dmg
+N,009D4700,Stomps Do No Damage
+N,009D4703,Stomps Do More Damage
+N,009D4706,Stomps Do Massive Damage
+N,009D9900,Headbutts Do No Damage
+N,009D9906,Headbutts Do More Damage
+N,009D9909,Headbutts Do Massive Damage
+N,00A2840C,Both P Start With 1/4 Energy
+N,00A28418,Both P Start With 1/2 Energy
+N,00A28424,Both P Start With 3/4 Energy
+N,05F8F500,Elbow Drops Do No Damage
+N,05F8F505,Elbow Drops Do More Damage
+N,05F8F508,Elbow Drops Do Massive Damage
+N,05F8F700,Flying Elbow Drops Do No Dmg
+N,05F8F707,Flying Elbow Drops Do More Dmg
+N,05F8F70A,Flying Elbow Drops Do Massive Dmg
+N,7E06EC30,Infinite Energy P1
+N,7E06EE30,Infinite Energy P2 Or CPU
+N,7E06EC00,No Energy P1
+N,7E06EE00,No Energy P2 Or CPU
+N,7E052C00,P1 Unpinnable/Inf. Ringout P1&2
+N,7E052E00,P2 Unpinnable/Inf. Ringout P1&2
+N,DAC6-6FDD,Both P Start With 1/4 Energy
+N,F6C6-6FDD,Both P Start With 1/2 Energy
+N,40C6-6FDD,Both P Start With 3/4 Energy
+N,DDB1-DF07,Punches & Kicks Do No Damage
+N,D7B1-DF07,Punches & Kicks Do More Damage
+N,D1B1-DF07,Punches & Kicks Do Massive Dmg
+N,DDB0-0FA7,Stomps Do No Damage
+N,D7B0-0FA7,Stomps Do More Damage
+N,D1B0-0FA7,Stomps Do Massive Damage
+N,DDEE-DF91,Elbow Drops Do No Damage
+N,D9EE-DF91,Elbow Drops Do More Damage
+N,D6EE-DF91,Elbow Drops Do Massive Damage
+N,DDEE-DF21,Flying Elbow Drops Do No Dmg
+N,D5EE-DF21,Flying Elbow Drops Do More Dmg
+N,DCEE-DF21,Flying Elbow Drops Do Massive Dmg
+N,DDBB-0407,Headbutts Do No Damage
+N,D1BB-0407,Headbutts Do More Damage
+N,DBBB-0407,Headbutts Do Massive Damage
