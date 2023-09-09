@@ -1,0 +1,27 @@
+N,DD67-DD00,Start With 1 Life
+N,D067-DD00,Start With 5 Lives
+N,D667-DD00,Start With 9 Lives
+N,DF67-DFA0,Start With One Credit
+N,DB67-DFA0,Start With 9 Credits
+N,DF60-DDA0,Start On Level 2-1 (1/2)
+N,6260-D4D0,Start On Level 2-1 (2/2)
+N,D460-DDA0,Start On Level 3-1 (1/2)
+N,6260-D4D0,Start On Level 3-1 (2/2)
+N,D760-DDA0,Start On Level 4-1 (1/2)
+N,6260-D4D0,Start On Level 4-1 (2/2)
+N,D060-DDA0,Start On Level 5-1 (1/2)
+N,6260-D4D0,Start On Level 5-1 (2/2)
+N,D960-DDA0,Start On Level 6-1 (1/2)
+N,6260-D4D0,Start On Level 6-1 (2/2)
+N,D160-DDA0,Start On Level 7-1 (1/2)
+N,6260-D4D0,Start On Level 7-1 (2/2)
+N,BA69-DFA9,P1 Has Less Lives
+N,6A69-DFA9,P1 Has More Lives
+N,4ACB-DDD9,P1 Has Unlimited Lives
+N,4ACC-D709,P2 Has Unlimited Lives
+N,7E091800,Start With 1 Life
+N,7E091800,Start With 5 Lives
+N,7E091800,Start With 9 Lives
+N,7E091800,Start Game With 9 Credits
+N,7E0E1C00,Infinite Time
+N,7E0E4C09,Infinite Lives

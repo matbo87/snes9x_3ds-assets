@@ -1,0 +1,61 @@
+N,80A809EA,Inf. Ammo
+N,00A809EA,Never Run Out Of Any Ammo
+N,80DA1F64,100 Short-Range Missiles
+N,80DA1FC8,200 Short-Range Missiles
+N,80DA1FFF,Infinite Short-Range Missiles
+N,80DA2164,100 Short-Range Homing Msl
+N,80DA21C8,200 Short-Range Homing Msl
+N,80DA21FF,Inf. Short-Range Homing Msl
+N,80DA2350,80 Medium-Range Missiles
+N,80DA2364,100 Medium-Range Missiles
+N,80DA23FF,Infinite Medium-Range Missiles
+N,80DA2550,80 Medium-Range Homing Msl
+N,80DA2564,100 Medium-Range Homing Msl
+N,80DA25FF,Inf. Medium-Range Homing Msl
+N,80DA2728,40 Long-Range Missiles
+N,80DA2764,100 Long-Range Missiles
+N,80DA27FF,Infinite Long-Range Missiles
+N,80DA2928,40 Long-Range Homing Missiles
+N,80DA2964,100 Long-Range Homing Missiles
+N,80DA29FF,Inf. Long-Range Homing Msl
+N,80DA2BFF,Infinite Machine Gun Ammo
+N,80E1BA00,Money Gives 32 Million C-Bills
+N,80E2FB64,Start W/ 100,000 C-Bills
+N,80E2FBFA,Start W/ 250,000 C-Bills
+N,80E2FC02,Start W/ 562,000 C-Bills
+N,80E2FC04,Start W/ 1,074,000 C-Bills
+N,80E2FC14,Start W/ 5,170,000 C-Bills
+N,80E2FC28,Start W/ 10,290,000 C-Bills
+N,85B0A78D,Protection From Most Hazards
+N,84FF08A9,Mech Isn't Slowed Down (1/2)
+N,84FF0AEA,Mech Isn't Slowed Down (2/2)
+N,103E-C4AD,Start W/ 100,000 C-Bills
+N,EC3E-C4AD,Start W/ 250,000 C-Bills
+N,D43E-C7DD,Start W/ 562,000 C-Bills
+N,D03E-C7DD,Start W/ 1,074,000 C-Bills
+N,F03E-C7DD,Start W/ 5,170,000 C-Bills
+N,463E-C7DD,Start W/ 10,290,000 C-Bills
+N,DD38-146D,Money Gives 32 Million C-Bills
+N,102F-C7A4,100 Short-Range Missiles
+N,1024-CD04,100 Short-Range Homing Msl
+N,9D24-CDA4,80 Medium-Range Missiles
+N,9D24-CF04,80 Medium-Range Homing Msl
+N,4624-CFA4,40 Long-Range Missiles
+N,4624-C404,40 Long-Range Homing Msl
+N,A62F-C7A4,200 Short-Range Missiles
+N,A624-CD04,200 Short-Range Homing Msl
+N,1024-CDA4,100 Medium-Range Missiles
+N,1024-CF04,100 Medium-Range Homing Msl
+N,1024-CFA4,100 Long-Range Missiles
+N,1024-C404,100 Long-Range Homing Msl
+N,EE2F-C7A4,Infinite Short-Range Missiles
+N,EE24-CD04,Inf. Short-Range Homing Msl
+N,EE24-CDA4,Inf. Medium-Range Missiles
+N,EE24-CF04,Inf. Medium-Range Homing Msl
+N,EE24-CFA4,Infinite Long-Range Missiles
+N,EE24-C404,Inf. Long-Range Homing Msl
+N,EE24-C4A4,Infinite Machine Gun Ammo
+N,3CCD-4404,Never Run Out Of Any Ammo
+N,628C-4F20,Protection From Most Hazards
+N,CBED-34F7,Mech Isn't Slowed Down (1/2)
+N,3CED-34B7,Mech Isn't Slowed Down (2/2)

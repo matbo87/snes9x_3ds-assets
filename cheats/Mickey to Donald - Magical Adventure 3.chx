@@ -1,0 +1,34 @@
+N,7E046F03,Infinite Health (P1)
+N,7E056F03,Infinite Health (P2)
+N,7E0454FF,Invincibility (P1)
+N,7E0554FF,Invincibility (P2)
+N,7E048604,Infinite Lives (P1)
+N,7E058604,Infinite Lives (P2)
+N,7E046CFF,Infinite Balloon Time (P1)
+N,7E056CFF,Infinite Balloon Time (P2)
+N,7E048AFF,Set Max Power Bar (P1)
+N,7E058AFF,Set Max Power Bar (P2)
+N,7E04810F,Infinite Oxygen (P1)
+N,7E05810F,Infinite Oxygen (P2)
+N,7E0484FF,Set 254 Coins (P1)
+N,7E0584FF,Set 254 Coins (P2)
+N,7E049BFE,Set 254 Apples (P1)
+N,7E059BFE,Set 254 Apples (P2)
+N,7E0423FF,Switch F/X On To Levitate (P1)
+N,7E0523FF,Switch F/X On To Levitate (P2)
+N,7E0C6F00,1 Hit Kills Most Mid Bosses
+N,7E136F00,1 Hit Kills Most Final Bosses
+N,7E00BC01,Stage Select
+N,C9F6-5709,Infinite Lives (1/2)
+N,C992-E409,Infinite Lives (2/2)
+N,8BE2-54D1,Infinite Coins (P1)
+N,8BEF-8FA1,Infinite Coins (P2)
+N,C9DF-7765,Infinite Health
+N,C9FC-74A1,Infinite Balloon Time
+N,C905-EF61,Infinite Oxygen
+N,C9F4-7F00,Invincibility
+N,69F7-8D60,Jump Twice As High/Far
+N,F6D3-8DD1,Start w/10 Hearts (1/2)
+N,B8D3-8D01,Start w/10 Hearts (2/2)
+N,C9DF-EDD1,Join a Game w/10 Hearts
+N,DFED-8DD7,Debug Enabled

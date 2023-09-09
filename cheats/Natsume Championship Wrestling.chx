@@ -1,0 +1,23 @@
+N,7E180059,Freeze Time Seconds
+N,7E173A01,Referee Counts Always 1
+N,7E173A03,Referee Counts Always 3
+N,7E173A0A,Referee Counts Always 10
+N,7E135AB8,P1 Infinite Health
+N,7E155A00,P2 No Health (1/2)
+N,7E155B00,P2 No Health (2/2)
+N,7E171C00,P2 No Health (Alt.) (1/2)
+N,7E171D00,P2 No Health (Alt.) (2/2)
+N,7E134700,P1 Can't Win Grapples
+N,7E144701,P1's Partner Can't Wins G.
+N,7E154702,P2 Can't Wins Grapples
+N,7E164703,P2's Partner Can't Wins G.
+N,7E136601,Atk Do Massive Dmg To P1
+N,7E146601,Atk Do Mass Dmg To P1's Ptnr
+N,7E156601,Atk Do Massive Dmg to P2
+N,7E166601,Atk Do Mass Dmg To P2's Ptnr
+N,7E145AB8,P1's Partner Infinite Health
+N,7E165AB8,P2's Partner Infinite Health
+N,D7FE-ED09,Rplc Roach W/ Misawa C.-Slct
+N,DCFE-ED69,Rplc Snake W/ Patriot C.-Slct
+N,D8FE-EDA9,Rplc Viper W/ Baba C.-Slct
+N,D3FE-EFD9,Rplc Phantom W/ Kikuchi C.-Slct

@@ -1,0 +1,72 @@
+N,DDC9-DD06,Start W/ 0 Bombs
+N,D5C9-DD06,Start W/ 7 Bombs
+N,FDC9-DD06,Start W/ 10 Bombs
+N,49C9-DD06,Start W/ 25 Bombs
+N,9DC9-DD06,Start W/ 50 Bombs
+N,BBC9-DD06,Start W/ 99 Bombs
+N,DD65-AFAB,Infinite Bombs
+N,DFBE-A4A8,Start W/ 2 Ships
+N,D5BE-A4A8,Start W/ 8 Ships
+N,FDBE-A4A8,Start W/ 11 Ships
+N,49BE-A4A8,Start W/ 26 Ships
+N,9DBE-A4A8,Start W/ 51 Ships
+N,59BE-A4A8,Start W/ 76 Ships
+N,BBBE-A4A8,Start W/ 100 Ships
+N,DD6D-07AC,Infinite Ships
+N,DDCE-D4D6,Each Bomb Capsule Worth 0
+N,D4CE-D4D6,Each Bomb Capsule Worth 2
+N,D0CE-D4D6,Each Bomb Capsule Worth 4
+N,D1CE-D4D6,Each Bomb Capsule Worth 6
+N,828E-AF6B,Pwr Shots Till New Pick-Up
+N,CB6A-0D0D,Start In Area 2 (1/2)
+N,D46A-0D6D,Start In Area 2 (2/2)
+N,CB6A-0D0D,Start In Area 3 (1/2)
+N,D76A-0D6D,Start In Area 3 (2/2)
+N,CB6A-0D0D,Start In Area 4 (1/2)
+N,D06A-0D6D,Start In Area 4 (2/2)
+N,CB6A-0D0D,Start In Area 5 (1/2)
+N,D96A-0D6D,Start In Area 5 (2/2)
+N,CB6A-0D0D,Start In Area 6 (1/2)
+N,D16A-0D6D,Start In Area 6 (2/2)
+N,CB6A-0D0D,Start In Area 7 (1/2)
+N,D56A-0D6D,Start In Area 7 (2/2)
+N,CB6A-0D0D,Start In Area 8 (1/2)
+N,D66A-0D6D,Start In Area 8 (2/2)
+N,CB6A-0D0D,Start In Area 9 (1/2)
+N,DB6A-0D6D,Start In Area 9 (2/2)
+N,CB6A-0D0D,Start In Area 10 (1/2)
+N,DC6A-0D6D,Start In Area 10 (2/2)
+N,CB6A-0D0D,Start In Area 11 (1/2)
+N,D86A-0D6D,Start In Area 11 (2/2)
+N,CB6A-0D0D,Start In Area 12 (1/2)
+N,DA6A-0D6D,Start In Area 12 (2/2)
+N,C2CD-6DD1,Hit Anywhere (1/5)
+N,1DCD-6D01,Hit Anywhere (2/5)
+N,D2CD-6D61,Hit Anywhere (3/5)
+N,2DCD-6DA1,Hit Anywhere (4/5)
+N,4ACD-6FD1,Hit Anywhere (5/5)
+N,CB68-D4AC,Wpn Lv 2 When Hit (1/2)
+N,D168-D7DC,Wpn Lv 2 When Hit (2/2)
+N,CB68-D4AC,Wpn Lv 6 When Hit (1/3)
+N,D168-D7DC,Wpn Lv 6 When Hit (2/3)
+N,D16A-D4DC,Wpn Lv 6 When Hit (3/3)
+N,CBC4-0F06,Wpn Capsules Give Type 1 (1/2)
+N,DDC4-0F66,Wpn Capsules Give Type 1 (2/2)
+N,CBC4-0F06,Wpn Capsules Give Type 2 (1/2)
+N,DFC4-0F66,Wpn Capsules Give Type 2 (2/2)
+N,CBC4-0F06,Wpn Capsules Give Type 3 (1/2)
+N,D4C4-0F66,Wpn Capsules Give Type 3 (2/2)
+N,CBC4-0F06,Wpn Capsules Give Type 4 (1/2)
+N,D7C4-0F66,Wpn Capsules Give Type 4 (2/2)
+N,CBC4-0F06,Wpn Capsules Give Type 5 (1/2)
+N,D0C4-0F66,Wpn Capsules Give Type 5 (2/2)
+N,CBC4-0F06,Wpn Capsules Give Type 6 (1/2)
+N,D9C4-0F66,Wpn Capsules Give Type 6 (2/2)
+N,2D68-D766,Invincibility
+N,C26C-DF6F,Infinite Special Lives
+N,EEEE-ADD7,Enable Debug Mode
+N,7E0BE020,Invincibility
+N,7E015799,Infinite Lives
+N,7E015399,Infinite Special Lives
+N,7E015299,Infinite Bombs
+N,7E006F06,Max Weapon Level

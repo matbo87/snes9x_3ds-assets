@@ -1,0 +1,88 @@
+N,F0A2-A4DD,Play Clock Is 20 Sec
+N,F3A2-A4DD,Play Clock Is 30 Sec
+N,7AA2-A4DD,Play Clock Is 60 Sec
+N,9CA2-A4DD,Play Clock Is 90 Sec
+N,D4A3-6D04,3 Plays To Get A 1st Down/TD
+N,D7A3-6D04,2 Plays To Get A 1st Down/TD
+N,D0A3-6D04,1 Plays To Get A 1st Down/TD
+N,C2AB-64A4,Inf. Plays To Get A 1st Down
+N,3C24-A70D,Infinite Time-Outs
+N,DD69-A407,No Time-Outs (P1)
+N,D169-A407,6 Time-Outs (P1)
+N,DB69-A407,9 Time-Outs (P1)
+N,DD69-A467,No Time-Outs (P2)
+N,D169-A467,6 Time-Outs (P2)
+N,DB69-A467,9 Time-Outs (P2)
+N,82A6-AF64,Safeties Worth 1 Point
+N,82A6-AF64,Safeties Worth 0 (1/2)
+N,82A6-A404,Safeties Worth 0 (2/2)
+N,DDA4-0767,Touchdowns Worth 0 Points
+N,DFA4-0767,Touchdowns Worth 1 Point
+N,D4A4-0767,Touchdowns Worth 2 Points
+N,D7A4-0767,Touchdowns Worth 3 Points
+N,D0A4-0767,Touchdowns Worth 4 Points
+N,D9A4-0767,Touchdowns Worth 5 Points
+N,D5A4-0767,Touchdowns Worth 7 Points
+N,D6A4-0767,Touchdowns Worth 8 Points
+N,DBA4-0767,Touchdowns Worth 9 Points
+N,3CA7-A707,Field Goals Worth 0 (1/2)
+N,3CA7-A767,Field Goals Worth 0 (2/2)
+N,B3A7-A7A7,Field Goal Resets Score To 0
+N,CB6C-6D07,P2 Starts W/ 3 Points (1/5)
+N,626C-6FD7,P2 Starts W/ 3 Points (2/5)
+N,486C-6F07,P2 Starts W/ 3 Points (3/5)
+N,ED6C-6467,P2 Starts W/ 3 Points (4/5)
+N,D76C-6D67,P2 Starts W/ 3 Points (5/5)
+N,CB6C-6D07,P2 Starts W/ 5 Points (1/4)
+N,626C-6FD7,P2 Starts W/ 5 Points (2/4)
+N,486C-6F07,P2 Starts W/ 5 Points (3/4)
+N,ED6C-6467,P2 Starts W/ 5 Points (4/4)
+N,CB6C-6D07,P2 Starts W/ 9 Points (1/5)
+N,626C-6FD7,P2 Starts W/ 9 Points (2/5)
+N,486C-6F07,P2 Starts W/ 9 Points (3/5)
+N,ED6C-6467,P2 Starts W/ 9 Points (4/5)
+N,DB6C-6D67,P2 Starts W/ 9 Points (5/5)
+N,CB6C-6D07,P2 Starts W/ 12 Points (1/5)
+N,626C-6FD7,P2 Starts W/ 12 Points (2/5)
+N,486C-6F07,P2 Starts W/ 12 Points (3/5)
+N,ED6C-6467,P2 Starts W/ 12 Points (4/5)
+N,DA6C-6D67,P2 Starts W/ 12 Points (5/5)
+N,CB6C-6D07,P2 Starts W/ 15 Points (1/5)
+N,626C-6FD7,P2 Starts W/ 15 Points (2/5)
+N,486C-6F07,P2 Starts W/ 15 Points (3/5)
+N,ED6C-6467,P2 Starts W/ 15 Points (4/5)
+N,DE6C-6D67,P2 Starts W/ 15 Points (5/5)
+N,CB6C-6D07,P2 Starts W/ 20 Points (1/5)
+N,626C-6FD7,P2 Starts W/ 20 Points (2/5)
+N,486C-6F07,P2 Starts W/ 20 Points (3/5)
+N,ED6C-6467,P2 Starts W/ 20 Points (4/5)
+N,F06C-6D67,P2 Starts W/ 20 Points (5/5)
+N,CB6C-6D07,P1 Starts W/ 3 Points (1/5)
+N,626C-6FD7,P1 Starts W/ 3 Points (2/5)
+N,416C-6F07,P1 Starts W/ 3 Points (3/5)
+N,ED6C-6467,P1 Starts W/ 3 Points (4/5)
+N,D76C-6D67,P1 Starts W/ 3 Points (5/5)
+N,CB6C-6D07,P1 Starts W/ 5 Points (1/4)
+N,626C-6FD7,P1 Starts W/ 5 Points (2/4)
+N,416C-6F07,P1 Starts W/ 5 Points (3/4)
+N,ED6C-6467,P1 Starts W/ 5 Points (4/4)
+N,CB6C-6D07,P1 Starts W/ 9 Points (1/5)
+N,626C-6FD7,P1 Starts W/ 9 Points (2/5)
+N,416C-6F07,P1 Starts W/ 9 Points (3/5)
+N,ED6C-6467,P1 Starts W/ 9 Points (4/5)
+N,DB6C-6D67,P1 Starts W/ 9 Points (5/5)
+N,CB6C-6D07,P1 Starts W/ 12 Points (1/5)
+N,626C-6FD7,P1 Starts W/ 12 Points (2/5)
+N,416C-6F07,P1 Starts W/ 12 Points (3/5)
+N,ED6C-6467,P1 Starts W/ 12 Points (4/5)
+N,DA6C-6D67,P1 Starts W/ 12 Points (5/5)
+N,CB6C-6D07,P1 Starts W/ 15 Points (1/5)
+N,626C-6FD7,P1 Starts W/ 15 Points (2/5)
+N,416C-6F07,P1 Starts W/ 15 Points (3/5)
+N,ED6C-6467,P1 Starts W/ 15 Points (4/5)
+N,DE6C-6D67,P1 Starts W/ 15 Points (5/5)
+N,CB6C-6D07,P1 Starts W/ 20 Points (1/5)
+N,626C-6FD7,P1 Starts W/ 20 Points (2/5)
+N,416C-6F07,P1 Starts W/ 20 Points (3/5)
+N,ED6C-6467,P1 Starts W/ 20 Points (4/5)
+N,F06C-6D67,P1 Starts W/ 20 Points (5/5)

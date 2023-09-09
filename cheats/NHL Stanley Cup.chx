@@ -1,0 +1,64 @@
+N,DF67-CDA4,Vis. Srt W/ 1 Pt (Exhib) (1/3)
+N,D667-CFA4,Vis. Srt W/ 1 Pt (Exhib) (2/3)
+N,E667-CF64,Vis. Srt W/ 1 Pt (Exhib) (3/3)
+N,DF67-CDA4,Home Srt W/ 1 Pt (Exhib) (1/3)
+N,D667-CFA4,Home Srt W/ 1 Pt (Exhib) (2/3)
+N,EC67-CF64,Home Srt W/ 1 Pt (Exhib) (3/3)
+N,D767-CDA4,Vis. Srt W/ 3 Pt (Exhib) (1/3)
+N,D667-CFA4,Vis. Srt W/ 3 Pt (Exhib) (2/3)
+N,E667-CF64,Vis. Srt W/ 3 Pt (Exhib) (3/3)
+N,D767-CDA4,Home Srt W/ 3 Pt (Exhib) (1/3)
+N,D667-CFA4,Home Srt W/ 3 Pt (Exhib) (2/3)
+N,EC67-CF64,Home Srt W/ 3 Pt (Exhib) (3/3)
+N,D967-CDA4,Vis. Srt W/ 5 Pt (Exhib) (1/3)
+N,D667-CFA4,Vis. Srt W/ 5 Pt (Exhib) (2/3)
+N,E667-CF64,Vis. Srt W/ 5 Pt (Exhib) (3/3)
+N,D967-CDA4,Home Srt W/ 5 Pt (Exhib) (1/3)
+N,D667-CFA4,Home Srt W/ 5 Pt (Exhib) (2/3)
+N,EC67-CF64,Home Srt W/ 5 Pt (Exhib) (3/3)
+N,D567-CDA4,Vis. Srt W/ 7 Pt (Exhib) (1/3)
+N,D667-CFA4,Vis. Srt W/ 7 Pt (Exhib) (2/3)
+N,E667-CF64,Vis. Srt W/ 7 Pt (Exhib) (3/3)
+N,D567-CDA4,Home Srt W/ 7 Pt (Exhib) (1/3)
+N,D667-CFA4,Home Srt W/ 7 Pt (Exhib) (2/3)
+N,EC67-CF64,Home Srt W/ 7 Pt (Exhib) (3/3)
+N,DB67-CDA4,Vis. Srt W/ 9 Pt (Exhib) (1/3)
+N,D667-CFA4,Vis. Srt W/ 9 Pt (Exhib) (2/3)
+N,E667-CF64,Vis. Srt W/ 9 Pt (Exhib) (3/3)
+N,DB67-CDA4,Home Srt W/ 9 Pt (Exhib) (1/3)
+N,D667-CFA4,Home Srt W/ 9 Pt (Exhib) (2/3)
+N,EC67-CF64,Home Srt W/ 9 Pt (Exhib) (3/3)
+N,1BA1-4D01,Visitor Goals =1 Pt , Home = 3
+N,DFE0-CD0F,1 Min Periods (5 Min In Opts)
+N,D7E0-CD0F,3 Min Periods (5 Min In Opts)
+N,D5E0-CD0F,7 Min Periods (5 Min In Opts)
+N,DBE0-CD0F,9 Min Periods (5 Min In Opts)
+N,94ED-C46F,15 Min Periods (10 Min In Opt)
+N,D7E0-C76F,30 Min Periods (10 Min In Opt)
+N,7A2B-3F00,Charging Penalty Is 1 Min
+N,7A2B-3760,Holding Penalty Is 1 Min
+N,7A2C-3FA0,Tripping Penalty Is 1 Min
+N,7A28-3DD0,High Sticking Penalty Is 1 Min
+N,7A28-3400,Elbowing Penalty Is 1 Min
+N,7A2A-3D60,Hooking Penalty Is 1 Min
+N,7A2A-34A0,Roughting Penalty Is 1 Min
+N,7A22-3FD0,Slashing Penalty Is 1 Min
+N,7A22-3700,Spearing Penalty Is 1 Min
+N,F32B-3F00,Charging Penalty Is 30 Sec
+N,F32B-3760,Holding Penalty Is 30 Sec
+N,F32C-3FA0,Tripping Penalty Is 30 Sec
+N,F328-3DD0,H. Sticking Penalty Is 30 Sec
+N,F328-3400,Elbowing Penalty Is 30 Sec
+N,F32A-3D60,Hooking Penalty Is 30 Sec
+N,F32A-34A0,Roughting Penalty Is 30 Sec
+N,F322-3FD0,Slashing Penalty Is 30 Sec
+N,F322-3700,Spearing Penalty Is 30 Sec
+N,802B-3F00,Charging Penalty Is 3 Min
+N,802B-3760,Holding Penalty Is 3 Min
+N,802C-3FA0,Tripping Penalty Is 3 Min
+N,8028-3DD0,High Sticking Penalty Is 3 Min
+N,8028-3400,Elbowing Penalty Is 3 Min
+N,802A-3D60,Hooking Penalty Is 3 Min
+N,802A-34A0,Roughting Penalty Is 3 Min
+N,8022-3FD0,Slashing Penalty Is 3 Min
+N,8022-3700,Spearing Penalty Is 3 Min
