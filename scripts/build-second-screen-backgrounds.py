@@ -1,5 +1,6 @@
 import argparse
 import os
+import re
 import shutil
 import subprocess
 import sys
@@ -59,16 +60,17 @@ def collect_images(input_root):
     )
 
 
-def trim_title(name):
-    cut = min((name.index(ch) for ch in ("(", "[") if ch in name), default=len(name))
-    return name[:cut].strip()
-
-
 def build_output_filename(source_path):
-    trimmed = trim_title(source_path.stem)
-    if not trimmed:
-        trimmed = source_path.stem
-    return f"{trimmed}.png"
+    clean_name = source_path.stem.strip()
+    # Remove trailing metadata groups like " (USA)" / " [!]" while keeping base title intact.
+    while True:
+        updated = re.sub(r"\s*[\(\[][^\)\]]*[\)\]]\s*$", "", clean_name).strip()
+        if updated == clean_name:
+            break
+        clean_name = updated
+    if not clean_name:
+        clean_name = source_path.stem.strip()
+    return f"{clean_name}.png"
 
 
 def validate_flat_name_collisions(files):
@@ -145,7 +147,7 @@ def apply_dither(source_path, target_path, mode):
     return run_magick(cmd) is not None
 
 
-def compress_png(filepath):
+def compress_png(filepath, image_name):
     if not shutil.which("pngquant"):
         print("  [Error] pngquant not found. Compression is required for second-screen backgrounds.")
         return "failed"
@@ -170,7 +172,7 @@ def compress_png(filepath):
         )
         return "tier1"
     except subprocess.CalledProcessError:
-        print("  [Info] High quality pngquant failed, retrying with quality 50-79...")
+        print(f"  [Info] High quality pngquant failed for {image_name}, retrying with quality 50-79...")
         try:
             subprocess.run(
                 [
@@ -191,7 +193,7 @@ def compress_png(filepath):
             )
             return "tier2"
         except subprocess.CalledProcessError:
-            print("  [Info] Mid quality pngquant failed, retrying with quality 40-79...")
+            print(f"  [Info] Mid quality pngquant failed for {image_name}, retrying with quality 40-79...")
             try:
                 subprocess.run(
                     [
@@ -221,8 +223,6 @@ def main():
     input_root = Path(os.path.normpath(args.input))
     output_dir = Path("dist") / "backgrounds" / "second_screen"
     failed_dir = output_dir / "_pngquant_failed"
-    tier2_report_path = output_dir / "_pngquant_tier2.txt"
-    tier3_report_path = output_dir / "_pngquant_tier3.txt"
 
     if not input_root.exists():
         print(f"[Error] Input folder not found: {input_root}")
@@ -244,19 +244,19 @@ def main():
 
     output_dir.mkdir(parents=True, exist_ok=True)
     failed_dir.mkdir(parents=True, exist_ok=True)
-    print(f"Processing '{input_root.name}' ({len(files)} images) for second_screen...")
     print(f"Output folder: {output_dir}")
     print(f"Compression failures folder: {failed_dir}")
     print(
         f"Crop: {COVER_CROP_W}x{COVER_CROP_H}+{COVER_CROP_X}+{COVER_CROP_Y} | "
         f"Resize: {COVER_W}x{COVER_H}"
     )
+    print(f"Starting processing for '{input_root.name}' ({len(files)} images) for second_screen...")
 
     processed = 0
     failed = 0
-    tier2_files = []
-    tier3_files = []
-    for source_path in files:
+    total = len(files)
+    for index, source_path in enumerate(files, start=1):
+        print(f"[{index}/{total}] {source_path.name}")
         destination_path = output_dir / build_output_filename(source_path)
         with tempfile.NamedTemporaryFile(prefix="bg_", suffix=".png", delete=False) as tmp_file:
             tmp_path = Path(tmp_file.name)
@@ -279,7 +279,7 @@ def main():
                 print(f"  [Skip] Dither failed: {source_path.name}")
                 continue
 
-            compression_result = compress_png(destination_path)
+            compression_result = compress_png(destination_path, source_path.name)
             if compression_result == "failed":
                 failed += 1
                 failed_resized_path = failed_dir / f"{destination_path.stem}.resized.png"
@@ -291,27 +291,17 @@ def main():
                     f"moved resized image to {failed_resized_path}"
                 )
                 continue
-            if compression_result == "tier2":
-                tier2_files.append(destination_path.name)
-            if compression_result == "tier3":
-                tier3_files.append(destination_path.name)
-
             processed += 1
         finally:
             if tmp_path.exists():
                 tmp_path.unlink()
 
     print(f"[Done] Compressed {processed} second-screen background(s) to {output_dir}")
-    with open(tier2_report_path, "w", encoding="utf-8") as report_file:
-        for name in sorted(tier2_files):
-            report_file.write(f"{name}\n")
-    print(f"[Done] Wrote tier-2 compression report: {tier2_report_path} ({len(tier2_files)} file(s))")
-    with open(tier3_report_path, "w", encoding="utf-8") as report_file:
-        for name in sorted(tier3_files):
-            report_file.write(f"{name}\n")
-    print(f"[Done] Wrote tier-3 compression report: {tier3_report_path} ({len(tier3_files)} file(s))")
     if failed:
         print(f"[Done] Moved {failed} compression-failed cover(s) to {failed_dir}")
+    elif not any(failed_dir.iterdir()):
+        failed_dir.rmdir()
+        print(f"[Done] Removed empty failures folder: {failed_dir}")
 
 
 if __name__ == "__main__":
