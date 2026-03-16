@@ -1,0 +1,24 @@
+N,FDBB-DDD9,Shot Timer Starts At 10 Sec
+N,4DBB-DDD9,Shot Timer Starts At 20 Sec
+N,7DBB-DDD9,Shot Timer Starts At 30 Sec
+N,1DBB-DDD9,Shot Timer Starts At 60 Sec
+N,BDBB-DDD9,Shot Timer Starts At 90 Sec
+N,C2B5-DDA9,Infinite Time To Shoot
+N,C224-6FDF,Infinite Timeouts (P1)
+N,C224-676F,Infinite Timeouts (P2)
+N,DD34-A767,3-Point Shots Worth 0
+N,DF34-A767,3-Point Shots Worth 1 Point
+N,D434-A767,3-Point Shots Worth 2 Points
+N,D034-A767,3-Point Shots Worth 4 Points
+N,D934-A767,3-Point Shots Worth 5 Points
+N,D134-A767,3-Point Shots Worth 6 Points
+N,D534-A767,3-Point Shots Worth 7 Points
+N,D634-A767,3-Point Shots Worth 8 Points
+N,DB34-A767,3-Point Shots Worth 9 Points
+N,76BA-A404,P1 Shots Worth +1 Point (1/2)
+N,76B9-6FA7,P1 Shots Worth +1 Point (2/2)
+N,76B0-64A7,P2 Shots Worth +1 Point (1/2)
+N,76B8-A704,P2 Shots Worth +1 Point (2/2)
+N,76BD-0D07,P1 Free Throws Worth 2
+N,76BE-DF07,P2 Free Throws Worth 2
+N,C265-D4D7,No 5-Second Violations

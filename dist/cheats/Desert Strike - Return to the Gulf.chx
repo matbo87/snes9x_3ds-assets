@@ -1,0 +1,143 @@
+N,223B-07D9,Infinite Ammo
+N,DFB1-0F6C,Start W/ 1 Life
+N,D9B1-0F6C,Start W/ 5 Life
+N,D5B1-0F6C,Start W/ 7 Life
+N,DCB1-0F6C,Start W/ 10 Life
+N,F0B1-0F6C,Start W/ 20 Life
+N,74B1-0F6C,Start W/ 50 Life
+N,17B1-0F6C,Start W/ 99 Life
+N,4A68-04A1,Infinite Lives
+N,FBB1-07DC,Fuel Starts At 25
+N,74B1-07DC,Fuel Starts At 50
+N,08B1-07DC,Fuel Starts At 75
+N,B1B1-07DC,Fuel Starts At 150
+N,A6B1-07DC,Fuel Starts At 200
+N,D7B1-070C,Fuel Starts At 868
+N,DD63-A409,Infinite Fuel
+N,D063-A409,2X Fuel Consumption
+N,DFBC-64A9,Armor Starts At 344 (1/2)
+N,DF64-64D1,Armor Starts At 344 (2/2)
+N,D7BC-64A9,Armor Starts At 856 (1/2)
+N,D764-64D1,Armor Starts At 856 (2/2)
+N,D0BC-64A9,Armor Starts At 1,112 (1/2)
+N,D064-64D1,Armor Starts At 1,112 (2/2)
+N,D6BC-64A9,Armor Starts At 2,136 (1/2)
+N,D664-64D1,Armor Starts At 2,136 (2/2)
+N,F0BC-64A9,Armor Starts At 5,208 (1/2)
+N,F064-64D1,Armor Starts At 5,208 (2/2)
+N,DF3C-676F,Faster Gun Auto-Repeat Speed
+N,F63C-676F,Slower Gun Auto-Repeat Speed
+N,D032-6D6F,Missiles Fly Faster
+N,D03E-6DDF,Hydras Fly Faster
+N,1038-6D6F,Guns Do Missiles Dmg
+N,1032-6DDF,Hydras Do Missiles Dmg
+N,EC33-676F,Missiles Do 250 Points Of Dmg
+N,DF39-DF64,AK47's Do 1 Point Of Dmg
+N,D439-DF64,AK47's Do 1/2X Dmg
+N,DC39-DF64,AK47's Do 2X Dmg
+N,DF3E-A7DF,APHIDs Do 1 Point Of Dmg
+N,493E-A7DF,APHIDs Do 1/2X Dmg
+N,B13E-A7DF,APHIDs Do 2X Dmg
+N,DF3D-A7DF,AAA's Do 1 Point Of Dmg
+N,DC3D-A7DF,AAA's Do 1/2X Dmg
+N,463D-A7DF,AAA's Do 2X Dmg
+N,DF3C-AD6F,Rapiers Do 1 Point Of Dmg
+N,743C-AD6F,Rapiers Do 1/2X Dmg
+N,A63C-AD6F,Rapiers Do 2X Dmg
+N,DF34-A46F,VDA's Do 1 Point Of Dmg
+N,DA34-A46F,VDA's Do 1/2X Dmg
+N,7434-A46F,VDA's Do 2X Dmg
+N,DF31-AF6F,ZSU's Do 1 Point Of Dmg
+N,F031-AF6F,ZSU's Do 1/2X Dmg
+N,9D31-AF6F,ZSU's Do 2X Dmg
+N,DF3F-D464,Speedboats Do 1 Point Of Dmg
+N,FB3F-D464,Speedboats Do 1/2X Dmg
+N,103F-D464,Speedboats Do 2X Dmg
+N,DF37-D4D4,Choppers Do 1 Point Of Dmg
+N,7437-D4D4,Choppers Do 1/2X Dmg
+N,A637-D4D4,Choppers Do 2X Dmg
+N,DF32-A76F,M48's Do 1 Point Of Dmg
+N,7432-A76F,M48's Do 1/2X Dmg
+N,A632-A76F,M48's Do 2X Dmg
+N,DF3A-ADDF,Crotales Do 1 Point Of Dmg
+N,743A-ADDF,Crotales Do 1/2X Dmg
+N,A63A-ADDF,Crotales Do 2X Dmg
+N,DF29-0FDD,AK47's Have 1 Armor Point
+N,D929-0FDD,AK47's Have 1/2X Armor Points
+N,F029-0FDD,AK47's Have 2X Armor Points
+N,DFA7-D76D,APHIDs Have 1 Armor Points
+N,DAA7-D76D,APHIDs Have 1/2X Armor Points
+N,74A7-D76D,APHIDs Have 2X Armor Points
+N,DF83-ADD7,AAA's Have 1 Armor Points
+N,FB83-ADD7,AAA's Have 1/2X Armor Points
+N,1083-ADD7,AAA's Have 2X Armor Points
+N,DFAE-6F6D,Rapiers Have 1 Armor Points
+N,49AE-6F6D,Rapiers Have 1/2X Armor Points
+N,B1AE-6F6D,Rapiers Have 2X Armor Points
+N,DFA9-AFDD,VDA's Have 1 Armor Points
+N,74A9-AFDD,VDA's Have 1/2X Armor Points
+N,A6A9-AFDD,VDA's Have 2X Armor Points
+N,DFAD-DFDF,ZSU's Have 1 Armor Points
+N,08AD-DFDF,ZSU's Have 1/2X Armor Points
+N,EEAD-DFDF,ZSU's Have 2X Armor Points
+N,DFAB-DDDD,Speedboats Have 1 Armor Points
+N,08AB-DDDD,Speedboats Have 1/2X Ar Points
+N,EEAB-DDDD,Speedboats Have 2X Ar Points
+N,DFA7-0DDD,Choppers Have 1 Armor Points
+N,08A7-0DDD,Choppers Have 1/2X Ar Points
+N,EEA7-0DDD,Choppers Have 2X Armor Points
+N,DFA0-646D,M48's Have 1 Armor Points
+N,10A0-646D,M48's Have 1/2X Armor Points
+N,DFA0-64AD,M48's Have 2X Armor Points
+N,DFA3-07DD,Crotales Have 1 Armor Points
+N,52A3-07DD,Crotales Have 1/2X Ar Points
+N,DFA3-070D,Crotales Have 2X Armor Points
+N,DD39-D4D4,AK47 Bullets Fly Slower
+N,DD3E-A76F,APHID Bullets Fly Slower
+N,DD3D-A76F,AAA Bullets Fly Slower
+N,DD3C-AFDF,Rapier Bullets Fly Slower
+N,DD34-A7DF,VDA Bullets Fly Slower
+N,DD31-A4DF,ZSU Bullets Fly Slower
+N,DD3F-D7D4,Speedboat Bullets Fly Slower
+N,DD37-D464,Chopper Bullets Fly Slower
+N,DD33-ADDF,M48 Bullets Fly Slower
+N,DD38-6D0F,Guns Start At 154 Rounds
+N,D438-6D0F,Guns Start At 666 Rounds
+N,DB38-6D0F,Guns Start At 2,458 Rounds
+N,F738-6D0F,Guns Start At 5,018 Rounds
+N,4138-6D0F,Guns Start At 9,882 Rounds
+N,DC3A-676F,Start With 10 Hydras
+N,743A-676F,Start With 50 Hydras
+N,103A-676F,Start With 100 Hydras
+N,EC3A-676F,Start With 250 Hydras
+N,DF33-67DF,Start With 1 Missile
+N,F033-67DF,Start With 20 Missiles
+N,7433-67DF,Start With 50 Missiles
+N,1033-67DF,Start With 100 Missiles
+N,EC33-67DF,Start With 250 Missiles
+N,7E20980F,Infinite Fuel (1/2)
+N,7E209927,Infinite Fuel (2/2)
+N,7E209E63,Infinite Lives
+N,7E209C00,Infinite Load (1/2)
+N,7E209D00,Infinite Load (2/2)
+N,7E5D000F,Campaigns 1 & 4 Inf. Ar (1/2)
+N,7E5D0127,Campaigns 1 & 4 Inf. Ar (2/2)
+N,7EB0C60F,Camp. 1 & 4 Inf. Guns (1/2)
+N,7EB0C727,Camp. 1 & 4 Inf. Guns (2/2)
+N,7EB0EAFF,Campaigns 1 & 4 Inf. Hydras
+N,7EB10E63,Campaigns 1 & 4 Inf. Missiles
+N,7E5DA20F,Campaign 2 Inf. Armor (1/2)
+N,7E5DA327,Campaign 2 Inf. Armor (2/2)
+N,7E5E440F,Campaign 3 Inf. Armor (1/2)
+N,7E5E4527,Campaign 3 Inf. Armor (2/2)
+N,7EB0EA0F,Camp. 2 & 3 Inf. Guns (1/2)
+N,7EB0EB27,Camp. 2 & 3 Inf. Guns (2/2)
+N,7EB10EFF,Campaigns 2 & 3 Inf. Hydras
+N,7EB13263,Campaigns 2 & 3 Inf. Missiles
+N,7E20F400,Copilot Select
+N,7E1A5C00,Campaign Select
+N,C262-A7A9,Inf. Armor & Fuel (1/4)
+N,6263-ADD9,Inf. Armor & Fuel (2/4)
+N,9663-AD09,Inf. Armor & Fuel (3/4)
+N,B26F-DDA1,Inf. Armor & Fuel (4/4)
+N,DDA1-DDD6,Choose Jake For Campaign 1 & 2

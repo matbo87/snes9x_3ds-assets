@@ -1,0 +1,14 @@
+N,7F004063,P1 Infinite HP
+N,7F009063,P2 Infinite HP
+N,7F00E063,P3 Infinite HP
+N,7F013063,P4 Infinite HP
+N,7F014D00,E1 Gone
+N,7F019D00,E2 Gone
+N,7F01ED00,E3 Gone
+N,7F023D00,E4 Gone
+N,DD2A-7407,Can Access All Characters
+N,7F018000,Enemy HP 0
+N,7F0040FF,Infinite HP For All (1/4)
+N,7F0090FF,Infinite HP For All (2/4)
+N,7F00E0FF,Infinite HP For All (3/4)
+N,7F0130FF,Infinite HP For All (4/4)

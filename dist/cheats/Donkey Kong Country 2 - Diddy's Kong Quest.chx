@@ -1,0 +1,100 @@
+N,00FFFCF8,Master Code (1/3)
+N,BBBE0B80,Master Code (2/3)
+N,BEC51780,Master Code (3/3)
+N,7E08BE63,Infinite Lives
+N,7E096D63,Infinite Bananas
+N,7E8015FF,Background Speed Mod (1/7)
+N,7E8016FF,Background Speed Mod (2/7)
+N,7E00d5FF,Background Speed Mod (3/7)
+N,7E002AFF,Background Speed Mod (4/7)
+N,7E002CFF,Background Speed Mod (5/7)
+N,7E8019FF,Background Speed Mod (6/7)
+N,7E8013FF,Background Speed Mod (7/7)
+N,7E0E7063,Enemies Can't Hit Dixie
+N,808F7202,Start With 3 Lives
+N,808F7209,Start With 10 Lives
+N,808F7218,Start With 25 Lives
+N,808F7231,Start With 50 Lives
+N,808F7263,Start With 99 Lives
+N,B8A1D1FF,Other Char. Returns On Death
+N,7E08C342,Other Char. Returns On Death
+N,BEC66DAD,Infinite Lives (Alt.)
+N,BEC86805,100 Bananas Gives 5 Lives
+N,7E0E1B01,Hyper Diddy Kong
+N,7E0E1000,Infinite Jumps Diddy Kong
+N,7E0E7901,Hyper Dixie Kong
+N,7E0E6E00,Infinite Jumps Dixie Kong
+N,7E0E7601,Infinite Spins Dixie Kong
+N,7E0E0001,Jump 'n Glide Diddy Kong
+N,7E0E5E01,Jump 'n Glide Dixie Kong
+N,7E16BA0A,Moon Jump (Diddy Kong)
+N,7E16E00A,Moon Jump (Dixie Kong)
+N,7E096F01,HUD Always On (1/2)
+N,7E097302,HUD Always On (2/2)
+N,7E16C600,Invincible Diddy Kong (1/2)
+N,7E16C857,Invincible Diddy Kong (2/2)
+N,7E16EC00,Invincible Dixie Kong (1/2)
+N,7E16EE57,Invincible Dixie Kong (2/2)
+N,7E16C647,Invincible Diddy (Alt.) (1/2)
+N,7E16C857,Invincible Diddy (Alt.) (2/2)
+N,7E16EC47,Invincible Dixie (Alt.) (1/2)
+N,7E16EE57,Invincible Dixie (Alt.) (2/2)
+N,7E08CA63,99 Banana Koins
+N,7E08CC63,99 Krem Koins
+N,7E08CE63,99 DK Koins
+N,7E0EE40A,Infinite Time (Token! Game)
+N,7E0EED01,Lava Sword Boss No Fireball
+N,7E105800,Lava Sword Boss Can't Attack
+N,7E091F00,Disable Screen Shake By Kudgel
+N,7E0D5C00,Rickety Race Enemies Defeated
+N,7E059D??,Stage Room Mod (On Entry)
+N,7E059F??,Stage Room Mod (On Exit)
+N,7E003604,Press Down For Music Test
+N,E6EE-A7D7,Master Code (Version A) (1/3)
+N,6DAF-12EB,Master Code (Version A) (2/3)
+N,6D8D-C33E,Master Code (Version A) (3/3)
+N,E6EE-A7D7,Master Code (Version B) (1/3)
+N,6DA4-1A8B,Master Code (Version B) (2/3)
+N,6D8F-C33E,Master Code (Version B) (3/3)
+N,C2A1-CE5B,Infinite Lives (1/2)
+N,C2A5-C37B,Infinite Lives (2/2)
+N,D465-3D67,Start With 3 Lives (1/2)
+N,D46C-3D07,Start With 3 Lives (2/2)
+N,DB65-3D67,Start With 10 Lives (1/2)
+N,DB6C-3D07,Start With 10 Lives (2/2)
+N,F665-3D67,Start With 25 Lives (1/2)
+N,F66C-3D07,Start With 25 Lives (2/2)
+N,7F65-3D67,Start With 50 Lives (1/2)
+N,7F6C-3D07,Start With 50 Lives (2/2)
+N,1765-3D67,Start With 99 Lives (1/2)
+N,176C-3D07,Start With 99 Lives (2/2)
+N,D4A1-437C,100 Bananas Give 2 Lives (1/2)
+N,D4A5-4AEC,100 Bananas Give 2 Lives (2/2)
+N,D9A1-437C,100 Bananas Give 5 Lives (1/2)
+N,D9A5-4AEC,100 Bananas Give 5 Lives (2/2)
+N,EEC2-1A1D,Other Cs Return On Death (1/2)
+N,EECC-CA4D,Other Cs Return On Death (2/2)
+N,DD6C-C7D4,Select (Paused) Exits (1/2)
+N,DD62-C4A4,Select (Paused) Exits (2/2)
+N,626D-4EBD,Start With More Kong Coins
+N,C2B9-13B7,Infinite Kong Coins (1/2)
+N,C2B1-13F7,Infinite Kong Coins (2/2)
+N,626D-432D,Start NG With More Kremcoins
+N,C2B9-1297,Infinite Kremcoins (1/2)
+N,C2B1-1A27,Infinite Kremcoins (2/2)
+N,EDD0-735A,Mega-Jump For Diddy
+N,E7D0-735A,Super-Jump For Diddy
+N,E1D0-735A,Diddy Jumps Higher
+N,EBD0-735A,Diddy Doesn't Jump As High
+N,ECD0-735A,Diddy Jumps Much Lower
+N,EDD7-5AEA,Mega-Jump For Dixie
+N,E7D7-5AEA,Super-Jump For Dixie
+N,E5D7-5AEA,Dixie Jumps Higher
+N,EBD7-5AEA,Dixie Doesn't Jump As High
+N,ECD7-5AEA,Dixie Jumps Much Lower
+N,EFDD-535A,Mega-Jump Rambi With Diddy
+N,E7DD-535A,Super-Jump Rambi With Diddy 
+N,E5DD-535A,Rambi Jumps Higher With Diddy
+N,ECDD-535A,Rambi Doesn't Jump As High
+N,EE65-3D67,Start With 255 Lives
+N,EEA1-437C,Get 255 Lives Per 100 Bananas

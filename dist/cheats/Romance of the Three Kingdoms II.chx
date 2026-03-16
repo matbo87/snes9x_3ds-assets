@@ -1,0 +1,105 @@
+N,7EFC5400,Enemy Has No Food
+N,7DE7-A465,Start With 30K Gold (1/2)
+N,59E7-A4A5,Start With 30K Gold (2/2)
+N,7DE7-A765,Start With 30K Rice (1/2)
+N,59E7-A705,Start With 30K Rice (2/2)
+N,7DE7-A765,Start W/ 30K Population (1/2)
+N,59E7-A7A5,Start W/ 30K Population (2/2)
+N,7D67-A406,Start With 30K Gold (1/2)
+N,596D-A466,Start With 30K Gold (2/2)
+N,7D67-A4A6,Start With 30K Rice (1/2)
+N,596D-A7D6,Start With 30K Rice (2/2)
+N,7D67-A706,Start W/ 30K Population (1/2)
+N,596D-A766,Start W/ 30K Population (2/2)
+N,7D67-A7DB,Start With 30K Gold (1/2)
+N,5967-A70B,Start With 30K Gold (2/2)
+N,7D67-A76B,Start With 30K Rice (1/2)
+N,5967-A7AB,Start With 30K Rice (2/2)
+N,7D60-ADDB,Start W/ 30K Population (1/2)
+N,5960-AD0B,Start W/ 30K Population (2/2)
+N,7D67-A70C,Start With 30K Gold (1/2)
+N,5967-A76C,Start With 30K Gold (2/2)
+N,7D67-A7AC,Start With 30K Rice (1/2)
+N,5960-ADDC,Start With 30K Rice (2/2)
+N,7D60-AD0C,Start W/ 30K Population (1/2)
+N,5960-AD6C,Start W/ 30K Population (2/2)
+N,7DBB-D7D6,Start With 30K Gold (1/2)
+N,59BB-D706,Start With 30K Gold (2/2)
+N,7DBB-D766,Start With 30K Rice (1/2)
+N,59BB-D7A6,Start With 30K Rice (2/2)
+N,7DBC-DDD6,Start W/ 30K Population (1/2)
+N,59BC-DD06,Start W/ 30K Population (2/2)
+N,7DB9-6766,Start With 30K Gold (1/2)
+N,59B9-67A6,Start With 30K Gold (2/2)
+N,7DB1-6DD6,Start With 30K Rice (1/2)
+N,59B1-6D06,Start With 30K Rice (2/2)
+N,7DB1-6D66,Start W/ 30K Population (1/2)
+N,59B1-6DA6,Start W/ 30K Population (2/2)
+N,7EF87E00,Conq. Pr 10 = Ruler Seal (1/2)
+N,7EF87F80,Conq. Pr 10 = Ruler Seal (2/2)
+N,2180-6D17,Items From Conq. Any Province
+N,7EFEA901,Rare Item From Conq. Any Pr
+N,6B89-0F34,Choose The Rare Item You Recv
+N,7EF82701,Control Any Ruler (1/16)
+N,7EF82801,Control Any Ruler (2/16)
+N,7EF82901,Control Any Ruler (3/16)
+N,7EF82A01,Control Any Ruler (4/16)
+N,7EF82B01,Control Any Ruler (5/16)
+N,7EF82C01,Control Any Ruler (6/16)
+N,7EF82D01,Control Any Ruler (7/16)
+N,7EF82E01,Control Any Ruler (8/16)
+N,7EF82F01,Control Any Ruler (9/16)
+N,7EF83001,Control Any Ruler (10/16)
+N,7EF83101,Control Any Ruler (11/16)
+N,7EF83201,Control Any Ruler (12/16)
+N,7EF83301,Control Any Ruler (13/16)
+N,7EF83401,Control Any Ruler (14/16)
+N,7EF83501,Control Any Ruler (15/16)
+N,7EF83601,Control Any Ruler (16/16)
+N,C031-6F2F,Alliances Always Succeed
+N,C9AB-6D95,Recruit Always Succeeds
+N,C928-0F91,Threaten Always Succeeds
+N,C93E-6DB5,Tiger-Wolf Always Works
+N,C98F-642E,Bribe Always Works
+N,2136-AD96,Can't Win By Taking The Castle
+N,7EACF1A4,Alliances Always Succeed
+N,7ED599A5,Recruit Always Succeeds
+N,7ECE9DA5,Threaten Always Succeeds
+N,7ED212A5,Tiger-Wolf Always Succeeds
+N,7ED327A5,Bribe Always Succeeds
+N,7E77FFD6,Can't Win By Taking The Castle
+N,C067-A4BB,Always Merchants Available
+N,2130-D4F7,Messengers Caught Less Often
+N,21CF-D49D,Fall. Star Don't Kill Officer
+N,7E924DD6,Fall. Star Don't Kill Officer
+N,0F31-0725,Betrayal Always Works
+N,7E810860,Unltd Officer Actions Per Mth
+N,1D85-67B4,Unltd Officer Actions Per Mth
+N,7E8173A0,Advisors Always Correct
+N,CD83-6494,Advisors Always Correct
+N,AECA-0FF9,Disable AI
+N,0FE4-6DB0,Rival Tigers Always Suc. (1/2)
+N,0FED-64F0,Rival Tigers Always Suc. (2/2)
+N,0F32-6F91,Forgery Always Succeeds
+N,7E7CB940,Gov Never Rebel W/O Tiger-Wolf
+N,7E7CB941,Governor's Always Rebel
+N,0FB8-AF24,All Pr Get 30K Rice At Harvest
+N,0F36-6DBB,Ofc Don't Sw Sides W/O Bribe
+N,7E7B0041,Ofc Don't Sw Sides W/O Bribe
+N,C068-6DF7,Riots Every Jan & Jul (1/2)
+N,0F62-6427,Riots Every Jan & Jul (2/2)
+N,2168-6DF7,No Riots
+N,C08F-A7B9,Can Move Genrals To Non-Nbr Pr
+N,EE29-A491,Can Gift Over 1000 Gold
+N,2535-D72F,More Capturing Msgr (1/2)
+N,F736-DDFF,More Capturing Msgr (2/2)
+N,21EC-A799,Can Use Spy From Any Pr
+N,213A-0DF0,Can Use Diplomacy From Any Pr
+N,21A7-6DF0,Start War W/ Any Province
+N,C02F-0D9D,Joint Attack W/ Non-Allies
+N,C525-AD25,Joint Attack On Any Province
+N,C02D-67B8,Place Ofc Anywhere On The Bfld
+N,C034-AFB7,Msgrs Are Always Caught
+N,2733-0FF4,AI Always Ignores Messengers
+N,24E7-04B5,Sell Rice = 2X Gd & Rice (1/2)
+N,24E0-0FF5,Sell Rice = 2X Gd & Rice (2/2)
