@@ -1,0 +1,22 @@
+N,7E197B00,Play Clock Time Modifier
+N,7E188500,Team 1 Points Modifier
+N,7E18D700,Team 2 Points Modifier
+N,7E197F00,Game Clock Seconds Modifier
+N,7E198100,Game Clock Minutes Modifier
+N,7E196300,Quarter Modifier
+N,7E189100,Team 1 Passing Attempts Modifier
+N,7E189300,Team 1 Completions Modifier
+N,7E189500+7E189700,Team 1 Passing Yards Modifier
+N,7E188B00,Team 1 Rushing Yards Modifier
+N,7E188900,Team 1 Rushing Attempts Modifier
+N,7E188300,Team 1 Time of Possession Seconds Modifier
+N,7E188100,Team 1 Time of Possession Minutes Modifier
+N,7E189B00,Team 1 First Downs Modifier
+N,7E18E100,Team 2 Passing Attemps Modifier
+N,7E18E300,Team 2 Completions Modifier
+N,7E18E500+7E18E700,Team 2 Passing Yards Modifier
+N,7E18DB00,Team 2 Rushing Yards Modifier
+N,7E18D900,Team 2 Rushing Attemps Modifier
+N,7E18D300,Team 2 Time of Possession Seconds Modifier
+N,7E18D100,Team 2 Time of Possession Minutes Modifier
+N,7E18EB00,Team 2 First Downs Modifier

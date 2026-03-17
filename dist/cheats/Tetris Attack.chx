@@ -1,0 +1,21 @@
+N,7E02DE00+7E02DF00,Speed Modifier
+N,7E02B801,Set Speed At 1
+N,7E02B863,Set Speed At 99
+N,7E02BA05,Start On Stage 6 (Stage Clear Mode)
+N,7E02C200,Never Score Points
+N,7E02C27F+7E02C396+7E02C498,Set Max. Score
+N,7E02DF63,Faster Screen Scroll (Player 1)
+N,7E02E163,Faster Screen Scroll (Player 2)
+N,7E638B01,Inf. Count (Puzzle Mode)
+N,7E033600,Set Time To Zero (Puzzle Mode)
+N,7E034206,Start On Final Stage (Stage Clear Mode)
+N,7E954200,Music Played In Music Test (00-29)
+N,7E954101,SFX Play As Soon As You Choose Them
+N,7E94D201,Always Have Extra Characters In 2P VS Mode Unlocked
+N,7E03903C,Infinite 2P Time Trail Time
+N,7E946001,Blocks Never Stop Rising (ie. The B;A;L;L Code Is Always On)
+N,7E035A00,Pressing Start Clears All Blocks (Cannot Pause The Game While This Is On)
+N,7E05B800,P1 Combo Value Modifier
+N,7E06E400,P2 Combo Value Modifier
+N,7E02BA00,P1 Character Modifier
+N,7E02BC00,P2 Character Modifier

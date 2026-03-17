@@ -1,0 +1,16 @@
+N,33C6-C704,Take minimal damage
+N,C2B5-4DD0,Infinite energy
+N,DFB4-1FD4,1 continue
+N,D1B4-1FD4,6 continues
+N,DBB4-1FD4,9 continues
+N,D7BD-1D64+4DBE-4DD4+40BD-1FD4,Start game with tracking missiles
+N,D0BD-1D64+4DBE-4DD4+40BD-1FD4,Start game with reflecting laser
+N,D9BD-1D64+4DBE-4DD4+40BD-1FD4,Start game with flame thrower
+N,DFBF-1FD4+BABF-14D4+BABF-14A4,Start game with hologram weapon
+N,D4BF-1FD4+BABF-14D4+BABF-14A4,Start game with directional mines
+N,E2B2-1F00+D4BA-1700,Faster left-to-right movement
+N,E2BD-CFA0+D4B3-1FA0,Faster up-and-down movement
+N,1DB2-44D9,Reflecting laser fire travels longer
+N,EEB2-44D9,Reflecting laser fire travels a lot longer
+N,7E003501,Unlimited Continues (Alternate Code)
+N,DF30-076E,Unlimited Weapons

@@ -1,0 +1,16 @@
+N,7E0FAC01,Player 1 Teleports Out of the Ring when Knocked Down
+N,7E102901,Player 2 Teleports Out of the Ring when Knocked Down
+N,7E10A601,Player 3 Teleports Out of the Ring when Knocked Down
+N,7E112301,Player 4 Teleports Out of the Ring when Knocked Down
+N,7E0FB901,Player 1 is Dizzy After Knockdown
+N,7E103601,Player 2 is Dizzy After Knockdown
+N,7E10B301,Player 3 is Dizzy After Knockdown
+N,7E113001,Player 4 is Dizzy After Knockdown
+N,7E0FBB01,Player 1 Stays Dizzy Until After He's Hit
+N,7E103801,Player 2 Stays Dizzy Until After He's Hit
+N,7E10B501,Player 3 Stays Dizzy Until After He's Hit
+N,7E113201,Player 4 Stays Dizzy Until After He's Hit
+N,7E0FD001,Player 1 Can't Get Knocked Down With Strike Attacks
+N,7E104D01,Player 2 Can't Get Knocked Down With Strike Attacks
+N,7E10CA01,Player 3 Can't Get Knocked Down With Strike Attacks
+N,7E114701,Player 4 Can't Get Knocked Down With Strike Attacks

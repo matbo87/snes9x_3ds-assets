@@ -1,0 +1,17 @@
+N,A266-07AD,Stop timer
+N,8066-04DD,Slow timer
+N,4266-04DD,Fast timer
+N,2B6C-07AD,Freeze lap timer
+N,1968-0DAD,Slow lap timer
+N,7E026400,Infinite Time - Minutes
+N,7E026699,Infinite Time - Seconds
+N,7E025E11,Infinite Off-Road Time
+N,7E027C99+7E027E99+7E028099+7E028299,Max Score
+N,7E026A00+7E026C00+7E026E00,Infinite Lap Time
+N,7E072000,Infinite Best Lap - Minutes
+N,7E027200,Infinite Best Lap - Seconds
+N,7E027400,Infinite Best Lap - Milli-Seconds
+N,7E027600,Infinite Last Lap - Minutes
+N,7E027800,Infinite Last Lap - Seconds
+N,7E027A00,Infinite Last Lap - Milli-Seconds
+N,7E001C00,Always Select Track

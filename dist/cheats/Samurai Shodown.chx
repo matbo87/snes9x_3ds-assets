@@ -1,0 +1,33 @@
+N,0D94-7401,Start with 1/2 energy
+N,4D94-7401,Start with 1/4 energy
+N,4F53-74A4,Start with 33 sec. on timer
+N,DFE1-876D,One hit will max out a character's pow meter
+N,DD03-8FDD,Hit Anywhere Both Players
+N,C294-7401,One Free Defense For Each Round
+N,7E621480,Infinite Health P1
+N,7E621401,1-Hit Death P1
+N,7E623D20,Max Pow Bar P1
+N,7E623D00,No Pow P1
+N,7ED60C00+7ED61C00,P1 Character Modifier
+N,7E661480,Infinite Health P2
+N,7E661401,1-Hit Death P2
+N,7E663D20,Max Pow Bar P2
+N,7E663D00,No Pow P2
+N,7ED60E00+7ED61E00,P2 Character Modifier
+N,7EBE9B63,Infinite Time
+N,7EBEB604,P1 Needs Only To Win 1 Round To Win Match
+N,7E6B3000,P1 Is Controlled By CPU
+N,7E6B30FF,P2 Is Never Controlled By CPU
+N,7E61DC00,Character Modifier (Different Than Above Code)
+N,7E616000,Stage Modifier
+N,7E616801,Hyper Mode P1
+N,7E656801,Hyper Mode P2
+N,7EC51D00,Auto Pass Bonus Stage
+N,7E622000,P1 Never Gets Knockdown
+N,7E622001,P1 All Attacks Are Knockdowns
+N,7E662000,P2 Never Gets Knockdown
+N,7E662001,P2 All Attacks Are Knockdowns
+N,7E613101,P1 Can Triangle Jump in Mid-Air
+N,7E653101,P2 Can Triangle Jump in Mid-Air
+N,7E624401,P1 Projectiles Disabled
+N,7E664401,P2 Projectiles Disabled

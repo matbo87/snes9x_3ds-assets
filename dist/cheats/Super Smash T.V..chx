@@ -1,0 +1,69 @@
+N,DD62-076D,Start with 3 lives
+N,DF62-076D,Start with 4 lives
+N,D462-076D,Start with 5 lives
+N,D062-076D,Start with 7 lives
+N,D962-076D,Start with 8 lives
+N,D162-076D,Start with 9 lives
+N,D562-076D,Start with 10 lives
+N,82BB-DD04,Infinite lives
+N,EEB1-D7A4,2 lives after continue [player 1]
+N,DDB1-D7A4,3 lives after continue [player 1]
+N,DFB1-D7A4,4 lives after continue [player 1]
+N,D4B1-D7A4,5 lives after continue [player 1]
+N,D0B1-D7A4,7 lives after continue [player 1]
+N,D9B1-D7A4,8 lives after continue [player 1]
+N,D1B1-D7A4,9 lives after continue [player 1]
+N,D5B1-D7A4,10 lives after continue [player 1]
+N,EEB0-DDA4,2 lives after continue [player 2]
+N,DDB0-DDA4,3 lives after continue [player 2]
+N,DFB0-DDA4,4 lives after continue [player 2]
+N,D4B0-DDA4,5 lives after continue [player 2]
+N,D0B0-DDA4,7 lives after continue [player 2]
+N,D9B0-DDA4,8 lives after continue [player 2]
+N,D1B0-DDA4,9 lives after continue [player 2]
+N,D5B0-DDA4,10 lives after continue [player 2]
+N,8284-AF03,Bonus life worth nothing
+N,DD62-0F0D,Start with 0 continues instead of 4
+N,DF62-0F0D,Start with 1 continue
+N,D462-0F0D,Start with 2 continues
+N,D762-0F0D,Start with 3 continues
+N,D962-0F0D,Start with 5 continues
+N,D162-0F0D,Start with 6 continues
+N,D562-0F0D,Start with 7 continues
+N,D662-0F0D,Start with 8 continues
+N,DB62-0F0D,Start with 9 continues
+N,C223-D78B,Infinite continues [but if continue timer runs out and player starts; a credit gets used up]
+N,6D65-6403+DF65-6463,Once you get a mobile force field; you are invincible [the visible effect can wear off; but you still have invincibility]
+N,8283-67D7,Weapons gauge doesn't lose power until you die
+N,6DB8-D404+DFB8-D464,Don't lose weapon power upgrade when you die; and after you die; weapon power doesn't decrease until you get a new weapon
+N,EEBF-D7A4,Player 1 joins in with 2 lives
+N,DDBF-D7A4,Player 1 joins in with 3 lives
+N,DFBF-D7A4,Player 1 joins in with 4 lives
+N,D4BF-D7A4,Player 1 joins in with 5 lives
+N,D0BF-D7A4,Player 1 joins in with 7 lives
+N,D9BF-D7A4,Player 1 joins in with 8 lives
+N,D1BF-D7A4,Player 1 joins in with 9 lives
+N,D5BF-D7A4,Player 1 joins in with 10 lives
+N,7E053109,Infinite lives for Player 1
+N,7E18A901,Player 1 Always have shield
+N,7E18B004,Rapid fire for Player 1
+N,7E189906,Player 1 Weapon gauge always maxed
+N,7E189700,Player 1 Current weapon modifier
+N,7E18ADFF,Player 1 Always have speed shoes
+N,7E18A500,Player 1 Can't die
+N,7E053209,Infinite lives for Player 2
+N,7E18AA01,Player 2 Always have shield
+N,7E18B104,Rapid fire for Player 2
+N,7E189A06,Player 2 Weapon gauge always maxed
+N,7E189800,Player 2 Current weapon modifier
+N,7E18AEFA,Player 2 Always have speed shoes
+N,7E18A600,Player 2 Can't die
+N,7E053309,Infinite credits
+N,7E05B10A,Have 10 keys
+N,7E052E01,Turbo mode on
+N,7E020E01,Circuit warp on
+N,7E026A01,Sound check on
+N,7E026A02,More lives on
+N,7E053105,Infinite Lives
+N,DD6E-070D+D46E-076D+FB6E-07AD,Go To Ending
+N,DD81-0FAD,Speed Shoes

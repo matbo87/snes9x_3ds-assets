@@ -1,0 +1,7 @@
+N,7E0B0B03,Always Strike Out
+N,7E0B1500,Team 1 Score Modifier
+N,7E0B0D00,Out Modifier
+N,7E0B0E00,Inning Modifier
+N,7E0B0D03+7E0B1599+7E0B0E15,Intsant Win (Team 1)
+N,7E0B0B03,Outs Modifier
+N,7E0B1599,Team 1 Score Modifier

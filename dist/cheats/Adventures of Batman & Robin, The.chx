@@ -1,0 +1,62 @@
+N,7E009828,Infinite Health
+N,7E003809,9 Continues
+N,7E009609,9 Lives
+N,7E00A009,9 of Item #3
+N,7E00A209,9 of Item #4
+N,7E00A409,9 of Item #5
+N,7E00A609,9 of Item #6
+N,DB86-4FC9,Start with 9 lives [not on easy mode]
+N,D186-4FC9,Start with 6 lives [not on easy mode]
+N,DD86-4FC9,Start with 1 life [not on easy mode]
+N,DB86-4D19,Start with 9 credits
+N,D186-4D19,Start with 6 credits
+N,DD86-4D19,No credits
+N,C988-340D,Infinite lives
+N,DD8A-4D6D,No damage from enemies
+N,DDB3-376F,Don't start with any stars & spray gun ammo
+N,FBB3-376F,Start with 25 stars & spray gun ammo when starting game
+N,77B3-376F,Start with 50 stars & spray gun ammo when starting game
+N,DDBE-3F0F,Don't start with any explosives & smoke bomb ammo
+N,FBBE-3F0F,Start with 25 explosives & smoke bomb ammo
+N,77BE-3F0F,Start with 50 explosives & smoke bomb ammo
+N,C9A1-34AF,Infinite stars
+N,C9A5-34DF,Infinite spray gun ammo
+N,C9AB-3D6F,Infinite plastic explosives
+N,C9A6-3F0F,Infinite smoke bombs
+N,466B-4494,Get full energy from hearts
+N,4DAF-14DF,Moon jumping
+N,E6C7-34DF,Super jumping
+N,DD8D-C765+EE8F-CDD5,Move slower
+N,D08D-C765+E88F-CDD5,Move faster
+N,D58D-C765+E68F-CDD5,Move even faster
+N,E38D-C765+DF8F-CDD5,Moon-walk (Switch off if you get stuck)
+N,E88D-C765+D08F-CDD5,Moon-walk faster (Switch off if you get stuck)
+N,E68D-C765+E58F-CDD5,Moon-walk even faster (Switch off if you get stuck)
+N,C982-4F0D,Infinite Energy
+N,3C88-340D,Infinite Lives
+N,DDA1-34AF,Infinite Missiles
+N,DDAB-3D6F,Infinite Bombs
+N,2DC7-1DAD,Invincibility
+N,DDC6-C4AD,Untouchable
+N,7E003200,Event Modifier
+N,7E008001,In Game Event Modifer
+N,7E009E00,Selected Weapon Modifier
+N,DDBB-34BA+DDC6-44AF+DDB3-3F2A+DDE9-4D02+C9BD-4FB2,Hit Anywhere
+N,7E009840,Infinite Energy
+N,7E00582C,Fake Infinite Health
+N,7E0C0000,Some Grey Enemies Slide-Walk
+N,7E0C2C00+7E0C2A00+7E0BCC00+7E199B00+7E0C3C00+7E0CEC00+7E0C8C00,1 Hit For Most Enemies
+N,7E105600,Joker Machine Gun Toting Robots' Health Modifier (Amused To Death)
+N,7E00D800,1-Hit Mini-Bosses
+N,7E0BDE00,1-Hit Or 0-Hit Bosses
+N,7E008C00,Level Modifier
+N,7E047E04+7E048D05,Speedy Batmobile (Trouble In Transit)
+N,7E047E08+7E048D08,Ultra Speedy Batmobile (Trouble In Transit)
+N,7E006A50+7E006B53,Max Score
+N,7E0B8058+7E0B8102,Have Star
+N,7E0BE058+7E0BE102,Have Spray Gun
+N,7E0C4058+7E0C4102,Have Plastic Explosives
+N,7E0CA058+7E0CA102,Have Smoke Bomb
+N,7E0D0058+7E0D0102,Have Gas Mask
+N,7E0D6058+7E0D6102,Have Flashlight
+N,7E04BEFF,1 Hit And Invincibility

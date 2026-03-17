@@ -1,0 +1,39 @@
+N,C2A9-4FA7,Infinite armor
+N,C2C9-C4DD,Infinite fuel
+N,3CAC-360F,Infinite ammo
+N,DF84-42D6,Start with 1 life
+N,D984-42D6,Start with 5 lives
+N,DB84-42D6,Start with 9 lives
+N,7484-42D6,Start with 50 lives
+N,1084-42D6,Start with 100 lives
+N,C2C5-4D0F,Infinite lives
+N,DD3C-1682+DD3C-16E2,Start with 0 missiles
+N,103C-1682+DD3C-16E2,Start with 100 missiles
+N,A63C-1682+DD3C-16E2,Start with 200 missiles
+N,E73C-1682+DF3C-16E2,Start with 500 missiles
+N,363C-1682+D73C-16E2,Start with 1000 missiles
+N,EE3C-1682+5E3C-16E2,Start with MEGA missiles
+N,DD35-1B82+DD35-1BE2,Start with 0 rockets
+N,1035-1B82+DD35-1BE2,Start with 100 rockets
+N,A635-1B82+DD35-1BE2,Start with 200 rockets
+N,E735-1B82+DF35-1BE2,Start with 500 rockets
+N,3635-1B82+D735-1BE2,Start with 1000 rockets
+N,EE35-1B82+5E35-1BE2,Start with MEGA rockets
+N,DD3E-4682+DD3E-46E2,Start with 0 shots for the gun
+N,103E-4682+DD3E-46E2,Start with 100 shots for the gun
+N,A63E-4682+DD3E-46E2,Start with 200 shots for the gun
+N,E73E-4682+DF3E-46E2,Start with 500 shots for the gun
+N,363E-4682+D73E-46E2,Start with 1000 shots for the gun
+N,EE3E-4682+5E3E-46E2,Start with MEGA shots for the gun
+N,DD8E-CB72+DD8E-CB52,Start with 0 armor
+N,108E-CB72+DD8E-CB52,Start with 100 armor
+N,A68E-CB72+DD8E-CB52,Start with 200 armor
+N,E78E-CB72+DF8E-CB52,Start with 500 armor
+N,368E-CB72+D78E-CB52,Start with 1000 armor
+N,EE8E-CB72+5E8E-CB52,Start with MEGA armor
+N,7F10D7E3+7F10D803,Infinite Health
+N,7F10E303,Infinite Lives
+N,7FB47763,Infinite Missles
+N,7FB3F7E8+7FB3F803,Infinite Guns
+N,7FB43737,Infinite Rockets
+N,7F10DB64,Infinite Fuel

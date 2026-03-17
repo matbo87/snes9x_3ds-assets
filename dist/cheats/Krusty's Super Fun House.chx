@@ -1,0 +1,44 @@
+N,7E11A303,Unlimited Krusties
+N,7E11A4FF,Infinite Health
+N,7E11A099,Set Score To 990k
+N,7E032501,Always Have A Puzzle Block In Inventory
+N,7E032C0A,Infinite Krusty Pies
+N,7E0D86FF,Invincible
+N,7E030FFE,Switch F/X On To Float
+N,DD65-67DF+6D65-670F+D965-676F,Start with section 1 finished
+N,DF65-67DF+6D65-670F+D965-676F,Start with section 2 finished
+N,D465-67DF+6D65-670F+D965-676F,Start with section 3 finished
+N,D765-67DF+6D65-670F+D965-676F,Start with section 4 finished
+N,D065-67DF+6D65-670F+D965-676F,Start with access to all sections
+N,DF6C-D704,Start with 1 life instead of 3
+N,D46C-D704,Start with 2 lives
+N,D96C-D704,Start with 5 lives
+N,D56C-D704,Start with 7 lives
+N,DB6C-D704,Start with 9 lives
+N,C265-0FA7,Infinite lives
+N,DD6B-D764,Start with 0 custard pies
+N,D46B-D764,Start with 2 custard pies
+N,D96B-D764,Start with 5 custard pies
+N,D46B-D764+DF6C-DDA4,Start with 2 superballs instead of 10 custard pies
+N,D96B-D764+DF6C-DDA4,Start with 5 superballs
+N,DF6C-DDA4,Start with 10 superballs
+N,D43D-67D7,Custard pie bonus worth 2 pies instead of 10
+N,D93D-67D7,Custard pie bonus worth 5 pies
+N,D03D-6767,Custard pie bonus same as superball bonus
+N,D43F-6F67,Superball bonus worth 2 balls instead of 5
+N,DC3F-6F67,Superball bonus worth 10 balls
+N,6D3F-6DA7+E03F-6FD7,Superball bonus same as custard pie bonus
+N,C1E1-D7DD,Infinite custard pies
+N,C1E2-D76D,Infinite superballs
+N,D53E-0407,Food bonuses restore less strength
+N,F33E-0407,Food bonuses restore more strength
+N,173E-0407,Food bonuses restore Krusty to full strength
+N,D03D-6FD7,Food bonuses also get custard pie bonus
+N,D33D-6FD7,Food bonuses also get superball bonus
+N,3134-6D67+6D34-6D07,Doll bonus same as custard pie bonus
+N,ED34-6D67+6D34-6D07,Doll bonus same as superball bonus
+N,2F34-6D67+6D34-6D07,Doll bonus same as food bonus
+N,8725-0D64,Krusty invincibility
+N,FD3C-D704,Krusty jumps higher
+N,D63C-D704,Krusty jumps much higher
+N,C930-A76F+C939-DFD4+C93A-A464,Walk Through Walls

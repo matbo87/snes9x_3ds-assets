@@ -1,0 +1,25 @@
+N,3C60-34D7,Infinite Secondary Weapons
+N,C26D-1767,Infinite Choppers
+N,DD67-CDA7+DD60-CF67,Have All Weapons and Infinte Ammo
+N,F3C7-3D53+F3C1-1F5E,Chopper Can Carry 30 Hostages
+N,7E201EBE,Item Invulnerability
+N,7E201ABE,Item Ladder
+N,7E2016BE,Item Chaff
+N,7E2012BE,Item Mega Crush
+N,7E200EBE,Item Bomb
+N,7E200ABE,Item Cluster Bomb
+N,7E2006BE,Item Napalm
+N,7E0D1680,Life Bar
+N,7E2002BE,Item Rocket
+N,7E0CEB00,Invulnerability
+N,7E01F100,Pows On Board
+N,7E08FC00,Blue Heli Set To 69;
+N,7E01EB00,Pows Required
+N,7E01DE00,Score Byte 2 [Hx] -- X100
+N,7E01DC00,Score Byte 4 [Hx] -- X1000000
+N,7E01DD00,Score Byte 1 [Hx] -- X1
+N,7E01DB00,Score Byte 3 [Hx] -- X10000
+N,7E2022BE,Item Sidewinder
+N,7E2B0200,Invulnerability Timer
+N,DD67-CDA7+DD60-CF67,Have All Weapons And Infinite Ammo
+N,7E0D1682,Infinite Health

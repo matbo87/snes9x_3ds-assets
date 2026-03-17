@@ -1,0 +1,33 @@
+N,B6BD-D76F,Both players start with 1 life
+N,8BBD-D70F+60BD-D76F,Both players start with 7 lives
+N,8FBD-D70F+62BD-D76F,Both players start with 9 lives
+N,3CBD-DDD7,Infinite lives [player 1]
+N,3CB5-0467,Infinite lives [player 2]
+N,DDEF-0F1B,Both players are invincible
+N,CEBF-D7AF+62B4-DDDF,Player 1 starts with 0 bombs
+N,91BF-D7AF+6BB4-DDDF,Player 1 starts with 6 bombs
+N,8FBF-D7AF+62B4-DDDF,Player 1 starts with 9 bombs
+N,CEB7-D7DF+62B7-D70F,Player 2 starts with 0 bombs
+N,91B7-D7DF+6BB7-D70F,Player 2 starts with 6 bombs
+N,8FB7-D7DF+62B7-D70F,Player 2 starts with 9 bombs
+N,CEB7-DFD7+62B7-DF07,Player 1 replacement planes carry 0 bombs
+N,91B7-DFD7+6BB7-DF07,Player 1 replacement planes carry 6 bombs
+N,8FB7-DFD7+62B7-DF07,Player 1 replacement planes carry 9 bombs
+N,CEBC-0707+62BC-0767,Player 2 replacement planes carry 0 bombs
+N,91BC-0707+6BBC-0767,Player 2 replacement planes carry 6 bombs
+N,8FBC-0707+62BC-0767,Player 2 replacement planes carry 9 bombs
+N,EDE8-67A4+D9EA-6DD4+3CEA-6D04+23EA-6DA4,Infinite bombs [player 1]
+N,2DE8-67A4+D9EA-6DD4+3CEA-6D04+23EA-6DA4,Infinite bombs [player 2]
+N,3CEA-6D64,Infinite bombs [both players]
+N,D4BF-6F6F,Start with 3 credits
+N,D7BF-6F6F,Start with 4 credits
+N,D9BF-6F6F,Start with 6 credits
+N,D5BF-6F6F,Start with 8 credits
+N,DBBF-6F6F,Start with 10 credits
+N,DDBF-6F6F,Start with 1 credit
+N,6DE8-6F36+44E8-6446+C9E3-6446,Hit Anywhere
+N,EDE8-67A4+D9EA-6DD4+3CEA-6D04+23EA-6DA4,Infinite Bombs (Player 1)
+N,2DE8-67A4+D9EA-6DD4+3CEA-6D04+23EA-6DA4,Infinite Bombs (Player 2)
+N,7E101A07,Maximum Power For Weapon P1
+N,7E103507,Maximum Power For Weapon P2
+N,7E1C76FF,Invincibility

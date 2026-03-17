@@ -1,0 +1,21 @@
+N,7E112600,P1 Score Modifier
+N,7E112C00,P2 No Score
+N,7E0F2D00,Dont Lose In A Fight When U R Left Side of the screen
+N,7E0F7D0A,1 Hit & U Win The Fight When U R Left Side of the screen
+N,7E0F7D00,Dont Lose In A Fight When U R Right Side of the screen
+N,7E0F2D0A,1 Hit & U Win The Fight When U R Right Side of the screen
+N,7E01C71E+7E01C809,Your Speed Is Always 350 ~ 365 KPH!
+N,7E2A4140,All Frame Upgrades Are Free
+N,7E2A430F,Always Have Enough Money To Buy Anything!
+N,7E01C803+7E01C7E7,Auto Race (Player 1)
+N,7E022803+7E0227E7,Auto Race (Player 2)
+N,7E305600,Low Lap Time (Seconds)
+N,7E305700,Low Lap Time (Miliseconds)
+N,7E316500,Low Total Time (Seconds)
+N,7E316600,Low Total Time (Miliseconds)
+N,7E2AA003,Set Max. Front Suspension
+N,7E2AA203,Set Max. Engine
+N,7E2AA403,Set Max. Rear Suspension
+N,7E2AA603,Set Max. Frame
+N,7E2A4326,Infinite Money
+N,7E2C50FF,Set GP Points To 255

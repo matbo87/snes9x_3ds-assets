@@ -1,0 +1,42 @@
+N,DF6F-14DF,Start with 1 life
+N,D96F-14DF,Start with 5 lives
+N,FD6F-14DF,Start with 10 lives
+N,496F-14DF,Start with 25 lives
+N,9D6F-14DF,Start with 50 lives
+N,BB6F-14DF,Start with 99 lives
+N,DFC0-CFAF,Continue with 1 life
+N,D9C0-CFAF,Continue with 5 lives
+N,FDC0-CFAF,Continue with 10 lives
+N,49C0-CFAF,Continue with 25 lives
+N,9DC0-CFAF,Continue with 50 lives
+N,BBC0-CFAF,Continue with 99 lives
+N,DD34-37D7,Infinite lives [except football level]
+N,DDC0-3F07,Infinite lives [football level]
+N,DD6D-47D0,Start with no continues on normal level [handicap]
+N,D56D-47D0,Start with 7 continues on normal level
+N,DB6D-47D0,Start with 9 continues on normal level
+N,DD6D-4700,Start with no continues on challenge level
+N,D96D-4700,Start with 5 continues on challenge level
+N,D56D-4700,Start with 7 continues on challenge level
+N,DB6D-4700,Start with 9 continues on challenge level
+N,DFCD-4FAF,Start with 1 heart on Children or Normal difficulty levels [Don't pick Challenge Level]
+N,D0CD-4FAF,Start with 4 hearts on Children or Normal difficulty levels; 2 on Challenge
+N,D9CD-4FAF,Start with 5 hearts on Children or Normal difficulty levels; 3 on Challenge
+N,3CE9-448A,Infinite health [when hit; a fake empty heart appears]
+N,D184-C4A1,5 heart maximum on challenge level
+N,C927-47AD,Dash meter doesn't go down
+N,D46B-CFAF,1-up gives 2 free guys [not on mystery weight challenge level; or if you get 1-up by collecting stars]
+N,D43E-C48E,Small star worth 2 stars
+N,D93E-C48E,Small star worth 5 stars
+N,FD3E-C48E,Small star worth 10 stars
+N,DF64-14AA,Gold Gogo Dodo Trophy lasts 1/2 as long
+N,D064-14AA,Gold Gogo Dodo Trophy lasts 2x as long
+N,C9CE-1F0F,Choose bonus level after completing a level
+N,7036-C001,Passwords work on any difficulty level [not just Children level]
+N,7E08A501,Hyper Buster Bunny
+N,7E00BB05,Faster Walking
+N,7E00B801+7E00B901,Enemies Can't Touch You
+N,7E08A807,Moon Jump
+N,7E006800,Stage Modifier
+N,7E009400,Stage Area Modifier
+N,DD6D-47D0,Start With No Continues On Normal Level (Handicap)

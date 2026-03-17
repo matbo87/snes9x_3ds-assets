@@ -1,0 +1,56 @@
+N,6DB4-1F65,Level never increases
+N,DFB4-1405,After the first level your level increases every line
+N,CBB7-C460+D4B7-C4A0+DDB7-C7D0,The same piece always drops
+N,CBB2-3DA9+DCB2-3FD9+3CB2-3F09,Always at high speedDr. Mario[tm]
+N,CBC9-4466+DCC9-44A6+3CC9-47D6,The same piece always drops-until you hit the change button
+N,CB67-37DC+DC67-370C+3C67-376C,The same piece always drops
+N,7E1E0E09,Tetris Debug Menu
+N,7E1E1F00,In Game Music Modifier
+N,7E1E1B03,Tetris Options
+N,7E1E7203,Dr. Mario Options
+N,7E1E7D00,In Game Music Modifier
+N,7E1E1B03+7E1E0E02,Mixed-Match Options 2
+N,7E040801,Inf Time
+N,7E1EA900,In Game Music Select Modifier
+N,D78E-34DD+C2CF-CFAF,Enable Options Mode And Debug Menu For Tetris
+N,D784-C76F,Enable Options Mode For Dr Mario
+N,7E03050B,Automatic Win
+N,CBB7-C460+D4B7-C4A0+DDB7-C7D0,The Same Piece Always Drops
+N,CBB2-3DA9+DCB2-3FD9+3CB2-3F09,Always At High Speed
+N,CBC9-4466+DCC9-44A6+3CC9-47D6,The Same Piece Always Drops - Until You Hit The Change Button
+N,CB67-37DC+DC67-370C+3C67-376C,The Same Piece Always Drops
+N,7E0357FF,Set Max. 1st Tetris Piece
+N,7E0359FF,Set Max. 2nd Tetris Piece
+N,7E035BFF,Set Max. 3rd Tetris Piece
+N,7E035DFF,Set Max. 4th Tetris Piece
+N,7E035FFF,Set Max. 5th Tetris Piece
+N,7E0361FF,Set Max. 6th Tetris Piece
+N,7E0363FF,Set Max. 7th Tetris Piece
+N,7E031BBE,Tetris Piece Modifier
+N,7E03400A,Start Game At Level 10
+N,7E034014,Start Game At Level 20
+N,7E034705,Tetris Pieces Never Fall On Own
+N,7E0313FF,Score More Points
+N,7E032800,Only Need 1 Line To Complete B-Type Game
+N,7E03E800,Set Virus Level At 2
+N,7E03E819,Set Virus Level At 20
+N,7E03E700,1 Dead Virus Gives You The Win
+N,7E037C00,Set Speed Modifier
+N,CBC0-37A6+6DC0-3DA6,Drop Capsule Anywhere To Beat Level
+N,FEA2-3465,Tetris- Start on Any Playable Level
+N,CBB0-C460+DDB0-C4A0,Always get T Piece
+N,CBB0-C460+DFB0-C4A0,Always get J Piece
+N,CBB0-C460+D4B0-C4A0,Always get Z Piece
+N,CBB0-C460+D7B0-C4A0,Always get Square Piece
+N,CBB0-C460+D0B0-C4A0,Always get S Piece
+N,CBB0-C460+D9B0-C4A0,Always get L Piece
+N,CBB0-C460+D1B0-C4A0,Always get Line Piece
+N,7E8B-17A7,NTSC version of the game will work if using a PAL SNES
+N,DDB6-3DD4,Press Start At Title Screen To Load Current Game's Debug Menu
+N,D78E-34DD,Hidden Options Menu Can Be Accessed By Selecting The Fourth Setting At The Tetris Title Screen
+N,D784-C76F,Hiden Options menu can be accessed by selecting the fourth setting at the Dr. Mario title screen
+N,DC8C-1D6F,Plays test track at the title screen
+N,DA8A-47D4,Replace OPTION With Full Options Menu
+N,FB64-470D,Access Anti-Cheat message upon booting up
+N,FB64-470D+DFD0-227C,Access Incompatible Accessory message upon booting up
+N,FB64-470D+D4D0-227C,Access Region Error message upon booting up

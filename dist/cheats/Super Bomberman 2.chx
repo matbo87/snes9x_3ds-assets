@@ -1,0 +1,290 @@
+N,3B41-AC5E,Speed Of Gameplay In VS Mode Increases Slightly
+N,7E1C6C09,Infinite Lives
+N,7E5E123B,Infinite Time
+N,7E80F209,Max Firepower
+N,7E80E109,Max Bombs
+N,7E80E209,Max Firepower On Icon Pickup
+N,7E80F001,Movement Speed Modifier
+N,7E80EF09,Infinite Hits
+N,7E1C0002+EFFF0432,In Battle-Mode All Players Can Jump
+N,7E800002+F1050432,Unlimited Bombs For Player 1
+N,7E810002+F1050432,Unlimited Bombs For Player 2
+N,7E820002+F1050432,Unlimited Bombs For Player 3
+N,7E830002+F1050432,Unlimited Bombs For Player 4
+N,7E5DEFA7,Set Score To 4 Million
+N,7E80F109,Set Max. Bomb Quantity (Player 1)
+N,7E81F109,Set Max. Bomb Quantity (Player 2)
+N,7E82F109,Set Max. Bomb Quantity (Player 3)
+N,7E83F109,Set Max. Bomb Quantity (Player 4)
+N,7E81F209,Set Max. Bomb Power (Player 2)
+N,7E82F209,Set Max. Bomb Power (Player 3)
+N,7E83F209,Set Max. Bomb Power (Player 4)
+N,7E80F006,Set Max. Speed (Player 1)
+N,7E81F006,Set Max. Speed (Player 2)
+N,7E82F006,Set Max. Speed (Player 3)
+N,7E83F006,Set Max. Speed (Player 4)
+N,7E80F300,Set Bomb Modifier (Player 1)
+N,7E81F300,Set Bomb Modifier (Player 2)
+N,7E82F300,Set Bomb Modifier (Player 3)
+N,7E83F300,Set Bomb Modifier (Player 4)
+N,7E80FE01,Set Punch Glove (Player 1)
+N,7E81FE01,Set Punch Glove (Player 2)
+N,7E82FE01,Set Punch Glove (Player 3)
+N,7E83FE01,Set Punch Glove (Player 4)
+N,7E80FF01,Set Kick Bomb (Player 1)
+N,7E81FF01,Set Kick Bomb (Player 2)
+N,7E82FF01,Set Kick Bomb (Player 3)
+N,7E83FF01,Set Kick Bomb (Player 4)
+N,7E80FA01,Set Bomb Walk (Player 1)
+N,7E81FA01,Set Bomb Walk (Player 2)
+N,7E82FA01,Set Bomb Walk (Player 3)
+N,7E83FA01,Set Bomb Walk (Player 4)
+N,7E80FB01,Set Brick Walk (Player 1)
+N,7E81FB01,Set Brick Walk (Player 2)
+N,7E82FB01,Set Brick Walk (Player 3)
+N,7E83FB01,Set Brick Walk (Player 4)
+N,7E80F501,Set Poison Status (Player 1)
+N,7E81F501,Set Poison Status (Player 2)
+N,7E82F501,Set Poison Status (Player 3)
+N,7E83F501,Set Poison Status (Player 4)
+N,7E80EF01,Set Invincibility (Player 1)
+N,7E81EF01,Set Invincibility (Player 2)
+N,7E82EF01,Set Invincibility (Player 3)
+N,7E83EF01,Set Invincibility (Player 4)
+N,7E001A10,Stage Select
+N,7E1CCD0A,Auto Select Hidden Battle Stage #11
+N,7E1CCD0B,Auto Select Hidden Battle Stage #12
+N,DF4C-ED7D,Enable Extra Battle Modes
+N,DD2F-8F6F,Battle Mode "Hurry" Wall Never Stops Building
+N,DD1E-5F6F,Can Jump During Battle Mode
+N,F3DB-57D7,Add 30 Seconds to Timer Value in Battle Mode
+N,DDAC-8FD5,Change Computer Players' #9 Difficulty Pattern
+N,6DD7-E4ED+FFD7-E77D+DDDB-EF04+D748-845D+6DDD-E7A4,Enable Gold Bomber in Tag Matches
+N,7FFC600E,Cheat 63
+N,7FFC600E,Stage 1 Extra Bombs
+N,7FFC600E,Stage 1 Spike Bombs
+N,7FFC600E,Stage 1 Blast Ranges
+N,7FFC600E,Stage 1 Max. Blast Ranges
+N,7FFC600E,Stage 1 Speed Increasers
+N,7FFC600E,Stage 1 Remote Detonators
+N,7FFC600E,Stage 1 Skull Curses
+N,7FFC600E,Stage 1 Bomb Throws
+N,7FFC600E,Stage 1 Bomb Kicks
+N,7FFC600E,Stage 1 P-Bombs
+N,7FFC600E,Stage 1 Bouncy Bombs
+N,7FFC600E,Stage 1 Life Save Hearts
+N,7FFC600E,Stage 1 Wall Walkers
+N,7FFC600E,Stage 1 Bomb Walkers
+N,7FFC600E,Stage 1 Apples
+N,7FFC600E,Stage 1 Ice Creams
+N,7FFC600E,Stage 2 Extra Bombs
+N,7FFC600E,Stage 2 Spike Bombs
+N,7FFC600E,Stage 2 Blast Ranges
+N,7FFC600E,Stage 2 Max. Blast Ranges
+N,7FFC600E,Stage 2 Speed Increasers
+N,7FFC600E,Stage 2 Remote Detonators
+N,7FFC600E,Stage 2 Skull Curses
+N,7FFC600E,Stage 2 Bomb Throws
+N,7FFC600E,Stage 2 Bomb Kicks
+N,7FFC600E,Stage 2 P-Bombs
+N,7FFC600E,Stage 2 Bouncy Bombs
+N,7FFC600E,Stage 2 Life Save Hearts
+N,7FFC600E,Stage 2 Wall Walkers
+N,7FFC600E,Stage 2 Bomb Walkers
+N,7FFC600E,Stage 2 Apples
+N,7FFC600E,Stage 2 Ice Creams
+N,7FFC600E,Stage 3 Extra Bombs
+N,7FFC600E,Stage 3 Spike Bombs
+N,7FFC600E,Stage 3 Blast Ranges
+N,7FFC600E,Stage 3 Max. Blast Ranges
+N,7FFC600E,Stage 3 Speed Increasers
+N,7FFC600E,Stage 3 Remote Detonators
+N,7FFC600E,Stage 3 Skull Curses
+N,7FFC600E,Stage 3 Bomb Throws
+N,7FFC600E,Stage 3 Bomb Kicks
+N,7FFC600E,Stage 3 P-Bombs
+N,7FFC600E,Stage 3 Bouncy Bombs
+N,7FFC600E,Stage 3 Life Save Hearts
+N,7FFC600E,Stage 3 Wall Walkers
+N,7FFC600E,Stage 3 Bomb Walkers
+N,7FFC600E,Stage 3 Apples
+N,7FFC600E,Stage 3 Ice Creams
+N,7FFC600E,Stage 4 Extra Bombs
+N,7FFC600E,Stage 4 Spike Bombs
+N,7FFC600E,Stage 4 Blast Ranges
+N,7FFC600E,Stage 4 Max. Blast Ranges
+N,7FFC600E,Stage 4 Speed Increasers
+N,7FFC600E,Stage 4 Remote Detonators
+N,7FFC600E,Stage 4 Skull Curses
+N,7FFC600E,Stage 4 Bomb Throws
+N,7FFC600E,Stage 4 Bomb Kicks
+N,7FFC600E,Stage 4 P-Bombs
+N,7FFC600E,Stage 4 Bouncy Bombs
+N,7FFC600E,Stage 4 Life Save Hearts
+N,7FFC600E,Stage 4 Wall Walkers
+N,7FFC600E,Stage 4 Bomb Walkers
+N,7FFC600E,Stage 4 Apples
+N,7FFC600E,Stage 4 Ice Creams
+N,7FFC600E,Stage 5 Extra Bombs
+N,7FFC600E,Stage 5 Spike Bombs
+N,7FFC600E,Stage 5 Blast Ranges
+N,7FFC600E,Stage 5 Max. Blast Ranges
+N,7FFC600E,Stage 5 Speed Increasers
+N,7FFC600E,Stage 5 Remote Detonators
+N,7FFC600E,Stage 5 Skull Curses
+N,7FFC600E,Stage 5 Bomb Throws
+N,7FFC600E,Stage 5 Bomb Kicks
+N,7FFC600E,Stage 5 P-Bombs
+N,7FFC600E,Stage 5 Bouncy Bombs
+N,7FFC600E,Stage 5 Life Save Hearts
+N,7FFC600E,Stage 5 Wall Walkers
+N,7FFC600E,Stage 5 Bomb Walkers
+N,7FFC600E,Stage 5 Apples
+N,7FFC600E,Stage 5 Ice Creams
+N,7FFC600E,Stage 6 Extra Bombs
+N,7FFC600E,Stage 6 Spike Bombs
+N,7FFC600E,Stage 6 Blast Ranges
+N,7FFC600E,Stage 6 Max. Blast Ranges
+N,7FFC600E,Stage 6 Speed Increasers
+N,7FFC600E,Stage 6 Remote Detonators
+N,7FFC600E,Stage 6 Skull Curses
+N,7FFC600E,Stage 6 Bomb Throws
+N,7FFC600E,Stage 6 Bomb Kicks
+N,7FFC600E,Stage 6 P-Bombs
+N,7FFC600E,Stage 6 Bouncy Bombs
+N,7FFC600E,Stage 6 Life Save Hearts
+N,7FFC600E,Stage 6 Wall Walkers
+N,7FFC600E,Stage 6 Bomb Walkers
+N,7FFC600E,Stage 6 Apples
+N,7FFC600E,Stage 6 Ice Creams
+N,7FFC600E,Stage 7 Extra Bombs
+N,7FFC600E,Stage 7 Spike Bombs
+N,7FFC600E,Stage 7 Blast Ranges
+N,7FFC600E,Stage 7 Max. Blast Ranges
+N,7FFC600E,Stage 7 Speed Increasers
+N,7FFC600E,Stage 7 Remote Detonators
+N,7FFC600E,Stage 7 Skull Curses
+N,7FFC600E,Stage 7 Bomb Throws
+N,7FFC600E,Stage 7 Bomb Kicks
+N,7FFC600E,Stage 7 P-Bombs
+N,7FFC600E,Stage 7 Bouncy Bombs
+N,7FFC600E,Stage 7 Life Save Hearts
+N,7FFC600E,Stage 7 Wall Walkers
+N,7FFC600E,Stage 7 Bomb Walkers
+N,7FFC600E,Stage 7 Apples
+N,7FFC600E,Stage 7 Ice Creams
+N,7FFC600E,Stage 8 Extra Bombs
+N,7FFC600E,Stage 8 Spike Bombs
+N,7FFC600E,Stage 8 Blast Ranges
+N,7FFC600E,Stage 8 Max. Blast Ranges
+N,7FFC600E,Stage 8 Speed Increasers
+N,7FFC600E,Stage 8 Remote Detonators
+N,7FFC600E,Stage 8 Skull Curses
+N,7FFC600E,Stage 8 Bomb Throws
+N,7FFC600E,Stage 8 Bomb Kicks
+N,7FFC600E,Stage 8 P-Bombs
+N,7FFC600E,Stage 8 Bouncy Bombs
+N,7FFC600E,Stage 8 Life Save Hearts
+N,7FFC600E,Stage 8 Wall Walkers
+N,7FFC600E,Stage 8 Bomb Walkers
+N,7FFC600E,Stage 8 Apples
+N,7FFC600E,Stage 8 Ice Creams
+N,7FFC600E,Stage 9 Extra Bombs
+N,7FFC600E,Stage 9 Spike Bombs
+N,7FFC600E,Stage 9 Blast Ranges
+N,7FFC600E,Stage 9 Max. Blast Ranges
+N,7FFC600E,Stage 9 Speed Increasers
+N,7FFC600E,Stage 9 Remote Detonators
+N,7FFC600E,Stage 9 Skull Curses
+N,7FFC600E,Stage 9 Bomb Throws
+N,7FFC600E,Stage 9 Bomb Kicks
+N,7FFC600E,Stage 9 P-Bombs
+N,7FFC600E,Stage 9 Bouncy Bombs
+N,7FFC600E,Stage 9 Life Save Hearts
+N,7FFC600E,Stage 9 Wall Walkers
+N,7FFC600E,Stage 9 Bomb Walkers
+N,7FFC600E,Stage 9 Apples
+N,7FFC600E,Stage 9 Ice Creams
+N,7FFC600E,Stage 10 Extra Bombs
+N,7FFC600E,Stage 10 Spike Bombs
+N,7FFC600E,Stage 10 Blast Ranges
+N,7FFC600E,Stage 10 Max. Blast Ranges
+N,7FFC600E,Stage 10 Speed Increasers
+N,7FFC600E,Stage 10 Remote Detonators
+N,7FFC600E,Stage 10 Skull Curses
+N,7FFC600E,Stage 10 Bomb Throws
+N,7FFC600E,Stage 10 Bomb Kicks
+N,7FFC600E,Stage 10 P-Bombs
+N,7FFC600E,Stage 10 Bouncy Bombs
+N,7FFC600E,Stage 10 Life Save Hearts
+N,7FFC600E,Stage 10 Wall Walkers
+N,7FFC600E,Stage 10 Bomb Walkers
+N,7FFC600E,Stage 10 Apples
+N,7FFC600E,Stage 10 Ice Creams
+N,7FFC600E,Stage 11 Extra Bombs
+N,7FFC600E,Stage 11 Spike Bombs
+N,7FFC600E,Stage 11 Blast Ranges
+N,7FFC600E,Stage 11 Max. Blast Ranges
+N,7FFC600E,Stage 11 Speed Increasers
+N,7FFC600E,Stage 11 Remote Detonators
+N,7FFC600E,Stage 11 Skull Curses
+N,7FFC600E,Stage 11 Bomb Throws
+N,7FFC600E,Stage 11 Bomb Kicks
+N,7FFC600E,Stage 11 P-Bombs
+N,7FFC600E,Stage 11 Bouncy Bombs
+N,7FFC600E,Stage 11 Life Save Hearts
+N,7FFC600E,Stage 11 Wall Walkers
+N,7FFC600E,Stage 11 Bomb Walkers
+N,7FFC600E,Stage 11 Apples
+N,7FFC600E,Stage 11 Ice Creams
+N,7FFC600E,Stage 12 Ice Creams
+N,7FFC600E,Stage 12 Apples
+N,7FFC600E,Stage 12 Bomb Walkers
+N,7FFC600E,Stage 12 Wall Walkers
+N,7FFC600E,Stage 12 Life Save Hearts
+N,7FFC600E,Stage 12 Bouncy Bombs
+N,7FFC600E,Stage 12 Extra Bombs
+N,7FFC600E,Stage 12 Spike Bombs
+N,7FFC600E,Stage 12 Blast Ranges
+N,7FFC600E,Stage 12 Max. Blast Ranges
+N,7FFC600E,Stage 12 Speed Increasers
+N,7FFC600E,Stage 12 Remote Detonators
+N,7FFC600E,Stage 12 Skull Curses
+N,7FFC600E,Stage 12 Bomb Throws
+N,7FFC600E,Stage 12 Bomb Kicks
+N,7FFC600E,Stage 12 P-Bombs
+N,C99A-77A0+A092-7DD0+4B92-7DA0+0D92-7FD0+2D92-7F60,Hit Anywhere
+N,B58E-EFDD,Walk Through Chests
+N,7E80E100,Always Lay 0 Bomb
+N,7E80E101,Always Lay 1 Bomb
+N,7E80E110,Always Lay 10 Bombs
+N,7E80E164,Always Lay 100 Bombs
+N,7E80E1FF,Always Lay 255 Bombs
+N,7E80F200,Power Is 0
+N,7E80F201,Power Is 1
+N,7E80F210,Power Is 10
+N,7E80F264,Power Is 100
+N,7E80F2FF,Power Is 255
+N,7E80F001,Move Very Slow
+N,7E80F0FF,Move Fast
+N,7E80EF64,Unlimited Life
+N,7E80FE01,Have The Throw Ability
+N,7E80FF01,Have The Kick Bomb Ability
+N,DD76-5F65,Don't Die Jumping Into Water
+N,2DC5-87AF,Enemies Can't Kill You
+N,6D91-5F09+FC95-5DA9+8595-5FD9,Invincibility against Enemies
+N,DDC9-8D0F+FCC9-846F+85C9-84AF,Invincibility against Bombs
+N,CE4A-7474,Infinite Lives
+N,CEF0-7DA5,Infinite Time
+N,CBAC-84DD+D1AC-840D,Max Speed
+N,CB7F-570D+DB7F-576D,Max Bomb Quantity
+N,CB7B-5FAF+DB7B-54DF,Max Bomb Power
+N,CB7D-54AF+DD7D-57DF,Bomb Modifier
+N,DCD1-EFE7,Start with 9 Lives
+N,7E5E1432,Freeze Timer
+N,DFD8-77A0,Enable CPU Usage Meter
+N,DF74-54D5,Bomberman can jump in Normal (1P) Game
+N,DF4E-8DAD,Press R during Normal (1P) Game to Toggle Powerups
+N,DFEC-77A7,Enable Soft Reset Function
+N,DD73-740D,Have Punch Glove Ability
+N,6DC8-E467,Have Kick Bomb Ability

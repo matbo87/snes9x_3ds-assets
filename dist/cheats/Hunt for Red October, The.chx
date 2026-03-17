@@ -1,0 +1,22 @@
+N,DD34-4761,Start with 0 bombs instead of 40
+N,1734-4761,Start with 99 bombs
+N,C2AE-1404,Infinite bombs
+N,DD3F-47D1,Start with 0 torpedoes instead of 60
+N,173F-47D1,Start with 99 torpedoes
+N,C2A0-1D64,Infinite torpedoes
+N,DD34-44D1,Start with 0 Surface-to-Air Missiles [SAMs] instead of 25
+N,7434-44D1,Start with 50 SAMs
+N,1734-44D1,Start with 99 SAMs
+N,C2AB-CFD4,Infinite SAMs
+N,DD34-4D61,Start with 0 Surface-to-Surface Missiles [SSMs] instead of 25
+N,7434-4D61,Start with 50 SSMs
+N,1734-4D61,Start with 99 SSMs
+N,C2A7-3D64,Infinite SSMs
+N,DD3F-4F61,Start with 0 Electronic Countermeasures [ECMs] instead of 2
+N,743F-4F61,Start with 50 ECMs
+N,173F-4F61,Start with 99 ECMs
+N,C2AC-34D4,Infinite ECMs
+N,D4BA-1F64,Start in theatre I: Caribbean
+N,D1BA-1F64,Start in theatre II: North Pacific
+N,DABA-1F64,Start in theatre III: Mediterranean
+N,FDBA-1F64,Start on the final mission: Return to the USSR

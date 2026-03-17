@@ -1,0 +1,23 @@
+N,4F82-17AF+D583-1DDF,Energy bar refills itself about every 15 seconds
+N,DD82-14AF,Infinite energy
+N,C280-1F6F,Infinite lives
+N,D9C8-4DA4,Start with 6 lives [not when joining in]
+N,DFC8-4DA4,Start with 2 lives [not when joining in]
+N,DDA5-1DDF,Don't lose energy from doing a special attack
+N,4D65-1FF5+4D63-440E,1/2 energy for 1st life [you must get hit once]
+N,4DB0-CFDF,Start with less energy [after 1st life]
+N,C28B-47D4,Invincibility
+N,622B-37D8+CB2B-3468+962B-34A8,Infinite Energy
+N,3CAF-3DAF+3CAF-3FDF+CBAF-3F0F+5EAF-3F6F,One Hit Kill
+N,62A4-C70D+75A4-C76D+D5A4-C7AD+6DAF-CFAD+F0AF-C4DD+40A0-C7DD+40AA-370D+6DA9-CFDD+6DA9-34DD,Hit Anywhere
+N,7E072158,Infinite Health P1
+N,7E12E299,Infinite Lives P1
+N,7E076158,Infinite Health P2
+N,7E12E499,Infinite Lives P2
+N,7E082100+7E07E100+7E086100+7E07A100,1 Hit Kills Some Enemies
+N,7E07F509,Infinite Credits P1
+N,7E070200,Character Modifier P1
+N,7E803E00,Character Modifier P2
+N,7E0CDD00,Level Modifier
+N,7E0737FF,Invincibility
+N,DD32-4DA7,Jump in Midair

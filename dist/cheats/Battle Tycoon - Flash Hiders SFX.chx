@@ -1,0 +1,17 @@
+N,7E020D63,Infinite Points In Tune Up
+N,7E06EF09,Infinite Time
+N,7E02AB64,Infinite Health P1
+N,7E02AD64,Infinite A Gauge
+N,7E02AF64,Infinite G Gauge
+N,7E072F64,Infinite S Gauge
+N,7E03AB00,P2 No Health
+N,7E03AD00,P2 A Gauge Always Empty
+N,7E03AF00,P2 G Gauge Always Empty
+N,7E073F00,P2 S Gauge Always Empty
+N,7E213BFF+7E213CFF+7E213D26,Infinite Gold
+N,7E093A00,Character Modifier
+N,6D13-8DAF+F413-8FDF,Hit Anywhere P1
+N,6D12-E7DF+F412-E70F,Hit Anywhere P2
+N,F61E-EDDF,Invincibility P1
+N,F61E-8FAF,Invincibility P2
+N,DD77-87D4,Disable Blocking Both Players

@@ -1,0 +1,43 @@
+N,7E132C57,Infinite Health
+N,7E001709,9 Lives
+N,7E133000,One Hit Kill Enemy #1
+N,4D2C-4D07+4DCE-1465,Start with half energy after your first life
+N,DDB3-47D4,Start with 1 life
+N,D4B3-47D4,Start with 3 lives
+N,DBB3-47D4,Start with 10 lives
+N,F43C-3B10,Play as an Inmate
+N,F03C-3B10,Play as a Clown
+N,F63C-3B10,Play as Two-Face
+N,FC3C-3B10,Play as a Riddler Thug
+N,FA3C-3B10,Play as the Muscle Riddler
+N,EE22-C70B,Straight low punches are super strong
+N,EE20-3D0B,Straight high punches are super strong
+N,EE29-4F0B,Straight low kicks are super strong
+N,EE2C-44AB,Straight high kicks are super strong
+N,EE26-14AC,Crouching low punches are super strong
+N,EE30-3FA6,Crouching high punches are super strong
+N,EE3F-3D06,Crouching low kicks are super strong
+N,EE3A-CF06,Crouching high kicks are super strong
+N,DD22-C70B,Straight low punches do no damage
+N,DD20-3D0B,Straight high punches do no damage
+N,DD29-4F0B,Straight low kicks do no damage
+N,DD2C-44AB,Straight high kicks do no damage
+N,DD26-14AC,Crouching low punches do no damage
+N,DD30-3FA6,Crouching high punches do no damage
+N,DD3F-3D06,Crouching low kicks do no damage
+N,DD3A-CF06,Crouching high kicks do no damage
+N,7E106C02,P1 Character Modifier (palette doesn't change)
+N,7E128C38,Enemies Can't Hit You
+N,7E154C06,Super Jump
+N,7E150D01,Rise Into Sky
+N,7E010800,Level Modifier
+N,7E010A0A,Area Modifier
+N,7E133000+7E133200,1 Hit Kills
+N,6DE8-C93A,Hit Anywhere
+N,C964-CF04,Infinite Lives
+N,7E132C50,Infinite Health
+N,7E001705,Infinite Lives
+N,7E132EFF,P2 Infinite Health
+N,7E10AC02,Batman Can fly...Kinda
+N,7E01600A,Freeze Time
+N,DFA5-CC15,Enable Level Select

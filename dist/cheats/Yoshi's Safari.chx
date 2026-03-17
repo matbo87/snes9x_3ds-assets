@@ -1,0 +1,30 @@
+N,DFC9-4F82,1 minute for stage 1 instead of 4
+N,DBC9-4F82,9 minutes for stage 1
+N,DFC9-4472,1 minute for stage 2 instead of 4
+N,DBC9-4472,9 minutes for stage 2
+N,C2E9-47DE,Infinite time
+N,DF6B-1D60+DF26-15DF,Lose power more quickly
+N,D96B-1D00+D926-11AF,Lose power more slowly
+N,DF6C-1460+DF2B-156F,Gain power more quickly
+N,4D6C-1400+4D2B-150F,Gain power more slowly
+N,DD6B-1D00+DD26-11AF,Infinite power
+N,DBEF-1D6E,1-up with every coin after you get 10
+N,F3EF-1D6E,1-up with every coin after you get 30
+N,14EF-1D6E,1-up with every coin after you get 99
+N,DD67-1D50,Start with 1 life
+N,D067-1D50,Start with 5 lives
+N,DB67-1D50,Start with 10 lives
+N,C228-376D,Infinite lives
+N,C221-116D+C283-4FAE,Almost infinite health
+N,C28F-3D02,Don't lose coins when you miss a jump
+N,7E03A504,Always Get Perfect Bonus
+N,7E024200+7E024400+7E024A01+7E024601+7E024801+7E024C01,Bosses Have No Energy
+N,DF6B-1D60+DF26-15DF,Lose Power More Quickly
+N,D96B-1D00+D926-11AF,Lose Power More Slowly
+N,DF6C-1460+DF2B-156F,Gain Power More Quickly
+N,4D6C-1400+4D2B-150F,Gain Power More Slowly
+N,DD6B-1D00+DD26-11AF,Infinite Power
+N,C221-116D+C283-4FAE,Almost Infinite Health
+N,DBC9-4F82,9 Minutes For Stage 1 Instead Of 4
+N,DBC9-4472,9 Minutes For Stage 2 Instead Of 4
+N,C283-4FAE+C221-116D,Almost Infinite Health

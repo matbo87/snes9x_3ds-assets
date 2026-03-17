@@ -1,0 +1,12 @@
+N,F5AF-D5A1,Faster timer
+N,1DAF-DFA1,Slower timer
+N,6DB2-AF67,Player 1 starts with less energy
+N,6DC4-D764,Player 2 starts with less energy
+N,D7A1-0DA1,3 power points needed to get to next power level
+N,7E29F254,Infinite Time (Seconds)
+N,7E29F309,Infinite Time (Minutes)
+N,7E0A50FF,Infinite Health P1
+N,7E0B4000,No Health P2
+N,6DB2-AF67,Player 1 Starts With Less Energy (Doesn't Work Against Computer)
+N,6DC4-D764,Player 2 Starts With Less Energy (Doesn't Work Against Computer)
+N,D7A1-0DA1,3 Power Points Needed To Get To The Next Power Level

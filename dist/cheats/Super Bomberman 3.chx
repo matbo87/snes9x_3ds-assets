@@ -1,0 +1,45 @@
+N,C9D6-8F0A+96D6-8F6A+3CD6-8FAA,Hit Anywhere
+N,1005-5406+DD05-57D6,Walk Through Walls
+N,C29C-77DC,Infinite Time
+N,D6DB-EF2D,Start With 8 Bombs
+N,DDDC-E7FD,Start With 8 Bombs; Maximum Bomb Power; Maximum Speed; Remote Detonation; Kick Bomb; Throw Glove
+N,DDDC-E7FD+55DA-ED9D,Start With 8 Bombs; Maximum Bomb Power; Maximum Speed; Remote Detonation; Kick Bomb; Throw Glove; Gel Bombs; Power Bombs; Super Bombs
+N,55DA-E7BD,Start With Remote Detonation; Kick Bomb; Throw Glove; Gel Bombs; Power Bombs; Super Bombs; And Don't Lose Power-Ups When Dying
+N,CBD0-5724,Always Have Power (Super?) Bombs Effect
+N,7E17E33E,Infinite Time
+N,7E17E800,All Orbs Destroyed
+N,7E308E00,Boss Dies Without Being Hit
+N,7E034A09,Infinite Lives
+N,7E17E201,Infinite Time
+N,7E17E800+7E17EA00,Exits On All Stages Are Active
+N,7E12EC01+7E12ED01,1 Hit To Kill All Bosses
+N,7E6C6E0B,Auto Select SuperStar Battle Stage
+N,7E6C6E0C,Auto Select Happy Happy Battle Stage
+N,7E138FFF,Invincibility (Player 1)
+N,7E1390FF,Invincibility (Player 2)
+N,7E1391FF,Invincibility (Player 3)
+N,7E1392FF,Invincibility (Player 4)
+N,7E1393FF,Invincibility (Player 5)
+N,7E17DBFF,Set Score To 6 Million (Player 1)
+N,7E17DDFF,Set Score To 6 Million (Player 2)
+N,7E48B909,Set Max. Bomb Quantity (Player 1)
+N,7E48BA09,Set Max. Bomb Quantity (Player 2)
+N,7E48BB09,Set Max. Bomb Quantity (Player 3)
+N,7E48BC09,Set Max. Bomb Quantity (Player 4)
+N,7E48BD09,Set Max. Bomb Quantity (Player 5)
+N,7E144F7F,Set Max. Bomb Power (Player 1)
+N,7E14507F,Set Max. Bomb Power (Player 2)
+N,7E14517F,Set Max. Bomb Power (Player 3)
+N,7E14527F,Set Max. Bomb Power (Player 4)
+N,7E14537F,Set Max. Bomb Power (Player 5)
+N,7E1257FF,Set Max. Speed (Player 1)
+N,7E1258FF,Set Max. Speed (Player 2)
+N,7E1259FF,Set Max. Speed (Player 3)
+N,7E125AFF,Set Max. Speed (Player 4)
+N,7E125BFF,Set Max. Speed (Player 5)
+N,7E48D100,Set Abilities (Player 1)
+N,7E48D200,Set Abilities (Player 2)
+N,7E48D300,Set Abilities (Player 3)
+N,7E48D400,Set Abilities (Player 4)
+N,7E48D500,Set Abilities (Player 5)
+N,7E290A0B,Stage "Scene" Select

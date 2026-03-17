@@ -1,0 +1,71 @@
+N,DD81-47DB+DD88-4DDB,Medical packs aren't used up
+N,DF2A-1DD7,Start each away mission with 1 medical pack
+N,D42A-1DD7,Start each away mission with 2 medical packs
+N,D02A-1DD7,Start each away mission with 4 medical packs [only 3 shown]
+N,D92A-1DD7,Start each away mission with 5 medical packs [only 3 shown]
+N,DDAF-446C,Phaser power doesn't go down
+N,F62A-1467,Start away missions with phasers at 1/2 power
+N,402A-1467,Start away missions with phasers at 3/4 power
+N,DA2A-1467,Start away missions with phasers at 1/4 power
+N,6D86-4FAB,Medical packs heal more
+N,D486-44DB,Medical packs heal twice as much
+N,D786-44DB,Medical packs heal completely
+N,8EA4-4FD6,Crew members are immune to enemy fire
+N,DFB2-1DF7,Forward torpedoes reload much faster
+N,D4B2-1DF7,Forward torpedoes reload faster
+N,DFB8-1FF7,Aft torpedoes reload much faster
+N,D4B8-1FF7,Aft torpedoes reload faster
+N,C26C-3FFD,Forward torpedoes don't require recharging
+N,C267-342D,Aft torpedoes don't require recharging
+N,D6B4-1F27,Enemy shields regenerate at half speed
+N,D0B4-1F27,Enemy shields regenerate at 1/4 speed
+N,DDB4-1F27,Enemy shields don't regenerate
+N,F6B4-1F27,Enemy shields regenerate faster
+N,3C6A-14FF,Forward phasers never lose power
+N,C2B3-4DB7,Forward phasers don't recharge
+N,3C69-17BF,Aft phasers never lose power
+N,C2BE-44F7,Aft phasers don't recharge
+N,D764-1D24,Torpedoes do half damage
+N,D064-1D24,Torpedoes do less damage
+N,D564-1D24,Torpedoes do slightly more damage
+N,D664-1D24,Torpedoes do more damage
+N,DB64-1D24,Torpedoes do much more damage
+N,DA64-1D24,Torpedoes do double damage
+N,DD81-47DB+DD88-4DDB,Medical Packs Aren't Used Up
+N,3C2E-3F22,Infinite Resources (In Engineering)
+N,DD0D-4DDD,Start With 10 Lives
+N,40B8-04AF,Infinite Lives
+N,D02A-1DD7,Start Each Away Mission With 4 Medical Packs (Only 3 Shown)
+N,D92A-1DD7,Start Each Away Mission With 5 Medical Packs (Only 3 Shown)
+N,DE6E-1466,Enemies Have Less Energy
+N,4EB7-1DD6,Abobo Has Less Energy
+N,4EB3-C4DB,Big Blag Has Less Energy
+N,D7BA-3FA8,Roper Has Less Energy
+N,D7C5-3F66,Robo-Manus Has Less Energy
+N,8EA4-4FD6,Crew Members Are Immune To Enemy Fire Space Combat Codes
+N,C267-342D,Aft Torpedoes Don't Require Recharging
+N,C26C-3FFD,Forward Torpedoes Don't Require Recharging
+N,3C69-17BF,Aft Phasers Never Lose Power
+N,3C6A-14FF,Forward Phasers Never Lose Power
+N,D764-1D24,Torpedoes Do Half Damage
+N,D064-1D24,Torpedoes Do Less Damage
+N,D564-1D24,Torpedoes Do Slightly More Damage
+N,D664-1D24,Torpedoes Do More Damage
+N,DB64-1D24,Torpedoes Do Much More Damage
+N,DA64-1D24,Torpedoes Do Double Damage
+N,C2B3-4DB7,Forward Phasers Don't Recharge
+N,C2BE-44F7,Aft Phasers Don't Recharge
+N,DDB4-1F27,Enemy Shields Don't Regenerate
+N,D0B4-1F27,Enemy Shields Regenerate At 1/4 Speed
+N,D6B4-1F27,Enemy Shields Regenerate At Half Speed
+N,F6B4-1F27,Enemy Shields Regenerate Faster
+N,DFB8-1FF7,Aft Torpedoes Reload Much Faster
+N,D4B8-1FF7,Aft Torpedoes Reload Faster
+N,DFB2-1DF7,Forward Torpedoes Reload Much Faster
+N,D4B2-1DF7,Forward Torpedoes Reload Faster
+N,DD65-DD0D+CB66-D46D+DF66-D4AD,Start On Level 2 With 11 Lives
+N,DD65-DD0D+CB66-D46D+D466-D4AD,Start On Level 3 With 11 Lives
+N,DD65-DD0D+CB66-D46D+D766-D4AD,Start On Level 4 With 11 Lives
+N,DD65-DD0D+CB66-D46D+D066-D4AD,Start On Level 5 With 11 Lives
+N,DD65-DD0D+CB66-D46D+D966-D4AD,Start On Level 6 With 11 Lives
+N,7E836DFF,Infinite Resources

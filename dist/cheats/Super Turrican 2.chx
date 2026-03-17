@@ -1,0 +1,45 @@
+N,7E0AF202,Infinite Lives
+N,7E0AEA03+7E0AEB55,Infinite Time
+N,7E0AEE0C,Infinite Health
+N,7E0AF403,Infinite Bombs
+N,7E034A01,Have Missile Sub Weapon
+N,7E007E01,Stage Modifier
+N,DDC3-1D05,Start with 0 bombs
+N,DFC3-1D05,Start with 1 bomb
+N,D9C3-1D05,Start with 5 bombs
+N,DCC3-1D05,Start with 10 bombs
+N,DDC3-1FA5,Start with 1 life
+N,D0C3-1FA5,Start with 5 lives
+N,DBC3-1FA5,Start with 10 lives
+N,D3C3-1FA5,Start with 15 lives
+N,DFC3-1705,Start your first life with very little energy
+N,D7C3-1705,Start your first life with 1/4 energy
+N,D5C3-1705,Start your first life with 1/2 energy
+N,DCC3-1705,Start your first life with 3/4 energy
+N,DFC3-34A7,Start all lives after your first with very little energy
+N,D7C3-34A7,Start all lives after your first with 1/4 energy
+N,D5C3-34A7,Start all lives after your first with 1/2 energy
+N,DCC3-34A7,Start all lives after your first with 3/4 energy
+N,C2C6-1FD7,Almost infinite energy
+N,C266-44A5,Infinite smart bombs
+N,C2C5-37A7,Almost infinite lives unless you fall off screen
+N,C2CD-3FA6,Can't pick up anymore smart bombs
+N,D0A7-37D7,Weapon powerups give you full power
+N,D4A0-34A7,Start with flame thrower
+N,82C1-4FAF,Infinite energy wheel energy
+N,D7BC-3F6F,Start with very little energy wheel energy
+N,D8BC-3F6F,Start with 1/4 energy wheel energy
+N,F9BC-3F6F,Start with 1/2 energy wheel energy
+N,44BC-3F6F,Start with 3/4 energy wheel energy
+N,C2C5-CF66,Hearts are worth nothing
+N,C28C-C400,Infinite time
+N,7E033600,Gun Modifier
+N,7E033C04,Max. Spread Shot Level
+N,7E033E04,Max. Rebound Level
+N,7E034004,Max. Laser Level
+N,7E034204,Max. Flame-thrower Level
+N,FAE3-176D+6D26-CF64+FE26-CFA4,Hit Anywhere
+N,EEC3-1FA5,Start with 255 lives
+N,1DC0-4FA7,Invincible
+N,1DCD-1767,Invincible (Alternate)
+N,E6CD-C40D,Jump Height Modifier

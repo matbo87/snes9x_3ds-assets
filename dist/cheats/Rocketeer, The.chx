@@ -1,0 +1,53 @@
+N,DF6C-07AF,Start with 1 chance instead of 3
+N,D46C-07AF,Start with 2 chances
+N,D06C-07AF,Start with 4 chances
+N,D96C-07AF,Start with 5 chances
+N,D16C-07AF,Start with 6 chances
+N,D56C-07AF,Start with 7 chances
+N,D66C-07AF,Start with 8 chances
+N,DB6C-07AF,Start with 9 chances
+N,8260-0FA7,Infinite chances
+N,DD62-67AF,Automatically win first race at Bigelow
+N,DF62-67AF,First race at Bigelow is 1 lap instead of 10
+N,D962-67AF,First race at Bigelow is 5 laps
+N,DE62-67AF,First race at Bigelow is 15 laps
+N,FB62-67AF,First race at Bigelow is 25 laps
+N,7462-67AF,First race at Bigelow is 50 laps
+N,1762-67AF,First race at Bigelow is 99 laps
+N,DD63-6DDF,Automatically win second race at Bigelow
+N,DF63-6DDF,Second race at Bigelow is 1 lap
+N,D963-6DDF,Second race at Bigelow is 5 laps
+N,DC63-6DDF,Second race at Bigelow is 10 laps
+N,FB63-6DDF,Second race at Bigelow is 25 laps
+N,7463-6DDF,Second race at Bigelow is 50 laps
+N,1763-6DDF,Second race at Bigelow is 99 laps
+N,DD63-6D0F,Automatically win third race at Bigelow
+N,DF63-6D0F,Third race at Bigelow is 1 lap instead of 10
+N,D963-6D0F,Third race at Bigelow is 5 laps
+N,FB63-6D0F,Third race at Bigelow is 25 laps
+N,7463-6D0F,Third race at Bigelow is 50 laps
+N,1763-6D0F,Third race at Bigelow is 99 laps
+N,C988-0FAD,Protection against guns in Hanger [only partly against grenades]
+N,0C6D-A4DF,Cliff starts with 2/3 normal energy in hangar
+N,496D-A4DF,Cliff starts with 1/3 normal energy in hangar
+N,0C6D-A7AF,Enemies start with 2/3 normal energy in hangar
+N,496D-A7AF,Enemies start with 1/3 normal energy in hangar
+N,C98C-DD0F,Protection against Armored Flying Tank
+N,C961-A767,Infinite super shots on pick-up
+N,DD6B-D76F,Super shots worth nothing on pick-up instead of 3
+N,D16B-D76F,Super shots worth 6 on pick-up (You can't get more than 29)
+N,DB6B-D76F,Super shots worth 9 on pick-up (You can't get more than 29)
+N,DA6B-D76F,Super shots worth 12 on pick-up (You can't get more than 29)
+N,C964-6FDD,Invincibility in the skies
+N,C9A0-A40F,Protection against enemy rocketmen on the Zeppelin
+N,10A8-DFDF,Easily defeat enemy rocketmen on the Zeppelin
+N,10A6-DDDD,Easily defeat Nefarious Villain
+N,7E09390A+7E009100,No Laps To Go on Races 1 and 3
+N,7E09390F+7E009100,No Laps To Go on Race 2
+N,7E009D63,Infinite Spreading Bullets (Flying Levels Only)
+N,7E002B99,Infinite Health
+N,7E073D03,Infinite Lives
+N,DA6B-D76F,Super Shots Worth 12 On Pick-Up
+N,496D-A7AF,Enemies Start With 1/3 Normal Energy In Hanger
+N,C988-0FAD,Protection Against Guns (Only In Hanger)
+N,C98C-DD0F,Protection From Armored Flying Tank

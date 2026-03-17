@@ -1,0 +1,46 @@
+N,DFBF-A767,Paperboy starts with 1 life instead of 5
+N,D7BF-A767,Paperboy starts with 3 lives
+N,D5BF-A767,Paperboy starts with 7 lives
+N,DBBF-A767,Paperboy starts with 9 lives
+N,FBBF-A767,Paperboy starts with 25 lives
+N,74BF-A767,Paperboy starts with 50 lives
+N,17BF-A767,Paperboy starts with 99 lives
+N,DFB5-ADD7,Papergirl starts with 1 life instead of 5
+N,D7B5-ADD7,Papergirl starts with 3 lives
+N,D5B5-ADD7,Papergirl starts with 7 lives
+N,DBB5-ADD7,Papergirl starts with 9 lives
+N,FBB5-ADD7,Papergirl starts with 25 lives
+N,74B5-ADD7,Papergirl starts with 50 lives
+N,17B5-ADD7,Papergirl starts with 99 lives
+N,DDBE-6404,Infinite lives [but game still ends when all subscriptions are canceled]
+N,FBC6-DFAD,Start with 25 papers instead of 10
+N,74C6-DFAD,Start with 50 papers
+N,17C6-DFAD,Start with 99 papers
+N,DD6D-6F60,Paper bundles worth 0 if you have less than 10
+N,D96D-6F60,Paper bundles worth 5 if you have less than 10
+N,F06D-6F60,Paper bundles worth 20 if you have less than 10
+N,F36D-6F60,Paper bundles worth 30 if you have less than 10
+N,466D-6F60,Paper bundles worth 40 if you have less than 10
+N,746D-6F60,Paper bundles worth 50 if you have less than 10
+N,DFC1-0FAF,Continue next life with 1 paper if you had less than 10
+N,D9C1-0FAF,Continue next life with 5 papers if you had less than 10
+N,F0C1-0FAF,Continue next life with 20 papers if you had less than 10
+N,F3C1-0FAF,Continue next life with 30 papers if you had less than 10
+N,46C1-0FAF,Continue next life with 40 papers if you had less than 10
+N,74C1-0FAF,Continue next life with 50 papers if you had less than 10
+N,DD88-D464,Infinite papers
+N,DB6A-ADA0,Start with 79 seconds instead of 39 in Week 1 training course
+N,D56A-ADA0,Start with 59 seconds in Week 1 training course
+N,D76A-ADA0,Start with 19 seconds in Week 1 training course
+N,DD67-D4D9,Infinite time in training course
+N,7E0DB00A,Infinite Papers
+N,7E0DA005,Infinite Lives
+N,7E0DA101,Always Play a 2 Player Game
+N,7E0DAE01,Crash to Advance to the Next Day - Player 1
+N,7E0DAF01,Crash to Advance to the Next Day - Player 2
+N,7E0DB601,Activate Code to Completely Stop - Player 1
+N,7E0DB701,Activate Code to Completely Stop - Player 2
+N,7E0DC601,Jump Over Most Obstacles - Player 1
+N,7E0DC701,Jump Over Most Obstacles - Player 2
+N,7E0DB10A,Infinite Papers - Player 2
+N,7E0DA105,Infinite Lives - Player 2

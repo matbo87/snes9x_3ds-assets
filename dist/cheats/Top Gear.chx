@@ -1,0 +1,40 @@
+N,972B-0F64,Start with 1/2 fuel
+N,5A2B-0F64,Start with 3/4 fuel
+N,C225-6429,Infinite fuel [player 1]
+N,C223-6D95,Infinite fuel [player 2]
+N,DD63-6DDD,Start with no nitro boosts instead of 3
+N,DF63-6DDD,Start with 1 nitro boost
+N,D463-6DDD,Start with 2 nitro boosts
+N,D163-6DDD,Start with 6 nitro boosts
+N,DB63-6DDD,Start with 9 nitro boosts
+N,3C84-6D64,Infinite nitro boosts [player 1]
+N,3C86-64A4,Infinite nitro boosts [player 2]
+N,C280-6FA4,Nitro boost lasts until end of race [player 1]
+N,C288-6DD4,Nitro boost lasts until end of race [player 2]
+N,6DB7-AFEA,Race in any country
+N,7E1F0000+7E1F1200+7E1E7A00,Always Finish First
+N,7E1E63A7,Infinite Fuel
+N,F6CE-0D6D,Always Finish First
+N,3C84-6D64,Infinite Nitro Boosts (Player 1)
+N,C280-6FA4,Nitro Lasts The Whole Race (Player 1)
+N,3C86-64A4,Infinite Nitro Boosts (Player 2)
+N,C225-6429,Infinite Fuel (Player 1)
+N,C223-6D95,Infinite Fuel (Player 2)
+N,7E1E63FF,Infinite Fuel (Player 1)
+N,7E1E65FF,Infinite Fuel (Player 2)
+N,7E1E6C02,Infinite Nitro (Player 1)
+N,7E1E6E02,Infinite Nitro (Player 2)
+N,C229-D4F1,Don't Slow Down Offroad
+N,DD23-6499,Don't Slow Down Obstacles
+N,DD38-DF29+DD38-D7F9,Don't Slow Down Against Cars
+N,7E1E7209,Player 1's Top Speed Can Reach Over 200 MPH
+N,7E1E7409,Player 2's Top Speed Can Reach Over 200 MPH
+N,7E1E5801,Player 1's Nitro Stays Active Once Used the Entire Race
+N,7E1E5A01,Player 2's Nitro Stays Active Once Used the Entire Race
+N,7E1E5B5F,Player 1 Auto Race at 350 MPH
+N,7E1E5D5F,Player 2 Auto Race at 350 MPH
+N,7E1E5C01,Player 2 Has a Low Top Speed
+N,7E1E62FF,Player 1 Consumes Fuel Much Slower
+N,7E1E6401,Player 2 Consumes Fuel Much Faster
+N,7E1E6D01,Player 1's Nitros are Disabled
+N,7E1E6F01,Player 2's Nitros are Disabled

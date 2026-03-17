@@ -1,0 +1,51 @@
+N,DFA0-670D,Start with 1 life on the ground instead of 5
+N,D7A0-670D,Start with 3 lives on the ground
+N,D5A0-670D,Start with 7 lives on the ground
+N,DBA0-670D,Start with 9 lives on the ground
+N,C2E0-6F0D,Infinite lives on the ground
+N,DF68-DDAD,Start with 1 life in the air instead of 5
+N,D768-DDAD,Start with 3 lives in the air
+N,D568-DDAD,Start with 7 lives in the air
+N,DB68-DDAD,Start with 9 lives in the air
+N,C26C-6F08,Infinite lives in the air
+N,DDE7-6F6D,Start with 0 grenades and darts instead of 10
+N,D9E7-6F6D,Start with 5 grenades and darts
+N,FBE7-6F6D,Start with 25 grenades and darts
+N,74E7-6F6D,Start with 50 grenades and darts
+N,17E7-6F6D,Start with 99 grenades and darts
+N,DDA9-640D+CEE7-64AD,Start with 0 darts instead of 10
+N,D9A9-640D+CEE7-64AD,Start with 5 darts
+N,FBA9-640D+CEE7-64AD,Start with 25 darts
+N,74A9-640D+CEE7-64AD,Start with 50 darts
+N,17A9-640D+CEE7-64AD,Start with 99 darts
+N,C22A-6FBC,Infinite grenades
+N,C227-DDF8,Infinite darts
+N,C23D-6FBC,Hearts worth 0
+N,CE2B-D4B6,Infinite health [but you can still be hurt by some things]
+N,DD34-679C,Large red grenade worth 0 instead of 5
+N,DC34-679C,Large red grenade worth 10
+N,F034-679C,Large red grenade worth 20
+N,F334-679C,Large red grenade worth 30
+N,4634-679C,Large red grenade worth 40
+N,3C3A-ADFC,Small silver grenade worth 0 instead of 1
+N,CBAC-6D0D+DFAC-6D6D,Start on level 3
+N,CBAB-67AD+D0AC-6DDD+6DAC-6D0D,Start on level 3; part 2
+N,CBAB-67AD+D5AC-6DDD+6DAC-6D0D,Start on level 3; part 3
+N,CBAC-6D0D+D4AC-6D6D,Start on level 5
+N,CBAB-67AD+D9AC-6DDD+6DAC-6D0D,Start on level 5; part 2
+N,CBAB-67AD+D6AC-6DDD+6DAC-6D0D,Start on level 5; part 3
+N,CBAC-6D0D+D7AC-6D6D,Start on level 7
+N,CBAB-67AD+D1AC-6DDD+6DAC-6D0D,Start on level 7; part 2
+N,CBAB-67AD+DBAC-6DDD+6DAC-6D0D,Start on level 7; part 3
+N,6D26-D496,Untouchable
+N,CBAC-6D0D+DFAC-6D6D,Start On Level 3
+N,CBAC-6D0D+D4AC-6D6D,Start On Level 5
+N,CBAC-6D0D+D7AC-6D6D,Start On Level 7
+N,CBAB-67AD+D0AC-6DDD+6DAC-6D0D,Start On Level 3; Part 2
+N,CBAB-67AD+D9AC-6DDD+6DAC-6D0D,Start On Level 5; Part 2
+N,CBAB-67AD+D1AC-6DDD+6DAC-6D0D,Start On Level 7; Part 2
+N,CBAB-67AD+D5AC-6DDD+6DAC-6D0D,Start On Level 3; Part 3
+N,CBAB-67AD+D6AC-6DDD+6DAC-6D0D,Start On Level 5; Part 3
+N,CBAB-67AD+DBAC-6DDD+6DAC-6D0D,Start On Level 7; Part 3
+N,CE2B-D4B6,Infinite Health (But You Can Still Be Hurt By Some Things)
+N,7E0745FF,Invincibility

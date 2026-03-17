@@ -1,0 +1,16 @@
+N,108D-0FA7,Infinite fuel
+N,4DE7-CD0F,Reduce gravity
+N,CDE7-CD0F,Increase gravity
+N,E2EF-6F0F,Increase rocket pack thrust power 3x
+N,DD8E-AFD5,Infinite time [switch off to detach hang glider from plane]
+N,E2EF-CD0F,Increase Rocket Pack Thrust Power 3X
+N,7E0CAB00,Aircraft Modifier
+N,7E004CCF+7E004CFF,Max. Gain of Altitude
+N,7E1F8200,Set Light Plane Points To 99
+N,7E1F8800+7E1F8909,Set Skydiving Points To 99
+N,7E1F8600+7E1F8709,Set Rocket Belt Points To 99
+N,7E1F8400+7E1F8509,Set Hang Glider Points To 99
+N,7E1A-BD1C,Infinite Time
+N,7E009E00,Start At Level (Turnoff To Continue Game)
+N,7E0C1900+7E0C1A00+7E0C1C00+7E0C1D00,Infinite Time
+N,7E0C5955+7E0C5A55+7E0C5B55+7E0C5C55+7E0C5D55+7E0C5F55,Infinite Fuel

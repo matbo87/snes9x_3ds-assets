@@ -1,0 +1,39 @@
+N,DB8F-DF64,More bullets in magazine
+N,DD8D-D7A4,Infinite magazines
+N,D4CA-A7AF,Pick up 2 magazines for 1
+N,D0CA-A7AF,Pick up 4 magazines for 1
+N,DB6A-AF6F,Start with more magazine clips
+N,DF6A-AF6F,Start with fewer magazine clips
+N,148B-6F0F,Slower timer
+N,FE8B-6F0F,Faster timer
+N,C285-670F,Stop timer
+N,4ABE-AFD7,Infinite badges
+N,D162-A7DF,Start with more badges
+N,DD62-A7DF,Start with fewer badges
+N,3CBD-04DF,Super jump [can get stuck]
+N,7E024600,Character Modifier
+N,7E022606,Infinite Health
+N,7E025E50,Walk Through Enemies
+N,7E022209,Infinite Rounds
+N,7E0F1E00+7E0F1F00,Keep Jumping to get higher / walk on air
+N,7E024800,Level Modifier
+N,7E0EA605,No animation
+N,7E0E568B,Gun Show
+N,7E008FC0,Swimmer
+N,7E021E07,Infinite Bullets
+N,7E0D2899+7E0D2909,Infinite Time
+N,7E022606,Infinite Badges (Hits)
+N,DF6A-AF6F,Start With Less Magazine Clips
+N,DB6A-AF6F,Start With Less Magazine Clips
+N,DD62-A7DF,Start With Fewer Badges
+N,D162-A7DF,Start With More Badges
+N,3CBD-04DF,Super Jump (Can Get Stuck)
+N,4ABE-AFD7,Infinite Badges
+N,D4CA-A7AF,Pick Up 2 Magazines For 1
+N,D0CA-A7AF,Pick Up 4 Magazines For 1
+N,C285-670F,Stop Timer
+N,FE8B-6F0F,Faster Timer
+N,148B-6F0F,Slower Timer
+N,DD8D-D7A4,Infinite Magazines
+N,DB8F-DF64,More Bullets In Magazine
+N,6DB8-DF6F,Jump in Midair

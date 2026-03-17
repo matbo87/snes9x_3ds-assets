@@ -1,0 +1,19 @@
+N,828D-D409,Infinite special moves
+N,DFC3-6D69,Start with 1 special move
+N,D6C3-6D69,Start with 8 special moves
+N,BAC3-6F69,No special moves for player 2
+N,D4C3-0DAD,Player 1 can play with any boxer
+N,DCC3-0FDD,Less strength
+N,DCC3-0F0D,Less resistance
+N,DCC3-0F6D,Less reflexes
+N,74C3-0FDD,More strength
+N,74C3-0F0D,More resistance
+N,74C3-0F6D,More reflexes
+N,D68F-AD65,Almost infinite energy
+N,7E1A3900,Time Modifier
+N,7E1F0D00+7E1F1100,Round Modifier
+N,7E0221FF,Infinite Health
+N,7E022200,Opponent Has No Health
+N,7E045563,Max Resistance
+N,7E045763,Max Strength
+N,7E045963,Max Reflexes

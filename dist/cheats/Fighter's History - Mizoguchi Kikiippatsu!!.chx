@@ -1,0 +1,19 @@
+N,7E080400,Enable Chelnov
+N,7E0AA800,Player 1's win modifier
+N,7E0CA800,Player 2's win modifier
+N,7E0AA104,Player 1's weakness item cannot be dropped so easily
+N,7E0CA104,Player 2's weakness item cannot be dropped so easily
+N,7E0AA700,Player 1's Costume Color Modifier
+N,7E0CA700,Player 2's Costume Color Modifier
+N,7E0A6886+7E0A699F+7E0A6A01,Player 1 9999900 Score Modifier
+N,7E0C6886+7E0C699F+7E0C6A01,Player 2 9999900 Score Modifier
+N,7E0A8D00,Player 1 Remove Weakness Item
+N,7E0C8D00,Player 2 Remove Weakness Item
+N,6D8A-8FDD+6D83-84DD,Hit Anywhere Both Players
+N,6D81-54D4,Disable Blocking Both Players
+N,7E00B563,Infinite Time
+N,7E0AA0FF,Infinite Health
+N,7E0CA001,1 Hit Win (Player 2's Health)
+N,7E094C00,Stage Modifier
+N,7E0A0000,Character Modifier P1
+N,7E0C0000,Character Modifier P2

@@ -1,0 +1,33 @@
+N,7E109410,Infinite Shots Left
+N,7E109703,You Get LOTS Of Extra Shots For Every Ball You Hit In
+N,7E10A2E7+7E10A303,Always Have Enough Points To Get To Next Level
+N,7E143100,Check number of ball modifier
+N,7E06DB00,Next ball Modifier
+N,7E153C10,Cue Ball always flashes
+N,7E153C02,Star; Zone; or Super Ball power-ups are disabled
+N,7E102E0A,Always player's turn modifier
+N,7E14D302,All shots never foul
+N,7E14D300,Every shot is a foul
+N,7E14D602,Player 1 never has any fouls (on stock meter)
+N,7E14D702,Player 2 never has any fouls (on stock meter)
+N,7E0B6100,Music Modifier
+N,7E0B6200,Music On / Off Modifier
+N,7E140C01,Tracking Line dots don't move
+N,7E143500,Shot Power Modifier
+N,7E143800,No Bonus points for sinking shots into Bonus Pockets
+N,7E1440BE,Vertical Cue Stick Strike Position Modifier
+N,7E1441BE,Horizontal Cue Stick Strike Position Modifier
+N,7E147501,Simplified Cue Stick Strike Points
+N,7E14D800,Ball in hand rules are always off
+N,7E14B501+7E14B601+7E14B701+7E14B801+7E14B901+7E14BA01+7E14BB01+7E14BC01+7E14BD01+7E14BE01+7E14BF01+7E14C001,Glasses never break (visually) in trick shot mode
+N,7E14A801+7E14A901+7E14AA01+7E14AB01+7E14AC01+7E14AD01+7E14AE01+7E14AF01+7E14B001+7E14B101+7E14B201,Glasses in trick shot mode are positioned off the table
+N,7E14CD00,"NO" on pocket modifier during trick shot mode
+N,C2CE-1FAF,Infinite Shots - Pocket Game
+N,7E109463,Infinite Shots - Pocket Game
+N,FB66-CDDD,Start with 25 Shots - Pocket Game
+N,7466-CDDD,Start with 50 Shots - Pocket Game
+N,0866-CDDD,Start with 75 Shots - Pocket Game
+N,1766-CDDD,Start with 99 Shots - Pocket Game
+N,7E143101,Easier to Adjust the Cue Strike Position
+N,7E146901,Hand & Cue Stick are Invisible During Shots
+N,7E148E01,Unable to Adjust Cue Strike Position

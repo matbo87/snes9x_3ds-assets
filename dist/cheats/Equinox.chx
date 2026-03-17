@@ -1,0 +1,24 @@
+N,C28F-AF4D,Protection from most small monsters
+N,3CA0-0DC7,Infinite life energy
+N,CEAE-0D17,Infinite magic [must have enough MP for spell to work]
+N,CB2A-C4D9,More energy from apples
+N,4F27-1F00+4020-1FD0,Super jump
+N,FC27-1F00+4020-1FD0,Mega-jump
+N,DD86-674F+3C86-671F,Colored doors don't need keys
+N,B32C-4FA0+CD2C-4700,Super speed
+N,D9AC-6437,'Slow' spell lasts 2x as long
+N,D6AC-6437,'Slow' spell lasts 3x as long
+N,D9AB-6FC7,'Freeze' spell lasts 2x as long
+N,D6AB-6FC7,'Freeze' spell lasts 3x as long
+N,7E1F2D00,Invincible To Everything
+N,7E0F1C00,Lower Room Exit Modifier
+N,7E1F110C,Have All 12 Tokens
+N,7E1F05E7+7E1F0603,999 Score Modifier
+N,7E1F07E7+7E1F0803,Infinite Green Keys
+N,7E1F09E7+7E1F0A03,Infinite Blue Keys
+N,7E1F0BE7+7E1F0C03,Infinite Red Keys
+N,7E1F0DE7+7E1F0E03,Infinite White Keys
+N,7E1F6900,One Hit Kills Bosses
+N,7E116C00+7E11BC00+7E120C00+7E125C00,One Hit Kills Enemies
+N,7E116601+7E11B601+7E120601+7E125601+7E12A601+7E12F601+7E134601,Open Doors
+N,C285-6FCD+4B85-6F3D+4D85-64CD+2D85-674D+DA81-674D,Walk Through Walls

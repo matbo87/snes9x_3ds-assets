@@ -1,0 +1,5 @@
+N,D085-A7DD+EA8B-AFDD,Fast Side-To-Side Movement
+N,D185-A7DD+EC8B-AFDD,Very Fast Side-To-Side Movement
+N,DD8B-AFDD,Very Slow Side-To-Side Movement
+N,EA8B-AFDD+D085-A7DD,Faster side-to-side movement
+N,EC8B-AFDD+D185-A7DD,Even faster side-to-side movement

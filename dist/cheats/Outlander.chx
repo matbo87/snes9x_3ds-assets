@@ -1,0 +1,21 @@
+N,D980-47A1,Start with more car ammo
+N,DD80-47A1,Start with less car ammo
+N,1A89-4FD1,Start with more handgun ammo
+N,FD89-4FD1,Start with less handgun ammo
+N,DD69-45A4,Infinite handgun ammo
+N,DD67-C1A4,Car ammo worth nothing on pick-up
+N,D467-C5D4,Car ammo worth more on pick-up
+N,DD63-C0A4,Water worth nothing on pick-up
+N,DF63-C9D4,Water worth more on pick-up
+N,DD66-C064,Hand gun ammo worth nothing on pick-up
+N,DD6A-C0D4,Food worth nothing on pick-up
+N,C260-CF07+C260-6F07,Infinite health while in the car
+N,C9B6-450D,Almost infinite health while out of the car [except when you eat poisonous food]
+N,D480-4F61,Start with more fuel
+N,DD6F-C004,Gas can worth nothing on pick-up
+N,D46F-C064,Gas can worth more on pick-up
+N,C285-C7D9,Infinite surface-to-air missiles if you have at least one
+N,7E07E901,Restore health in side scrolling mode
+N,7E0404FF+7E040501,Infinite health in side scrolling mode
+N,C260-6F07+C260-CF07,Infinite Health While In The Car
+N,C9B6-450D,Almost Infinite Health While Out Of The Car (Except When You Eat Poisonous Food)

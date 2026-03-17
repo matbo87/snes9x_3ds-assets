@@ -1,0 +1,31 @@
+N,DD3F-0F61,Start with 0 chaff instead of 12
+N,D13F-0F61,Start with 6 chaff
+N,743F-0F61,Start with 50 chaff
+N,173F-0F61,Start with 99 chaff
+N,3C2A-4707,Infinite chaff
+N,DD3F-04A1,Start with 0 flares instead of 12
+N,D13F-04A1,Start with 6 flares
+N,743F-04A1,Start with 50 flares
+N,173F-04A1,Start with 99 flares
+N,3C26-4FD7,Infinite flares
+N,D437-0401,Start with 2 sidewinder missiles instead of 12
+N,FB37-0401,Start with 25 sidewinder missiles
+N,7437-0401,Start with 50 sidewinder missiles
+N,1737-0401,Start with 99 sidewinder missiles
+N,C92F-44A7,Infinite sidewinder missiles
+N,0D3D-0701,Start with less fuel
+N,C9BD-47A4,Infinite fuel
+N,82CD-3FD7,Infinite maverick missiles
+N,DD2A-3D64,Infinite ammo [air-to-air mode]
+N,DC2A-3D64,Use up ammo faster [air-to-air mode]
+N,D13F-0F61,Start With 6 Chaff Instead Of 12
+N,743F-0F61,Start With 50 Chaff Instead Of 12
+N,173F-0F61,Start With 99 Chaff Instead Of 12
+N,D13F-04A1,Start With 6 Flares Instead Of 12
+N,743F-04A1,Start With 50 Flares Instead Of 12
+N,173F-04A1,Start With 99 Flares Instead Of 12
+N,FB37-0401,Start With 25 Sidewinder Missiles Instead Of 12
+N,7437-0401,Start With 50 Sidewinder Missiles Instead Of 12
+N,1737-0401,Start With 99 Sidewinder Missiles Instead Of 12
+N,DD2A-3D64,Infinite Ammo (Air-To-Air Mode)
+N,DC2A-3D64,Use Up Ammo Faster (Air-To-Air Mode)

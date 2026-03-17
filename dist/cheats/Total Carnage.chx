@@ -1,0 +1,31 @@
+N,DFC3-44D2,Start with 2 lives
+N,DBC3-44D2,Start with 10 lives
+N,DFCD-1DD2+40B5-1DD4,Start with 1 time bomb
+N,DBCD-1DD2,Start with 9 time bombs
+N,DFBC-47D4,Join in with 2 lives and 3 time bombs
+N,DBBC-47D4,Join in with 10 lives and 9 time bombs
+N,C932-341E,Infinite lives
+N,4029-3F12,Infinite time bombs
+N,D6B3-C764,Shields last longer
+N,DDB3-C764,Shields don't last as long
+N,6D27-441E,Immune to damage from enemy
+N,C930-4D4A,Weapons don't run out until you die or change weapons
+N,7E047600,Weapon Modifier
+N,7E048009,Infinite lives for Player 1
+N,7E046301,Player 1 Always have shield
+N,7E048109,Player 1 has Infinite bombs
+N,7E045E01+7E046801,Player 1 always have speed shoes
+N,7E047705,Rapid fire for Player 1
+N,7E048596,Player 1 Has 150 Keys
+N,7E04C809,Infinite lives for Player 2
+N,7E04AB01,Player 2 Always have shield
+N,7E04C909,Player 2 has Infinite bombs
+N,7E04BE00,Weapon Modifier
+N,7E04A601+7E04B001,Player 2 Always have speed shoes
+N,7E04BF05,Rapid fire for Player 2
+N,7E04CD96,Player 2 has 150 Keys
+N,7E00AF00+7E00B000,Freeze hurry up timer
+N,DFCD-1DD2,Start With 1 Time Bomb
+N,C932-3413,Infinite Lives
+N,DBBC-47D4+40B5-1DD4,Join In With 10 Lives And 9 Time Bombs
+N,ED29-4D13+DF29-4F13+DF29-44C3,Always have speed shoes

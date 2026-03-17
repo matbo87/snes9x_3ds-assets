@@ -1,0 +1,106 @@
+N,C2AC-346F+C2C3-1D28,Protection against most hazards
+N,DFBC-3FD4,Start with 2 lives
+N,D7BC-3FD4,Start with 4 lives
+N,D9BC-3FD4,Start with 6 lives
+N,D5BC-3FD4,Start with 8 lives
+N,DBBC-3FD4,Start with 10 lives
+N,4DBC-3FD4,Start with 21 lives
+N,9DBC-3FD4,Start with 51 lives
+N,59BC-3FD4,Start with 76 lives
+N,BBBC-3FD4,Start with 100 lives
+N,DDB2-4D64,Infinite lives
+N,EE8C-C4DD,Stay invincible longer after getting hit [Road Runner blinks]
+N,0D8C-C4DD,Stay invincible for less time after getting hit [Road Runner blinks]
+N,C2C5-C7AF,Stay invincible after getting hit until you fall & die [Road Runner blinks]
+N,6DC5-C70F,Stay invincible after getting hit until you fall & die [Road Runner does not blink]
+N,7DBD-44D7,Start with more birdseed on the turbo speed meter
+N,FDBD-44D7,Start with less birdseed on the turbo speed meter
+N,7D26-3404,Eating birdseed restores turbo speed meter to maximum
+N,DD26-3404,Eating birdseed does nothing
+N,DDC6-3D67,Using turbo speed does not use up bird seed
+N,DDBB-4467,Stop timer
+N,D7B0-346F,Start timer at 3:00 instead of 5:00
+N,D5B0-346F,Start timer at 7:00
+N,DBB0-346F,Start timer at 9:00
+N,C229-C707,Hearts worth nothing
+N,DD33-4DDD,1-up worth nothing
+N,D433-4DDD,1-up worth 2
+N,D733-4DDD,1-up worth 3
+N,D033-4DDD,1-up worth 4
+N,D933-4DDD,1-up worth 5
+N,7D83-47DD,Bogus jump
+N,FD83-47DD,Better jump
+N,DC83-47DD,Super jump
+N,D983-47DD,Mega jump
+N,F3BB-3FA4+3FBB-3F64+DFBB-3FD4,Start on level 1; sublevel 2
+N,F3BB-3FA4+3FBB-3F64+D4BB-3FD4,Start on level 1; sublevel 3
+N,F3BB-3FA4+3FBB-3F64+D7BB-3FD4,Start on level 1; sublevel 4
+N,F3BB-3FA4+3FBB-3F64+D0BB-3FD4,Start on level 2; sublevel 1
+N,F3BB-3FA4+3FBB-3F64+D9BB-3FD4,Start on level 2; sublevel 2
+N,F3BB-3FA4+3FBB-3F64+D1BB-3FD4,Start on level 2; sublevel 3
+N,F3BB-3FA4+3FBB-3F64+D5BB-3FD4,Start on level 2; sublevel 4
+N,F3BB-3FA4+3FBB-3F64+D6BB-3FD4,Start on level 3; sublevel 1
+N,F3BB-3FA4+3FBB-3F64+DBBB-3FD4,Start on level 3; sublevel 2
+N,F3BB-3FA4+3FBB-3F64+DCBB-3FD4,Start on level 3; sublevel 3
+N,F3BB-3FA4+3FBB-3F64+D8BB-3FD4,Start on level 3; sublevel 4
+N,F3BB-3FA4+3FBB-3F64+DABB-3FD4,Start on level 4; sublevel 1
+N,F3BB-3FA4+3FBB-3F64+D2BB-3FD4,Start on level 4; sublevel 2
+N,F3BB-3FA4+3FBB-3F64+D3BB-3FD4,Start on level 4; sublevel 3
+N,F3BB-3FA4+3FBB-3F64+DEBB-3FD4,Start on level 4; sublevel 4
+N,F3BB-3FA4+3FBB-3F64+FDBB-3FD4,Start on level 5; sublevel 1
+N,F3BB-3FA4+3FBB-3F64+FFBB-3FD4,Start on level 5; sublevel 2
+N,F3BB-3FA4+3FBB-3F64+F4BB-3FD4,Start on level 5; sublevel 3
+N,F3BB-3FA4+3FBB-3F64+F7BB-3FD4,Start on level 5; sublevel 4
+N,F3BB-3FA4+3FBB-3F64+DFBB-3FD4,Start On Level 1; Sub-Level 2
+N,F3BB-3FA4+3FBB-3F64+D4BB-3FD4,Start On Level 1; Sub-Level 3
+N,F3BB-3FA4+3FBB-3F64+D7BB-3FD4,Start On Level 1; Sub-Level 4
+N,F3BB-3FA4+3FBB-3F64+D0BB-3FD4,Start On Level 2; Sub-Level 1
+N,F3BB-3FA4+3FBB-3F64+D9BB-3FD4,Start On Level 2; Sub-Level 2
+N,F3BB-3FA4+3FBB-3F64+D1BB-3FD4,Start On Level 2; Sub-Level 3
+N,F3BB-3FA4+3FBB-3F64+D5BB-3FD4,Start On Level 2; Sub-Level 4
+N,F3BB-3FA4+3FBB-3F64+D6BB-3FD4,Start On Level 3; Sub-Level 1
+N,F3BB-3FA4+3FBB-3F64+DBBB-3FD4,Start On Level 3; Sub-Level 2
+N,F3BB-3FA4+3FBB-3F64+DCBB-3FD4,Start On Level 3; Sub-Level 3
+N,F3BB-3FA4+3FBB-3F64+D8BB-3FD4,Start On Level 3; Sub-Level 4
+N,F3BB-3FA4+3FBB-3F64+DABB-3FD4,Start On Level 4; Sub-Level 1
+N,F3BB-3FA4+3FBB-3F64+D2BB-3FD4,Start On Level 4; Sub-Level 2
+N,F3BB-3FA4+3FBB-3F64+D3BB-3FD4,Start On Level 4; Sub-Level 3
+N,F3BB-3FA4+3FBB-3F64+DEBB-3FD4,Start On Level 4; Sub-Level 4
+N,F3BB-3FA4+3FBB-3F64+FDBB-3FD4,Start On Level 5; Sub-Level 1
+N,F3BB-3FA4+3FBB-3F64+FFBB-3FD4,Start On Level 5; Sub-Level 2
+N,F3BB-3FA4+3FBB-3F64+F4BB-3FD4,Start On Level 5; Sub-Level 3
+N,F3BB-3FA4+3FBB-3F64+F7BB-3FD4,Start On Level 5; Sub-Level 4
+N,2320-C40F,Invincibility!
+N,7E1F1E06,Infinite Health
+N,7E1F1D30,Infinite Energy
+N,7E1F1AFF,Invincible
+N,7E1F2003,Infinite Lives
+N,7E1F8709,Freeze Timer
+N,7E0555FD,Switch F/X On To Levitate
+N,7E1EE200,Stage Select
+N,D5B0-346F,Start Timer At 7:00 Instead Of 5:00
+N,DBB0-346F,Start Timer At 9:00 Instead Of 5:00
+N,6DC5-C70F,Stay Invincible After Getting Hit Until You Fall And Die (Road Runner Does Not Blink)
+N,C2C5-C7AF,Stay Invincible After Getting Hit Until You Fall And Die (Road Runner Blinks)
+N,DDC6-3D67,Using Turbo Speed Does Not Use Up Birdseed
+N,0D8C-C4DD,Stay Invincible For Less Time After Getting Hit (Road Runner Blinks)
+N,EE8C-C4DD,Stay Invincible Longer After Getting Hit (Road Runner Blinks)
+N,DFBB-3FD4+3FBB-3F64+F3BB-3FA4,Start On Level 1; Sublevel 2
+N,D4BB-3FD4+3FBB-3F64+F3BB-3FA4,Start On Level 1; Sublevel 3
+N,D7BB-3FD4+3FBB-3F64+F3BB-3FA4,Start On Level 1; Sublevel 4
+N,D0BB-3FD4+3FBB-3F64+F3BB-3FA4,Start On Level 2; Sublevel 1
+N,D9BB-3FD4+3FBB-3F64+F3BB-3FA4,Start On Level 2; Sublevel 2
+N,D1BB-3FD4+3FBB-3F64+F3BB-3FA4,Start On Level 2; Sublevel 3
+N,D5BB-3FD4+3FBB-3F64+F3BB-3FA4,Start On Level 2; Sublevel 4
+N,D6BB-3FD4+3FBB-3F64+F3BB-3FA4,Start On Level 3; Sublevel 1
+N,DBBB-3FD4+3FBB-3F64+F3BB-3FA4,Start On Level 3; Sublevel 2
+N,DCBB-3FD4+3FBB-3F64+F3BB-3FA4,Start On Level 3; Sublevel 3
+N,D8BB-3FD4+3FBB-3F64+F3BB-3FA4,Start On Level 3; Sublevel 4
+N,DABB-3FD4+3FBB-3F64+F3BB-3FA4,Start On Level 4; Sublevel 1
+N,D2BB-3FD4+3FBB-3F64+F3BB-3FA4,Start On Level 4; Sublevel 2
+N,D3BB-3FD4+3FBB-3F64+F3BB-3FA4,Start On Level 4; Sublevel 3
+N,DEBB-3FD4+3FBB-3F64+F3BB-3FA4,Start On Level 4; Sublevel 4
+N,FDBB-3FD4+3FBB-3F64+F3BB-3FA4,Start On Level 5; Sublevel 1
+N,FFBB-3FD4+3FBB-3F64+F3BB-3FA4,Start On Level 5; Sublevel 2
+N,F4BB-3FD4+3FBB-3F64+F3BB-3FA4,Start On Level 5; Sublevel 3
+N,F7BB-3FD4+3FBB-3F64+F3BB-3FA4,Start On Level 5; Sublevel 4

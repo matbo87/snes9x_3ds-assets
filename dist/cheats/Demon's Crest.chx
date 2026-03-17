@@ -1,0 +1,53 @@
+N,D635-1F0D,Super Jump
+N,DD38-CFD9,Ginseng Costs Nothing
+N,DFB3-4F6F+DFB3-4FAF,Walk Through Most Solid Objects
+N,A363-44F4+A363-4424+A363-47B4,Start New Game With All Items
+N,EE6A-1DD2,When You Fight The 1st Boss The 1st Time; It's Already Defeated
+N,C9A3-340B,When You Defeat An Enemy; Coins And Health Appear Like A Fountain Till You Leave The Screen
+N,C9A5-340B,Enemies Drop The 25 Coin And Heart Containers; Don't Collect The Heart Containers
+N,C9A5-370B,Enemies Always Drop The 20 Coin
+N,C9A2-17DC,20 Coin Worth 999 Coins
+N,C9A2-1DDC,5 Coin Worth 165 Coins
+N,C9A2-170C,1 Coin Worth 999 Coins
+N,C9AC-176C,Large Health Refills All Your Health
+N,C9E2-1DAD,As Regular Gargoyle Hover; Then You Can Hold The A Button To Fly Like Aerial Gargoyle
+N,C938-C7DD,Fly Alot Faster When You Hover
+N,C939-37D7,Rapid Fire
+N,C937-37D7,Jump Alot Higher
+N,7E100504,Character Is In The "jump" Animation; Permanently
+N,7E0EEE00+7E0EED00,Disable Anti-Cheat
+N,7E106214,Infinite 20 Life Points
+N,7E1E5014,Maximum Life
+N,7E103C30,Invincible
+N,7E1063E7+7E106403,Infinite 999 GP
+N,7E1E3002,Infinite HOLD Spells
+N,7E1E3104,Infinite DEATH Spells
+N,7E1E3206,Infinite SHOCK Spells
+N,7E1E3308,Infinite IMP Spells
+N,7E1E340A,Infinite SHADOW Spells
+N,7E1E350C,Infinite HERB Potions
+N,7E1E360E,Infinite GINSENG Potions
+N,7E1E3710,Infinite MERCURY Potions
+N,7E1E3812,Infinite SULFER Potions
+N,7E1E3914,Infinite ELIXER Potions
+N,7E1E51FF+7E1E52FF+7E1E53FF,Have Equipment
+N,7E100502,Can't Fly. (You Can Still Jump; But The Fly Ability Is Disabled Here.)
+N,7E106204,Infinite Life
+N,7E10630F+7E106427,Infinite Money (GP)
+N,7E10145C,Character's Image Is Jumbled Up
+N,7E100506,Always Fly (Turn This Code On When You're In The Air; And You Will Be Able To Fly Forever.)
+N,DB67-C703,First enemy takes longer to kill
+N,D467-C703,First enemy take less time to kill
+N,EE3A-1DAF,More flash time
+N,C92A-44A7,Invincible after hit
+N,6927-CDA7,1 hit and you die
+N,DD66-47DC+DD6C-4D6C+6D6D-3DDC+6D64-3DAC,Hit Anywhere
+N,DDA5-176C,Get GP From Anywhere
+N,DFB3-4F6F+DFB3-4FAF,Walk Through Most Solid Objects (May Have To Turn Off GG To Proceed Through Some Parts)
+N,7E0EEE00,Fixes Firing
+N,7E0EED00,Fixes Menu
+N,7E1063E7+7E106403,Infinite 999 GP
+N,7E1E51FF,Equipment Set 1
+N,7E1E52FF,Equipment Set 2
+N,7E1E53FF,Equipment Set 3?
+N,C93B-140F,Infinite Health

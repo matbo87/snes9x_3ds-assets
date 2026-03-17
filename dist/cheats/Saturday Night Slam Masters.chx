@@ -1,0 +1,113 @@
+N,D3DB-5D01,14-second count outside ring
+N,DCDB-5D01,10-second count outside ring
+N,DBD6-5DD1,9-second count for pin
+N,D1D6-5DD1,6-second count for pin
+N,DFD6-5DD1,1-second count for pin
+N,F31F-8F0D,Faster timer
+N,1D1F-8F0D,Slower timer
+N,D12D-5765+EB2F-5F05,Stingray has faster jalepeno comet
+N,0C83-17D7+D78E-1F67,Quicker 'pattycake slap' for Grater
+N,0C83-1FA7+D78E-1D07,Quicker 'sonic fist' for Gunloc
+N,0C83-1F67+D78E-1D07,Quicker 'sonic fist' for Biff
+N,0C83-1707+D48E-1FA7,Quicker 'jungle fever' for Rasta
+N,1D79-EFD4+1D77-E404,Able To Pick Same Characters
+N,7E0A7900,CPU Has No Energy
+N,7E1A7000,Time Modifier
+N,DD79-EDD4+DC70-E7D4,Enable Jumbo & Scorpion in Singles mode
+N,DDC1-CD0F,Jumbo to Biff
+N,DFC1-CD0F,Jumbo to Gunloc
+N,D4C1-CD0F,Jumbo to Oni
+N,D7C1-CD0F,Jumbo to Titan
+N,D0C1-CD0F,Jumbo to Stingray
+N,D9C1-CD0F,Jumbo to Haggar
+N,D1C1-CD0F,Jumbo to Grater
+N,D5C1-CD0F,Jumbo to Rasta
+N,DBC1-CD0F,Jumbo to Scorpion
+N,D6C1-CDAF,Gunloc to Jumbo
+N,DDC1-CDAF,Gunloc to Biff
+N,D4C1-CDAF,Gunloc to Oni
+N,D7C1-CDAF,Gunloc to Titan
+N,D0C1-CDAF,Gunloc to Stingray
+N,D9C1-CDAF,Gunloc to Haggar
+N,D1C1-CDAF,Gunloc to Grater
+N,D5C1-CDAF,Gunloc to Rasta
+N,DBC1-CDAF,Gunloc to Scorpion
+N,D6C1-CFDF,Oni to Jumbo
+N,DDC1-CFDF,Oni to Biff
+N,DFC1-CFDF,Oni to Gunloc
+N,D7C1-CFDF,Oni to Titan
+N,D0C1-CFDF,Oni to Stingray
+N,D9C1-CFDF,Oni to Haggar
+N,D1C1-CFDF,Oni to Grater
+N,D5C1-CFDF,Oni to Rasta
+N,DBC1-CFDF,Oni to Scorpion
+N,D6C1-CF0F,Titan to Jumbo
+N,DDC1-CF0F,Titan to Biff
+N,DFC1-CF0F,Titan to Gunloc
+N,D4C1-CF0F,Titan to Oni
+N,D0C1-CF0F,Titan to Stingray
+N,D9C1-CF0F,Titan to Haggar
+N,D1C1-CF0F,Titan to Grater
+N,D5C1-CF0F,Titan to Rasta
+N,DBC1-CF0F,Titan to Scorpion
+N,D6C1-CFAF,Haggar to Jumbo
+N,DDC1-CFAF,Haggar to Biff
+N,DFC1-CFAF,Haggar to Gunloc
+N,D4C1-CFAF,Haggar to Oni
+N,D7C1-CFAF,Haggar to Titan
+N,D0C1-CFAF,Haggar to Stingray
+N,D1C1-CFAF,Haggar to Grater
+N,D5C1-CFAF,Haggar to Rasta
+N,DBC1-CFAF,Haggar to Scorpion
+N,D6C1-C4DF,Grater to Jumbo
+N,DDC1-C4DF,Grater to Biff
+N,DFC1-C4DF,Grater to Gunloc
+N,D4C1-C4DF,Grater to Oni
+N,D7C1-C4DF,Grater to Titan
+N,D0C1-C4DF,Grater to Stingray
+N,D9C1-C4DF,Grater to Haggar
+N,D5C1-C4DF,Grater to Rasta
+N,DBC1-C4DF,Grater to Scorpion
+N,D6C1-C40F,Rasta to Jumbo
+N,DDC1-C40F,Rasta to Biff
+N,DFC1-C40F,Rasta to Gunloc
+N,D4C1-C40F,Rasta to Oni
+N,D7C1-C40F,Rasta to Titan
+N,D0C1-C40F,Rasta to Stingray
+N,D9C1-C40F,Rasta to Haggar
+N,D1C1-C40F,Rasta to Grater
+N,DBC1-C40F,Rasta to Scorpion
+N,D6C1-C46F,Scorpion to Jumbo
+N,DDC1-C46F,Scorpion to Biff
+N,DFC1-C46F,Scorpion to Gunloc
+N,D4C1-C46F,Scorpion to Oni
+N,D7C1-C46F,Scorpion to Titan
+N,D0C1-C46F,Scorpion to Stingray
+N,D9C1-C46F,Scorpion to Haggar
+N,D1C1-C46F,Scorpion to Grater
+N,D5C1-C46F,Scorpion to Rasta
+N,E3DB-5D01,Infinite Time Outside Ring!
+N,7E0879FF,P1 Infinite Health
+N,7E087900,P1 No Health
+N,7E0A79FF,P2 Infinite Health
+N,7E0A7900,P2 No Health
+N,7E0C79FF,P3 Infinite Health
+N,7E0C7900,P3 No Health
+N,7E0E79FF,P4 Infinite Health
+N,7E0E7900,P4 No Health
+N,7E1A7059+7E1A7102,Infinite Time
+N,7E1A6000,Infinite Ringout Time - All Players
+N,7E1B8600,P1 Wrestler Modifier
+N,7E1B8700,P2 Wrestler Modifier
+N,7E1B8800,P3 Wrestler Modifier
+N,7E1B8900,P4 Wrestler Modifier
+N,7E089101,Player 1 Can Escape Grapples Much Easier
+N,7E0A9101,Player 2 Can Escape Grapples Much Easier
+N,7E0C9101,Player 3 Can Escape Grapples Much Easier
+N,7E0E9101,Player 4 Can Escape Grapples Much Easier
+N,7E08A301,Player 1 Can Knock Opponents Down With 1 Hit
+N,7E0AA301,Player 2 Can Knock Opponents Down With 1 Hit
+N,7E0CA301,Player 3 Can Knock Opponents Down With 1 Hit
+N,7E0EA301,Player 4 Can Knock Opponents Down With 1 Hit
+N,7E08A101,Player 1 Can Exit the Ring From Anywhere
+N,7E0AA101,Player 2 Can Exit the Ring From Anywhere

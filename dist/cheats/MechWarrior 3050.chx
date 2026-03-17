@@ -1,0 +1,32 @@
+N,C295-5FAD,Almost infinite ammo
+N,1D9E-ED6D,Almost invincible [Switch off to kill some enemies]
+N,CB6B-5464+CB6B-5704,Coolant does nothing
+N,DC09-7998,Guass Rifle starts at 10
+N,7409-7998,Guass Rifle starts at 50
+N,1009-7998,Guass Rifle starts at 100
+N,F009-7028,Arrow VI Missiles start at 20
+N,7409-7028,Arrow VI Missiles start at 50
+N,1009-7028,Arrow VI Missiles start at 100
+N,DC00-7528,Particle Projection Cannon start at 10
+N,7400-7528,Particle Projection Cannon start at 50
+N,1000-7528,Particle Projection Cannon start at 100
+N,DD00-79B8+1000-7998,Machine Gun starts at 100
+N,D700-79B8+3600-7998,Machine Gun starts at 1000
+N,4100-79B8+FD00-7998,Machine Gun starts at 10;000
+N,7400-7928,Auto Cannon starts at 50
+N,1000-7928,Auto Cannon starts at 100
+N,EC00-7928,Auto Cannon starts at 250
+N,7400-7128+DD00-75F8,Large Laser starts at 50
+N,3600-7128+D700-75F8,Large Laser starts at 1000
+N,FD00-7128+4100-75F8,Large Laser starts at 10;000
+N,DC00-7198,"Inferno" Short-Range Missiles start at 10
+N,7400-7198,"Inferno" Short-Range Missiles start at 50
+N,EC00-7198,"Inferno" Short-Range Missiles start at 250
+N,F009-7098,"Maelstrom" Long-Range Missiles start at 20
+N,1009-7098,"Maelstrom" Long-Range Missiles start at 100
+N,EC09-7098,"Maelstrom" Long-Range Missiles start at 250
+N,DC00-7598,"Thunder" Time-Delay Mines start at 10
+N,1000-7598,"Thunder" Time-Delay Mines start at 100
+N,EC00-7598,"Thunder" Time-Delay Mines start at 250
+N,7E2ABF00,No Damage
+N,7E2ABE00+7E2ACC00,No Damage

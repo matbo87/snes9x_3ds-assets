@@ -1,0 +1,12 @@
+N,7E190A00+7E190B00,Lineout Modifier
+N,7E191500,Depth Modifier
+N,7E00E600,Lure Modifier
+N,7E177200,Time Modifier (Hour)
+N,7E177400,Time Modifier (Minute)
+N,7E192100,Angler Meter Modifier
+N,7E192300,Fish Meter Modifier
+N,7E1E6400,Cast Modifier
+N,7E326200+7E326400,Player Strength Modifier
+N,7E31F200+7E31F400,Technique Modifier
+N,7E318200+7E318400,Player Level Modifier
+N,7E170200,Ranking Modifier

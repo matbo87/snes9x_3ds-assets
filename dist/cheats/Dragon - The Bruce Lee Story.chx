@@ -1,0 +1,24 @@
+N,7E00D9FF,Infinite Health
+N,7E00DBFF,Infinite Fighting Power
+N,7E01D900,Enemy 1 With No Health
+N,7E02D900,Enemy 2 With No Health
+N,7E208263,Infinite Time
+N,7E003E01,Hyper Mode P1
+N,7E013E01,Hyper Mode P2/Enemy 1
+N,7E023E01,Hyper Mode P3/Enemy 2
+N,7E009302,P1 Knocks Out Easier
+N,7E019302,P2 Knocks Out Easier
+N,7E029302,P3 Knocks Out Easier
+N,7E009544,P1 Can't Be Hit
+N,7E019544,P2 Can't Be Hit
+N,7E029544,P3 Can't Be Hit
+N,7E539E00,Arena Modifier
+N,4002-7764+4002-7464+4002-7FD4+4002-7DD4,Hit Anywhere (Both Players)
+N,7E003C01,P1 Hyper Mode (Alternate)
+N,7E013C01,P2/CPU 1 Hyper Mode (Alternate)
+N,7E023C01,P3/CPU 2 Hyper Mode (Alternate)
+N,7E5BC603,For Paul... Difficulty
+N,7E2F8AFF+7E2F8BFF,Blood Option Enabled (Options)
+N,7E2F88FF+7E2F89FF,Infinite Chi Option Enabled (Options)
+N,7E2F84FF+7E2F85FF,Slow-mo & Screenshot Options (Pause Menu)
+N,7E2F86FF+7E2F87FF,Level Select Enabled

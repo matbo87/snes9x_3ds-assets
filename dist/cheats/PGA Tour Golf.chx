@@ -1,0 +1,27 @@
+N,D235-6D07+D22A-D40F,Allow 14 clubs for full set instead of 13
+N,D335-6D07+D32A-D40F,Allow 15 clubs for full set
+N,DE35-6D07+DE2A-D40F,Allow 16 clubs for full set
+N,6DC8-6DD7,No wind
+N,CBC8-6DD7+DDC8-6D67+DCC8-6D07,Constant wind of 10 mph
+N,BACA-64D7,Constant wind direction to the left
+N,DFA7-A704,Each round ends after hole 1
+N,D4A7-A704,Each round ends after hole 2
+N,D7A7-A704,Each round ends after hole 3
+N,D0A7-A704,Each round ends after hole 4
+N,D9A7-A704,Each round ends after hole 5
+N,D1A7-A704,Each round ends after hole 6
+N,D5A7-A704,Each round ends after hole 7
+N,D6A7-A704,Each round ends after hole 8
+N,DBA7-A704,Each round ends after hole 9
+N,DCA7-A704,Each round ends after hole 10
+N,D8A7-A704,Each round ends after hole 11
+N,DAA7-A704,Each round ends after hole 12
+N,D2A7-A704,Each round ends after hole 13
+N,D3A7-A704,Each round ends after hole 14
+N,DEA7-A704,Each round ends after hole 15
+N,FDA7-A704,Each round ends after hole 16
+N,FFA7-A704,Each round ends after hole 17
+N,6D85-67AD+6DCC-ADD7,Ball Goes in From Anywhere
+N,7E04C401,Always Get A Hole In One! (No Matter How Many Shots You Take; It Shows Up As 1 Shot On The Score Card)
+N,7E02FA05,Can Choose All 16 Clubs Instead Of Only 13
+N,7E04B800,There Is Never Any Wind

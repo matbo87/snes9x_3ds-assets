@@ -1,0 +1,162 @@
+N,7E08F3F8,Max Jumping Distance P1
+N,7E08F7F8,Max Jumping Distance P2
+N,7E05349A+7E05389A,Mid-Air Fighting
+N,7E067400,Hyper Mode P1
+N,7E067800,Hyper Mode P2
+N,7E15CF01,Dimmed Background
+N,7E0D2478+7E0D2678,Infinite Health P1
+N,7E0D2878+7E0D2A78,Infinite Health P2
+N,7E0D2400+7E0D2600,No Health P1
+N,7E0D2800+7E0D2A00,No Health P2
+N,7E156409,Infinite Time to Continue P1
+N,7E156809,Infinite Time To Continue P2
+N,7E024E00,P1 Character Modifier
+N,7E025200,P2/CPU Modifier
+N,7E08A300,P1 Jump Height Modifier
+N,7E08A760,P2 Jump Height Modifier
+N,7E155109,Infinite Time To Select Character
+N,7E0EC33F+7E0EC442+7E0EC50F+7E0EC600,Max Score P1
+N,7E053500,P1 Display Modifier
+N,7E053900,P2 Display Modifier
+N,7E025000,P1 Costume Color Modifier
+N,7E025400,P2 Costume Color Modifier
+N,7E0E0801,CPU Cannot Move/Attack
+N,7E0E09D4,Infinite Danger Time
+N,7E0E0A01,1-Hit Dizzies CPU
+N,7E15B480,Danger Mode
+N,7E024501,Game Speed Cheat Modifier
+N,7E0F0700,P2 Spinal Stays Transformed As Opponent
+N,7E0F0300,P1 Spinal Stays Transformed As Opponent
+N,7E0FE740,Projectiles Deflect Off P2
+N,7E0FE340,Projectiles Deflect Off P1
+N,7E0EE300+7E0F2704,P2 Can't Be Hit
+N,7E0EE700+7E0F2304,P1 Can't Be Hit
+N,7E0EEA03,P2 Powered Up
+N,7E0EE603,P1 Powered Up
+N,7E0DEA01,Players Need 1 Round To Win
+N,7E0DE601,P2 Needs 1 Round To Win
+N,7E0DE201,P1 Needs 1 Round To Win
+N,3C61-D4DF,Master Code--Must Be Entered
+N,CBEC-37AF+6DE8-3D0F+6D64-44D5,Play as Eyedol
+N,CB64-4D61,Start a game and watch the ending [use practice mode to select different characters]
+N,CCE8-47D2,Win after 1 victory
+N,C8E8-47D2,Win after 2 victories
+N,CAE8-47D2,Win after 3 victories
+N,C2E8-47D2,Win after 4 victories
+N,C3E8-47D2,Win after 5 victories
+N,EEC1-34AF,Player one takes all damage
+N,1D1B-1DA7,Players can pass through each other
+N,C265-1467+60E6-47D2,Always fight Jago
+N,C265-1467+6EE6-47D2,Always fight Combo
+N,C265-1467+6BE6-47D2,Always fight Thunder
+N,C265-1467+6FE6-47D2,Always fight Glacius
+N,C265-1467+6DE6-47D2,Always fight Cinder
+N,C265-1467+64E6-47D2,Always fight Orchid
+N,C265-1467+B0E6-47D2,Always fight Riptor
+N,C265-1467+CBE6-4702,Always fight Sabrewulf
+N,C265-1467+CBEC-4702,Always fight Spinal
+N,C265-1467+CBE8-4D62,Always fight Fulgore
+N,C265-1467+CBE8-4FA2,Always fight Eyedol
+N,EE87-C4D1,Lights Show When Logos Normally ZOOM In And Out
+N,536F-4DA7,No-Mercy's/Humiliations Declared 1-Hit Ultimates! With A TON Of Bonus Points!
+N,1B6E-47D7,Players Can Only Inflict Damage At Medium Range (Good 2-Player Practice Mode)
+N,2B27-44D7,Projectiles Don't Appear; But They Hit Opponent; And You See Them Explode
+N,D0A3-1F0F,Humiliations Last Much Shorter
+N,3633-17AF,Player 2/CPU Are Invisible
+N,D08C-146F,Combo Booster!
+N,EE64-3F07,When Energy Is Low; It Flashes Rainbow Colors!
+N,DE64-3467,When Energy Is Low; It ALWAYS Flashes Green!
+N,FC64-3407,When Energy Is Low; It ALWAYS Flashes Red!
+N,EE6E-37D7,Damage Meters Glitch When Character 1st Gets Hit
+N,DE66-3DD7,Start The Fight; And The 1st Player Wins!
+N,7966-3DD7,No Time Limit
+N,53C9-C4AF,It Only Takes The CPU 1-Hit To Kill You! (If You Block A Move; You Won't Lose Energy)
+N,D08C-17AF,Combo Handicap 1
+N,D08C-1FAF,Combo Handicap 2
+N,D08C-176F,Combo Handicap 3
+N,ACBE-44D7,Rooftop Knock-Offs Disabled (Even Sky Stage!)
+N,EEB0-1FD7,Victim Falls Off Rooftops Unexpected Ways Periodically
+N,EEB0-1DA7,Get Pushed/Hopped Rightwards After Knocking Off Victim From Rooftop
+N,EEB0-1F07,Victim Never Bounces In Air After Rooftop Knock-Off
+N,CEE8-47D2,Beat The Game After 6 Victories
+N,8DE8-47D2,Beat The Game After 7 Victories
+N,CFE8-47D2,Beat The Game After 8 Victories
+N,C4E8-47D2,Beat The Game After 9 Victories
+N,C7E8-47D2,Beat The Game After 10 Victories
+N,EEB1-1F0F,No Jumps (Fighters Pose Oddly Instead)
+N,DDB1-140F,No Jumps (Fighters Try To Jump; And Flutter Instead)
+N,B5B0-17AF,Players Can't Jump Forward Or Back
+N,64B1-17AF,Jumps Are Higher And Slower
+N,DDB1-170F,Up Jumps Are Lower / Forward Jumps Are SUPER High!
+N,DDB1-1F6F,Up Jumps Are SUPER High!
+N,64B1-1FAF,Push Up To Teleport To Right Side (Players Can Walkthrough Each Other!)
+N,C265-1467,Always Fight Whoever CPU Picks To Be First
+N,CBEC-37AF,Play As Eyedol Or Jago
+N,CBEC-37AF+CDE8-3D0F,Play As Eyedol ONLY
+N,EDE6-47D2,Placing The "Non-Moving" Characters Code (Battle Plan)
+N,7E0EF200,Placing Eyedol Code (Battle Plan)
+N,7E0EF200,Placing Spinal Code (Battle Plan)
+N,0087-C4D1,Laser Show During Intro -- Stays That Way Forever (Neat To Watch)
+N,3633-176F,2nd Player Invisible
+N,66B1-4764,Air Moves
+N,D5A2-14DF,Ultra Combo Only Counts As A Regular KILLER combo
+N,A113-DFDD,Gives Spinal A Large Laserbeam That Emits From His Sword When Punch Buttons Are Pressed
+N,CEE0-1DA2+32E0-1FD2+CEEF-1DD2+DDD3-570D,Stage Modifier
+N,93DD-3F07,P1 Move Modifier
+N,93DD-3407,P2 Move Modifier
+N,EE65-4F04,Control CPU Player 1
+N,EE6B-4FA4,Control CPU Player 2
+N,3DC9-44D4+DDC9-4404+DDC9-4464,Infinite Health
+N,6DC1-4F04,One Hit Kill
+N,EDB5-3F07+D2B5-3F67+0AB5-3FA7+CFB5-34D7+CFB5-3407,Hit Anywhere P1
+N,3DB6-3467+DDB6-34A7+EDB6-3707+A7B6-3767,Invincibility P1
+N,6DCA-37DD,Disable Blocking Both Players
+N,CB24-CFDF+DD24-CF0F,Disable CPU Special Moves/Danger Moves
+N,876F-4F05+606F-4F65,Start a New Game to View Secret Eyedol Code & Credits
+N,2DA8-140D,Trade Attack Sounds
+N,2DB4-340D,Infinite No Mercy Time
+N,6DAD-4FD7,CPU Doesn't Attack
+N,DCEC-376F+D8E8-3DDF,Eyedol Is A Selectable Character
+N,C265-1467+60E6-47D2,Always Fight Jago
+N,C265-1467+6EE6-47D2,Always Fight Combo
+N,C265-1467+6BE6-47D2,Always Fight Thunder
+N,C265-1467+6FE6-47D2,Always Fight Glacius
+N,C265-1467+6DE6-47D2,Always Fight Cinder
+N,C265-1467+64E6-47D2,Always Fight Orchid
+N,C265-1467,Always Fight Riptor
+N,C265-1467+CBE6-4702,Always Fight Sabrewulf
+N,C265-1467+CBEC-4702,Always Fight Spinal
+N,C265-1467+CBE8-4D62,Always Fight Fulgore
+N,C265-1467+CBE8-4FA2,Always Fight Eyedol
+N,6D64-44D5,Stay As Eyedol Once You Unlock Him Until You Lose And Choose Someone Else
+N,CBEC-37AF,Play As Eyedol ONLY
+N,01E2-47D2,Always Fight On Starting Stage
+N,7E0D2478+7E0D2678,Infinite Health P1
+N,7E0D2400+7E0D2600,No Health P1
+N,7E0D2878+7E0D2A78,Infinite Health P2
+N,7E0D2800+7E0D2A00,No Health P2
+N,7E111B80+7E111D13,Max Combos P2 – (Ultra Combo)
+N,7E0D2478,Infinite Energy Player 1!
+N,7E0EE606,Combo Breakers
+N,CBEC-37AF+6DE8-3D0F+6D64-44D5,Play As Eyedol
+N,7E0EC33F+7E0EC442+7E0EC50F+7E0EC600,Max Score P1
+N,7E0EE700+7E0F2304,P1 Can't Be Hit
+N,7E0EE300+7E0F2704,P2 Can't Be Hit
+N,7E05349A+7E05389A,Mid-Air Fighting
+N,7E0A3C00,Projectile Speed Modifier (Both Players)
+N,7E109301,Hit From Anywhere (Both Players)
+N,7E10935A,Hit From Anywhere (Both Players) Version 2
+N,7E10BA01,Walk Through Each Other
+N,7E110800,Round End Status Modifier
+N,7E024C00,Difficulty
+N,7E024A01,Easy Combo Breakers
+N,7E024701,Random Select
+N,7E024800,Timer
+N,DD62-CF60,Options Screen Music Modifier
+N,6DED-CDD7+41ED-CD07,Skip Intro Screens
+N,C8EC-3704,Skip VS Screen
+N,DD84-CD6D,One Button Finishers and Humiliations
+N,4083-3DAD+4083-34DD+408E-3D6D+408E-346D+AB8E-37DD,Enable Finishers During Round
+N,6D8C-CDAD,Almost One Button Moves/Enders/Finishers
+N,C2B8-3D64+C2B8-4D07,Walk Through Walls
+N,DDA1-CD0F+CBA1-C7DF,Eyedol's Charge gives player HP

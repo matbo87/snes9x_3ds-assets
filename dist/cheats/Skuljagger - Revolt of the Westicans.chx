@@ -1,0 +1,35 @@
+N,7E1A0209,Totally invincible
+N,7E02BEFF,Infinite time
+N,FDC3-6DA4,10 green jemeralds for an extra life
+N,9DC3-6DA4,50 green jemeralds for an extra life
+N,DDC3-6F04,Each green jemerald gives you a life
+N,5D66-DFA7,Slower timer
+N,F366-DFA7,Faster timer
+N,6DCB-A404+6DCC-A4D4,Die when touched [regardless of jemeralds]
+N,DD6B-DF07,Infinite time
+N,D46B-DF07,Time goes by 2x as fast
+N,D06B-DF07,Time goes by 4x as fast
+N,D7C2-6704,Each green jemerald is worth 3
+N,DBC2-6704,Each green jemerald is worth 9
+N,FBC2-6704,Each green jemerald is worth 19
+N,49C2-6704,Each green jemerald is worth 25 [extra life on each one]
+N,DDCA-AD04+DDBB-6D61,Infinite lives
+N,DF83-D765,Start with 1 life instead of 5
+N,D783-D765,Start with 3 lives
+N,DB83-D765,Start with 9 lives
+N,FB83-D765,Start with 19 lives
+N,9D83-D765,Start with 50 lives
+N,BB83-D765,Start with 99 lives
+N,1DCC-A4D4,Walk through enemies if you have no red jemeralds
+N,D4CB-A7D4,Don't lose all red jemeralds when you get hit
+N,C2BB-6FA1,Don't lose green jemeralds when you fall and die
+N,8BAB-6DD9,No enemies or jemeralds [good for exploring; switch off effects to advance]
+N,FFCB-A7D4,Red jemeralds set to 10 after you get hit [must have at least 1]
+N,7E0E8700,Super Jump with Slow Descent
+N,7E0E88FF,Walk on air
+N,6DCB-A404+6DCC-A4D4,Die When Touched (Regardless Of Jemeralds)
+N,7E02BE95,Have Infinite Time
+N,7E17C399,Have Infinite Lives
+N,7E17C299,Have 99 Green Gems
+N,7E17C499,Can Fire Many Red Gems At A Time
+N,7E17C099,Character Animation Modifier

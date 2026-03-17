@@ -1,0 +1,38 @@
+N,7E0DF809,Infinite Lives
+N,7E0D5300,All Cars Start Race Before Countdown Starts
+N,7E0E6600,Stop Lap Time Minutes
+N,7E0E6400,Stop Lap Time Seconds
+N,7E0E6300+7E0E6600,Stop Lap Time 1/100th Seconds
+N,7E462F00,Always Have Rank Tag Above Car (Except when in 1st)
+N,7E18CB00,Car Mod.
+N,7E10BB00,Always Select
+N,7E0DF401,Always 1st Place
+N,7E19EF99,All Stars Worth 99 Seconds
+N,7E19EE99,Infinite Time Extend
+N,7E19EC64,Have All Stars Collected (All Tracks)
+N,7E0E0548+7E0E0648,Infinite Boost P1
+N,7E20283D+7E20293D,Car Modifier
+N,7E20055C,Remove Car Body [Works great with Semi]
+N,7E200540+7E200640,Body Model Modifiers Player 1
+N,7E206700+7E206800,Body Model Modifiers Player 2/CPU 1
+N,7E20C900+7E20CA00,Body Model Modifiers CPU 2
+N,7E212B00+7E212C00,Body Model Modifiers CPU 3
+N,7E0D8900,Car Sound Set Modifiers Player 1
+N,7E205E91+7E205F91,Color/Texture Modifiers Player 1
+N,7E20C000+7E20C100,Color/Texture Modifiers Player 2/CPU 1
+N,7E212200+7E212300,Color/Texture Modifiers CPU 2
+N,7E218400+7E218500,Color/Texture Modifiers CPU 3
+N,182E-07FE,Always First
+N,2DAE-AD42,Choose Any Car
+N,DD64-6F34,Frontal Sky View
+N,B76F-6F44+DD64-6F34,Back Sky View
+N,1D8B-6D34,Monster Truck Wheels
+N,CD8A-6D34,Hovercraft
+N,DD8A-6D34,The Cars Have Very Small Tires
+N,EE60-6F34+DD64-6F34,Sky View (Looking Straight Down At The Car)
+N,7E45FF80,FAKE First Place On Rank Tag
+N,7E0DF900,No Damage
+N,BA38-D49A,Infinite time in Test Run
+N,BA38-D49A,Infinite time in Test Run
+N,BA3B-0F22,Infinite Time in Speed Trax
+N,BA3B-0F22,Infinite Time in Speed Trax

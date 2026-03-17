@@ -1,0 +1,120 @@
+N,7E1B7D99,Infinite Round Time
+N,7E1AA220,Select Same Fighter [Both Players]
+N,7E073E90,Infinite Health P1
+N,7E073E00,1-Hit Death P1
+N,7E09BE90,Infinite Health P2
+N,7E09BE00,1-Hit Death P2
+N,7E074E0B,P1 Can't Be Hit [Can still be grabbed]
+N,7E09CE0B,P2 Can't Be Hit [Can still be grabbed]
+N,7E07BE90,P1 Special Bar Maxed
+N,7E0A3E90,P2 Special Bar Maxed
+N,7E07F201,Infinite Taunts P1
+N,7E0A7201,Infinite Taunts P2
+N,7E07C602,P1 Needs 1 Round to Win
+N,7E0A4602,P2 Needs 1 Round to Win
+N,7E071E01,Hyper Mode P1
+N,7E099E01,Hyper Mode P2
+N,7E073000,P1 Can Do Moves in Mid-Air
+N,7E09B000,P2 Can Do Moves in Mid-Air
+N,7E071C30,Blocking Modifier P1
+N,7E099C30,Blocking Modifier P2
+N,7E074B00,P1 Speed Modifier
+N,7E09CB00,P2 Speed Modifier
+N,7E07C800,P1 Costume Modifier
+N,7E0A4800,P2 Costume Modifier
+N,7E06D200+7E06D300+7E06D400+7E06D500+7E06D600+7E06D700+7E06D800+7E06D900+7E06DA00+7E06DB00,P1 Chun-Li/Classic Chun-Li; Shotokan Costume Color Modifier [Ryu; Ken; Akuma/Shin Akuma; and Dan] In-Game
+N,7E06F200+7E06F300+7E06F400+7E06F500+7E06F600+7E06F700+7E06F800+7E06F900+7E06FA00+7E06FB00,P2 Chun-Li/Classic Chun-Li; Shotokan Costume Color Modifier [Ryu; Ken; Akuma/Shin Akuma; and Dan] In-Game
+N,7E09C204,All P1 Hits/Projectiles Send P2 Flying
+N,7E074204,All P2 Hits/Projectiles Send P1 Flying
+N,7E09C300,All P1 Projectiles Are Normal
+N,7E09C30C,All P1 Hits/Projectiles Burn [Red]
+N,7E09C30D,All P1 Hits/Projectiles Burn [Blue]
+N,7E09C311,All P1 Hits/Projectiles Counter
+N,7E09C313,All P1 Hits/Projectiles Are Knockdowns
+N,7E074300,All P2 Projectiles Are Normal
+N,7E07430C,All P2 Hits/Projectiles Burn [Red]
+N,7E07430D,All P2 Hits/Projectiles Burn [Blue]
+N,7E074311,All P2 Hits/Projectiles Counter
+N,7E074313,All P2 Hits/Projectiles Are Knockdowns
+N,7E1C2700,Background Modifier [VS Mode]
+N,7E0781FF,P1 Easier Specials [Motion Move]
+N,7E0A01FF,P2 Easier Specials [Motion Move]
+N,7E07AC00+7E07AD00,P1 Infinite Projectiles
+N,7E0A2C00+7E0A2D00,P2 Infinite Projectiles
+N,7E075CA7,P1 Infinite Custom Combo Time
+N,7E09DCA7,P2 Infinite Custom Combo Time
+N,7E072701,P1 Custom Combos
+N,7E09A701,P2 Custom Combos
+N,7E07B700,P1 Always Escape Throws
+N,7E07B701,P1 Can't Escape Throws
+N,7E0A3700,P2 Always Escape Throws
+N,7E0A3701,P2 Can't Escape Throws
+N,7E074F00,P1 Damage Modifier
+N,7E09CF00,P2 Damage Modifier
+N,7E072C00,P1 Pose Viewer [Character Select Screen]
+N,7E09AC00,P2 Pose Viewer [Character Select Screen]
+N,7E00AB00,P1 Hold Start for Slow Motion
+N,7E00B100,P2 Hold Start for Slow Motion
+N,7E00C310,No HUD/Gauge Info/BG Sprites
+N,7E00C311,No HUD/Gauge Info/Certain BG Sprites
+N,7E00C313,No HUD/Gauge Info
+N,7E1C0900,Dimmed Background
+N,7E00C500+7E00C600,HUD/Gauge Placement Modifier
+N,7E0738C4,P1 Jump Height Modifier
+N,7E09B8C4,P2 Jump Height Modifier
+N,7E00EF01,P1 Trails Enabled
+N,7E00EF02,P2 Trails Enabled
+N,7E00EF03,Player Trails Enabled
+N,7E07B901,P1 Can Wall Jump in Mid-Air
+N,7E0A3901,P2 Can Wall Jump in Mid-Air
+N,7E1B1000,Start on Stage Modifier
+N,7E1B0F00,Background Modifier [All Modes]
+N,7E1AFE00,Stage 1
+N,7E1AFF00,Stage 2
+N,7E1B0000,Stage 3
+N,7E1B0100,Stage 4
+N,7E1B0200,Stage 5
+N,7E1B0300,Stage 6
+N,7E1B0400,Stage 7
+N,7E1B0500,Stage 8
+N,7E1AE901,Japan [Ryu]
+N,7E1AEA01,U.S.A. [Ken]
+N,7E1AEB01,Japan [Akuma]
+N,7E1AEC01,U.S.A. [Charlie]
+N,7E1AED01,China [Chun-Li]
+N,7E1AEE01,Thailand [Adon]
+N,7E1AEF01,U.S.A. [Sodom]
+N,7E1AF001,U.S.A. [Guy]
+N,7E1AF101,England [Birdie]
+N,7E1AF201,Italy [Rose]
+N,7E1AF301,Brazil [M. Bison]
+N,7E1AF401,Thailand [Sagat]
+N,7E1AF501,Hong Kong [Dan]
+N,7E1AF601,Japan [Sakura]
+N,7E1AF701,U.S.A. [Rolento]
+N,7E1AF801,India [Dhalsim]
+N,7E1AF901,U.S.S.R. [Zangief]
+N,7E1AFA01,China [Gen]
+N,7E1B6001,Enable Boss Battle Dialogue
+N,7E1B6801,Enable Mid-Boss Battle Dialogue
+N,7E1B6901,Enable Shin Akuma Battle Dialogue
+N,7E06DC00,P1 Shotokan Gloves/Hair Color Modifier
+N,7E06FC00,P2 Shotokan Gloves/Hair Color Modifier
+N,7E06CE00,P1 Shotokan Eye Color Modifier
+N,7E06EE00,P2 Shotokan Eye Color Modifier
+N,7E06C000+7E06C100+7E06C400+7E06C500+7E06C600+7E06C700+7E06C800+7E06C900+7E06CA00+7E06CB00,P1 Shotokan Skin Color Modifier [In-Game]
+N,7E06E000+7E06E100+7E06E400+7E06E500+7E06E600+7E06E700+7E06E800+7E06E900+7E06EA00+7E06EB00,P2 Shotokan Skin Color Modifier [In-Game]
+N,EDB9-FE67,Gives An Infinite Amount Of Super Power
+N,3CC6-5DDD+3DC6-5D0D+6DC6-5D6D+DBC6-5DAD+3D80-7F6D+DD80-7FAD+D580-74DD,Invincibility
+N,3DC7-8D0D+6DC7-8D6D+DBC7-8DAD+BDC7-8FDD,Hit Anywhere P1
+N,7E07A200,Character Modifier P1
+N,7E07AC00+7E07AD00,P1 Infinite Projectiles
+N,7E0A2C00+7E0A2D00,P2 Infinite Projectiles
+N,7E06CE1E+7E06CF00,P1 Shotokan Eyes Are Red
+N,7E06EE1E+7E06EF00,P2 Shotokan Eyes Are Red
+N,7E06C000+7E06C100+7E06C400+7E06C500+7E06C600+7E06C700+7E06C800+7E06C900+7E06CA00+7E06CB00,P1 Shotokan/Chun-Li/Classic Chun-Li Skin & Hair Color Modifier (Ryu; Ken; Akuma/Shin Akuma; and Dan) In-Game
+N,7E06E000+7E06E100+7E06E400+7E06E500+7E06E600+7E06E700+7E06E800+7E06E900+7E06EA00+7E06EB00,P2 Shotokan/Chun-Li/Classic Chun-Li Skin Color Modifier (Ryu; Ken; Akuma/Shin Akuma; and Dan) In-Game
+N,7E0A2200,Character Modifier P2
+N,DDD7-849C+6DDE-54B8+4EDC-ED9C+DAD4-8D28+DED4-8FF8,Easier Special Moves[See Notes]
+N,F1FF-87FB,Easy Shun Goku Satsu
+N,DDD8-8D9C,No Charging

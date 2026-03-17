@@ -1,0 +1,4 @@
+N,7E13F000+7E13F400,Team 1 Points Modifier
+N,7E13F200+7E13F600,Team 2 Points Modifier
+N,7E140200,Game Clock Seconds Modifier
+N,7E140000,Game Clock Minutes Modifier

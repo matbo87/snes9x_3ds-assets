@@ -1,0 +1,56 @@
+N,7E173109,Player 1 9 Lives
+N,7E16ED03,Player 1 Infinite Health
+N,DFC2-A494,1 credit instead of 3 [player 1]
+N,D4C2-A494,2 credits [player 1]
+N,D9C2-A494,5 credits [player 1]
+N,D5C2-A494,7 credits [player 1]
+N,DBC2-A494,9 credits [player 1]
+N,DDC2-A494,No credits [player 1]
+N,DFCF-DFF7,1 credit instead of 3 [player 2]
+N,D4CF-DFF7,2 credits [player 2]
+N,D9CF-DFF7,5 credits [player 2]
+N,D5CF-DFF7,7 credits [player 2]
+N,DBCF-DFF7,9 credits [player 2]
+N,DDCF-DFF7,No credits [player 2]
+N,C260-67F7,Infinite credits [both players]
+N,7A64-D420,Clock runs faster
+N,ED64-D420,Clock runs slower
+N,ED64-D420+DF64-D7F0,Clock runs much slower
+N,8269-DF90,Freeze clock [must switch off effects in bonus stage]
+N,DF6D-D7BD,1 play per game instead of 3 [both players]
+N,D46D-D7BD,2 plays per game [both players]
+N,D06D-D7BD,4 plays per game [both players]
+N,D96D-D7BD,5 plays per game [both players]
+N,D56D-D7BD,7 plays per game [both players]
+N,DB6D-D7BD,9 plays per game [both players]
+N,C26E-6D2D,Infinite plays [both players]
+N,6DA6-6D69,No harm from most enemies
+N,C23B-A7F9+C232-67B1,No harm if swallowed by a monster
+N,D427-6D2D,Collect 2 eggs for extra play instead of 50
+N,D927-6D2D,Collect 5 eggs for extra play
+N,FD27-6D2D,Collect 10 eggs for extra play
+N,F927-6D2D,Collect 15 eggs for extra play
+N,4927-6D2D,Collect 25 eggs for extra play
+N,5927-6D2D,Collect 75 eggs for extra play
+N,BB27-6D2D,Collect 99 eggs for extra play
+N,EC6B-DFBE,Rex jumps higher
+N,E66B-DFBE,Rex jumps much higher
+N,EC8A-D793,Tops jumps higher
+N,E68A-D793,Tops jumps much higher
+N,EC22-DF22,Timmy and Jamie jump higher
+N,E622-DF22,Timmy and Jamie jump much higher
+N,7E172532,Dinosaur Walk Through Enemies
+N,7E179B32,Kid Walk Through Enemies
+N,7E176303,Infinite Health Kid
+N,7E1F8C63,Every Egg Gives Extra Life
+N,7E16E100,Dinosaur Color Modifier
+N,7E05A800,Character Box Color Modifier
+N,7E175700,Kid Color Modifier
+N,7E01F840+7E024840+7E029840+7E02E840+7E033840+7E038840+7E03D840+7E042840+7E047840+7E04C840+7E051840+7E056840+7E05B840+7E060840+7E065840+7E06A840+7E06F840+7E074840+7E079840+7E07E840+7E083840+7E088840+7E08D840+7E092840+7E097840+7E09C840+7E0A1840+7E0A6840+7E0AB840+7E0B0840+7E0B5840+7E0BA840+7E0BF840+7E0C4840+7E0C9840+7E0CE840+7E0D3840+7E0D8840+7E0DD840+7E0E2840+7E0E7840+7E0EC840+7E0F1840+7E0F6840+7E0FB840+7E100840+7E105840+7E10A840+7E10F840+7E114840+7E119840+7E11E840+7E123840+7E128840+7E12D840+7E132840+7E137840+7E13C840+7E141840+7E146840+7E14B840+7E150840+7E155840+7E15A840+7E15F840+7E164840+7E169840,Enemies Stay Frozen When Shot by Kid
+N,C264-D4F8+C265-0795+C2CA-D7B0,Enemies Stay Frozen When Shot by Kid
+N,8BA6-67A9,Player 1 Infinite Health
+N,336E-6D2D,Player 1 Lives Increase Upon Death
+N,7E17BB00,Area / Level Modifier
+N,6DAE-6469+F9AE-64A9,Hit/Stomp From Anywhere
+N,D865-DD24+DD69-6DFD,Enable Level Select
+N,6DBF-A7FA+6DBF-A79A+0AB4-ADFA+7CB4-AD9A+65B4-ADBA,Jump in Midair

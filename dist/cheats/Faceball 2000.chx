@@ -1,0 +1,169 @@
+N,DFB6-6461,Start with 1 life instead of 3
+N,D9B6-6461,Start with 5 lives
+N,D5B6-6461,Start with 7 lives
+N,DBB6-6461,Start with 9 lives
+N,FBB6-6461,Start with 25 lives
+N,74B6-6461,Start with 50 lives
+N,08B6-6461,Start with 75 lives
+N,17B6-6461,Start with 99 lives
+N,EEB6-6461,Start with 255 lives
+N,89AB-D708,Infinite lives
+N,CBB5-6406+DFB5-6466,Start each Cyberzone level with 1 tag required
+N,CBB5-6406+D9B5-6466,Start each Cyberzone level with 5 tags required
+N,CBB5-6406+F0B5-6466,Start each Cyberzone level with 20 tags required
+N,CBB5-6406+F3B5-6466,Start each Cyberzone level with 30 tags required
+N,CBB5-6406+7AB5-6466,Start each Cyberzone level with 60 tags required
+N,CBB5-6406+9CB5-6466,Start each Cyberzone level with 90 tags required
+N,1061-DD52,Allow 98 seconds in zone 1 bonus level
+N,1069-6752,Allow 98 seconds in zone 2 bonus level
+N,1068-DDE3,Allow 98 seconds in zone 3 bonus level
+N,1061-A473,Allow 98 seconds in zone 4 bonus level
+N,A66C-047E,Allow 198 seconds in zone 5 bonus level
+N,A6B1-D45A,Allow 198 seconds in zone 6 bonus level
+N,A6B0-AF7A,Allow 198 seconds in zone 7 bonus level
+N,B9B1-6F01,Only need 8 tags to win in arena mode instead of 10 [start with 2 instead of 0]
+N,C282-0706+DFCE-0468,Start Cyberzone mode on zone 1 level 2
+N,C282-0706+D4CE-0468,Start Cyberzone mode on zone 1 level 3
+N,C282-0706+D7CE-0468,Start Cyberzone mode on zone 1 level 4
+N,C282-0706+D0CE-0468,Start Cyberzone mode on zone 1 level 5
+N,C282-0706+D9CE-0468,Start Cyberzone mode on zone 1 bonus level
+N,C282-0706+D1CE-0468,Start Cyberzone mode on zone 2 level 6
+N,C282-0706+D5CE-0468,Start Cyberzone mode on zone 2 level 7
+N,C282-0706+D6CE-0468,Start Cyberzone mode on zone 2 level 8
+N,C282-0706+DBCE-0468,Start Cyberzone mode on zone 2 level 9
+N,C282-0706+DCCE-0468,Start Cyberzone mode on zone 2 level 10
+N,C282-0706+D8CE-0468,Start Cyberzone mode on zone 2 bonus level
+N,C282-0706+DACE-0468,Start Cyberzone mode on zone 3 level 11
+N,C282-0706+D2CE-0468,Start Cyberzone mode on zone 3 level 12
+N,C282-0706+D3CE-0468,Start Cyberzone mode on zone 3 level 13
+N,C282-0706+DECE-0468,Start Cyberzone mode on zone 3 level 14
+N,C282-0706+FDCE-0468,Start Cyberzone mode on zone 3 level 15
+N,C282-0706+FFCE-0468,Start Cyberzone mode on zone 3 bonus level
+N,C282-0706+F4CE-0468,Start Cyberzone mode on zone 4 level 16
+N,C282-0706+F7CE-0468,Start Cyberzone mode on zone 4 level 17
+N,C282-0706+F0CE-0468,Start Cyberzone mode on zone 4 level 18
+N,C282-0706+F9CE-0468,Start Cyberzone mode on zone 4 level 19
+N,C282-0706+F1CE-0468,Start Cyberzone mode on zone 4 level 20
+N,C282-0706+F5CE-0468,Start Cyberzone mode on zone 4 bonus level
+N,C282-0706+F6CE-0468,Start Cyberzone mode on zone 5 level 21
+N,C282-0706+FBCE-0468,Start Cyberzone mode on zone 5 level 22
+N,C282-0706+FCCE-0468,Start Cyberzone mode on zone 5 level 23
+N,C282-0706+F8CE-0468,Start Cyberzone mode on zone 5 level 24
+N,C282-0706+FACE-0468,Start Cyberzone mode on zone 5 level 25
+N,C282-0706+F2CE-0468,Start Cyberzone mode on zone 5 bonus level
+N,C282-0706+F3CE-0468,Start Cyberzone mode on zone 6 level 26
+N,C282-0706+FECE-0468,Start Cyberzone mode on zone 6 level 27
+N,C282-0706+4DCE-0468,Start Cyberzone mode on zone 6 level 28
+N,C282-0706+4FCE-0468,Start Cyberzone mode on zone 6 level 29
+N,C282-0706+44CE-0468,Start Cyberzone mode on zone 6 level 30
+N,C282-0706+47CE-0468,Start Cyberzone mode on zone 6 bonus level
+N,C282-0706+40CE-0468,Start Cyberzone mode on zone 7 level 31
+N,C282-0706+49CE-0468,Start Cyberzone mode on zone 7 level 32
+N,C282-0706+41CE-0468,Start Cyberzone mode on zone 7 level 33
+N,C282-0706+45CE-0468,Start Cyberzone mode on zone 7 level 34
+N,C282-0706+46CE-0468,Start Cyberzone mode on zone 7 level 35
+N,C282-0706+4BCE-0468,Start Cyberzone mode on zone 7 bonus level
+N,C282-0706+4CCE-0468,Start Cyberzone mode on zone 8 level 36
+N,C282-0706+48CE-0468,Start Cyberzone mode on zone 8 level 37
+N,C282-0706+4ACE-0468,Start Cyberzone mode on zone 8 level 38
+N,C282-0706+42CE-0468,Start Cyberzone mode on zone 8 level 39
+N,C282-0706+43CE-0468,Start Cyberzone mode on zone 8 level 40
+N,C282-0706+4ECE-0468,Start Cyberzone mode on zone 8 level 41
+N,C282-0706+DFCE-0468,Start Cyberzone Mode On Zone 1 Level 2
+N,C282-0706+D4CE-0468,Start Cyberzone Mode On Zone 1 Level 3
+N,C282-0706+D7CE-0468,Start Cyberzone Mode On Zone 1 Level 4
+N,C282-0706+D0CE-0468,Start Cyberzone Mode On Zone 1 Level 5
+N,C282-0706+D9CE-0468,Start Cyberzone Mode On Zone 1 Bonus Level
+N,C282-0706+D1CE-0468,Start Cyberzone Mode On Zone 2 Level 6
+N,C282-0706+D5CE-0468,Start Cyberzone Mode On Zone 2 Level 7
+N,C282-0706+D6CE-0468,Start Cyberzone Mode On Zone 2 Level 8
+N,C282-0706+DBCE-0468,Start Cyberzone Mode On Zone 2 Level 9
+N,C282-0706+DCCE-0468,Start Cyberzone Mode On Zone 2 Level 10
+N,C282-0706+D8CE-0468,Start Cyberzone Mode On Zone 2 Bonus Level
+N,C282-0706+DACE-0468,Start Cyberzone Mode On Zone 3 Level 11
+N,C282-0706+D2CE-0468,Start Cyberzone Mode On Zone 3 Level 12
+N,C282-0706+D3CE-0468,Start Cyberzone Mode On Zone 3 Level 13
+N,C282-0706+DECE-0468,Start Cyberzone Mode On Zone 3 Level 14
+N,C282-0706+FDCE-0468,Start Cyberzone Mode On Zone 3 Level 15
+N,C282-0706+FFCE-0468,Start Cyberzone Mode On Zone 3 Bonus Level
+N,C282-0706+F4CE-0468,Start Cyberzone Mode On Zone 4 Level 16
+N,C282-0706+F7CE-0468,Start Cyberzone Mode On Zone 4 Level 17
+N,C282-0706+F0CE-0468,Start Cyberzone Mode On Zone 4 Level 18
+N,C282-0706+F9CE-0468,Start Cyberzone Mode On Zone 4 Level 19
+N,C282-0706+F1CE-0468,Start Cyberzone Mode On Zone 4 Level 20
+N,C282-0706+F5CE-0468,Start Cyberzone Mode On Zone 4 Bonus Level
+N,C282-0706+F6CE-0468,Start Cyberzone Mode On Zone 5 Level 21
+N,C282-0706+FBCE-0468,Start Cyberzone Mode On Zone 5 Level 22
+N,C282-0706+FCCE-0468,Start Cyberzone Mode On Zone 5 Level 23
+N,C282-0706+F8CE-0468,Start Cyberzone Mode On Zone 5 Level 24
+N,C282-0706+FACE-0468,Start Cyberzone Mode On Zone 5 Level 25
+N,C282-0706+F2CE-0468,Start Cyberzone Mode On Zone 5 Bonus Level
+N,C282-0706+F3CE-0468,Start Cyberzone Mode On Zone 6 Level 26
+N,C282-0706+FECE-0468,Start Cyberzone Mode On Zone 6 Level 27
+N,C282-0706+4DCE-0468,Start Cyberzone Mode On Zone 6 Level 28
+N,C282-0706+4FCE-0468,Start Cyberzone Mode On Zone 6 Level 29
+N,C282-0706+44CE-0468,Start Cyberzone Mode On Zone 6 Level 30
+N,C282-0706+47CE-0468,Start Cyberzone Mode On Zone 6 Bonus Level
+N,C282-0706+40CE-0468,Start Cyberzone Mode On Zone 7 Level 31
+N,C282-0706+49CE-0468,Start Cyberzone Mode On Zone 7 Level 32
+N,C282-0706+41CE-0468,Start Cyberzone Mode On Zone 7 Level 33
+N,C282-0706+45CE-0468,Start Cyberzone Mode On Zone 7 Level 34
+N,C282-0706+46CE-0468,Start Cyberzone Mode On Zone 7 Level 35
+N,C282-0706+4BCE-0468,Start Cyberzone Mode On Zone 7 Bonus Level
+N,C282-0706+4CCE-0468,Start Cyberzone Mode On Zone 8 Level 36
+N,C282-0706+48CE-0468,Start Cyberzone Mode On Zone 8 Level 37
+N,C282-0706+4ACE-0468,Start Cyberzone Mode On Zone 8 Level 38
+N,C282-0706+42CE-0468,Start Cyberzone Mode On Zone 8 Level 39
+N,C282-0706+43CE-0468,Start Cyberzone Mode On Zone 8 Level 40
+N,C282-0706+4ECE-0468,Start Cyberzone Mode On Zone 8 Level 41
+N,B9B1-6F01,Only Need 8 Tags To Win In Arena Mode Instead Of 10 (Start With 2 Instead Of 0)
+N,7E0BD103,Infinite Lives
+N,7E035201,The Next Tag Opens The Gate Regardless Of How Many Tags Have Been Made So Far
+N,B9B1-6F01,Only Need 8 Tags To Win In Arena Mode (Start With 2)
+N,DFCE-0468+C282-0706,Start Cyberzone Mode On Zone 1 Level 2 (Can't Continue)
+N,D4CE-0468+C282-0706,Start Cyberzone Mode On Zone 1 Level 3 (Can't Continue)
+N,D7CE-0468+C282-0706,Start Cyberzone Mode On Zone 1 Level 4 (Can't Continue)
+N,D0CE-0468+C282-0706,Start Cyberzone Mode On Zone 1 Level 5 (Can't Continue)
+N,D9CE-0468+C282-0706,Start Cyberzone Mode On Zone 1 Bonus Level (Can't Continue)
+N,D1CE-0468+C282-0706,Start Cyberzone Mode On Zone 2 Level 6 (Can't Continue)
+N,D5CE-0468+C282-0706,Start Cyberzone Mode On Zone 2 Level 7 (Can't Continue)
+N,D6CE-0468+C282-0706,Start Cyberzone Mode On Zone 2 Level 8 (Can't Continue)
+N,DBCE-0468+C282-0706,Start Cyberzone Mode On Zone 2 Level 9 (Can't Continue)
+N,DCCE-0468+C282-0706,Start Cyberzone Mode On Zone 2 Level 10 (Can't Continue)
+N,D8CE-0468+C282-0706,Start Cyberzone Mode On Zone 2 Bonus Level (Can't Continue)
+N,DACE-0468+C282-0706,Start Cyberzone Mode On Zone 3 Level 11 (Can't Continue)
+N,D2CE-0468+C282-0706,Start Cyberzone Mode On Zone 3 Level 12 (Can't Continue)
+N,D3CE-0468+C282-0706,Start Cyberzone Mode On Zone 3 Level 13 (Can't Continue)
+N,DECE-0468+C282-0706,Start Cyberzone Mode On Zone 3 Level 14 (Can't Continue)
+N,FDCE-0468+C282-0706,Start Cyberzone Mode On Zone 3 Level 15 (Can't Continue)
+N,FFCE-0468+C282-0706,Start Cyberzone Mode On Zone 3 Bonus Level (Can't Continue)
+N,F4CE-0468+C282-0706,Start Cyberzone Mode On Zone 4 Level 16 (Can't Continue)
+N,F7CE-0468+C282-0706,Start Cyberzone Mode On Zone 4 Level 17 (Can't Continue)
+N,F0CE-0468+C282-0706,Start Cyberzone Mode On Zone 4 Level 18 (Can't Continue)
+N,F9CE-0468+C282-0706,Start Cyberzone Mode On Zone 4 Level 19 (Can't Continue)
+N,F1CE-0468+C282-0706,Start Cyberzone Mode On Zone 4 Level 20 (Can't Continue)
+N,F5CE-0468+C282-0706,Start Cyberzone Mode On Zone 4 Bonus Level (Can't Continue)
+N,F6CE-0468+C282-0706,Start Cyberzone Mode On Zone 5 Level 21 (Can't Continue)
+N,FBCE-0468+C282-0706,Start Cyberzone Mode On Zone 5 Level 22 (Can't Continue)
+N,FCCE-0468+C282-0706,Start Cyberzone Mode On Zone 5 Level 23 (Can't Continue)
+N,F8CE-0468+C282-0706,Start Cyberzone Mode On Zone 5 Level 24 (Can't Continue)
+N,FACE-0468+C282-0706,Start Cyberzone Mode On Zone 5 Level 25 (Can't Continue)
+N,F2CE-0468+C282-0706,Start Cyberzone Mode On Zone 5 Bonus Level (Can't Continue)
+N,F3CE-0468+C282-0706,Start Cyberzone Mode On Zone 6 Level 26 (Can't Continue)
+N,FECE-0468+C282-0706,Start Cyberzone Mode On Zone 6 Level 27 (Can't Continue)
+N,4DCE-0468+C282-0706,Start Cyberzone Mode On Zone 6 Level 28 (Can't Continue)
+N,4FCE-0468+C282-0706,Start Cyberzone Mode On Zone 6 Level 29 (Can't Continue)
+N,44CE-0468+C282-0706,Start Cyberzone Mode On Zone 6 Level 30 (Can't Continue)
+N,47CE-0468+C282-0706,Start Cyberzone Mode On Zone 6 Bonus Level (Can't Continue)
+N,40CE-0468+C282-0706,Start Cyberzone Mode On Zone 7 Level 31 (Can't Continue)
+N,49CE-0468+C282-0706,Start Cyberzone Mode On Zone 7 Level 32 (Can't Continue)
+N,41CE-0468+C282-0706,Start Cyberzone Mode On Zone 7 Level 33 (Can't Continue)
+N,45CE-0468+C282-0706,Start Cyberzone Mode On Zone 7 Level 34 (Can't Continue)
+N,46CE-0468+C282-0706,Start Cyberzone Mode On Zone 7 Level 35 (Can't Continue)
+N,4BCE-0468+C282-0706,Start Cyberzone Mode On Zone 7 Bonus Level (Can't Continue)
+N,4CCE-0468+C282-0706,Start Cyberzone Mode On Zone 8 Level 36 (Can't Continue)
+N,48CE-0468+C282-0706,Start Cyberzone Mode On Zone 8 Level 37 (Can't Continue)
+N,4ACE-0468+C282-0706,Start Cyberzone Mode On Zone 8 Level 38 (Can't Continue)
+N,42CE-0468+C282-0706,Start Cyberzone Mode On Zone 8 Level 39 (Can't Continue)
+N,43CE-0468+C282-0706,Start Cyberzone Mode On Zone 8 Level 40 (Can't Continue)
+N,4ECE-0468+C282-0706,Start Cyberzone Mode On Zone 8 Level 41 (Can't Continue)

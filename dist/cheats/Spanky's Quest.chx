@@ -1,0 +1,11 @@
+N,40AC-DF08,Infinite lives
+N,DD31-AFAD,Start with 1 life
+N,D931-AFAD,Start with 6 lives
+N,DB31-AFAD,Start with 10 lives
+N,CB3F-0FDF+DF3F-0F0F,Start with 1 key in all areas after 1-1
+N,CB35-A7AD+DF36-ADDD,Start on area 2-1
+N,CB35-A7AD+D436-ADDD,Start on area 3-1
+N,CB35-A7AD+D736-ADDD,Start on area 4-1
+N,CB35-A7AD+D036-ADDD,Start on area 5-1
+N,DDA2-A46C+DDA2-A7AC+ECAE-AD6C,Moon Jump
+N,CBA3-AFDB+62A3-AF6B+CBA3-AFAB,Invincibility

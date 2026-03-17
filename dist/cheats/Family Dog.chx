@@ -1,0 +1,34 @@
+N,DF6F-1D6D,Start With 1 Life
+N,D46F-1D6D,Start With 2 Lives
+N,DB6F-1D6D,Start With 9 Lives
+N,D76F-1DAD,Start With 33 Lives
+N,D96F-1DAD,Start With 53 Lives
+N,DB6F-1DAD,Start With 93 Lives
+N,C2A8-C7D9,Unlimited Lives
+N,DD6F-17AD,Start With No Super Barks
+N,D96F-17AD,Start With 50 Super Barks
+N,D56F-17AD,Start With 70 Super Barks
+N,DB6F-17AD,Start With 90 Super Barks
+N,D467-14DD,Start With Less Health
+N,DB67-14DD,Start With More Health
+N,FAA0-CF67+D4A0-CFA7,See The Ending
+N,9DA0-CF67,Start In The Hallway
+N,10A0-CF67,Start In The Living Room
+N,13A0-CF67,Start In The Hallway To The Kitchen
+N,64A0-CF67,Start In The Kitchen
+N,6AA0-CF67,Start In The Hallway To Back Door
+N,B1A0-CF67,Start Outside In The Yard
+N,83A0-CF67,Start In The Kennel Interior
+N,3DA0-CF67+DFA0-CFA7,Start In The Kennel Exterior
+N,E0A0-CF67+DFA0-CFA7,Start In The Woods And Trees
+N,82C6-37D5,Protection From Most Hits
+N,C2C2-3465,Keep Super Barks After Losing A Life
+N,C2AE-CD69,Super Barks Do Not Decrease
+N,3C87-17A5,Bones Do Not Restore Health
+N,DDA2-CDA9,Cheese Treats Worth Nothing
+N,D4A2-CDA9,Cheese Treats Worth 2 Super Barks
+N,D5A2-CDA9,Cheese Treats Worth 7 Super Barks
+N,DCA2-CDA9,Cheese Treats Worth 10 Super Barks
+N,7E163100,1 Hit And Invincibility
+N,7E0994FF,Infinite Health
+N,43AC-3D61+A2AC-3DA1+DDAB-3701,Jump in Midair

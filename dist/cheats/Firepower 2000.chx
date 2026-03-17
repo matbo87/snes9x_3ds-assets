@@ -1,0 +1,47 @@
+N,DF69-1DAF,Start with 1 life instead of 4
+N,D469-1DAF,Start with 2 lives
+N,D769-1DAF,Start with 3 lives
+N,D969-1DAF,Start with 5 lives
+N,D569-1DAF,Start with 7 lives
+N,DC69-1DAF,Start with 10 lives
+N,DE69-1DAF,Start with 15 lives
+N,FB69-1DAF,Start with 25 lives
+N,7469-1DAF,Start with 50 lives
+N,0869-1DAF,Start with 75 lives
+N,1069-1DAF,Start with 100 lives
+N,8263-4DDF,Infinite lives
+N,D765-146F,Start with bullet strength at 3 instead of 1
+N,D165-146F,Start with bullet strength at 6
+N,D761-14DF,Start with flame strength at 3 instead of 1
+N,D161-14DF,Start with flame strength at 6
+N,DD61-14DF,Start with flame strength at 0
+N,D761-176F,Start with plasma strength at 3 instead of 1
+N,D161-176F,Start with plasma strength at 6
+N,DD61-176F,Start with plasma strength at 0
+N,DF65-1FDF,Start with laser strength at 1 instead of 0
+N,D765-1FDF,Start with laser strength at 3
+N,D165-1FDF,Start with laser strength at 6
+N,DF66-1DDF,Start with ionic strength at 1 instead of 0
+N,D766-1DDF,Start with ionic strength at 3
+N,D166-1DDF,Start with ionic strength at 6
+N,8267-170F,Loss of vehicle does not reduce bullet strength
+N,826E-470F,Loss of vehicle does not reduce flame strength
+N,826D-170F,Loss of vehicle does not reduce plasma strength
+N,826F-170F,Loss of vehicle does not reduce laser strength
+N,8264-170F,Loss of vehicle does not reduce ionic strength
+N,DF8B-CD07,Bubble shield lasts for 4 seconds instead of 12
+N,D48B-CD07,Bubble shield lasts for 8 seconds
+N,D08B-CD07,Bubble shield lasts for 16 seconds
+N,D68B-CD07,Bubble shield lasts for 32 seconds
+N,FD8B-CD07,Bubble shield lasts for 64 seconds
+N,C2CB-3FD4,Bubble shield on jeep lasts until end of level
+N,C2CF-1464,Bubble shield on helicopter lasts until end of level
+N,D4B3-1764,Start at level 2
+N,D7B3-1764,Start at level 3
+N,D0B3-1764,Start at level 4
+N,D9B3-1764,Start at level 5
+N,D1B3-1764,Start at level 6
+N,7E612AAE,Invincibility Jeep
+N,7E612CAE,Invincibility Helicopter
+N,6DE6-3F6D+DEE6-3FAD+DD37-4764+C2E3-1404+C2E2-1404,Hit Anywhere
+N,7E609A09,Infinite Lives

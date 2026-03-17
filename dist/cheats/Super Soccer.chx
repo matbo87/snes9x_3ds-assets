@@ -1,0 +1,38 @@
+N,FC2A-0F65+3C2A-0FA5,Each goal worth 2 [player 1]
+N,FC2A-0F65+FC2A-0FA5,Each goal worth 3 [player 1]
+N,1B2A-0F65+D72A-0FA5,Each goal worth 4 [player 1]
+N,1B2A-0F65+D02A-0FA5,Each goal worth 5 [player 1]
+N,1B2A-0F65+D92A-0FA5,Each goal worth 6 [player 1]
+N,1B2A-0F65+D12A-0FA5,Each goal worth 7 [player 1]
+N,1B2A-0F65+D52A-0FA5,Each goal worth 8 [player 1]
+N,1B2A-0F65+D62A-0FA5,Each goal worth 9 [player 1]
+N,FC22-0465+3C22-04A5,Each goal worth 2 [player 2]
+N,FC22-0465+FC22-04A5,Each goal worth 3 [player 2]
+N,1B22-0465+D722-04A5,Each goal worth 4 [player 2]
+N,1B22-0465+D022-04A5,Each goal worth 5 [player 2]
+N,1B22-0465+D922-04A5,Each goal worth 6 [player 2]
+N,1B22-0465+D122-04A5,Each goal worth 7 [player 2]
+N,1B22-0465+D522-04A5,Each goal worth 8 [player 2]
+N,1B22-0465+D622-04A5,Each goal worth 9 [player 2]
+N,DDA6-0DD1,Timer continues to count when it is normally stopped [pause can still stop time]
+N,FC2A-0F65+3C2A-0FA5,Each Goal Worth 2 (Player 1)
+N,FC2A-0F65+FC2A-0FA5,Each Goal Worth 3 (Player 1)
+N,1B2A-0F65+D72A-0FA5,Each Goal Worth 4 (Player 1)
+N,1B2A-0F65+D02A-0FA5,Each Goal Worth 5 (Player 1)
+N,1B2A-0F65+D92A-0FA5,Each Goal Worth 6 (Player 1)
+N,1B2A-0F65+D12A-0FA5,Each Goal Worth 7 (Player 1)
+N,1B2A-0F65+D52A-0FA5,Each Goal Worth 8 (Player 1)
+N,1B2A-0F65+D62A-0FA5,Each Goal Worth 9 (Player 1)
+N,FC22-0465+3C22-04A5,Each Goal Worth 2 (Player 2)
+N,FC22-0465+FC22-04A5,Each Goal Worth 3 (Player 2)
+N,1B22-0465+D722-04A5,Each Goal Worth 4 (Player 2)
+N,1B22-0465+D022-04A5,Each Goal Worth 5 (Player 2)
+N,1B22-0465+D922-04A5,Each Goal Worth 6 (Player 2)
+N,1B22-0465+D122-04A5,Each Goal Worth 7 (Player 2)
+N,1B22-0465+D522-04A5,Each Goal Worth 8 (Player 2)
+N,1B22-0465+D622-04A5,Each Goal Worth 9 (Player 2)
+N,7E10F803,No Opposition Goalkeeper For The First Half
+N,7E170500+7E170600,Time Modifier
+N,7E075B00,Score Modifier (Team 2)
+N,7E075A00,Score Modifier (Team 1)
+N,44BC-AFA7,Duplicates your team's line-up on the right side of the screen (the CPU/P2 side) so you can pick two of the same player (keep pressing down to get to the right side).

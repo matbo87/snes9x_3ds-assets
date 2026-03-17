@@ -1,0 +1,34 @@
+N,E3EA-B953,Adds 1 Armor Point Everytime You Select "New Game" From The Main Menu
+N,7E070064,Fake Unlimited Health
+N,7E06F564,Fake Unlimited Ammo
+N,7E070264,Fake Unlimited Armor
+N,FFEA-B953,Start Off With 100 Bullets For The Pistol
+N,F5EA-B953,Start Off With 100 Bullets For The Pistol #2
+N,F4EA-B953,You Start Off With The Normal Amount Of Pistol Ammo (50); But...
+N,F4EA-B953,You Start With 1 Ammo
+N,BDEA-B053+62EA-B953,Start with MEGA health and MEGA armor!
+N,E3EA-B153,Start with more ammo
+N,CBD3-B17F,Heat vision/color blind mode
+N,D7CF-F953,Select "The Shores of Hell" or "Inferno" in any skill level
+N,705A-AEC8,Infinite Health
+N,6EDE-955D+C3DE-958D+9CDE-95ED+5DDD-B07D+6DDD-B05D,Infinite 199 Health
+N,DDEF-2183+CBEF-2153,Go to New Game -> Pick Any Episode -> Go to Selected Level
+N,7E0700E7+7E070103,Infinite Health
+N,E309-64C9+440D-6DC9+060D-DF39,Infinite Health (&)
+N,7E0702E7+7E070303,Infinite Armor
+N,400D-6DC9+BC0D-6D49+0C0D-DF39,Infinite Armor (&)
+N,7E06FEE7+7E06FF03,Infinite Ammo (Pistol)
+N,4D0D-6DC9+C30D-6D49+010D-DF39,Infinite Ammo (Pistol & Gatlin Gun) (&)
+N,4D0D-6DC9+8D0D-6D49+010D-DF39,Infinite Ammo (Shotgun) (&)
+N,4D0D-6DC9+840D-6D49,Infinite Ammo (Rocket Launcher & BFG 9000) (&)
+N,4D0D-6DC9+800D-6D49+010D-DF39,Infinite Ammo (Plasma Gun) (&)
+N,7E071200,Start With Weapon
+N,7E06D100,Start At Level
+N,A69C-BE64,Infinite Health
+N,A6D2-92DD,Infinite Armor
+N,A6D9-FE6D,Infinite Pistol/Gatling Ammo
+N,A6D1-FADD,Infinite Shotgun Ammo
+N,A6D1-FA6D,Infinite Rocket Ammo
+N,A6D1-F2DD,Infinite Energy Ammo
+N,EED2-93DD,All Keys
+N,EED2-930D,All Weapons

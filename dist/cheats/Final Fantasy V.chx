@@ -1,0 +1,794 @@
+N,7E16A900,No Random Battles(Overworld)
+N,7E0B4F00,No Random Battles(Dungeons)
+N,7E0C28FF+7E0C29FF+7E0C2AFF,Have All Jobs
+N,7E0AFA7F,Walk At Maximum Speed
+N,7E094997,Have High GP
+N,7E094EFF+7E094FFF,65535 Enemies Killed
+N,7E09C0FF+7E09C1FF,65535 Total Battles
+N,7E09C200+7E09C300,0 Times Saved
+N,7E0950FF+7E0951FF,Have All Sword Magic
+N,7E0952FF,Have All Sword/White Magic
+N,7E0953FF,Have All White Magic
+N,7E0954FF,Have All White/Black Magic
+N,7E0955FF+7E0956FF,Have All Black/DmMgc Magic
+N,7E0957FF+7E0958FF,Have All DmMgc Magic
+N,7E0959FF,Have All Esper Magic
+N,7E095AFF,Have All Song/Esper Magic
+N,7E095BFF+7E095CFF,Have All Song Magic
+N,7E095FFF+7E0960FF+7E0961FF+7E0962FF+7E0963FF+7E0964FF,Have All Blue Magic
+N,7E09D1FF+7E09D2FF+7E09D3FF+7E09D4FF+7E09D5FF+7E09D6FF+7E09D7FF+7E09D8FF+7E09D9FF+7E09DAFF+7E09DBFF+7E09DCFF+7E09DDFF+7E09DEFF+7E09DFFF+7E09E0FF+7E09E1FF+7E09E2FF+7E09E3FF+7E09E4FF+7E09E5FF+7E09E6FF+7E09E7FF+7E09E8FF+7E09E9FF+7E09EAFF+7E09EBFF+7E09ECFF+7E09EDFF+7E09EEFF+7E09EFFF+7E09F0FF+7E09F1FF+7E09F2FF+7E09F30F,Have All Chests Opened
+N,7E050263,Level 99
+N,7E05060F+7E050727,9999 HP
+N,7E05080F+7E050927,9999 Max. HP
+N,7E050A0F+7E050B27,9999 MP
+N,7E050C0F+7E050D27,9999 Max. MP
+N,7E050E00,Head Equipment
+N,7E050F00,Body Equipment
+N,7E051000,Relic Equipment
+N,7E051300,L.Hand Equipment
+N,7E051400,R.Hand Equipment
+N,7E051A08,Best Status
+N,7E05247F,127 Strength
+N,7E05257F,127 Agility
+N,7E05267F,127 Vitality
+N,7E05277F,127 Magic Power
+N,7E08F364+7E08F705+7E08F8FF+7E08F9FF+7E08FAFB+7E08FBE9+7E08FCE0+7E08FDFC+7E08FEFC+7E08FFFC+7E0900FC+7E0901F8+7E0902E0+7E0903C0+7E0904FF+7E0905FF+7E0906FF+7E0907FF+7E090880,Have All Normal Abilities
+N,7E055263,Level 99
+N,7E05560F+7E055727,9999 HP
+N,7E05580F+7E055927,9999 Max. HP
+N,7E055A0F+7E055B27,9999 MP
+N,7E055C0F+7E055D27,9999 Max. MP
+N,7E055E00,Head Equipment
+N,7E055F00,Body Equipment
+N,7E056000,Relic Equipment
+N,7E056300,L.Hand Equipment
+N,7E056400,R.Hand Equipment
+N,7E056A08,Best Status
+N,7E05747F,127 Strength
+N,7E05757F,127 Agility
+N,7E05767F,127 Vitality
+N,7E05777F,127 Magic Power
+N,7E08F464+7E090B05+7E090CFF+7E090DFF+7E090EFB+7E090FE9+7E0910E0+7E0911FC+7E0912FC+7E0913FC+7E0914FC+7E0915F8+7E0916E0+7E0917C0+7E0918FF+7E0919FF+7E091AFF+7E091BFF+7E091C80,Have All Normal Abilities
+N,7E05A263,Level 99
+N,7E05A60F+7E05A727,9999 HP
+N,7E05A80F+7E05A927,9999 Max. HP
+N,7E05AA0F+7E05AB27,9999 MP
+N,7E05AC0F+7E05AD27,9999 Max. MP
+N,7E05AE00,Head Equipment
+N,7E05AF00,Body Equipment
+N,7E05B000,Relic Equipment
+N,7E05B300,L.Hand Equipment
+N,7E05B400,R.Hand Equipment
+N,7E05BA08,Best Status
+N,7E05C47F,127 Strength
+N,7E05C57F,127 Agility
+N,7E05C67F,127 Vitality
+N,7E05C77F,127 Magic Power
+N,7E08F564+7E091F05+7E0920FF+7E0921FF+7E0922FB+7E0923E9+7E0924E0+7E0925FC+7E0926FC+7E0927FC+7E0928FC+7E0929F8+7E092AE0+7E092BC0+7E092CFF+7E092DFF+7E092EFF+7E092FFF+7E093080,Have All Normal Abilities
+N,7E05F263,Level 99
+N,7E05F60F+7E05F727,9999 HP
+N,7E05F80F+7E05F927,9999 Max. HP
+N,7E05FA0F+7E05FB27,9999 MP
+N,7E05FC0F+7E05FD27,9999 Max. MP
+N,7E05FE00,Head Equipment
+N,7E05FF00,Body Equipment
+N,7E060000,Relic Equipment
+N,7E060300,L.Hand Equipment
+N,7E060400,R.Hand Equipment
+N,7E060A08,Best Status
+N,7E06147F,127 Strength
+N,7E06157F,127 Agility
+N,7E06167F,127 Vitality
+N,7E06177F,127 Magic Power
+N,7E08F664+7E093305+7E0934FF+7E0935FF+7E0936FB+7E0937E9+7E0938E0+7E0939FC+7E093AFC+7E093BFC+7E093CFC+7E093DF8+7E093EE0+7E093FC0+7E0940FF+7E0941FF+7E0942FF+7E0943FF+7E094480,Have All Normal Abilities
+N,7E064000,Item 1 Type
+N,7E074000,Item 1 Amount
+N,7E064100,Item 2 Type
+N,7E074100,Item 2 Amount
+N,7E064200,Item 3 Type
+N,7E074200,Item 3 Amount
+N,7E064300,Item 4 Type
+N,7E074300,Item 4 Amount
+N,7E064400,Item 5 Type
+N,7E074400,Item 5 Amount
+N,7E064500,Item 6 Type
+N,7E074500,Item 6 Amount
+N,7E064600,Item 7 Type
+N,7E074600,Item 7 Amount
+N,7E064700,Item 8 Type
+N,7E074700,Item 8 Amount
+N,7E064800,Item 9 Type
+N,7E074800,Item 9 Amount
+N,7E064900,Item 10 Type
+N,7E074900,Item 10 Amount
+N,7E064A00,Item 11 Type
+N,7E074A00,Item 11 Amount
+N,7E064B00,Item 12 Type
+N,7E074B00,Item 12 Amount
+N,7E064C00,Item 13 Type
+N,7E074C00,Item 13 Amount
+N,7E064D00,Item 14 Type
+N,7E074D00,Item 14 Amount
+N,7E064E00,Item 15 Type
+N,7E074E00,Item 15 Amount
+N,7E064F00,Item 16 Type
+N,7E074F00,Item 16 Amount
+N,7E065000,Item 17 Type
+N,7E075000,Item 17 Amount
+N,7E065100,Item 18 Type
+N,7E075100,Item 18 Amount
+N,7E065200,Item 19 Type
+N,7E075200,Item 19 Amount
+N,7E065300,Item 20 Type
+N,7E075300,Item 20 Amount
+N,7E065400,Item 21 Type
+N,7E075400,Item 21 Amount
+N,7E065500,Item 22 Type
+N,7E075500,Item 22 Amount
+N,7E065600,Item 23 Type
+N,7E075600,Item 23 Amount
+N,7E065700,Item 24 Type
+N,7E075700,Item 24 Amount
+N,7E065800,Item 25 Type
+N,7E075800,Item 25 Amount
+N,7E065900,Item 26 Type
+N,7E075900,Item 26 Amount
+N,7E065A00,Item 27 Type
+N,7E075A00,Item 27 Amount
+N,7E065B00,Item 28 Type
+N,7E075B00,Item 28 Amount
+N,7E065C00,Item 29 Type
+N,7E075C00,Item 29 Amount
+N,7E065D00,Item 30 Type
+N,7E075D00,Item 30 Amount
+N,7E065E00,Item 31 Type
+N,7E075E00,Item 31 Amount
+N,7E065F00,Item 32 Type
+N,7E075F00,Item 32 Amount
+N,7E066000,Item 33 Type
+N,7E076000,Item 33 Amount
+N,7E066100,Item 34 Type
+N,7E076100,Item 34 Amount
+N,7E066200,Item 35 Type
+N,7E076200,Item 35 Amount
+N,7E066300,Item 36 Type
+N,7E076300,Item 36 Amount
+N,7E066400,Item 37 Type
+N,7E076400,Item 37 Amount
+N,7E066500,Item 38 Type
+N,7E076500,Item 38 Amount
+N,7E066600,Item 39 Type
+N,7E076600,Item 39 Amount
+N,7E066700,Item 40 Type
+N,7E076700,Item 40 Amount
+N,7E066800,Item 41 Type
+N,7E076800,Item 41 Amount
+N,7E066900,Item 42 Type
+N,7E076900,Item 42 Amount
+N,7E066A00,Item 43 Type
+N,7E076A00,Item 43 Amount
+N,7E066B00,Item 44 Type
+N,7E076B00,Item 44 Amount
+N,7E066C00,Item 45 Type
+N,7E076C00,Item 45 Amount
+N,7E066D00,Item 46 Type
+N,7E076D00,Item 46 Amount
+N,7E066E00,Item 47 Type
+N,7E076E00,Item 47 Amount
+N,7E066F00,Item 48 Type
+N,7E076F00,Item 48 Amount
+N,7E067000,Item 49 Type
+N,7E077000,Item 49 Amount
+N,7E067100,Item 50 Type
+N,7E077100,Item 50 Amount
+N,7E067200,Item 51 Type
+N,7E077200,Item 51 Amount
+N,7E067300,Item 52 Type
+N,7E077300,Item 52 Amount
+N,7E067400,Item 53 Type
+N,7E077400,Item 53 Amount
+N,7E067500,Item 54 Type
+N,7E077500,Item 54 Amount
+N,7E067600,Item 55 Type
+N,7E077600,Item 55 Amount
+N,7E067700,Item 56 Type
+N,7E077700,Item 56 Amount
+N,7E067800,Item 57 Type
+N,7E077800,Item 57 Amount
+N,7E067900,Item 58 Type
+N,7E077900,Item 58 Amount
+N,7E067A00,Item 59 Type
+N,7E077A00,Item 59 Amount
+N,7E067B00,Item 60 Type
+N,7E077B00,Item 60 Amount
+N,7E067C00,Item 61 Type
+N,7E077C00,Item 61 Amount
+N,7E067D00,Item 62 Type
+N,7E077D00,Item 62 Amount
+N,7E067E00,Item 63 Type
+N,7E077E00,Item 63 Amount
+N,7E067F00,Item 64 Type
+N,7E077F00,Item 64 Amount
+N,7E068000,Item 65 Type
+N,7E078000,Item 65 Amount
+N,7E068100,Item 66 Type
+N,7E078100,Item 66 Amount
+N,7E068200,Item 67 Type
+N,7E078200,Item 67 Amount
+N,7E068300,Item 68 Type
+N,7E078300,Item 68 Amount
+N,7E068400,Item 69 Type
+N,7E078400,Item 69 Amount
+N,7E068500,Item 70 Type
+N,7E078500,Item 70 Amount
+N,7E068600,Item 71 Type
+N,7E078600,Item 71 Amount
+N,7E068700,Item 72 Type
+N,7E078700,Item 72 Amount
+N,7E068800,Item 73 Type
+N,7E078800,Item 73 Amount
+N,7E068900,Item 74 Type
+N,7E078900,Item 74 Amount
+N,7E068A00,Item 75 Type
+N,7E078A00,Item 75 Amount
+N,7E068B00,Item 76 Type
+N,7E078B00,Item 76 Amount
+N,7E068C00,Item 77 Type
+N,7E078C00,Item 77 Amount
+N,7E068D00,Item 78 Type
+N,7E078D00,Item 78 Amount
+N,7E068E00,Item 79 Type
+N,7E078E00,Item 79 Amount
+N,7E068F00,Item 80 Type
+N,7E078F00,Item 80 Amount
+N,7E069000,Item 81 Type
+N,7E079000,Item 81 Amount
+N,7E069100,Item 82 Type
+N,7E079100,Item 82 Amount
+N,7E069200,Item 83 Type
+N,7E079200,Item 83 Amount
+N,7E069300,Item 84 Type
+N,7E079300,Item 84 Amount
+N,7E069400,Item 85 Type
+N,7E079400,Item 85 Amount
+N,7E069500,Item 86 Type
+N,7E079500,Item 86 Amount
+N,7E069600,Item 87 Type
+N,7E079600,Item 87 Amount
+N,7E069700,Item 88 Type
+N,7E079700,Item 88 Amount
+N,7E069800,Item 89 Type
+N,7E079800,Item 89 Amount
+N,7E069900,Item 90 Type
+N,7E079900,Item 90 Amount
+N,7E069A00,Item 91 Type
+N,7E079A00,Item 91 Amount
+N,7E069B00,Item 92 Type
+N,7E079B00,Item 92 Amount
+N,7E069C00,Item 93 Type
+N,7E079C00,Item 93 Amount
+N,7E069D00,Item 94 Type
+N,7E079D00,Item 94 Amount
+N,7E069E00,Item 95 Type
+N,7E079E00,Item 95 Amount
+N,7E069F00,Item 96 Type
+N,7E079F00,Item 96 Amount
+N,7E06A000,Item 97 Type
+N,7E07A000,Item 97 Amount
+N,7E06A100,Item 98 Type
+N,7E07A100,Item 98 Amount
+N,7E06A200,Item 99 Type
+N,7E07A200,Item 99 Amount
+N,7E06A300,Item 100 Type
+N,7E07A300,Item 100 Amount
+N,7E06A400,Item 101 Type
+N,7E07A400,Item 101 Amount
+N,7E06A500,Item 102 Type
+N,7E07A500,Item 102 Amount
+N,7E06A600,Item 103 Type
+N,7E07A600,Item 103 Amount
+N,7E06A700,Item 104 Type
+N,7E07A700,Item 104 Amount
+N,7E06A800,Item 105 Type
+N,7E07A800,Item 105 Amount
+N,7E06A900,Item 106 Type
+N,7E07A900,Item 106 Amount
+N,7E06AA00,Item 107 Type
+N,7E07AA00,Item 107 Amount
+N,7E06AB00,Item 108 Type
+N,7E07AB00,Item 108 Amount
+N,7E06AC00,Item 109 Type
+N,7E07AC00,Item 109 Amount
+N,7E06AD00,Item 110 Type
+N,7E07AD00,Item 110 Amount
+N,7E06AE00,Item 111 Type
+N,7E07AE00,Item 111 Amount
+N,7E06AF00,Item 112 Type
+N,7E07AF00,Item 112 Amount
+N,7E06B000,Item 113 Type
+N,7E07B000,Item 113 Amount
+N,7E06B100,Item 114 Type
+N,7E07B100,Item 114 Amount
+N,7E06B200,Item 115 Type
+N,7E07B200,Item 115 Amount
+N,7E06B300,Item 116 Type
+N,7E07B300,Item 116 Amount
+N,7E06B400,Item 117 Type
+N,7E07B400,Item 117 Amount
+N,7E06B500,Item 118 Type
+N,7E07B500,Item 118 Amount
+N,7E06B600,Item 119 Type
+N,7E07B600,Item 119 Amount
+N,7E06B700,Item 120 Type
+N,7E07B700,Item 120 Amount
+N,7E06B800,Item 121 Type
+N,7E07B800,Item 121 Amount
+N,7E06B900,Item 122 Type
+N,7E07B900,Item 122 Amount
+N,7E06BA00,Item 123 Type
+N,7E07BA00,Item 123 Amount
+N,7E06BB00,Item 124 Type
+N,7E07BB00,Item 124 Amount
+N,7E06BC00,Item 125 Type
+N,7E07BC00,Item 125 Amount
+N,7E06BD00,Item 126 Type
+N,7E07BD00,Item 126 Amount
+N,7E06BE00,Item 127 Type
+N,7E07BE00,Item 127 Amount
+N,7E06BF00,Item 128 Type
+N,7E07BF00,Item 128 Amount
+N,7E06C000,Item 129 Type
+N,7E07C000,Item 129 Amount
+N,7E06C100,Item 130 Type
+N,7E07C100,Item 130 Amount
+N,7E06C200,Item 131 Type
+N,7E07C200,Item 131 Amount
+N,7E06C300,Item 132 Type
+N,7E07C300,Item 132 Amount
+N,7E06C400,Item 133 Type
+N,7E07C400,Item 133 Amount
+N,7E06C500,Item 134 Type
+N,7E07C500,Item 134 Amount
+N,7E06C600,Item 135 Type
+N,7E07C600,Item 135 Amount
+N,7E06C700,Item 136 Type
+N,7E07C700,Item 136 Amount
+N,7E06C800,Item 137 Type
+N,7E07C800,Item 137 Amount
+N,7E06C900,Item 138 Type
+N,7E07C900,Item 138 Amount
+N,7E06CA00,Item 139 Type
+N,7E07CA00,Item 139 Amount
+N,7E06CB00,Item 140 Type
+N,7E07CB00,Item 140 Amount
+N,7E06CC00,Item 141 Type
+N,7E07CC00,Item 141 Amount
+N,7E06CD00,Item 142 Type
+N,7E07CD00,Item 142 Amount
+N,7E06CE00,Item 143 Type
+N,7E07CE00,Item 143 Amount
+N,7E06CF00,Item 144 Type
+N,7E07CF00,Item 144 Amount
+N,7E06D000,Item 145 Type
+N,7E07D000,Item 145 Amount
+N,7E06D100,Item 146 Type
+N,7E07D100,Item 146 Amount
+N,7E06D200,Item 147 Type
+N,7E07D200,Item 147 Amount
+N,7E06D300,Item 148 Type
+N,7E07D300,Item 148 Amount
+N,7E06D400,Item 149 Type
+N,7E07D400,Item 149 Amount
+N,7E06D500,Item 150 Type
+N,7E07D500,Item 150 Amount
+N,7E06D600,Item 151 Type
+N,7E07D600,Item 151 Amount
+N,7E06D700,Item 152 Type
+N,7E07D700,Item 152 Amount
+N,7E06D800,Item 153 Type
+N,7E07D800,Item 153 Amount
+N,7E06D900,Item 154 Type
+N,7E07D900,Item 154 Amount
+N,7E06DA00,Item 155 Type
+N,7E07DA00,Item 155 Amount
+N,7E06DB00,Item 156 Type
+N,7E07DB00,Item 156 Amount
+N,7E06DC00,Item 157 Type
+N,7E07DC00,Item 157 Amount
+N,7E06DD00,Item 158 Type
+N,7E07DD00,Item 158 Amount
+N,7E06DE00,Item 159 Type
+N,7E07DE00,Item 159 Amount
+N,7E06DF00,Item 160 Type
+N,7E07DF00,Item 160 Amount
+N,7E06E000,Item 161 Type
+N,7E07E000,Item 161 Amount
+N,7E06E100,Item 162 Type
+N,7E07E100,Item 162 Amount
+N,7E06E200,Item 163 Type
+N,7E07E200,Item 163 Amount
+N,7E06E300,Item 164 Type
+N,7E07E300,Item 164 Amount
+N,7E06E400,Item 165 Type
+N,7E07E400,Item 165 Amount
+N,7E06E500,Item 166 Type
+N,7E07E500,Item 166 Amount
+N,7E06E600,Item 167 Type
+N,7E07E600,Item 167 Amount
+N,7E06E700,Item 168 Type
+N,7E07E700,Item 168 Amount
+N,7E06E800,Item 169 Type
+N,7E07E800,Item 169 Amount
+N,7E06E900,Item 170 Type
+N,7E07E900,Item 170 Amount
+N,7E06EA00,Item 171 Type
+N,7E07EA00,Item 171 Amount
+N,7E06EB00,Item 172 Type
+N,7E07EB00,Item 172 Amount
+N,7E06EC00,Item 173 Type
+N,7E07EC00,Item 173 Amount
+N,7E06ED00,Item 174 Type
+N,7E07ED00,Item 174 Amount
+N,7E06EE00,Item 175 Type
+N,7E07EE00,Item 175 Amount
+N,7E06EF00,Item 176 Type
+N,7E07EF00,Item 176 Amount
+N,7E06F000,Item 177 Type
+N,7E07F000,Item 177 Amount
+N,7E06F100,Item 178 Type
+N,7E07F100,Item 178 Amount
+N,7E06F200,Item 179 Type
+N,7E07F200,Item 179 Amount
+N,7E06F300,Item 180 Type
+N,7E07F300,Item 180 Amount
+N,7E06F400,Item 181 Type
+N,7E07F400,Item 181 Amount
+N,7E06F500,Item 182 Type
+N,7E07F500,Item 182 Amount
+N,7E06F600,Item 183 Type
+N,7E07F600,Item 183 Amount
+N,7E06F700,Item 184 Type
+N,7E07F700,Item 184 Amount
+N,7E06F800,Item 185 Type
+N,7E07F800,Item 185 Amount
+N,7E06F900,Item 186 Type
+N,7E07F900,Item 186 Amount
+N,7E06FA00,Item 187 Type
+N,7E07FA00,Item 187 Amount
+N,7E06FB00,Item 188 Type
+N,7E07FB00,Item 188 Amount
+N,7E06FC00,Item 189 Type
+N,7E07FC00,Item 189 Amount
+N,7E06FD00,Item 190 Type
+N,7E07FD00,Item 190 Amount
+N,7E06FE00,Item 191 Type
+N,7E07FE00,Item 191 Amount
+N,7E06FF00,Item 192 Type
+N,7E07FF00,Item 192 Amount
+N,7E070000,Item 193 Type
+N,7E080000,Item 193 Amount
+N,7E070100,Item 194 Type
+N,7E080100,Item 194 Amount
+N,7E070200,Item 195 Type
+N,7E080200,Item 195 Amount
+N,7E070300,Item 196 Type
+N,7E080300,Item 196 Amount
+N,7E070400,Item 197 Type
+N,7E080400,Item 197 Amount
+N,7E070500,Item 198 Type
+N,7E080500,Item 198 Amount
+N,7E070600,Item 199 Type
+N,7E080600,Item 199 Amount
+N,7E070700,Item 200 Type
+N,7E080700,Item 200 Amount
+N,7E070800,Item 201 Type
+N,7E080800,Item 201 Amount
+N,7E070900,Item 202 Type
+N,7E080900,Item 202 Amount
+N,7E070A00,Item 203 Type
+N,7E080A00,Item 203 Amount
+N,7E070B00,Item 204 Type
+N,7E080B00,Item 204 Amount
+N,7E070C00,Item 205 Type
+N,7E080C00,Item 205 Amount
+N,7E070D00,Item 206 Type
+N,7E080D00,Item 206 Amount
+N,7E070E00,Item 207 Type
+N,7E080E00,Item 207 Amount
+N,7E070F00,Item 208 Type
+N,7E080F00,Item 208 Amount
+N,7E071000,Item 209 Type
+N,7E081000,Item 209 Amount
+N,7E071100,Item 210 Type
+N,7E081100,Item 210 Amount
+N,7E071200,Item 211 Type
+N,7E081200,Item 211 Amount
+N,7E071300,Item 212 Type
+N,7E081300,Item 212 Amount
+N,7E071400,Item 213 Type
+N,7E081400,Item 213 Amount
+N,7E071500,Item 214 Type
+N,7E081500,Item 214 Amount
+N,7E071600,Item 215 Type
+N,7E081600,Item 215 Amount
+N,7E071700,Item 216 Type
+N,7E081700,Item 216 Amount
+N,7E071800,Item 217 Type
+N,7E081800,Item 217 Amount
+N,7E071900,Item 218 Type
+N,7E081900,Item 218 Amount
+N,7E071A00,Item 219 Type
+N,7E081A00,Item 219 Amount
+N,7E071B00,Item 220 Type
+N,7E081B00,Item 220 Amount
+N,7E071C00,Item 221 Type
+N,7E081C00,Item 221 Amount
+N,7E071D00,Item 222 Type
+N,7E081D00,Item 222 Amount
+N,7E071E00,Item 223 Type
+N,7E081E00,Item 223 Amount
+N,7E071F00,Item 224 Type
+N,7E081F00,Item 224 Amount
+N,7E072000,Item 225 Type
+N,7E082000,Item 225 Amount
+N,7E072100,Item 226 Type
+N,7E082100,Item 226 Amount
+N,7E072200,Item 227 Type
+N,7E082200,Item 227 Amount
+N,7E072300,Item 228 Type
+N,7E082300,Item 228 Amount
+N,7E072400,Item 229 Type
+N,7E082400,Item 229 Amount
+N,7E072500,Item 230 Type
+N,7E082500,Item 230 Amount
+N,7E072600,Item 231 Type
+N,7E082600,Item 231 Amount
+N,7E072700,Item 232 Type
+N,7E082700,Item 232 Amount
+N,7E072800,Item 233 Type
+N,7E082800,Item 233 Amount
+N,7E072900,Item 234 Type
+N,7E082900,Item 234 Amount
+N,7E072A00,Item 235 Type
+N,7E082A00,Item 235 Amount
+N,7E072B00,Item 236 Type
+N,7E082B00,Item 236 Amount
+N,7E072C00,Item 237 Type
+N,7E082C00,Item 237 Amount
+N,7E072D00,Item 238 Type
+N,7E082D00,Item 238 Amount
+N,7E072E00,Item 239 Type
+N,7E082E00,Item 239 Amount
+N,7E072F00,Item 240 Type
+N,7E082F00,Item 240 Amount
+N,7E073000,Item 241 Type
+N,7E083000,Item 241 Amount
+N,7E073100,Item 242 Type
+N,7E083100,Item 242 Amount
+N,7E073200,Item 243 Type
+N,7E083200,Item 243 Amount
+N,7E073300,Item 244 Type
+N,7E083300,Item 244 Amount
+N,7E073400,Item 245 Type
+N,7E083400,Item 245 Amount
+N,7E073500,Item 246 Type
+N,7E083500,Item 246 Amount
+N,7E073600,Item 247 Type
+N,7E083600,Item 247 Amount
+N,7E073700,Item 248 Type
+N,7E083700,Item 248 Amount
+N,7E073800,Item 249 Type
+N,7E083800,Item 249 Amount
+N,7E073900,Item 250 Type
+N,7E083900,Item 250 Amount
+N,7E073A00,Item 251 Type
+N,7E083A00,Item 251 Amount
+N,7E073B00,Item 252 Type
+N,7E083B00,Item 252 Amount
+N,7E073C00,Item 253 Type
+N,7E083C00,Item 253 Amount
+N,7E073D00,Item 254 Type
+N,7E083D00,Item 254 Amount
+N,7E073E00,Item 255 Type
+N,7E083E00,Item 255 Amount
+N,7E073F00,Item 256 Type
+N,7E083F00,Item 256 Amount
+N,7E083F00,Cheat 596
+N,DD96-EFA6,Master Any Job in 1 Battle
+N,01A0-EF68,Can Access All Abilities
+N,A069-ED06,Using '!GilToss' Makes Gold at Least 9175040
+N,DDD3-5FA7,Can Get Items from Open Chests
+N,3C39-7F66+3C39-7FA6+6C39-74D6+CB31-7706+9C31-7766,Use 'Sort' To Get 90 Of All Items
+N,0040-5005,Replace XX With A Two Digit Code From The List Below And It Will Allow You To Buy That Weapon From The Weapon Shop In The Village of Tule (Instead of The BroadSwd)
+N,0040-5065,Replace XX With A Two Digit Code From The List Below And It Will Allow You To Buy That Weapon From The Weapon Shop In The Village of Tule (Instead of The Rod)
+N,0040-50A5,Replace XX With A Two Digit Code From The List Below And It Will Allow You To Buy That Weapon From The Weapon Shop In The Village of Tule (Instead of The Staff)
+N,0040-59D5,Replace XX With A Two Digit Code From The List Below And It Will Allow You To Buy That Weapon From The Weapon Shop In The Village of Tule (Instead of An Empty Slot)
+N,0040-5165,Replace XX With A Two Digit Code From The List Below And It Will Allow You To Buy That Armor From The Armor Shop In The Village of Tule (Instead of Leather Shield)
+N,0040-51A5,Replace XX With A Two Digit Code From The List Below And It Will Allow You To Buy That Armor From The Armor Shop In The Village of Tule (Instead of Leather Helmet)
+N,0040-55D5,Replace XX With A Two Digit Code From The List Below And It Will Allow You To Buy That Armor From The Armor Shop In The Village of Tule (Instead of Leather Armor)
+N,0040-5505,Replace XX With A Two Digit Code From The List Below And It Will Allow You To Buy That Armor From The Armor Shop In The Village of Tule (Instead of An Empty Slot)
+N,3C40-50D5,Only Pay Half The Normal Price For Items In The Weapon Shop In The Village of Tule
+N,3C40-5105,Only Pay Half The Normal Price For Items In The Armor Shop In The Village of Tule
+N,0049-55D5,Replace XX With Any 2 SNES Game Genie Letters/Numbers And It Will Allow You To Buy Different Magic In The Magic Shop In The Village of Tule (Instead of FIRE)
+N,0049-5505,Replace XX With Any 2 SNES Game Genie Letters/Numbers And It Will Allow You To Buy Different Magic In The Magic Shop In The Village of Tule (Instead of ICE)
+N,0049-5565,Replace XX With Any 2 SNES Game Genie Letters/Numbers And It Will Allow You To Buy Different Magic In The Magic Shop In The Village of Tule (Instead of BOLT)
+N,0049-55A5,Replace XX With Any 2 SNES Game Genie Letters/Numbers And It Will Allow You To Buy Different Magic In The Magic Shop In The Village of Tule (Instead of CURE)
+N,0041-50D5,Replace XX With Any 2 SNES Game Genie Letters/Numbers And It Will Allow You To Buy Different Magic In The Magic Shop In The Village of Tule (Instead of LIBRA)
+N,0041-5005,Replace XX With Any 2 SNES Game Genie Letters/Numbers And It Will Allow You To Buy Different Magic In The Magic Shop In The Village of Tule (Instead of PURE)
+N,EE49-51A5,Allows You To Buy The Warhammr Axe; Poison Axe; Earth Axe; Great Sword; Slumber Sword; Or Defender Sword At The Magic Shop In The Village of Tule
+N,F077-706D,Get 20 Ability Points When You Fight 2 Killer Bees And 1 Goblin (In The Same Battle) - You MUST fight 2 Killer Bees And 1 Goblin In The Same Battle Or Else The Code Won't Work
+N,1777-706D,Get 99 Ability Points When You Fight 2 Killer Bees and 1 Goblin (In The Same Battle) - You MUST fight 2 Killer Bees And 1 Goblin In The Same Battle Or Else The Code Won't Work
+N,A577-706D,Get 199 Ability Points When You Fight 2 Killer Bees And 1 Goblin (In The Same Battle) - You MUST fight 2 Killer Bees And 1 Goblin In The Same Battle Or Else The Code Won't Work
+N,F070-706D,Get 20 Ability Points When You Battle 3 Nut Eaters (In The Same Battle) - You MUST Fight 3 Nut Eaters In The Same Battle Or Else The Code Won't Work
+N,1770-706D,Get 99 Ability Points When You Battle 3 Nut Eaters (In The Same Battle) - You MUST Fight 3 Nut Eaters In The Same Battle Or Else The Code Won't Work
+N,A570-706D,Get 199 Ability Points When You Battle 3 Nut Eaters (In The Same Battle) - You MUST Fight 3 Nut Eaters In The Same Battle Or Else The Code Won't Work
+N,009D-79AD,Replace "XX" With A 2 Digit Code From The List Below And You Will ALWAYS Get That Item (For Free) For Every Killer Bee You Defeat In Battle
+N,379D-79AD,ALWAYS Get An Elixir For Every Killer Bee You Defeat In Battle
+N,839D-79AD,ALWAYS Get A Coral Ring For Every Killer Bee You Defeat In Battle (You Can Sell The Extra Coral Rings For $25;000 Gil Each!)
+N,1F9D-79AD,ALWAYS Get A Brave Blade For Every Killer Bee You Defeat In Battle
+N,EF9D-79AD,ALWAYS Get A Cottage (Cabin) For Every Killer Bee You Defeat In Battle
+N,E19D-79AD,ALWAYS Get A Hero Potion For Every Killer Bee You Defeat In Battle
+N,7E27-34DD,Get Any Item In Final Fantasy V [First Slot Only]
+N,7E28-3499,Get 99 Of Any Item In Final Fantasy V [First Slot Only]
+N,8239-EDD6,Infinite Items Outside of Battle
+N,4B39-DD7A+BD39-DD5A+6539-DD8A,Character In First Position Has A Level Of 99
+N,993A-A77A+DD3A-A75A+653A-A78A,Gain 255 Ability Points After Every Battle
+N,745D-70A0,Butz (1st Character) Starts A New Game At Level 3
+N,EC5D-70A0,Butz (1st Character) Starts A New Game At Level 6
+N,4D5D-79D0,Butz (1st Character) Starts A New Game At Level 16
+N,7459-70A0,Lenna (2nd Character) Starts A New Game At Level 3
+N,EC59-70A0,Lenna (2nd Character) Starts A New Game At Level 6
+N,4D59-79D0,Lenna (2nd Character) Starts A New Game At Level 16
+N,745C-70A0,Galuf (3rd Character) Starts A New Game At Level 3
+N,EC5C-70A0,Galuf (3rd Character) Starts A New Game At Level 6
+N,4D5C-79D0,Galuf (3rd Character) Starts A New Game At Level 16
+N,DD99-E4D6,9;999;999 Gil After One Battle
+N,DD9E-ED06,9;999;999 Exp After One Battle
+N,3C39-7F66+3C39-7FA6+6C39-74D6+CB31-7706+9C31-7766,Use 'Sort' To Get 90 Of All Items
+N,EE5D-7960+EE5D-71D0,Butz Starts With 255 HP
+N,EE5D-7160+EE5D-75D0,Butz Starts With 255 MP (See above)
+N,7E2C5700,Quantity
+N,7E2C5700,Type
+N,7E20060F+7E200727+7E20080F+7E200927,Butz HP Max
+N,7E20860F+7E208727+7E20880F+7E208927,Lenna HP Max
+N,7E21060F+7E210727+7E21080F+7E210927,Galuf HP Max
+N,7E21860F+7E218727+7E21880F+7E218927,Faris HP Max
+N,7E382C63,Infinite Health
+N,7E2006E7+7E200603,Infinite HP First Person Slot
+N,7E203BE7+7E203C03,999 Ability Points
+N,7E3D7F00,Attack Gauge Always Full
+N,7E050910+7E200910,9000+ HP
+N,7E05060F+7E050727,9999 HP
+N,7E05080F+7E050927,9999 Max. HP
+N,7E050A0F+7E050B27,9999 MP
+N,7E050C0F+7E050D27,9999 Max. MP
+N,7E08F364+7E08F705+7E08F8FF+7E08F9FF+7E08FAFB+7E08FBE9+7E08FCE0+7E08FDFC+7E08FEFC+7E08FFFC+7E0900FC+7E0901F8+7E0902E0+7E0903C0+7E0904FF+7E0905FF+7E0906FF+7E0907FF+7E090880,Have All Normal Abilities
+N,7E383463,Infinite Health
+N,7E2086E7+7E208603,Infinite HP Second Person Slot
+N,7E20BBE7+7E20BC03,999 Ability Points
+N,7E3D8A00,Attack Gauge Always Full
+N,7E05560F+7E055727,9999 HP
+N,7E05580F+7E055927,9999 Max. HP
+N,7E055A0F+7E055B27,9999 MP
+N,7E055C0F+7E055D27,9999 Max. MP
+N,7E08F464+7E090B05+7E090CFF+7E090DFF+7E090EFB+7E090FE9+7E0910E0+7E0911FC+7E0912FC+7E0913FC+7E0914FC+7E0915F8+7E0916E0+7E0917C0+7E0918FF+7E0919FF+7E091AFF+7E091BFF+7E091C80,Have All Normal Abilities
+N,7E383C63,Infinite Health
+N,7E2106E7+7E210603,Infinite HP Third Person Slot
+N,7E213BE7+7E213C03,999 Ability Points
+N,7E3D9500,Attack Gauge Always Full
+N,7E05A60F+7E05A727,9999 HP
+N,7E05A80F+7E05A927,9999 Max. HP
+N,7E05AA0F+7E05AB27,9999 MP
+N,7E05AC0F+7E05AD27,9999 Max. MP
+N,7E08F564+7E091F05+7E0920FF+7E0921FF+7E0922FB+7E0923E9+7E0924E0+7E0925FC+7E0926FC+7E0927FC+7E0928FC+7E0929F8+7E092AE0+7E092BC0+7E092CFF+7E092DFF+7E092EFF+7E092FFF+7E093080,Have All Normal Abilities
+N,7E384463,Infinite Health
+N,7E2186E7+7E218603,Infinite HP Fourth Person Slot
+N,7E21BBE7+7E21BC03,999 Ability Points
+N,7E3DA000,Attack Gauge Always Full
+N,7E05F60F+7E05F727,9999 HP
+N,7E05F80F+7E05F927,9999 Max. HP
+N,7E05FA0F+7E05FB27,9999 MP
+N,7E05FC0F+7E05FD27,9999 Max. MP
+N,7E08F664+7E093305+7E0934FF+7E0935FF+7E0936FB+7E0937E9+7E0938E0+7E0939FC+7E093AFC+7E093BFC+7E093CFC+7E093DF8+7E093EE0+7E093FC0+7E0940FF+7E0941FF+7E0942FF+7E0943FF+7E094480,Have All Normal Abilities
+N,7E0ADA00,Character Modifier
+N,7E0ADCBE,Vehicle Modifier
+N,7E0AFC72,Freeze Karnak Castle Timer
+N,7E0ADB00,Sprite Modifier
+N,7E16AA8F,Screen Goes Fuzzy When You Walk
+N,7E16AA00,Screen Never Goes Fuzzy When You Walk
+N,7E0B5600,No Random Battles
+N,7E0BBC00,Frozen Walk (Sprite Frozen in Standing Position)
+N,7E1D0523,All Music At Faster Pace
+N,7E0906FF+7E0907FF+7E0905FF+7E0904FF+7E0903FF+7E0902FF+7E0901FF+7E0900FF+7E08FFFF+7E08FEFF+7E08FDFF+7E08FCFF+7E08FBFF+7E08FAFF+7E08F9FF+7E08F8FF+7E0908FF,Unlock All Abilities - If You Want To Give Other Characters Abilities; Change Them To The First Slot Temporarily. (Player1)
+N,7E05C088,Always Can Run - Same As The Thief Ability
+N,7E0A5320,Save Anywhere
+N,7E0B4F42+7E16A901,No Random Encounters
+N,5DF8-5DDD,Walk Through All Except Deep Water On World Map
+N,7E0840FF+7E0841FF+7E0842FF,Have All Jobs
+N,7E0C28FF+7E0C29FF+7E0C2AFF,Have All Jobs
+N,7E09D1FF+7E09D2FF+7E09D3FF+7E09D4FF+7E09D5FF+7E09D6FF+7E09D7FF+7E09D8FF+7E09D9FF+7E09DAFF+7E09DBFF+7E09DCFF+7E09DDFF+7E09DEFF+7E09DFFF+7E09E0FF+7E09E1FF+7E09E2FF+7E09E3FF+7E09E4FF+7E09E5FF+7E09E6FF+7E09E7FF+7E09E8FF+7E09E9FF+7E09EAFF+7E09EBFF+7E09ECFF+7E09EDFF+7E09EEFF+7E09EFFF+7E09F0FF+7E09F1FF+7E09F2FF+7E09F30F,Have All Chests Opened
+N,7E094EFF+7E094FFF,65535 Enemies Killed
+N,7E09C0FF+7E09C0FF,65535 Total Battles
+N,7E3EF1FF,255 Ability Points Per Battle
+N,7E05037F+7E050496+7E050598,Butz
+N,7E05537F+7E055496+7E055598,Leena
+N,7E05A37F+7E05A496+7E05A598,Galuf/Cara
+N,7E05F37F+7E05F496+7E05F598,Faris
+N,7E053BE8+7E053C03,Player 1
+N,7E058BE8+7E058C03,Player 2
+N,7E05DBE8+7E05DC03,Player 3
+N,7E062BE8+7E062C03,Player 4
+N,7E050100,Fighter Slot 1 Current Job Modifier
+N,7E055100,Fighter Slot 2 Current Job Modifier
+N,7E05A100,Fighter Slot 3 Current Job Modifier
+N,7E05F100,Fighter Slot 4 Current Job Modifier
+N,7E0952FF+7E0953FF,White
+N,7E0955FF,Black
+N,7E0956FF,Black/Time
+N,7E0957FF+7E0958FF,Time
+N,7E095AFF+7E095BFF+7E095CFF,Summons/Songs
+N,7E0951FF+7E0950FF,Magic Sabers
+N,7E0950FF+7E0951FF,Have All Sword Magic
+N,7E095FFF+7E0960FF+7E0961FF+7E0962FF+7E0963FF+7E0964FF,Have All Blue Magic
+N,7E08F301,Player 1
+N,7E08F401,Player 2
+N,7E08F501,Player 3
+N,7E08F601,Player 4
+N,7E2A4480,FAKE Have Sylph Esper
+N,7E2A4580,FAKE Have Remora Esper
+N,7E2A4680,FAKE Have Shiva Esper
+N,7E2A4380,FAKE Have Chocobo Esper
+N,7E2A4780,FAKE Have Ramuh Esper
+N,7E2A4880,FAKE Have Ifrit Esper
+N,7E2A4980,FAKE Have Titan Esper
+N,7E2A4A80,FAKE Have Golem Esper
+N,7E2A4B80,FAKE Have Shoat Esper
+N,7E2A4C80,FAKE Have Garnet Esper
+N,7E2A4D80,FAKE Have Slydra Esper
+N,7E2A4E80,FAKE Have Odin Esper
+N,7E2A4F80,FAKE Have Phenix Esper
+N,7E2A5080,FAKE Have Leviathan Esper
+N,7E2A5180,FAKE Have Bahamut Esper
+N,7E020E49,FAKE Karnak Timer Left Second Digit
+N,7E020A45,FAKE Karnak Timer Right Second Digit
+N,7E020649,FAKE Karnak Timer Minute
+N,7E282E01+7E282F00,1st Item At Store 1GP
+N,7E283201+7E283300+7E283400,2nd Item At Store 1GP
+N,7E283601+7E283700,3rd Item At Store 1GP
+N,7E283A01+7E283B00,4th Item At Store 1GP
+N,7E283E01+7E283F00,5th Item At Store 1GP
+N,7E284201+7E284300,6th Item At Store 1GP
+N,7E284601+7E284700,7th Item At Store 1GP
+N,7E284A01+7E284B00,8th Item At Store 1GP
+N,7E099060,Letter 1 Modifier
+N,7E099100,Letter 2 Modifier
+N,7E099200,Letter 3 Modifier
+N,7E099300,Letter 4 Modifier
+N,7E099400,Letter 5 Modifier
+N,7E099500,Letter 6 Modifier
+N,7E099660,Letter 1 Modifier
+N,7E099700,Letter 2 Modifier
+N,7E099800,Letter 3 Modifier
+N,7E099900,Letter 4 Modifier
+N,7E099A00,Letter 5 Modifier
+N,7E099B00,Letter 6 Modifier
+N,7E099C60,Letter 1 Modifier
+N,7E099D00,Letter 2 Modifier
+N,7E099E00,Letter 3 Modifier
+N,7E099F00,Letter 4 Modifier
+N,7E09A000,Letter 5 Modifier
+N,7E09A100,Letter 6 Modifier
+N,7E09A260,Letter 1 Modifier
+N,7E09A300,Letter 2 Modifier
+N,7E09A400,Letter 3 Modifier
+N,7E09A500,Letter 4 Modifier
+N,7E09A600,Letter 5 Modifier
+N,7E09A700,Letter 6 Modifier
+N,7E051A00,P1 Condition Modifier
+N,7E051500,P2 Condition Modifier
+N,7E05BA00,P3 Condition Modifier
+N,7E060A00,P4 Condition Modifier
+N,7E04F0BE,Monster Battle Modifier #1
+N,7E04F0BE+7E04F101,Monster Battle Modifier #2
+N,7ED0C501,Targeting Modifier
+N,6DD2-7DDD,Save Anywhere

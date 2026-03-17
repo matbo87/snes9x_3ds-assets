@@ -1,0 +1,15 @@
+N,DB60-A7D4,9 minutes per round
+N,D160-A7D4,6 minutes per round
+N,DF60-A7D4,1 minute per round
+N,D7B4-0D6D+D765-A764,Player 1 allowed only 3 punches in punch meter instead of 6
+N,D7B9-04DD+D765-A764,Player 2 allowed only 3 punches in punch meter
+N,4088-AF00,Infinite punch meters [both players]
+N,40BF-04DD,Infinite punch meter [player 1]
+N,40B0-076D,Infinite punch meter [player 2]
+N,7E005B06,Infinite Stamina Player 1
+N,7E005C00,No Stamina Player 2
+N,7E002801,CPU Moves Backwards & Stays in One Spot
+N,7E005401,CPU Stands Still & Doesn't Fight Back Most of the Time
+N,7E006F01,Referee Counts Much Faster
+N,7E006101,Player 1 is Untouchable
+N,7E006201,Player 2 is Untouchable

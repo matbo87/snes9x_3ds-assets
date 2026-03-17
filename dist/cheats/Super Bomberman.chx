@@ -1,0 +1,44 @@
+N,7E0DB109,Set Max. Bomb Power (Player 2)
+N,7E0D7109,Set Max. Bomb Power (Player 1)
+N,7E0E3009,Set Max. Bomb Quantity (Player 4)
+N,7E0DF009,Set Max. Bomb Quantity (Player 3)
+N,7E0DB009,Set Max. Bomb Quantity (Player 2)
+N,7E0D5B09,Set Score To 9 Million (Player 1)
+N,7E0D9B09,Set Score To 9 Million (Player 2)
+N,7E0D2500,Exits On All Stages Are Active
+N,7E0D7900,Set Abilities (Player 1)
+N,7E0E3809,Set Red Bombs (Player 4)
+N,7E0DF809,Set Red Bombs (Player 3)
+N,7E0DB809,Set Red Bombs (Player 2)
+N,7E0D7809,Set Red Bombs (Player 1)
+N,7E0DF109,Set Max. Bomb Power (Player 3)
+N,7E0E3109,Set Max. Bomb Power (Player 4)
+N,7E0D7209,Set Max. Speed (Player 1)
+N,7E0DB209,Set Max. Speed (Player 2)
+N,7E0DF209,Set Max. Speed (Player 3)
+N,7E0E3209,Set Max. Speed (Player 4)
+N,7E0D7309,Set Remote Bombs (Player 1)
+N,7E0DB309,Set Remote Bombs (Player 2)
+N,7E0DF309,Set Remote Bombs (Player 3)
+N,7E0E3309,Set Remote Bombs (Player 4)
+N,89FE-57B4,Infinite Lives [Normal Game]
+N,89FC-77FF,Invincible [Normal Game]
+N,7E0D3BFF,Infinite Time
+N,7E0DBD09,Infinite Lives (Player 2)
+N,7E0D7941,Walk Thru Walls
+N,7E0E7401,Have Kicker
+N,7E0D73FF,Have Timer Bombs That Don't Destroy Each Other
+N,7E0D7301,Have Timer Bombs
+N,7E0D7205,Fast Walk (Increase If You Can Handle It)
+N,7E0D710B,Huge Fire Blast
+N,7E0D7009,Have Lots of Bombs
+N,7E0D7688,Invincible
+N,7E0D7D09,Infinite Lives
+N,7E0DB900,Set Abilities (Player 2)
+N,7E0DF900,Set Abilities (Player 3)
+N,7E0E3900,Set Abilities (Player 4)
+N,7E030E00,Weird Colors
+N,7E00A43C,Access Sound Test Anywhere
+N,C2DD-74B8+11DD-7428+D2DD-77F8+0DDD-7728,Hit Anywhere
+N,DFFC-849C,Remove All Blocks
+N,F6DB-E49C,Walk Anywhere

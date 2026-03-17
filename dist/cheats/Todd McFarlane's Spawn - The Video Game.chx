@@ -1,0 +1,33 @@
+N,FDB0-E4DB,Start with 1/4 energy
+N,4CB0-E4DB,Start with 1/2 energy
+N,73B0-E4DB,Start with 3/4 energy
+N,C208-87D1,Infinite energy
+N,C203-84D1,Get hit and become invincible
+N,FDDB-5FB9,Don't flash after getting hit
+N,3C03-8F61,Almost invincible
+N,C2F4-7FD1,Falling doesn't use any life points
+N,C27D-8701,Special moves don't use any life points
+N,D6D7-8F20,Some bullets do 2x damage
+N,DDD7-8F20,Some bullets do no damage
+N,EED7-8F20,Some bullets kill you
+N,DB78-84B0,Some enemy punches electrocute you
+N,DD78-84B0,Some enemy punches do no damage
+N,EE78-84B0,Some enemy punches kill you
+N,DBB0-EFA3+DBCF-8763,Guys with pipes do 2x damage
+N,DDB0-EFA3+DDCF-8763,Guys with pipes do no damage
+N,EEB0-EFA3+EECF-8763,Guys with pipes kill
+N,DB4B-7DF1+DB43-E4F9,Flaming bottles do 2x damage
+N,DD4B-7DF1+DD43-E4F9,Flaming bottles do no damage
+N,EE4B-7DF1+EE43-E4F9,Flaming bottles kill
+N,40F8-84B0,Hit Anywhere
+N,C28D-8701,Special Moves Don't Use Any Energy
+N,C2A8-87D1,Infinite Energy
+N,3CA3-8F61,Almost Invincible
+N,C2A3-84D1,Get Hit And Become Invincible
+N,7E1F0063,Infinite Health
+N,7E1F561F,Invincible
+N,7EFE2001,1st Boss No Health
+N,C27D-87D1,Power
+N,41F7-5DA5+DDD1-7D01+88F2-8F65,Hold Jump To Fly
+N,1DD6-77F9+1D1F-5461+1D4C-5490+1D49-ED20+18D0-5D90,Invincibility
+N,DDF7-5D60,Beat Stage Automatically

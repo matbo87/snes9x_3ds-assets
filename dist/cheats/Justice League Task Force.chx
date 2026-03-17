@@ -1,0 +1,17 @@
+N,7E0CF760,Real P1 Infinite Health
+N,7E06F900,1 Hit Win / Opponent Health
+N,7E0EFB02,1 Round to win match
+N,7E0EFD00,Opponent point Mod
+N,7E0F4700,Character Modifier
+N,7E0F4900,Opponent Modifier
+N,7E033599,Fake Infinite Time
+N,7E053763,Infinite Health P1
+N,7E054702+7E0EFB02,P1 Wins Match After One Round
+N,7E0CF900,No Health P2
+N,7E0F4700,P1 Character Modifier
+N,7E0F4900,P2 Character Modifier
+N,7E024A00,Stage Modifier (VS Mode Only)
+N,7E0EF401,Menu Modifier
+N,6DA3-3D0F+F3A3-3D6F,Hit Anywhere Normal Attacks P1
+N,6DA9-47D4+F3A9-4704,Hit Anywhere Normal Attacks P2
+N,6D66-CF0F+F366-CF6F,Hit Anywhere Both Players Projectiles

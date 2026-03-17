@@ -1,0 +1,45 @@
+N,7E044809,Set Score To 90 Million
+N,7E043209,Infinite Player Health
+N,7E042403,Support Modifier
+N,7E042304,Infinite Support Health
+N,7E831C09,Player Invincibility
+N,7E040F09,Infinite Silver Keys
+N,7E041009,Infinite Gold Keys
+N,7E041109,Infinite Platinum Keys
+N,7E831412,Switch F/X On To Levitate Jump
+N,7E040A06,Set Optimum Sword
+N,7E040B04,Set Optimum Shield
+N,7E068A06,Always Have Powered Sword Attack
+N,7E040C09+7E040D09,Infinite Magic
+N,7E06D6FF,Barrier Invincibility
+N,7E042D09,Infinite Continues
+N,7E8315FF,Auto Jumping
+N,7E8318FF,Zero Gravity
+N,7E040300,Stage "Floor" Select
+N,7E043502,Never Lose Shield
+N,7E040E04,Have Item Effect
+N,7E041307,Maximum Power For Amazon's Crossbow
+N,7E041407,Maximum Power For Big Man's Axe
+N,7E041507,Maximum Power For Wizard's Magic Missile
+N,7E041607,Maximum Power For Knight's Spear
+N,7E041707,Maximum Power For Lizardman's Sword
+N,7E041807,Maximum Power For Ninja's Throwing Star
+N,7E041907,Maximum Power For Thief's Bomb
+N,7E041A07,Maximum Power For Cleric's Magic Bullet
+N,7E040C05,Never Lose Magic
+N,5ECC-0D67,Slower magic counter countdown
+N,EECC-0D67,Faster magic counter countdown
+N,C2CC-0F67,No magic counter countdown
+N,C2BC-D7A5+C280-D7DD,No energy loss on collision with enemies
+N,C2B4-6FD9,No energy loss when magic is used
+N,C267-0FAA+D667-04DA+F167-040A+3C67-046A+ED67-04AA+6D63-D40A,Hit Anywhere
+N,6D63-D40A,One Hit Kill
+N,7E041307,Maximum Power For Amazon's Crossbow
+N,7E041407,Maximum Power For Big Man's Axe
+N,7E041507,Maximum Power For Wizard's Magic Missile
+N,7E041607,Maximum Power For Knight's Spear
+N,7E041707,Maximum Power For Lizardman's Sword
+N,7E041807,Maximum Power For Ninja's Throwing Star
+N,7E041907,Maximum Power For Thief's Bomb
+N,7E041A07,Maximum Power For Cleric's Magic Bullet
+N,F16B-076D+A46B-07AD+C2A4-6DAD,Skip Intro Screens

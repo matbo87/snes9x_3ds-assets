@@ -1,0 +1,15 @@
+N,123B-3F0D,Player 1 can't score in the one-on-one; free throw or tournament stages
+N,A238-340D,Player 2 or computer can't score in the one-on-one; free throw or tournament events
+N,A239-1F0D+A237-176D,Player 1 can't score in 3-point shootout
+N,A23F-176D+A23D-1FAD,Player 2 or computer can't score in 3-point shootout
+N,A2C6-3F07+6DC6-3DA7,Stop shot clock in one-on-one and one-on-one Tournament Modes
+N,DFC3-34D7+D4C3-3DA7,12-second shot clock in one-on-one and one-on-one Tournament Modes
+N,D0C3-34D7+D6C3-3DA7,48-second shot clock in one-on-one and one-on-one Tournament Modes [after the 1st shot]
+N,A2C6-3F07+6DC6-3DA7,Stop Shot Clock
+N,DFC3-34D7+D4C3-3DA7,12-Second Shot Clock
+N,D0C3-34D7+D6C3-3DA7,48-Second Shot Clock (After The 1st Shot)
+N,6DC6-3DA7+A2C6-3F07,Stop Shot Clock
+N,D4C3-3DA7+DFC3-34D7,12-Second Shot Clock
+N,D6C3-3DA7+D0C3-34D7,48-Second Shot Clock (After The 1st Shot)
+N,A23D-1FAD+A23F-176D,Player 2 Or Computer Can't Score In 3-point Shootout
+N,A237-176D+A239-1F0D,Player 1 Can't Score In 3-point Shootout

@@ -1,0 +1,60 @@
+N,DDAA-5D0F,Touchdowns worth 0 points
+N,D7AA-5D0F,Touchdowns worth 3 points
+N,D9AA-5D0F,Touchdowns worth 5 points
+N,DBAA-5D0F,Touchdowns worth 9 points
+N,DDAE-ED0F,Extra points worth 0 points
+N,D7AE-ED0F,Extra points worth 3 points
+N,D9AE-ED0F,Extra points worth 5 points
+N,D5AE-ED0F,Extra points worth 7 points
+N,DDAB-8DAD,Safeties worth 0 points
+N,D7AB-8DAD,Safeties worth 3 points
+N,D9AB-8DAD,Safeties worth 5 points
+N,D5AB-8DAD,Safeties worth 7 points
+N,DDAE-E76F,Field goals worth 0 points
+N,D4AE-E76F,Field goals worth 2 points
+N,D9AE-E76F,Field goals worth 5 points
+N,D5AE-E76F,Field goals worth 7 points
+N,DBAE-E76F,Field goals worth 9 points
+N,D93F-7D0F+DE3F-7D6F,Visitors start with a 5-point lead
+N,D53F-7D0F+DE3F-7D6F,Visitors start with a 7-point lead
+N,DC3F-7D0F+DE3F-7D6F,Visitors start with a 10-point lead
+N,D33F-7D0F+DE3F-7D6F,Visitors start with a 14-point lead
+N,473F-7D0F+DE3F-7D6F,Visitors start with a 35-point lead
+N,D73F-7D0F+DE3F-7F6F,Home team starts with a 3-point lead
+N,D53F-7D0F+DE3F-7F6F,Home team starts with a 7-point lead
+N,DC3F-7D0F+DE3F-7F6F,Home team starts with a 10-point lead
+N,D33F-7D0F+DE3F-7F6F,Home team starts with a 14-point lead
+N,473F-7D0F+DE3F-7F6F,Home team starts with a 35-point lead
+N,CBA2-8F6D+DFA2-8FAD,TD; FG; PAT; S worth 1 point [home team]
+N,CBA2-8F6D+D7A2-8FAD,TD; FG; PAT; S worth 3 points [home team]
+N,CBA2-8F6D+D9A2-8FAD,TD; FG; PAT; S worth 5 points [home team]
+N,CBA2-8F6D+D5A2-8FAD,TD; FG; PAT; S worth 7 points [home team]
+N,CBA2-8F6D+D3A2-8FAD,TD; FG; PAT; S worth 14 points [home team]
+N,CBA2-8F6D+F9A2-8FAD,TD; FG; PAT; S worth 21 points [home team]
+N,CBA2-8F6D+47A2-8FAD,TD; FG; PAT; S worth 35 points [home team]
+N,CBAD-ED0D+DFAD-ED6D,TD; FG; PAT; S worth 3 points [visiting team]
+N,CBAD-ED0D+D9AD-ED6D,TD; FG; PAT; S worth 5 points [visiting team]
+N,CBAD-ED0D+D5AD-ED6D,TD; FG; PAT; S worth 7 points [visiting team]
+N,CBAD-ED0D+D3AD-ED6D,TD; FG; PAT; S worth 14 points [visiting team]
+N,CBAD-ED0D+F9AD-ED6D,TD; FG; PAT; S worth 21 points [visiting team]
+N,CBAD-ED0D+47AD-ED6D,TD; FG; PAT; S worth 35 points [visiting team]
+N,3CAC-5DDD,Always 1st down
+N,D4A8-54AD,1 play to get a 1st down
+N,D7A8-54AD,2 plays to get a 1st down
+N,D0A8-54AD,3 plays to get a 1st down
+N,D1A8-54AD,5 plays to get a 1st down
+N,D6A8-54AD,7 plays to get a 1st down
+N,CBA2-8F6D+DFA2-8FAD,TD; FG; PAT; S Worth 1 Point (Home Team)
+N,CBA2-8F6D+D7A2-8FAD,TD; FG; PAT; S Worth 3 Points (Home Team)
+N,CBA2-8F6D+D9A2-8FAD,TD; FG; PAT; S Worth 5 Points (Home Team)
+N,CBA2-8F6D+D5A2-8FAD,TD; FG; PAT; S Worth 7 Points (Home Team)
+N,CBA2-8F6D+D3A2-8FAD,TD; FG; PAT; S Worth 14 Points (Home Team)
+N,CBA2-8F6D+F9A2-8FAD,TD; FG; PAT; S Worth 21 Points (Home Team)
+N,CBA2-8F6D+47A2-8FAD,TD; FG; PAT; S Worth 35 Points (Home Team)
+N,CBAD-ED0D+DFAD-ED6D,TD; FG; PAT; S Worth 3 Points (Visitors)
+N,CBAD-ED0D+D9AD-ED6D,TD; FG; PAT; S Worth 5 Points (Visitors)
+N,CBAD-ED0D+D5AD-ED6D,TD; FG; PAT; S Worth 7 Points (Visitors)
+N,CBAD-ED0D+D3AD-ED6D,TD; FG; PAT; S Worth 14 Points (Visitors)
+N,CBAD-ED0D+F9AD-ED6D,TD; FG; PAT; S Worth 21 Points (Visitors)
+N,CBAD-ED0D+47AD-ED6D,TD; FG; PAT; S Worth 35 Points (Visitors)
+N,C9DF-EFAF+50DF-E4DF+DCDF-E40F+7DDF-E46F+E9DF-E4AF,Cannot Be Tackled

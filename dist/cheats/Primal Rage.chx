@@ -1,0 +1,103 @@
+N,D925-846F,Press down 3 times then start at the "Start/Options" screen for a hidden menu
+N,0DA5-876D,Start with less energy
+N,BB54-87AB,Able to select as many credits as you want in the options screen
+N,FD1D-7DD4,Select different times in the options screen
+N,C20F-E767,Infinite time
+N,7E210C01,P1 1-Hit Wins On
+N,7E027000+7E02CE54,Infinite Fatality Time
+N,7E03E500,Timer Stopped
+N,7E1928AE,1-Hit Death P2
+N,7E192800,P2 Infinite Health
+N,7E1926AE,1-Hit Death P1
+N,7E192600,P1 Infinite Health
+N,7E210E01,P2 1-Hit Wins On
+N,7E211001,P1 Invulnerability On
+N,7E211201,P2 Invulnerability On
+N,7E211401,Freeplay On
+N,7E13A048,P1 Can't Be Hit [Except Projectiles]
+N,7E193200,P1 Infinite Focus
+N,7E193268,P1 1-Hit Dizzies
+N,7E079E01,P1 Hyper Mode
+N,7E07A201,P1 Human [Hyper Mode]
+N,7E194A00,P1 Control Modifier
+N,7E02F600,P1 Color Modifier
+N,7E0C1E00,P1 Jump Height Modifier
+N,7E197703,P1 Can't Be Hit [All Attacks]
+N,7E1B0E06+7E1BCE01,P1 Stun Roar [UQ + UF]
+N,7E1B1206+7E1BD201,P1 Primal Scream [UQ + UF]
+N,7E1B1606+7E1BD601,P1 Earthquake Stomp [UQ + UF]
+N,7E1B1A06+7E1BDA01,P1 Leaping Bone Bash [UQ + UF]
+N,7E1B1E06+7E1BDE01,P1 Neck Throw [UQ + UF]
+N,7E1B2206+7E1BE201,P1 The Cranium Crusher [UQ + UF]
+N,7E1B2606+7E1BE601,P1 Chomp a Human [UQ + UF]
+N,7E1B2E06+7E1BEE01,P1 Air Teleport [UQ + UF]
+N,7E1B2A06+7E1BEA01,P1 Quick Mega Punch [UQ + UF]
+N,7E1B3206+7E1BF201,P1 Freeze Breath [UQ + UF]
+N,7E139E48,P2 Can't Be Hit [Except Projectiles]
+N,7E193400,P2 Infinite Focus
+N,7E193468,P2 1-Hit Dizzies
+N,7E07A001,P2 Hyper Mode
+N,7E07A401,P2 Human [Hyper Mode]
+N,7E194C00,P2 Control Modifier
+N,7E02F800,P2 Color Modifier
+N,7E0C2004,P2 Jump Height Modifier
+N,7E197903,P2 Can't Be Hit [All Attacks]
+N,7E1B1006+7E1BD001,P2 Stun Roar [UQ + UF]
+N,7E1B1406+7E1BD401,P2 Primal Scream [UQ + UF]
+N,7E1B1806+7E1BD801,P2 Earthquake Stomp [UQ + UF]
+N,7E1B1C06+7E1BDC01,P2 Leaping Bone Bash [UQ + UF]
+N,7E1B2006+7E1BE001,P2 Neck Throw [UQ + UF]
+N,7E1B2406+7E1BE401,P2 The Cranium Crusher [UQ + UF]
+N,7E1B2806+7E1BE801,P2 Chomp a Human [UQ + UF]
+N,7E1B3006+7E1BF001,P2 Air Teleport [UQ + UF]
+N,7E1B2C06+7E1BEC01,P2 Quick Mega Punch [UQ + UF]
+N,7E1B3406+7E1BF401,P2 Freeze Breath [UQ + UF]
+N,7E1AE670,P1 Carnage Fatality [Hold Y+X+B+A and quickly press B; B]
+N,7E1AE2FF,P1 Flesh Eating Fatality [Press D; D]
+N,7E1AEAA8,P1 Grape Crusher Fatality [Hold Y+X+B+A and quickly press U; D]
+N,7E1ADE58,P1 Shredder Fatality [Hold Y+A and quickly press F; F]
+N,7E1AE288,P1 Stampede Fatality [Hold Y+X+B+A and quickly press F; D]
+N,7E1AEE38,P1 La Vache Qui Rit Fatality [Hold Y+X+B+A and quickly press B; F]
+N,7E1AE640,P1 Brain Bash Fatality [Hold Y+X+A and quickly press D; F]
+N,7E1AEA78,P1 To-Da-Moon Fatality [Hold Y+X+B+A and quickly press D; U]
+N,7E1AEEB0,P1 Redemption Fatality [Hold Y+X+B+A and quickly press D; U]
+N,7E1AEAB0,P1 The Churl Fatality [Hold Y+X+B+A and quickly press F; B]
+N,7E1AE2C0,P1 Gut Fling Fatality [Hold Y+X+B and quickly press D; U]
+N,7E1AE6F7,P1 Meditation Fatality [Hold Y+X+B+A and quickly press F; F;]
+N,7E1AEA28,P1 Falling Spikes Fatality [Hold Y+X+B+A and quickly press D; D]
+N,7E1AE2A0,P1 Fireball Fatality [Hold X+B+A and quickly press F; F]
+N,7E1AE6D8,P1 Infernal Fatality [Hold Y+B+A and quickly press U; D]
+N,3D8E-8F6F+D48E-8FAF+DD8E-84DF+ED8E-840F,Hit Anywhere P1
+N,7E210A01,Cheat Menu
+N,7E19E200,Infinite Health (Player 1)
+N,7E19E400,Infinite Health (Player 2)
+N,7E19E2AE,1-Hit Death (Player 1)
+N,7E19E4AE,1-Hit Death (Player 2)
+N,7E87E00F,Infinite Time to Pick Character
+N,7E02CA64,Infinite Time
+N,7E02B000,P2 Never Wins
+N,7E02AE01,P1 Has 1 Win
+N,7E02F207,P1 Play As Rampage
+N,C2AF-E767,Infinite Time
+N,FD3D-7DD4,Select Different Times In The Options Screen
+N,BBE4-87AB,Able To Select As Many Credits As You Want In The Options Screen
+N,7E1B0E06+7E1BCE01,Stun Roar (UQ + UF)
+N,7E1B1206+7E1BD201,Primal Scream (UQ + UF)
+N,7E1B1606+7E1BD601,Earthquake Stomp (UQ + UF)
+N,7E1B1A06+7E1BDA01,Leaping Bone Bash (UQ + UF)
+N,7E1B1E06+7E1BDE01,Neck Throw (UQ + UF)
+N,7E1B2206+7E1BE201,The Cranium Crusher (UQ + UF)
+N,7E1B2606+7E1BE601,Chomp a Human (UQ + UF)
+N,7E1B2E06+7E1BEE01,Air Teleport (UQ + UF)
+N,7E1B2A06+7E1BEA01,Quick Mega Punch (UQ + UF)
+N,7E1B3206+7E1BF201,Freeze Breath (UQ + UF)
+N,7E1B1006+7E1BD001,Stun Roar (UQ + UF)
+N,7E1B1406+7E1BD401,Primal Scream (UQ + UF)
+N,7E1B1806+7E1BD801,Earthquake Stomp (UQ + UF)
+N,7E1B1C06+7E1BDC01,Leaping Bone Bash (UQ + UF)
+N,7E1B2006+7E1BE001,Neck Throw (UQ + UF)
+N,7E1B2406+7E1BE401,The Cranium Crusher (UQ + UF)
+N,7E1B2806+7E1BE801,Chomp a Human (UQ + UF)
+N,7E1B3006+7E1BF001,Air Teleport (UQ + UF)
+N,7E1B2C06+7E1BEC01,Quick Mega Punch (UQ + UF)
+N,7E1B3406+7E1BF401,Freeze Breath (UQ + UF)

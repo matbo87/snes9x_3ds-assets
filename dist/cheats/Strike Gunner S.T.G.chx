@@ -1,0 +1,53 @@
+N,C2B4-076F,Infinite lives [player 1]
+N,C2B8-046F,Infinite lives [player 2]
+N,C262-D9E6,Infinite continues
+N,C2EA-D46D,Infinite special weapon energy [player 1]
+N,C2E4-0DAD,Infinite special weapon energy [player 2]
+N,CB69-D40D+DF69-D46D+3C69-D4AD,Start on stage 2
+N,CB69-D40D+D469-D46D+3C69-D4AD,Start on stage 3
+N,CB69-D40D+D769-D46D+3C69-D4AD,Start on stage 4
+N,CB69-D40D+D069-D46D+3C69-D4AD,Start on stage 5
+N,CB69-D40D+D969-D46D+3C69-D4AD,Start on stage 6
+N,7E056906,Untouchable After 1 Hit
+N,7E1BED00,Re-Use Plasma Shield
+N,7E1BEE00,Re-Use Homing Missile
+N,7E1BEF00,Re-Use Atomic Missile
+N,7E1BF000,Re-Use Laser Cannon
+N,7E1BF100,Re-Use Megabeam Cannon
+N,7E1BF200,Re-Use Anti-Air Mine
+N,7E1BF300,Re-Use Sonic Wave
+N,7E1BF400,Re-Use Sonic Shooter
+N,7E1BF500,Re-Use Spray Missile
+N,7E1BF600,Re-Use Photon Torpedo
+N,7E1BF700,Re-Use Comrade Fighter
+N,7E1BF800,Re-Use Adhesive Bomb
+N,7E1BF900,Re-Use Heavy Vulcan
+N,7E1BFA00,Re-Use Heat Arrow
+N,7E1BFB00,Re-Use Auto-Aim Vulcan
+N,7E024E05,Invincibility (Player 1)
+N,7E024F05,Invincibility (Player 2)
+N,4021-D46F+4021-D7AF+6D33-ADDF+6D33-A4DF+6D33-ADDF+403E-A4AF,Hit Anywhere (Standard gunfire only)
+N,CBAA-640A+DBAA-64AA,Player 1's Shot Power Goes To Max On Pick-Up Of 1 Shot-Power Unit
+N,CBAA-640A+DBA2-64AA,Player 2's Shot Power Goes To Max On Pick-Up Of 1 Shot-Power Unit
+N,7E023819,Start With 25 Lives (Player 1 & 2)
+N,7E023832,Start With 50 Lives (Player 1 & 2)
+N,7E023505,Infinite Continues (Player 1 & 2)
+N,7E023863,Start With 99 Lives (Player 1 & 2)
+N,7E1BE10A,Infinite Time To Select Special Weapon (Instead Of Only 10 Seconds) (Player 1 & 2)
+N,7E023A09,Infinite Lives
+N,7E023EFF,Infinite Special Weapon Ammo (Works On Most Special Weapons)
+N,7E023EFF+7E023FFF,Infinite Special Weapon Ammo (Works On All Special Weapons)
+N,7E024409,Infinite Lives
+N,7E0248FF,Infinite Special Weapon Ammo (Works On Most Special Weapons)
+N,7E0248FF+7E0249FF,Infinite Special Weapon Ammo (Works On All Special Weapons)
+N,7E025301,Player 1 is Invincible (Alternate)
+N,7E025401,Player 2 is Invincible (Alternate)
+N,7E0A78FF+7E0A98FF,Player 1's Comrade Fighters
+N,7E0C78FF+7E0C98FF,Player 2's Comrade Fighters
+N,7E055600,Player 1's Plasma Shield doesn't last very long
+N,7E020701,Screen Doesn't Scroll
+N,7E022500,One Enemy Appears on Screen at a Time
+N,7E022401,Enemies Come Out Clumped Together
+N,7E022701,Enemies Come Out in More Aggressive Formations
+N,7E021701,Player 1 Has Rapid Fire Special Weapons
+N,7E023B03,Move Super Fast

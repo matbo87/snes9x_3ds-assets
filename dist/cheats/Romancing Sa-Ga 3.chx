@@ -1,0 +1,534 @@
+N,7E081E00,Cheat 1
+N,7EF320FF+7EF321FF,Have All Forms
+N,7EF46AFF+7EF46BFF+7EF46CFF+7EF46DFF+7EF46EFF+7EF46FFF+7EF470FF+7EF471FF+7EF472FF+7EF473FF+7EF474FF+7EF475FF+7EF476FF+7EF477FF+7EF478FF+7EF479FF+7EF47AFF+7EF47BFF+7EF47CFF+7EF47DFF+7EF47EFF+7EF47FFF,Enable All Towns
+N,7EF014E7+7EF01503,Have 999 HP
+N,7EF016E7+7EF01703,Have 999 Maximum HP
+N,7EF01863,Have 99 LP
+N,7EF01963,Have 99 Maximum LP
+N,7EF01A63,Have 99 Tech Points
+N,7EF01B63,Have 99 Maximum Tech Points
+N,7EF01C63,Have 99 Magic Points
+N,7EF01D63,Have 99 Maximum Magic Points
+N,7EF01E63,Have Maximum Str
+N,7EF01F63,Have Maximum Dex
+N,7EF02063,Have Maximum Spd
+N,7EF02163,Have Maximum Con
+N,7EF02263,Have Maximum Int
+N,7EF02363,Have Maximum Will
+N,7EF02463,Have Maximum Char
+N,7EF02563,Sword Level 99
+N,7EF02663,Axe Level 99
+N,7EF02763,Staff Level 99
+N,7EF02863,Bow Level 99
+N,7EF02963,Fist Level 99
+N,7EF02A63,Wind(Black) Magic Level 99
+N,7EF02B63,Fire(Red) Magic Level 99
+N,7EF02C63,Earth(White) Magic Level 99
+N,7EF02D63,Water(Green) Magic Level 99
+N,7EF02E63,Sun Magic Level 99
+N,7EF02F63,Moon Magic Level 99
+N,7EF03700,Tech 1
+N,7EF03800,Tech 2
+N,7EF03900,Tech 3
+N,7EF03A00,Tech 4
+N,7EF03B00,Tech 5
+N,7EF03C00,Tech 6
+N,7EF03D00,Tech 7
+N,7EF03E00,Tech 8
+N,7EF03F00,Magic 1
+N,7EF04000,Magic 2
+N,7EF04100,Magic 3
+N,7EF04200,Magic 4
+N,7EF04300,Magic 5
+N,7EF04400,Magic 6
+N,7EF04500,Magic 7
+N,7EF04600,Magic 8
+N,7EF094E7+7EF09503,Have 999 HP
+N,7EF096E7+7EF09703,Have 999 Maximum HP
+N,7EF09863,Have 99 LP
+N,7EF09963,Have 99 Maximum LP
+N,7EF09A63,Have 99 Tech Points
+N,7EF09B63,Have 99 Maximum Tech Points
+N,7EF09C63,Have 99 Magic Points
+N,7EF09D63,Have 99 Maximum Magic Points
+N,7EF09E63,Have Maximum Str
+N,7EF09F63,Have Maximum Dex
+N,7EF0A063,Have Maximum Spd
+N,7EF0A163,Have Maximum Con
+N,7EF0A263,Have Maximum Int
+N,7EF0A363,Have Maximum Will
+N,7EF0A463,Have Maximum Char
+N,7EF0A563,Sword Level 99
+N,7EF0A663,Axe Level 99
+N,7EF0A763,Staff Level 99
+N,7EF0A863,Bow Level 99
+N,7EF0A963,Fist Level 99
+N,7EF0AA63,Wind(Black) Magic Level 99
+N,7EF0AB63,Fire(Red) Magic Level 99
+N,7EF0AC63,Earth(White) Magic Level 99
+N,7EF0AD63,Water(Green) Magic Level 99
+N,7EF0AE63,Sun Magic Level 99
+N,7EF0AF63,Moon Magic Level 99
+N,7EF0B700,Tech 1
+N,7EF0B800,Tech 2
+N,7EF0B900,Tech 3
+N,7EF0BA00,Tech 4
+N,7EF0BB00,Tech 5
+N,7EF0BC00,Tech 6
+N,7EF0BD00,Tech 7
+N,7EF0BE00,Tech 8
+N,7EF0BF00,Magic 1
+N,7EF0C000,Magic 2
+N,7EF0C100,Magic 3
+N,7EF0C200,Magic 4
+N,7EF0C300,Magic 5
+N,7EF0C400,Magic 6
+N,7EF0C500,Magic 7
+N,7EF0C600,Magic 8
+N,7EF114E7+7EF11503,Have 999 HP
+N,7EF116E7+7EF11703,Have 999 Maximum HP
+N,7EF11863,Have 99 LP
+N,7EF11963,Have 99 Maximum LP
+N,7EF11A63,Have 99 Tech Points
+N,7EF11B63,Have 99 Maximum Tech Points
+N,7EF11C63,Have 99 Magic Points
+N,7EF11D63,Have 99 Maximum Magic Points
+N,7EF11E63,Have Maximum Str
+N,7EF11F63,Have Maximum Dex
+N,7EF12063,Have Maximum Spd
+N,7EF12163,Have Maximum Con
+N,7EF12263,Have Maximum Int
+N,7EF12363,Have Maximum Will
+N,7EF12463,Have Maximum Char
+N,7EF12563,Sword Level 99
+N,7EF12663,Axe Level 99
+N,7EF12763,Staff Level 99
+N,7EF12863,Bow Level 99
+N,7EF12963,Fist Level 99
+N,7EF12A63,Wind(Black) Magic Level 99
+N,7EF12B63,Fire(Red) Magic Level 99
+N,7EF12C63,Earth(White) Magic Level 99
+N,7EF12D63,Water(Green) Magic Level 99
+N,7EF12E63,Sun Magic Level 99
+N,7EF12F63,Moon Magic Level 99
+N,7EF13700,Tech 1
+N,7EF13800,Tech 2
+N,7EF13900,Tech 3
+N,7EF13A00,Tech 4
+N,7EF13B00,Tech 5
+N,7EF13C00,Tech 6
+N,7EF13D00,Tech 7
+N,7EF13E00,Tech 8
+N,7EF13F00,Magic 1
+N,7EF14000,Magic 2
+N,7EF14100,Magic 3
+N,7EF14200,Magic 4
+N,7EF14300,Magic 5
+N,7EF14400,Magic 6
+N,7EF14500,Magic 7
+N,7EF14600,Magic 8
+N,7EF194E7+7EF19503,Have 999 HP
+N,7EF196E7+7EF19703,Have 999 Maximum HP
+N,7EF19863,Have 99 LP
+N,7EF19963,Have 99 Maximum LP
+N,7EF19A63,Have 99 Tech Points
+N,7EF19B63,Have 99 Maximum Tech Points
+N,7EF19C63,Have 99 Magic Points
+N,7EF19D63,Have 99 Maximum Magic Points
+N,7EF19E63,Have Maximum Str
+N,7EF19F63,Have Maximum Dex
+N,7EF1A063,Have Maximum Spd
+N,7EF1A163,Have Maximum Con
+N,7EF1A263,Have Maximum Int
+N,7EF1A363,Have Maximum Will
+N,7EF1A463,Have Maximum Char
+N,7EF1A563,Sword Level 99
+N,7EF1A663,Axe Level 99
+N,7EF1A763,Staff Level 99
+N,7EF1A863,Bow Level 99
+N,7EF1A963,Fist Level 99
+N,7EF1AA63,Wind(Black) Magic Level 99
+N,7EF1AB63,Fire(Red) Magic Level 99
+N,7EF1AC63,Earth(White) Magic Level 99
+N,7EF1AD63,Water(Green) Magic Level 99
+N,7EF1AE63,Sun Magic Level 99
+N,7EF1AF63,Moon Magic Level 99
+N,7EF1B700,Tech 1
+N,7EF1B800,Tech 2
+N,7EF1B900,Tech 3
+N,7EF1BA00,Tech 4
+N,7EF1BB00,Tech 5
+N,7EF1BC00,Tech 6
+N,7EF1BD00,Tech 7
+N,7EF1BE00,Tech 8
+N,7EF1BF00,Magic 1
+N,7EF1C000,Magic 2
+N,7EF1C100,Magic 3
+N,7EF1C200,Magic 4
+N,7EF1C300,Magic 5
+N,7EF1C400,Magic 6
+N,7EF1C500,Magic 7
+N,7EF1C600,Magic 8
+N,7EF214E7+7EF21503,Have 999 HP
+N,7EF216E7+7EF21703,Have 999 Maximum HP
+N,7EF21863,Have 99 LP
+N,7EF21963,Have 99 Maximum LP
+N,7EF21A63,Have 99 Tech Points
+N,7EF21B63,Have 99 Maximum Tech Points
+N,7EF21C63,Have 99 Magic Points
+N,7EF21D63,Have 99 Maximum Magic Points
+N,7EF21E63,Have Maximum Str
+N,7EF21F63,Have Maximum Dex
+N,7EF22063,Have Maximum Spd
+N,7EF22163,Have Maximum Con
+N,7EF22263,Have Maximum Int
+N,7EF22363,Have Maximum Will
+N,7EF22463,Have Maximum Char
+N,7EF22563,Sword Level 99
+N,7EF22663,Axe Level 99
+N,7EF22763,Staff Level 99
+N,7EF22863,Bow Level 99
+N,7EF22963,Fist Level 99
+N,7EF22A63,Wind(Black) Magic Level 99
+N,7EF22B63,Fire(Red) Magic Level 99
+N,7EF22C63,Earth(White) Magic Level 99
+N,7EF22D63,Water(Green) Magic Level 99
+N,7EF22E63,Sun Magic Level 99
+N,7EF22F63,Moon Magic Level 99
+N,7EF23700,Tech 1
+N,7EF23800,Tech 2
+N,7EF23900,Tech 3
+N,7EF23A00,Tech 4
+N,7EF23B00,Tech 5
+N,7EF23C00,Tech 6
+N,7EF23D00,Tech 7
+N,7EF23E00,Tech 8
+N,7EF23F00,Magic 1
+N,7EF24000,Magic 2
+N,7EF24100,Magic 3
+N,7EF24200,Magic 4
+N,7EF24300,Magic 5
+N,7EF24400,Magic 6
+N,7EF24500,Magic 7
+N,7EF24600,Magic 8
+N,7EF294E7+7EF29503,Have 999 HP
+N,7EF296E7+7EF29703,Have 999 Maximum HP
+N,7EF29863,Have 99 LP
+N,7EF29963,Have 99 Maximum LP
+N,7EF29A63,Have 99 Tech Points
+N,7EF29B63,Have 99 Maximum Tech Points
+N,7EF29C63,Have 99 Magic Points
+N,7EF29D63,Have 99 Maximum Magic Points
+N,7EF29E63,Have Maximum Str
+N,7EF29F63,Have Maximum Dex
+N,7EF2A063,Have Maximum Spd
+N,7EF2A163,Have Maximum Con
+N,7EF2A263,Have Maximum Int
+N,7EF2A363,Have Maximum Will
+N,7EF2A463,Have Maximum Char
+N,7EF2A563,Sword Level 99
+N,7EF2A663,Axe Level 99
+N,7EF2A763,Staff Level 99
+N,7EF2A863,Bow Level 99
+N,7EF2A963,Fist Level 99
+N,7EF2AA63,Wind(Black) Magic Level 99
+N,7EF2AB63,Fire(Red) Magic Level 99
+N,7EF2AC63,Earth(White) Magic Level 99
+N,7EF2AD63,Water(Green) Magic Level 99
+N,7EF2AE63,Sun Magic Level 99
+N,7EF2AF63,Moon Magic Level 99
+N,7EF2B700,Tech 1
+N,7EF2B800,Tech 2
+N,7EF2B900,Tech 3
+N,7EF2BA00,Tech 4
+N,7EF2BB00,Tech 5
+N,7EF2BC00,Tech 6
+N,7EF2BD00,Tech 7
+N,7EF2BE00,Tech 8
+N,7EF2BF00,Magic 1
+N,7EF2C000,Magic 2
+N,7EF2C100,Magic 3
+N,7EF2C200,Magic 4
+N,7EF2C300,Magic 5
+N,7EF2C400,Magic 6
+N,7EF2C500,Magic 7
+N,7EF2C600,Magic 8
+N,7EF32A00,Item 1 Type
+N,7EF32B00,Item 1 Amount
+N,7EF32C00,Item 2 Type
+N,7EF32D00,Item 2 Amount
+N,7EF32E00,Item 3 Type
+N,7EF32F00,Item 3 Amount
+N,7EF33000,Item 4 Type
+N,7EF33100,Item 4 Amount
+N,7EF33200,Item 5 Type
+N,7EF33300,Item 5 Amount
+N,7EF33400,Item 6 Type
+N,7EF33500,Item 6 Amount
+N,7EF33600,Item 7 Type
+N,7EF33700,Item 7 Amount
+N,7EF33800,Item 8 Type
+N,7EF33900,Item 8 Amount
+N,7EF33A00,Item 9 Type
+N,7EF33B00,Item 9 Amount
+N,7EF33C00,Item 10 Type
+N,7EF33D00,Item 10 Amount
+N,7EF33E00,Item 11 Type
+N,7EF33F00,Item 11 Amount
+N,7EF34000,Item 12 Type
+N,7EF34100,Item 12 Amount
+N,7EF34200,Item 13 Type
+N,7EF34300,Item 13 Amount
+N,7EF34400,Item 14 Type
+N,7EF34500,Item 14 Amount
+N,7EF34600,Item 15 Type
+N,7EF34700,Item 15 Amount
+N,7EF34800,Item 16 Type
+N,7EF34900,Item 16 Amount
+N,7EF34A00,Item 17 Type
+N,7EF34B00,Item 17 Amount
+N,7EF34C00,Item 18 Type
+N,7EF34D00,Item 18 Amount
+N,7EF34E00,Item 19 Type
+N,7EF34F00,Item 19 Amount
+N,7EF35000,Item 20 Type
+N,7EF35100,Item 20 Amount
+N,7EF35200,Item 21 Type
+N,7EF35300,Item 21 Amount
+N,7EF35400,Item 22 Type
+N,7EF35500,Item 22 Amount
+N,7EF35600,Item 23 Type
+N,7EF35700,Item 23 Amount
+N,7EF35800,Item 24 Type
+N,7EF35900,Item 24 Amount
+N,7EF35A00,Item 25 Type
+N,7EF35B00,Item 25 Amount
+N,7EF35C00,Item 26 Type
+N,7EF35D00,Item 26 Amount
+N,7EF35E00,Item 27 Type
+N,7EF35F00,Item 27 Amount
+N,7EF36000,Item 28 Type
+N,7EF36100,Item 28 Amount
+N,7EF36200,Item 29 Type
+N,7EF36300,Item 29 Amount
+N,7EF36400,Item 30 Type
+N,7EF36500,Item 30 Amount
+N,7EF36600,Item 31 Type
+N,7EF36700,Item 31 Amount
+N,7EF36800,Item 32 Type
+N,7EF36900,Item 32 Amount
+N,6DC7-EFD4,Almost No Random Battles
+N,EEDF-7FAB+EEDF-74DB,Get All Forms When You Enter The Form Menu
+N,EEFA-5D0C,1 Hit Kills Enemy
+N,6D21-74D8,HP Level Up
+N,6D2F-5D08,Tech Level Up
+N,6D21-5768,Weapon Levels Up Every Use
+N,6D7F-5F63,Can Access Any Map Area
+N,6DC7-57F5,Sell Any Item To Get Maximum Gold
+N,CBAB-72E8+35AB-7378+D7AB-7358,View Form Menu To Get 999 Max HP For All Characters In Party
+N,DD03-5F03,Infinite Options In War
+N,DD53-5D91+DD53-5721,View Storage Items for Maximum of All Items In Storage
+N,82C2-5790,Infinite Storage Items
+N,6D54-8DB1+6D57-8FF1,Can Store Items Infinitely
+N,7EF31BFF,Infinite Gold
+N,7E241463,Julian Will Always Have 99 HP (Infinite HP)
+N,7EF36A00+7EF46900,Items In Storage
+N,7EF50AFF+7EF529FF+7EF52AFF+7EF531FF,Master All Group Techs
+N,7EF31A10+7EF31B27,Max Money
+N,7EF31C10+7EF31F27,Max Money In Bank/Ruling Game
+N,7EF30800,Rank
+N,7EF30900,Weapon Specialized
+N,7E229527,P.1 Infinite HP
+N,7E231527,P.2 Infinite HP
+N,7E239527,P.3 Infinite HP
+N,7E241527,P.4 Infinite HP
+N,7E249527,P.5 Infinite HP
+N,7E251527,P.6 Infinite HP
+N,7E229A27,P.1 Infinite 99 TP
+N,7E231A27,P.2 Infinite 99 TP
+N,7E239A27,P.3 Infinite 99 TP
+N,7E241A27,P.4 Infinite 99 TP
+N,7E249A27,P.5 Infinite 99 TP
+N,7E251A27,P.6 Infinite 99 TP
+N,7EF00000,Identity
+N,7EF00100,Character Image/Sprite (See Sprite Table)
+N,7EF00200,Job (See Job Table)
+N,7EF00300,Sex (Msb=0: F; Msb=1: M)
+N,7EF01400+7EF01500+7EF01600+7EF01700,Max HP
+N,7EF018E7+7EF01903,Max LP
+N,7EF01AE7+7EF01B03,Max TP
+N,7EF01CE7+7EF01D03,Max MP
+N,7EF01E00,Pwr Offset
+N,7EF01F00,Dex Offset
+N,7EF02000,Spd Offset
+N,7EF02100,Con Offset
+N,7EF02200,Int Offset
+N,7EF02300,Will Offset
+N,7EF02400,Char Offset
+N,7EF02500,Sword Offset
+N,7EF02600,Axe/Mace Offset
+N,7EF02700,Spear/Epee Offset
+N,7EF02800,Bow Offset
+N,7EF02900,Fist Offset
+N,7EF02A00,Wind Magic
+N,7EF02B00,Fire Magic
+N,7EF02C00,Earth Magic
+N,7EF02D00,Water Magic
+N,7EF02E00,Sun Magic
+N,7EF02F00,Moon Magic
+N,7EF03700+7EF03E00,Equipped Techniques
+N,7EF03F00+7EF04600,Magic Offset Starts
+N,7EF04700+7EF04A00,Equipped Weapons/Items
+N,7EF04B00+7EF04E00,Equipped Armors/Rings
+N,7EF08000,Identity
+N,7EF08100,Character Image/Sprite (See Sprite Table)
+N,7EF08200,Job (See Job Table)
+N,7EF08300,Sex (MSB=0: F; MSB=1: M)
+N,7EF094E7+7EF09503+7EF096E7+7EF09703,Max HP
+N,7EF098E7+7EF09903,Max LP
+N,7EF09AE7+7EF09B03,Max TP
+N,7EF09CE7+7EF09D03,Max MP
+N,7EF09E00,Pwr Offset
+N,7EF09F00,Dex Offset
+N,7EF0A000,Spd Offset
+N,7EF0A100,Con Offset
+N,7EF0A200,Int Offset
+N,7EF0A300,Will Offset
+N,7EF0A400,Char Offset
+N,7EF0A500,Sword Offset
+N,7EF0A600,Axe/Mace Offset
+N,7EF0A700,Spear/Epee Offset
+N,7EF0A800,Bow Offset
+N,7EF0A900,Fist Offset
+N,7EF0AA00,Wind Magic
+N,7EF0AB00,Fire Magic
+N,7EF0AC00,Earth Magic
+N,7EF0AD00,Water Magic
+N,7EF0AE00,Sun Magic
+N,7EF0AF00,Moon Magic
+N,7EF0B700+7EF0BE00,Equipped Techniques
+N,7EF0BF00+7EF0C600,Magic Offset Starts
+N,7EF0C700+7EF0CA00,Equipped Weapons/Items
+N,7EF0CB00+7EF0CE00,Equipped Armors/Rings
+N,7EF10000,Identity
+N,7EF10100,Character Image/Sprite (See Sprite Table)
+N,7EF10200,Job (See Job Table)
+N,7EF10300,Sex (MSB=0: F; MSB=1: M)
+N,7EF114E7+7EF11503+7EF116E7+7EF11703,Max HP
+N,7EF118E7+7EF11903,Max LP
+N,7EF11AE7+7EF11B03,Max TP
+N,7EF11CE7+7EF11D03,Max MP
+N,7EF11E00,Pwr Offset
+N,7EF11F00,Dex Offset
+N,7EF12000,Spd Offset
+N,7EF12100,Con Offset
+N,7EF12200,Int Offset
+N,7EF12300,Will Offset
+N,7EF12400,Char Offset
+N,7EF12500,Sword Offset
+N,7EF12600,Axe/Mace Offset
+N,7EF12700,Spear/Epee Offset
+N,7EF12800,Bow Offset
+N,7EF12900,Fist Offset
+N,7EF12A00,Wind Magic
+N,7EF12B00,Fire Magic
+N,7EF12C00,Earth Magic
+N,7EF12D00,Water Magic
+N,7EF12E00,Sun Magic
+N,7EF12F00,Moon Magic
+N,7EF13700+7EF13E00,Equipped Techniques
+N,7EF13F00+7EF14600,Magic Offset Starts
+N,7EF14700+7EF14A00,Equipped Weapons/Items
+N,7EF14B00+7EF14E00,Equipped Armors/Rings
+N,7EF18000,Identity
+N,7EF18100,Character Image/Sprite (See Sprite Table)
+N,7EF18200,Job (See Job Table)
+N,7EF18300,Sex (Msb=0: F; Msb=1: M)
+N,7EF194E7+7EF19503+7EF196E7+7EF19703,Max HP
+N,7EF198FF+7EF199FF,Max LP
+N,7EF19AFF+7EF19BFF,Max TP
+N,7EF19CFF+7EF19DFF,Max MP
+N,7EF19E00,Pwr Offset
+N,7EF19F00,Dex Offset
+N,7EF1A000,Spd Offset
+N,7EF1A100,Con Offset
+N,7EF1A200,Int Offset
+N,7EF1A300,Will Offset
+N,7EF1A400,Char Offset
+N,7EF1A500,Sword Offset
+N,7EF1A600,Axe/Mace Offset
+N,7EF1A700,Spear/Epee Offset
+N,7EF1A800,Bow Offset
+N,7EF1A900,Fist Offset
+N,7EF1AA00,Wind Magic
+N,7EF1AB00,Fire Magic
+N,7EF1AC00,Earth Magic
+N,7EF1AD00,Water Magic
+N,7EF1AE00,Sun Magic
+N,7EF1AF00,Moon Magic
+N,7EF1B700+7EF1BE00,Equipped Techniques
+N,7EF1BF00+7EF1C600,Magic Offset Starts
+N,7EF1C700+7EF1CA00,Equipped Weapons/Items
+N,7EF1CB00+7EF1CE00,Equipped Armors/Rings
+N,7EF20000,Identity
+N,7EF20100,Character Image/Sprite(See Sprite Table)
+N,7EF20200,Job (See Job Table)
+N,7EF20300,Sex (Msb=0: F; Msb=1: M)
+N,7EF214E7+7EF21503+7EF216E7+7EF21703,Max HP
+N,7EF21800+7EF21900,Max LP
+N,7EF21AFF+7EF21BFF,Max TP
+N,7EF21CFF+7EF21DFF,Max MP
+N,7EF21E00,Pwr Offset
+N,7EF21F00,Dex Offset
+N,7EF22000,Spd Offset
+N,7EF22100,Con Offset
+N,7EF22200,Int Offset
+N,7EF22300,Will Offset
+N,7EF22400,Char Offset
+N,7EF22500,Sword Offset
+N,7EF22600,Axe/Mace Offset
+N,7EF22700,Spear/Epee Offset
+N,7EF22800,Bow Offset
+N,7EF22900,Fist Offset
+N,7EF22A00,Wind Magic
+N,7EF22B00,Fire Magi
+N,7EF22C00,Earth Magic
+N,7EF22D00,Water Magic
+N,7EF22E00,Sun Magic
+N,7EF22F00,Moon Magic
+N,7EF23700+7EF23E00,Equipped Techniques
+N,7EF23F00+7EF24600,Magic Offset Starts
+N,7EF24700+7EF24A00,Equipped Weapons/Items
+N,7EF24B00+7EF24E00,Equipped Armors/Rings
+N,7EF28000,Identity
+N,7EF28100,Character Image/Sprite (See Sprite Table)
+N,7EF28200,Job (See Job Table)
+N,7EF28300,Sex (MSB=0: F; MSB=1: M)
+N,7EF294E7+7EF29503+7EF296E7+7EF29703,Max HP
+N,7EF298FF+7EF299FF,Max LP
+N,7EF29AFF+7EF29BFF,Max TP
+N,7EF29CFF+7EF29DFF,Max MP
+N,7EF29E00,Pwr Offset
+N,7EF29F00,Dex Offset
+N,7EF2A000,Spd Offset
+N,7EF2A100,Con Offset
+N,7EF2A200,Int Offset
+N,7EF2A300,Will Offset
+N,7EF2A400,Char Offset
+N,7EF2A500,Sword Offset
+N,7EF2A600,Axe/Mace Offset
+N,7EF2A700,Spear/Epee Offset
+N,7EF2A800,Bow Offset
+N,7EF2A900,Fist Offset
+N,7EF2AA00,Wind Magic
+N,7EF2AB00,Fire Magic
+N,7EF2AC00,Earth Magic
+N,7EF2AD00,Water Magic
+N,7EF2AE00,Sun Magic
+N,7EF2AF00,Moon Magic
+N,7EF2B700+7EF2BE00,Equipped Techniques
+N,7EF2BF00+7EF2C600,Magic Offset Starts
+N,7EF2C700+7EF2CA00,Equipped Weapons/Items
+N,7EF2CB00+7EF2CE00,Equipped Armors/Rings
+N,7EF2CB1E+7EF2CE1E,Technique Table
+N,7F6F2263,War Battle - Infinite All Charge

@@ -1,0 +1,121 @@
+N,DD2A-4D6D,Start with no nitros instead of 6
+N,D42A-4D6D,Start with 2 nitros
+N,D02A-4D6D,Start with 4 nitros
+N,D62A-4D6D,Start with 8 nitros
+N,DC2A-4D6D,Start with 10 nitros
+N,C267-CD07,Infinite nitros for Player 1
+N,C2CB-CF0F,Infinite nitros for Player 2
+N,C9BD-1F04,Fuel never runs out
+N,7430-398E,1st place gives $50;000 instead of $10;000
+N,7430-317E,2nd place gives $50;000 instead of $6;000
+N,7430-318E,3rd place gives $50;000 instead of $4;000
+N,7430-357E,4th place gives $50;000 instead of $3;000
+N,7430-358E,5th place gives $50;000 instead of $2;000
+N,7439-307E,6th place gives $50;000 instead of $1;000
+N,7439-308E,7th place gives $50;000 instead of $0
+N,7439-397E,8th place gives $50;000 instead of $0
+N,7439-398E,9th place gives $50;000 instead of $0
+N,7439-317E,10th place gives $50;000 instead of $0
+N,F039-355A,1st place is worth 20 points instead of 10
+N,F039-35EA,2nd place is worth 20 points instead of 6
+N,F031-305A,3rd place is worth 20 points instead of 4
+N,F031-30EA,4th place is worth 20 points instead of 3
+N,F031-395A,5th place is worth 20 points instead of 2
+N,F031-39EA,6th place is worth 20 points instead of 1
+N,F031-315A,7th place is worth 20 points instead of 0
+N,F031-31EA,8th place is worth 20 points instead of 0
+N,F031-355A,9th place is worth 20 points instead of 0
+N,F031-35EA,10th place is worth 20 points instead of 0
+N,0BC4-49EE+52C3-3083,Everything is free [must have enough to buy]
+N,DFC5-405E,2nd engine costs $1;000 instead of $30;000
+N,DEC5-405E,2nd engine costs $15;000 instead of $30;000
+N,DFC5-40EE,3rd engine costs $1;000 instead of $50;000
+N,FBC5-40EE,3rd engine costs $25;000 instead of $50;000
+N,DFC5-495E,4th engine costs $1;000 instead of $80;000
+N,46C5-495E,4th engine costs $40;000 instead of $80;000
+N,DDC5-415E,2nd wet tires are free
+N,DDC5-41EE,3rd wet tires are free
+N,DDC5-455E,4th wet tires are free
+N,DDC6-405E,2nd dry tires are free
+N,DDC6-40EE,3rd dry tires are free
+N,DDC6-495E,4th dry tires are free
+N,DFC6-415E,2nd gear box costs $1;000 instead of $10;000
+N,D9C6-415E,2nd gear box costs $5;000 instead of $10;000
+N,DFC6-41EE,3rd gear box costs $1;000 instead of $30;000
+N,DEC6-41EE,3rd gear box costs $15;000 instead of $30;000
+N,DFC6-455E,4th gear box costs $1;000 instead of $50;000
+N,FBC6-455E,4th gear box costs $25;000 instead of $50;000
+N,DFCB-405E,2nd nitro costs $1;000 instead of $5;000
+N,D4CB-405E,2nd nitro costs $2;000 instead of $5;000
+N,DFCB-40EE,3rd nitro costs $1;000 instead of $15;000
+N,D5CB-40EE,3rd nitro costs $7;000 instead of $15;000
+N,DFCB-495E,4th nitro costs $1;000 instead of $30;000
+N,DECB-495E,4th nitro costs $15;000 instead of $30;000
+N,DFCC-405E,2nd side armor costs $1;000 instead of $5;000
+N,D4CC-405E,2nd side armor costs $2;000 instead of $5;000
+N,DFCC-40EE,3rd side armor costs $1;000 instead of $10;000
+N,D9CC-40EE,3rd side armor costs $5;000 instead of $10;000
+N,DFCC-495E,4th side armor costs $1;000 instead of $20;000
+N,DCCC-495E,4th side armor costs $10;000 instead of $20;000
+N,DFCC-415E,2nd rear armor costs $1;000 instead of $5;000
+N,D4CC-415E,2nd rear armor costs $2;000 instead of $5;000
+N,DFCC-41EE,3rd rear armor costs $1;000 instead of $10;000
+N,D9CC-41EE,3rd rear armor costs $5;000 instead of $10;000
+N,DFCC-455E,4th rear armor costs $1;000 instead of $20;000
+N,DCCC-455E,4th rear armor costs $10;000 instead of $20;000
+N,DFC8-405E,2nd front armor costs $1;000 instead of $5;000
+N,D4C8-405E,2nd front armor costs $2;000 instead of $5;000
+N,DFC8-40EE,3rd front armor costs $1;000 instead of $10;000
+N,D9C8-40EE,3rd front armor costs $5;000 instead of $10;000
+N,DFC8-495E,4th front armor costs $1;000 instead of $20;000
+N,DCC8-495E,4th front armor costs $10;000 instead of $20;000
+N,7EFE9E00+7EC42600,Always Finish First
+N,7E01A606,Infinite Nitro
+N,7E01AF0D,Infinite Fuel
+N,A267-CD07,Infinite Nitro
+N,C2B7-C404,Infinite Fuel
+N,632E-C767,Always Finish First
+N,82C4-49EE,Money Never Goes Down
+N,0BC4-49EE+52C3-3083,Everything Is Free (Must Have Enough To Buy)
+N,C2CB-D0FD,Infinite Nitros (Player 2)
+N,C267-D07D,Infinite Nitros (Player 1)
+N,DC2A-D6DD,Start With 10 Nitros
+N,C2CB-F0FD,Infinite Nitros (Player 2 - Alternate Code)
+N,DFC5-95ED,4th Engine Costs 1K Instead Of 80K
+N,7430-98ED,1st Place Gives $50 Instead Of $10K
+N,0BC4-9EED,Everything Is Free
+N,52C3-A083+0BC4-D9EE,Everything Is Free (Alternate Code #3)
+N,7E061E00,Speed Modifier
+N,7E061E28,Makes Your Car Go So Fast; That You Will Always Win First Place! (Player 1)
+N,7EC42600,Always Qualify In First Place In The First Race
+N,7E059C00,Engine Sound Modifier
+N,7E062228,Auto Race At About 230 MPH (Player 2)
+N,7E1D19FF,Set Money To $255;000 (Player 1)
+N,7E1D42FF,Set Money To $255;000 (Player 2)
+N,7E1DC5FF,Gain 255 Points A Race (Player 1)
+N,7E1DC7FF,Gain 255 Points A Race (Player 2)
+N,7E1D0303,Set 80k Engine (Player 1)
+N,7E1D2C03,Set 80k Engine (Player 2)
+N,7E1D0503,Set 3k Wet Tires (Player 1)
+N,7E1D2E03,Set 3k Wet Tires (Player 2)
+N,7E1D0703,Set 4k Dry Tires (Player 1)
+N,7E1D3003,Set 4k Dry Tires (Player 2)
+N,7E1D0903,Set 50k Gearbox (Player 1)
+N,7E1D3203,Set 50k Gearbox (Player 2)
+N,7E1D0B03,Set 30k Nitros (Player 1)
+N,7E1D3403,Set 30k Nitros (Player 2)
+N,7E1D0F03,Set 20k Side Armor (Player 1)
+N,7E1D3803,Set 20k Side Armor (Player 2)
+N,7E1D1103,Set 20k Rear Armor (Player 1)
+N,7E1D3A03,Set 20k Rear Armor (Player 2)
+N,7E1D1303,Set 20k Front Armor (Player 1)
+N,7E1D3C03,Set 20k Front Armor (Player 2)
+N,7E06937F,Infinite Fuel (Player 1)
+N,7E06B57F,Infinite Fuel (Player 2)
+N,7E01A609,Infinite Nitros (Player 1)
+N,7E01C009,Infinite Nitros (Player 2)
+N,7EFE0E03,Only One Race In Each Country
+N,E762-C7A7,Player 1 More Engine power
+N,E7C6-3F6F,Player 2 More Engine power
+N,C9C7-44AD+C9CD-440D+C9C1-4D6D+C931-CFA4,Invincible Armor
+N,DCC6-107E+DCC7-197E,Enable Gas Tank

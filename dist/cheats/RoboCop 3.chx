@@ -1,0 +1,19 @@
+N,7E047738,Unlimited Energy
+N,7E184899,Infinite Bullets
+N,7E030C12+7E030D04,Freeze Timer
+N,7E185405,Infinite Lives
+N,7E046F04,Have All Weapons
+N,5D69-6D0F,Slower timer
+N,FE69-6D0F,Faster timer
+N,DDC7-A7A4,Infinite ammo [except flame thrower]
+N,4A6E-6FDD,Infinite lives
+N,DD62-D7DD,Start with 1 life
+N,D962-D7DD,Start with 6 lives
+N,DFEC-DD67+D4EC-DFD7,Ammo pick-ups worth more
+N,7DEC-DD07+DDEC-DFD7+7DEC-DDA7,Ammo pick-ups worth less
+N,D4C7-64DD+E3C9-6DAD,Faster Robocop [except on stages 3 and 5]
+N,DF37-64A4,Start on stage 2
+N,D437-64A4,Start on stage 3
+N,D737-64A4,Start on stage 4
+N,D037-64A4,Start on stage 5
+N,D4C7-64DD+E3C9-6DAD,Faster Robocop (Except On Stages 3 And 5)

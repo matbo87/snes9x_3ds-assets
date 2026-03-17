@@ -1,0 +1,33 @@
+N,7E007F7F,Infinite Health P1
+N,7E00817F,Infinite Health P2
+N,DD2A-476B,Infinite missiles [player 1]
+N,DD2E-4DDB,Infinite missiles [player 2]
+N,6D33-47D6,Infinite energy [player 1]
+N,6D3F-1DA6,Infinite energy [player 2]
+N,5E27-44A7,Shields lasts longer
+N,D62B-4F67,Plasma Pulse Energizer lasts longer [player 1]
+N,D628-47D7,Plasma Pulse Energizer lasts longer [player 2]
+N,C267-47A5,Keep P.P.E. for that level once picked up [player 1]
+N,C260-4765,Keep P.P.E. for that level once picked up [player 2]
+N,D12D-4707,Get 6 missiles for each 1 [player 1]
+N,DB2D-4707,Get 9 missiles for each 1 [player 1]
+N,D124-4D67,Get 9 missiles for each 1 [player 2]
+N,DB24-4D67,Get 6 missiles for each 1 [player 2]
+N,C9B7-1407,Infinite gunpower [player 1]
+N,C9B9-17D7,Infinite gunpower [player 2]
+N,FDB3-476F,Gunpower replenishes slower [player 1]
+N,FDB0-1F0F,Gunpower replenishes slower [player 2]
+N,FD3E-C7A3,10 credits
+N,F93E-C7A3,15 credits
+N,4D3E-C7A3,20 credits
+N,D12B-44A7,P.P.E. does extra damage [player 1]
+N,F42B-44A7,P.P.E. does massive damage [player 1]
+N,7E0B4C08+7E0B5005,Always Have Plasma Pulse Energizer
+N,7E00EC00+7E00EC00,Truck Is Invincible
+N,7E008A99,Infinite Missiles P1
+N,7E00915F,Infinite Gun Power P1
+N,7E06B903,Strange Secondary Weapon Code
+N,7E064E99,Infinite Credits
+N,7E00DB00+7E00DD00,T-1000 Freezes Instantly On Final Stage
+N,7E00DE00,Swat Van Is Invincible
+N,6D21-170C+F621-176C,Enable In Game Level Skip Automatically

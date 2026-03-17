@@ -1,0 +1,14 @@
+N,7E114568,Infinite Health P1
+N,7E114500,No Health
+N,7E11FD68,Infinite Health P2
+N,7E11FD00,No Health P2
+N,7E128C00+7E128D00+7E128E00,Score Modifier
+N,7E629F00+7E62A000+7E62A100,FAKE Score Modifier
+N,7E62A399,Infinite Credits
+N,7E007E63,Infinite Time Bonus Games
+N,7E007A00,Hit Modifier Bonus Games
+N,7E046900,Level
+N,7E04D300,Credit
+N,7E053D00,Se
+N,7E05A700,Music
+N,7E07B900,Sound

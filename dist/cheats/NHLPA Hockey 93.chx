@@ -1,0 +1,20 @@
+N,F160-4776,Period clock runs faster
+N,D060-4776,Period clock runs slower
+N,0D60-4776,Period clock runs much faster
+N,DF60-4776,Period clock runs much slower
+N,C269-4D86,Period clock is frozen [no time limit]
+N,7AE8-4D98+DDE8-4DB8,Each period lasts 1 minute instead of 10 minutes
+N,56E8-4D98+DDE8-4DB8,Each period lasts 2 minutes
+N,80E8-4D98+DDE8-4DB8,Each period lasts 3 minutes
+N,EDE8-4D98+DDE8-4DB8,Each period lasts 4 minutes
+N,60E8-4D98+D7E8-4DB8,Each period lasts 15 minutes
+N,D6E8-4D98+D5E8-4DB8,Each period lasts 30 minutes
+N,1DE8-4D98+DBE8-4DB8,Each period lasts 40 minutes
+N,FDE8-4D98+D3E8-4DB8,Each period lasts 60 minutes
+N,DF31-3F64+CB31-3F04,All penalties last 1 minute
+N,D431-3F64+CB31-3F04,All penalties last 2 minutes
+N,D731-3F64+CB31-3F04,All penalties last 3 minutes
+N,D031-3F64+CB31-3F04,All penalties last 4 minutes
+N,D931-3F64+CB31-3F04,All penalties last 5 minutes
+N,D531-3F64+CB31-3F04,All penalties last 7 minutes
+N,DB31-3F64+CB31-3F04,All penalties last 9 minutes

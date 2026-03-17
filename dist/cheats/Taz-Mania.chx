@@ -1,0 +1,65 @@
+N,C935-40C0,Infinite health
+N,D522-3545,Start with 1/4 normal health
+N,DE22-3545,Start with 1/2 normal health
+N,F922-3545,Start with 3/4 normal health
+N,DF3F-15C0,Start with 1 continue instead of 3 (Do not combine with level select codes)
+N,D93F-15C0,Start with 5 continues (Do not combine with level select codes)
+N,D53F-15C0,Start with 7 continues (Do not combine with level select codes)
+N,DB3F-15C0,Start with 9 continues (Do not combine with level select codes)
+N,743F-15C0,Start with 50 continues (Do not combine with level select codes)
+N,173F-15C0,Start with 99 continues (Do not combine with level select codes)
+N,C238-1140,Infinite continues
+N,DD3B-C0C0,Infinite time
+N,D035-C540,Faster timer
+N,DF64-41C0,You have 1 minute to complete act 1; level 1
+N,D964-41C0,You have 5 minutes to complete act 1; level 1
+N,DD30-C910,Red bird worth 0 seconds instead of 10
+N,D430-C910,Red bird worth 20 seconds
+N,D730-C910,Red bird worth 30 seconds
+N,D030-C910,Red bird worth 40 seconds
+N,D930-C910,Red bird worth 50 seconds
+N,6089-319C,Advance to next level after getting 1 kiwi
+N,E389-319C,Each kiwi worth 2
+N,EA89-319C,Each kiwi worth 4
+N,E889-319C,Each kiwi worth 5
+N,EB89-319C,Each kiwi worth 7
+N,4A36-1140+7D36-1110+DF3F-15C0,Start on act 1; level 2
+N,4A36-1140+7D36-1110+D43F-15C0,Start on act 1; level 3
+N,4A36-1140+7D36-1110,Start on act 1 bonus level
+N,4A36-1140+7D36-1110+D03F-15C0,Start on act 2; level 1
+N,4A36-1140+7D36-1110+D93F-15C0,Start on act 2; level 2
+N,4A36-1140+7D36-1110+D13F-15C0,Start on act 2; level 3
+N,4A36-1140+7D36-1110+D53F-15C0,Start on act 2 bonus level
+N,4A36-1140+7D36-1110+D63F-15C0,Start on act 3; level 1
+N,4A36-1140+7D36-1110+DB3F-15C0,Start on act 3; level 2
+N,4A36-1140+7D36-1110+DC3F-15C0,Start on act 3; level 3
+N,4A36-1140+7D36-1110+D83F-15C0,Start on act 3 bonus level
+N,4A36-1140+7D36-1110+DA3F-15C0,Start on act 4; level 1
+N,4A36-1140+7D36-1110+D23F-15C0,Start on act 4; level 2
+N,4A36-1140+7D36-1110+D33F-15C0,Start on act 4; level 3
+N,4A36-1140+7D36-1110+DE3F-15C0,Start on act 4 bonus level
+N,4A36-1140+7D36-1110+FD3F-15C0,Start on act 5; level 1
+N,4A36-1140+7D36-1110+FF3F-15C0,Start on act 5; level 2
+N,4A36-1140+7D36-1110+F43F-15C0,Start on act 5; level 3
+N,4A36-1140+7D36-1110+DF3F-15C0,Start On Act 1; Level 2
+N,4A36-1140+7D36-1110+D43F-15C0,Start On Act 1; Level 3
+N,4A36-1140+7D36-1110,Start On Act 1 Bonus Level
+N,4A36-1140+7D36-1110+D03F-15C0,Start On Act 2; Level 1
+N,4A36-1140+7D36-1110+D93F-15C0,Start On Act 2; Level 2
+N,4A36-1140+7D36-1110+D13F-15C0,Start On Act 2; Level 3
+N,4A36-1140+7D36-1110+D53F-15C0,Start On Act 2 Bonus Level
+N,4A36-1140+7D36-1110+D63F-15C0,Start On Act 3; Level 1
+N,4A36-1140+7D36-1110+DB3F-15C0,Start On Act 3; Level 2
+N,4A36-1140+7D36-1110+DC3F-15C0,Start On Act 3; Level 3
+N,4A36-1140+7D36-1110+D83F-15C0,Start On Act 3 Bonus Level
+N,4A36-1140+7D36-1110+DA3F-15C0,Start On Act 4; Level 1
+N,4A36-1140+7D36-1110+D23F-15C0,Start On Act 4; Level 2
+N,4A36-1140+7D36-1110+D33F-15C0,Start On Act 4; Level 3
+N,4A36-1140+7D36-1110+DE3F-15C0,Start On Act 4 Bonus Level
+N,4A36-1140+7D36-1110+FD3F-15C0,Start On Act 5; Level 1
+N,4A36-1140+7D36-1110+FF3F-15C0,Start On Act 5; Level 2
+N,4A36-1140+7D36-1110+F43F-15C0,Start On Act 5; Level 3
+N,7E009899,Infinite Time
+N,7E00961D,Infinite Health
+N,7E702E00,Chicks Remaining Modifier
+N,7E302C00,Level Modifier

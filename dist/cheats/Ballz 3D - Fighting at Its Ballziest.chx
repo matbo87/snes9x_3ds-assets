@@ -1,0 +1,36 @@
+N,7E02AEC8,Player 1 Infinite Health
+N,7E02AE00,Player 1 No Health
+N,7E0EBAC8,Player 2 Infinite Health
+N,7E0EBA00,Player 2 No Health
+N,7E241F63,99 Seconds Left in Round
+N,DC78-E7AD,Start rounds with 10 seconds
+N,F078-E7AD,Start rounds with 20 seconds
+N,F378-E7AD,Start rounds with 30 seconds
+N,4678-E7AD,Start rounds with 40 seconds
+N,7478-E7AD,Start rounds with 50 seconds
+N,7A78-E7AD,Start rounds with 60 seconds
+N,0178-E7AD,Start rounds with 70 seconds
+N,C295-ED64+C296-E7D4,Infinite time
+N,4EDC-7760,Start with 1/4 energy
+N,9EDC-7760,Start with 1/2 energy
+N,BEDC-7760,Start with 3/4 energy
+N,CDE8-87AF,Death match
+N,CB82-EF0D+D082-EF6D+DD82-EFAD,Always fight Kronk
+N,CB82-EF0D+D682-EF6D+DD82-EFAD,Always fight Boomer
+N,CB82-EF0D+DA82-EF6D+DD82-EFAD,Always fight Bruiser
+N,CB82-EF0D+FD82-EF6D+DD82-EFAD,Always fight Turbo
+N,CB82-EF0D+F082-EF6D+DD82-EFAD,Always fight Tsunami
+N,CB82-EF0D+F682-EF6D+DD82-EFAD,Always fight Yoko
+N,CB82-EF0D+FA82-EF6D+DD82-EFAD,Always fight Divine
+N,CB82-EF0D+4D82-EF6D+DD82-EFAD,Always fight Crusher
+N,40E5-746F,Hit Anywhere (Both Players)
+N,CB82-EF0D+D082-EF6D+DD82-EFAD,Always Fight Kronk
+N,CB82-EF0D+D682-EF6D+DD82-EFAD,Always Fight Boomer
+N,CB82-EF0D+DA82-EF6D+DD82-EFAD,Always Fight Bruiser
+N,CB82-EF0D+FD82-EF6D+DD82-EFAD,Always Fight Turbo
+N,CB82-EF0D+F082-EF6D+DD82-EFAD,Always Fight Tsunami
+N,CB82-EF0D+F682-EF6D+DD82-EFAD,Always Fight Yoko
+N,CB82-EF0D+FA82-EF6D+DD82-EFAD,Always Fight Divine
+N,CB82-EF0D+4D82-EF6D+DD82-EFAD,Always Fight Crusher
+N,7E6D4704,P1 Character Highlighter
+N,7E02AEA0,Infinite Health P1

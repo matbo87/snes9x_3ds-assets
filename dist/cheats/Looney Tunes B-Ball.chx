@@ -1,0 +1,13 @@
+N,7E0D4300+7E0D4700,Points mod left side of score board
+N,7E0D4500+7E0D4900,Points mod right side of score board
+N,7E0DA100,Timer at 00:00
+N,7E149A00,P1 Player Highlighter Code
+N,7E0DA190,Modify Timer
+N,7E0CF5FF,Infinite Money Team 1
+N,7E0CF700,No Money Team 2
+N,7E0D43FF+7E0D47FF,Max Score Team 1
+N,7E0D4500+7E0D4900,No Score Team 2
+N,7E087800,Character Modifier - Player 1 Team 1
+N,7E087000,Character Modifier - Player 2 Team 1
+N,7E087200,Character Modifier - Player 1 Team 2
+N,7E087E00,Character Modifier - Player 1 Team 2

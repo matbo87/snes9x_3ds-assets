@@ -1,0 +1,22 @@
+N,DE55-84DF,Start with 15 seconds on the play clock
+N,DFD0-7DAD,Start with 1 timeout [player 1]
+N,DFD0-7FDD,Start with 1 timeout [player 2]
+N,8250-5700,Infinite timeouts [both players]
+N,DD6F-77AF,Safetys worth 0 points
+N,DF6F-77AF,Safetys worth 1 points
+N,D06F-77AF,Safetys worth 5 points
+N,D56F-77AF,Safetys worth 7 points
+N,DD62-E4DF,Touchdowns worth 0 points
+N,DF62-E4DF,Touchdowns worth 1 points
+N,D062-E4DF,Touchdowns worth 5 points
+N,DB62-E4DF,Touchdowns worth 9 points
+N,DD6F-8404,Field goals worth 0 points
+N,DF6F-8404,Field goals worth 1 points
+N,D06F-8404,Field goals worth 5 points
+N,DB6F-8404,Field goals worth 9 points
+N,C267-E46D,Always 1st down
+N,DF60-7DAD,Start With 1 Timeout (Player 1)
+N,DF60-7FDD,Start With 1 Timeout (Player 2)
+N,DEE5-84DF,Start With 15 Seconds On The Play Clock
+N,82E0-5700,Infinite Timeouts (Both Players)
+N,C959-7DA7+6D59-7FD7+DC59-7F07+7D59-7F67+E959-7FA7,Cannot Be Tackled

@@ -1,0 +1,238 @@
+N,AEDC-FEAF,First Character Has 007 Max Mana (Equivalent Of 1007)
+N,EEDC-F26F,First Character Has 255 Maximum Hit Points
+N,EED8-F36F,First Character Has 255 Current Strength
+N,EED8-F30F,First Character Has 255 Maximum Strength
+N,EED8-FE0F,First Character Has 255 Current Dexterity
+N,EED8-FEDF,First Character Has 255 Maximum Dexterity
+N,EEDA-FADF,First Character Has 255 Current Wisdom
+N,EED8-FEAF,First Character Has 255 Maximum Wisdom
+N,EEDA-FAAF,First Character Has 255 Current Vitality
+N,EEDA-FA6F,First Character Has 255 Maximum Vitality
+N,EEDA-F26F,First Character Has 255 Current Anti-Magic
+N,EEDA-F20F,First Character Has 255 Maximum Anti-Magic
+N,EEDA-F30F,First Character Has 255 Current Anti-Fire
+N,EEDA-F3DF,First Character Has 255 Maximum Anti-Fire
+N,D6D8-FAAF,First Character Has A Full Food Meter
+N,D6D8-F20F,First Character Has A Full Water Meter
+N,AEDA-2E6F,Second Character Has 004 Max Mana (Equivalent Of 1004)
+N,EEDA-220F,Second Character Has 255 Maximum Hit Points
+N,EED2-230F,Second Character Has 255 Current Strength
+N,EED2-23DF,Second Character Has 255 Maximum Strength
+N,EED2-2EDF,Second Character Has 255 Current Dexterity
+N,EED2-23AF,Second Character Has 255 Maximum Dexterity
+N,EED2-2EAF,Second Character Has 255 Current Wisdom
+N,EED2-2E6F,Second Character Has 255 Maximum Wisdom
+N,EED3-2A6F,Second Character Has 255 Current Vitality
+N,EED3-2A0F,Second Character Has 255 Maximum Vitality
+N,EED3-220F,Second Character Has 255 Current Anti-Magic
+N,EED3-22DF,Second Character Has 255 Maximum Anti-Magic
+N,EED3-23DF,Second Character Has 255 Current Anti-Fire
+N,EED3-22AF,Second Character Has 255 Maximum Anti-Fire
+N,D6D2-2A6F,Second Character Has A Full Food Meter
+N,D6D2-22DF,Second Character Has A Full Food Meter
+N,AED3-BE04,Third Character Has 992 Max Mana
+N,EEDE-B3D4,Third Character Has 255 Current Strength
+N,EEDE-B2A4,Third Character Has 255 Maximum Strength
+N,EEDE-B3A4,Third Character Has 255 Current Dexterity
+N,EEDE-B364,Third Character Has 255 Maximum Dexterity
+N,EEDE-BE64,Third Character Has 255 Current Wisdom
+N,EEDE-BE04,Third Character Has 255 Maximum Wisdom
+N,EEDD-2A04,Third Character Has 255 Current Vitality
+N,EEDD-2AD4,Third Character Has 255 Maximum Vitality
+N,EEDD-22D4,Third Character Has 255 Current Anti-Magic
+N,EEDD-2AA4,Third Character Has 255 Maximum Anti-Magic
+N,EEDD-22A4,Third Character Has 255 Current Anti-Fire
+N,EEDD-2264,Third Character Has 255 Maximum Anti-Fire
+N,D6DE-BA04,Third Character Has A Full Food Meter
+N,D6DE-BAA4,Third Character Has A Full Water Meter
+N,AEDD-BED7,Fourth Character Has 007 Max Mana (Equivalent Of 1007)
+N,EEDF-B2A7,Fourth Character Has 255 Current Strength
+N,EEDF-B267,Fourth Character Has 255 Maximum Strength
+N,EEDF-B367,Fourth Character Has 255 Current Dexterity
+N,EEDF-B307,Fourth Character Has 255 Maximum Dexterity
+N,EEDF-BE07,Fourth Character Has 255 Current Wisdom
+N,EEDF-BED7,Fourth Character Has 255 Maximum Wisdom
+N,EED4-BAD7,Fourth Character Has 255 Current Vitality
+N,EEDF-BEA7,Fourth Character Has 255 Maximum Vitality
+N,EED4-BAA7,Fourth Character Has 255 Current Anti-Magic
+N,EED4-BA67,Fourth Character Has 255 Maximum Anti-Magic
+N,EED4-B267,Fourth Character Has 255 Current Anti-Fire
+N,EED4-B207,Fourth Character Has 255 Maximum Anti-Fire
+N,D6DF-BAD7,Fourth Character Has A Full Food Meter
+N,D6DF-BA67,Fourth Character Has A Full Water Meter
+N,85B5-07D9,Almost no mana loss [Must have enough to cast]
+N,85CF-0F29,Food meter doesn't go down
+N,85C5-0FB9,Water meter doesn't go down
+N,ECDC-F26F,1st character has 250 maximum hit points
+N,A0DC-F36F+DBDC-F3AF,1st character has 250 maximum stamina
+N,ECDC-FE6F,1st character has 250 maximum mana
+N,17D8-F36F,1st character has 99 current strength
+N,17D8-F30F,1st character has 99 maximum strength
+N,17D8-FE0F,1st character has 99 current dexterity
+N,17D8-FEDF,1st character has 99 maximum dexterity
+N,17DA-FADF,1st character has 99 current wisdom
+N,17D8-FEAF,1st character has 99 maximum wisdom
+N,17DA-FAAF,1st character has 99 current vitality
+N,17DA-FA6F,1st character has 99 maximum vitality
+N,17DA-F26F,1st character has 99 current anti-magic
+N,17DA-F20F,1st character has 99 maximum anti-magic
+N,17DA-F30F,1st character has 99 current anti-fire
+N,17DA-F3DF,1st character has 99 maximum anti-fire
+N,5EDA-FEAF,1st character is a level 15 fighter
+N,5ED2-F20F,1st character is a level 15 ninja
+N,5ED2-F3AF,1st character is a level 15 healer
+N,5ED3-FA0F,1st character is a level 15 wizard
+N,D5D8-FAAF,1st character has a nearly full food meter
+N,D5D8-F20F,1st character has a nearly full water meter
+N,ECDA-220F,2nd character has 250 maximum hit points
+N,A0DA-230F+DBDA-236F,2nd character has 250 maximum stamina
+N,ECDA-2E0F,2nd character has 250 maximum mana
+N,17D2-230F,2nd character has 99 current strength
+N,17D2-23DF,2nd character has 99 maximum strength
+N,17D2-2EDF,2nd character has 99 current dexterity
+N,17D2-23AF,2nd character has 99 maximum dexterity
+N,17D2-2EAF,2nd character has 99 current wisdom
+N,17D2-2E6F,2nd character has 99 maximum wisdom
+N,17D3-2A6F,2nd character has 99 current vitality
+N,17D3-2A0F,2nd character has 99 maximum vitality
+N,17D3-220F,2nd character has 99 current anti-magic
+N,17D3-22DF,2nd character has 99 maximum anti-magic
+N,17D3-23DF,2nd character has 99 current anti-fire
+N,17D3-22AF,2nd character has 99 maximum anti-fire
+N,5ED3-2E6F,2nd character is a level 15 fighter
+N,5EDE-22DF,2nd character is a level 15 ninja
+N,5EDE-236F,2nd character is a level 15 healer
+N,5EDD-FAD4,2nd character is a level 15 wizard
+N,D5D2-2A6F,2nd character has a nearly full food meter
+N,D5D2-22DF,2nd character has a nearly full water meter
+N,ECD3-B2D4,3rd character has 250 maximum hit points
+N,A0D3-B3D4+DBD3-B304,3rd character has 250 maximum stamina
+N,ECD3-BED4,3rd character has 250 maximum mana
+N,17DE-B3D4,3rd character has 99 current strength
+N,17DE-B2A4,3rd character has 99 maximum strength
+N,17DE-B3A4,3rd character has 99 current dexterity
+N,17DE-B364,3rd character has 99 maximum dexterity
+N,17DE-BE64,3rd character has 99 current wisdom
+N,17DE-BE04,3rd character has 99 maximum wisdom
+N,17DD-2A04,3rd character has 99 current vitality
+N,17DD-2AD4,3rd character has 99 maximum vitality
+N,17DD-22D4,3rd character has 99 current anti-magic
+N,17DD-2AA4,3rd character has 99 maximum anti-magic
+N,17DD-22A4,3rd character has 99 current anti-fire
+N,17DD-2264,3rd character has 99 maximum anti-fire
+N,5EDD-2E04,3rd character is a level 15 fighter
+N,5EDF-2AA4,3rd character is a level 15 ninja
+N,5EDF-2304,3rd character is a level 15 healer
+N,5EDF-2EA4,3rd character is a level 15 wizard
+N,D5DE-BA04,3rd character has a nearly full food meter
+N,D5DE-BAA4,3rd character has a nearly full water meter
+N,ECDD-BAA7,4th character has 250 maximum hit points
+N,A0DD-B2A7+DBDD-B3D7,4th character has 250 maximum stamina
+N,ECDD-B3A7,4th character has 250 maximum mana
+N,17DF-B2A7,4th character has 99 current strength
+N,17DF-B267,4th character has 99 maximum strength
+N,17DF-B367,4th character has 99 current dexterity
+N,17DF-B307,4th character has 99 maximum dexterity
+N,17DF-BE07,4th character has 99 current wisdom
+N,17DF-BED7,4th character has 99 maximum wisdom
+N,17D4-BAD7,4th character has 99 current vitality
+N,17DF-BEA7,4th character has 99 maximum vitality
+N,17D4-BAA7,4th character has 99 current anti-magic
+N,17D4-BA67,4th character has 99 maximum anti-magic
+N,17D4-B267,4th character has 99 current anti-fire
+N,17D4-B207,4th character has 99 maximum anti-fire
+N,5ED4-BED7,4th character is a level 15 fighter
+N,5ED7-BA67,4th character is a level 15 ninja
+N,5ED7-B3D7,4th character is a level 15 healer
+N,5ED7-BE67,4th character is a level 15 wizard
+N,D5DF-BAD7,4th character has a nearly full food meter
+N,D5DF-BA67,4th character has a nearly full water meter
+N,A0DC-F36F+DBDC-F3AF,1st Character Has 250 Maximum Stamina
+N,A0DA-230F+DBDA-236F,2nd Character Has 250 Maximum Stamina
+N,A0D3-B3D4+DBD3-B304,3rd Character Has 250 Maximum Stamina
+N,A0DD-B2A7+DBDD-B3D7,4th Character Has 250 Maximum Stamina
+N,85B5-07D9,Almost No Mana Loss (Must Have Enough To Cast)
+N,EC6C-F26F,1st Character Has 250 Maximum Hit Points
+N,A06C-F36F+DB6C-F3AF,1st Character Has 250 Maximum Stamina
+N,EC6C-FE6F,1st Character Has 250 Maximum Mana
+N,D568-FAAF,1st Character Has A Nearly Full Food Meter
+N,D568-F20F,1st Character Has A Nearly Full Water Meter
+N,1768-F30F,1st Character Has 99 Maximum Strength
+N,1768-F36F,1st Character Has 99 Current Strength
+N,1768-FEDF,1st Character Has 99 Maximum Dexterity
+N,1768-FE0F,1st Character Has 99 Current Dexterity
+N,1768-FEAF,1st Character Has 99 Maximum Wisdom
+N,176A-FADF,1st Character Has 99 Current Wisdom
+N,176A-FA6F,1st Character Has 99 Maximum Vitality
+N,176A-FAAF,1st Character Has 99 Current Vitality
+N,176A-F20F,1st Character Has 99 Maximum Anti-Magic
+N,176A-F26F,1st Character Has 99 Current Anti-Magic
+N,176A-F3DF,1st Character Has 99 Maximum Anti-Fire
+N,176A-F30F,1st Character Has 99 Current Anti-Fire
+N,5E6A-FEAF,1st Character Is A Level 15 Fighter
+N,5E62-F20F,1st Character Is A Level 15 Ninja
+N,5E62-F3AF,1st Character Is A Level 15 Healer
+N,5E63-FA0F,1st Character Is A Level 15 Wizard
+N,EC6A-220F,2nd Character Has 250 Maximum Hit Points
+N,A06A-230F+DB6A-236F,2nd Character Has 250 Maximum Stamina
+N,EC6A-2E0F,2nd Character Has 250 Maximum Mana
+N,D562-2A6F,2nd Character Has A Nearly Full Food Meter
+N,D562-22DF,2nd Character Has A Nearly Full Water Meter
+N,1762-23DF,2nd Character Has 99 Maximum Strength
+N,1762-230F,2nd Character Has 99 Current Strength
+N,1762-23AF,2nd Character Has 99 Maximum Dexterity
+N,1762-2EDF,2nd Character Has 99 Current Dexterity
+N,1762-2E6F,2nd Character Has 99 Maximum Wisdom
+N,1762-2EAF,2nd Character Has 99 Current Wisdom
+N,BB6B-B30F,2nd Character Has 99 Maximum Vitality
+N,BB6B-B30F,2nd Character Has 99 Current Vitality
+N,1763-22DF,2nd Character Has 99 Maximum Anti-Magic
+N,1763-220F,2nd Character Has 99 Current Anti-Magic
+N,1763-22AF,2nd Character Has 99 Maximum Anti-Fire
+N,1763-23DF,2nd Character Has 99 Current Anti-Fire
+N,5E63-2E6F,2nd Character Is A Level 15 Fighter
+N,5E6E-22DF,2nd Character Is A Level 15 Ninja
+N,5E6E-236F,2nd Character Is A Level 15 Healer
+N,5E6D-FAD4,2nd Character Is A Level 15 Wizard
+N,EC63-B2D4,3rd Character Has 250 Maximum Hit Points
+N,A063-B3D4+DB63-B304,3rd Character Has 250 Maximum Stamina
+N,EC63-BED4,3rd Character Has 250 Maximum Mana
+N,D56E-BA04,3rd Character Has A Nearly Full Food Meter
+N,D56E-BAA4,3rd Character Has A Nearly Full Water Meter
+N,176E-B2A4,3rd Character Has 99 Maximum Strength
+N,176E-B3D4,3rd Character Has 99 Current Strength
+N,176E-B364,3rd Character Has 99 Maximum Dexterity
+N,176E-B3A4,3rd Character Has 99 Current Dexterity
+N,176E-BE04,3rd Character Has 99 Maximum Wisdom
+N,176E-BE64,3rd Character Has 99 Current Wisdom
+N,176D-2AD4,3rd Character Has 99 Maximum Vitality
+N,176D-2A04,3rd Character Has 99 Current Vitality
+N,176D-2AA4,3rd Character Has 99 Maximum Anti-Magic
+N,176D-22D4,3rd Character Has 99 Current Anti-Magic
+N,176D-2264,3rd Character Has 99 Maximum Anti-Fire
+N,176D-22A4,3rd Character Has 99 Current Anti-Fire
+N,5E6D-2E04,3rd Character Is A Level 15 Fighter
+N,5E6F-2AA4,3rd Character Is A Level 15 Ninja
+N,5E6F-2304,3rd Character Is A Level 15 Healer
+N,5E6F-2EA4,3rd Character Is A Level 15 Wizard
+N,EC6D-BAA7,4th Character Has 250 Maximum Hit Points
+N,A06D-B2A7+DB6D-B3D7,4th Character Has 250 Maximum Stamina
+N,EC6D-B3A7,4th Character Has 250 Maximum Mana
+N,D56F-BAD7,4th Character Has A Nearly Full Food Meter
+N,D56F-BA67,4th Character Has A Nearly Full Water Meter
+N,176F-B267,4th Character Has 99 Maximum Strength
+N,176F-B2A7,4th Character Has 99 Current Strength
+N,176F-B307,4th Character Has 99 Maximum Dexterity
+N,176F-B367,4th Character Has 99 Current Dexterity
+N,176F-BED7,4th Character Has 99 Maximum Wisdom
+N,176F-BE07,4th Character Has 99 Current Wisdom
+N,176F-BEA7,4th Character Has 99 Maximum Vitality
+N,1764-BAD7,4th Character Has 99 Current Vitality
+N,1764-BA67,4th Character Has 99 Maximum Anti-Magic
+N,1764-BAA7,4th Character Has 99 Current Anti-Magic
+N,1764-B207,4th Character Has 99 Maximum Anti-Fire
+N,1764-B267,4th Character Has 99 Current Anti-Fire
+N,5E64-BED7,4th Character Is A Level 15 Fighter
+N,5E67-BA67,4th Character Is A Level 15 Ninja
+N,5E67-B3D7,4th Character Is A Level 15 Healer
+N,5E67-BE67,4th Character Is A Level 15 Wizard

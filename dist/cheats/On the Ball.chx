@@ -1,0 +1,57 @@
+N,DF66-DDA0,Start with 2 credits
+N,D966-DDA0,Start with 6 credits
+N,D566-DDA0,Start with 8 credits
+N,DB66-DDA0,Start with 10 credits
+N,C2AE-DF65,Infinite credits
+N,D4BB-D404,Faster timer
+N,DDBB-D404,Stop timer but not lap timer [can still lose time by hitting hazards]
+N,C2BA-D7D4,Minus blocks and bricks worth 0
+N,DDB7-0DA5,Minus 2 second block worth 0
+N,FDB7-0DA5,Minus 2 second block worth minus 1
+N,7DB7-0DA5,Minus 2 second block worth minus 3
+N,0DB7-0DA5,Minus 2 second block worth minus 4
+N,9DB7-0DA5,Minus 2 second block worth minus 5
+N,1DB7-0DA5,Minus 2 second block worth minus 6
+N,5DB7-0DA5,Minus 2 second block worth minus 7
+N,6DB7-0DA5,Minus 2 second block worth minus 8
+N,BDB7-0DA5,Minus 2 second block worth minus 9
+N,DDB0-0F65,Minus 5 second block worth 0
+N,FDB0-0F65,Minus 5 second block worth minus 1
+N,4DB0-0F65,Minus 5 second block worth minus 2
+N,7DB0-0F65,Minus 5 second block worth minus 3
+N,0DB0-0F65,Minus 5 second block worth minus 4
+N,1DB0-0F65,Minus 5 second block worth minus 6
+N,5DB0-0F65,Minus 5 second block worth minus 7
+N,6DB0-0F65,Minus 5 second block worth minus 8
+N,BDB0-0F65,Minus 5 second block worth minus 9
+N,DDB9-0405,Minus 3 second brick worth 0
+N,FDB9-0405,Minus 3 second brick worth minus 1
+N,4DB9-0405,Minus 3 second brick worth minus 2
+N,0DB9-0405,Minus 3 second brick worth minus 4
+N,9DB9-0405,Minus 3 second brick worth minus 5
+N,1DB9-0405,Minus 3 second brick worth minus 6
+N,5DB9-0405,Minus 3 second brick worth minus 7
+N,6DB9-0405,Minus 3 second brick worth minus 8
+N,BDB9-0405,Minus 3 second brick worth minus 9
+N,C2B8-DFA4,Plus bricks worth 0
+N,DDBB-0DA5,Plus 3 bricks worth 0
+N,FDBB-0DA5,Plus 3 bricks worth plus 1
+N,4DBB-0DA5,Plus 3 bricks worth plus 2
+N,0DBB-0DA5,Plus 3 bricks worth plus 4
+N,9DBB-0DA5,Plus 3 bricks worth plus 5
+N,1DBB-0DA5,Plus 3 bricks worth plus 6
+N,5DBB-0DA5,Plus 3 bricks worth plus 7
+N,6DBB-0DA5,Plus 3 bricks worth plus 8
+N,BDBB-0DA5,Plus 3 bricks worth plus 9
+N,DDBC-0F65,Plus 5 bricks worth 0
+N,FDBC-0F65,Plus 5 bricks worth plus 1
+N,4DBC-0F65,Plus 5 bricks worth plus 2
+N,7DBC-0F65,Plus 5 bricks worth plus 3
+N,0DBC-0F65,Plus 5 bricks worth plus 4
+N,1DBC-0F65,Plus 5 bricks worth plus 6
+N,5DBC-0F65,Plus 5 bricks worth plus 7
+N,6DBC-0F65,Plus 5 bricks worth plus 8
+N,BDBC-0F65,Plus 5 bricks worth plus 9
+N,7E083636,Infinite Time
+N,7E093001+7E093101,Automatically Beat Stages
+N,7E083C01,Clock is Frozen

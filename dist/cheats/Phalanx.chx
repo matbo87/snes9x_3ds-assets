@@ -1,0 +1,29 @@
+N,DFA8-05E3+DF2D-015A,Start with 1 credit instead of 4
+N,D4A8-05E3+D42D-015A,Start with 2 credits
+N,D7A8-05E3+D72D-015A,Start with 3 credits
+N,D9A8-05E3+D92D-015A,Start with 5 credits
+N,D5A8-05E3+D52D-015A,Start with 7 credits
+N,FDA8-05E3+FD2D-015A,Start with 10 credits
+N,DD63-DD04,Infinite credits
+N,D4A8-00E3+D42D-008A,Start with 2 strikefighters
+N,D7A8-00E3+D72D-008A,Start with 3 strikefighters
+N,D0A8-00E3+D02D-008A,Start with 4 strikefighters
+N,D1A8-00E3+D12D-008A,Start with 6 strikefighters
+N,FFA8-00E3+FF2D-008A,Start with 11 strikefighters
+N,41A8-00E3+412D-008A,Start with 26 strikefighters
+N,9FA8-00E3+9F2D-008A,Start with 51 strikefighters
+N,BCA8-00E3+BC2D-008A,Start with 100 strikefighters
+N,DFA8-00E3+DF2D-008A,Start with 1 strikefighter
+N,DD2A-64AF,Infinite strikefighters
+N,3C21-AD0F,Armor cannot be damaged
+N,C229-D7A4,Once power-up has been obtained; it is not lost until you continue [doesn't work for weapon; only power-ups]
+N,9D23-6DAF+6723-6FDF,Power capsule restores armor to full strength
+N,1D23-6D6F,Power capsule has no effect on armor or power-up
+N,D42F-007A+D4AA-01E3,Start on mission 2
+N,D72F-007A+D7AA-01E3,Start on mission 3
+N,D02F-007A+D0AA-01E3,Start on mission 4
+N,D92F-007A+D9AA-01E3,Start on mission 5
+N,D12F-007A+D1AA-01E3,Start on mission 6
+N,D52F-007A+D5AA-01E3,Start on mission 7
+N,D62F-007A+D6AA-01E3,Start on mission 8
+N,DD3F-640D+DD34-670D+DD3F-676D+DD34-64DD+C230-6DDD,Hit Anywhere

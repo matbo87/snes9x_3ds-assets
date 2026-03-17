@@ -1,0 +1,304 @@
+N,CB26-6755+D426-6785+CBCE-AD85+DDCE-ADE5,Get Hit To Transform Into Fully-Fledged Fire Mario
+N,CB26-6755+D426-6785,Get Hit To Transform Into Big/Small/Big Fire Mario
+N,D288-070F+D08A-0DAF+AD8A-0F0F,Delete a Slot; then Play and Save it; to get the Maximum Level
+N,DD6A-D1AB,Throw Birdo's eggs back without having to catch them
+N,D58A-0DAF+8D8A-0F0F,Delete a Slot; then Play and Save it; to get the Maximum Level
+N,1486-A50B,POW Boxes Keep 'POW'ing
+N,038D-696C+A48D-69AC,Shells bounce off of obstacles
+N,3C60-D16B+3C69-D50B,Super Turbo Running
+N,DDC9-D56C,When You Kill An Enemy; It Goes Straight Up
+N,C963-650B,Keep Picking Up The Grass! [Works In Sub-Space With coins]
+N,79BC-A901,Pulling Up Small Vegetables Gives You A Turtle Shell
+N,79BC-A9D1,Pulling Up Large Vegetables Gives You A Turtle Shell
+N,4B61-D1AC+DD61-D56C,Pick Up Most Scenery
+N,DD61-A1A6,All Characters Can Float! [They float until you release the jump button!]
+N,4DB8-A009+3DB8-A069,Super Speed Enemies
+N,C264-0566,Quick Pick Up
+N,FE82-A00B,Stay In Sub-Space Longer Than 1 Minute
+N,7C60-A1DB,Stop Watch from 5th Large Vegetable becomes a POW Block
+N,DD60-A1DB,Stop Watch from 5th Large Vegetable becomes a Heart
+N,7160-A1DB,Stop Watch from 5th Large Vegetable becomes a Coin
+N,7E60-A1DB,Stop Watch from 5th Large Vegetable becomes a Mushroom
+N,0D60-A1DB,Stop Watch from 5th Large Vegetable becomes a 1-up Mushroom
+N,7260-A1DB,Stop Watch from 5th Large Vegetable becomes a Key
+N,7A60-A1DB,Stop Watch from 5th Large Vegetable becomes a Sub-Space Door
+N,7560-A1DB,Stop Watch from 5th Large Vegetable becomes a Bomb
+N,0960-A1DB,Stop Watch from 5th Large Vegetable becomes a Star
+N,7960-A1DB,Stop Watch from 5th Large Vegetable becomes a Turtle Shell
+N,7860-A1DB,Stop Watch from 5th Large Vegetable becomes a Red Log
+N,7D60-A1DB,Stop Watch from 5th Large Vegetable becomes a Spark
+N,7B60-A1DB,Stop Watch from 5th Large Vegetable becomes a Mushroom Block
+N,CB69-68DE+FD63-660E,Can Walk Anywheres On World Maps
+N,2D68-6BA3,Can Pass Over Most Stages
+N,6DAE-6B0A,Debug Infinite Time
+N,DDA8-DB6E,Debug Form Select
+N,EDA5-026F,Power-up Select
+N,DDA6-D207,Nintendo Debug #2
+N,C2EC-0E00,Infinite Flying Time For Yoshi
+N,C23B-A207,Stomp 8 Enemies And Get 1-Ups
+N,7E008008,Save A at Maximum Level
+N,DFDB-FADF,Save A Has Hard Mode Levels
+N,7E008408,Save B at Maximum Level
+N,DFDB-F2DF,Save B Has Hard Mode Levels
+N,DFDB-F3DF,Save C Has Hard Mode Levels
+N,DFDB-FEDF,Save D Has Hard Mode Levels
+N,7E075A63,Always Have 99 Lives
+N,7E075600,Powerup Always
+N,7E075401,Size Always
+N,7E07DE09+7E07DF09,Always Have 99 Coins
+N,7E07E902,Always Have at Least 200 Time
+N,7E07CE09+7E07CF09+7E07D009+7E07D109+7E07D209+7E07D309,Score is always 9999990
+N,7E00810D,Save A at Maximum Level
+N,7E009104,Save A at Maximum World
+N,7E00850D,Save B at Maximum Level
+N,7E009204,Save B at Maximum World
+N,7E00890D,Save C at Maximum Level
+N,7E009304,Save C at Maximum World
+N,7E008D0D,Save D at Maximum Level
+N,7E009404,Save D at Maximum World
+N,7E04C33F,Infinite Maximum Life
+N,7E04C402,Have Maximum Life Containers
+N,7E04EE63,Infinite 99 Lives
+N,7E062B00,Infinite Coins
+N,7E062D00,# of Levels Mario Played
+N,7E062E00,# of Levels Princess Played
+N,7E062F00,# of Levels Toad Played
+N,7E063000,# of Levels Luigi Played
+N,7E008308,Save A at Maximum Level
+N,7E008708,Save B at Maximum Level
+N,7E008B08,Save C at Maximum Level
+N,7E008F08,Save D at Maximum Level
+N,7E073662,Always have 98 Lives
+N,7E1DA263,Always have 99 Coins
+N,7E04137F,Always have Maximum Charge Meter
+N,7E056EFF,Racoon and Tanooki have P-Wing
+N,7E056705,Activate P-Block While Code is On
+N,7E057701,Wear Shoe
+N,7E057700,Stop Wearing Shoe
+N,7E058801,Go Behind Scenery
+N,7E058800,Return to Front Of Scenery
+N,7E05EE02,Always Have at Least 200 Time
+N,7E07150F+7E071642+7E07173F,Score is always 9999990
+N,7E00BB0C,Player Type In Level
+N,7E1D8000,Item 1
+N,7E1D8100,Item 2
+N,7E1D8200,Item 3
+N,7E1D8300,Item 4
+N,7E1D8400,Item 5
+N,7E1D8500,Item 6
+N,7E1D8600,Item 7
+N,7E1D8700,Item 8
+N,7E1D8800,Item 9
+N,7E1D8900,Item 10
+N,7E1D8A00,Item 11
+N,7E1D8B00,Item 12
+N,7E1D8C00,Item 13
+N,7E1D8D00,Item 14
+N,7E1D8E00,Item 15
+N,7E1D8F00,Item 16
+N,7E1D9000,Item 17
+N,7E1D9100,Item 18
+N,7E1D9200,Item 19
+N,7E1D9300,Item 20
+N,7E1D9400,Item 21
+N,7E1D9500,Item 22
+N,7E1D9600,Item 23
+N,7E1D9700,Item 24
+N,7E1D9800,Item 25
+N,7E1D9900,Item 26
+N,7E1D9A00,Item 27
+N,7E1D9B00,Item 28
+N,7E016080,Partial Debug Mode
+N,7E001900,Always ? Mario
+N,7E0DBC00,Spare Item Type
+N,7E0DBE63,Infinite 99 Lives
+N,7E0DBF63,Infinite 99 Coins
+N,7E0DC200,Spare Item Type
+N,7E0F3109+7E0F3209+7E0F3309,Always 999 Time
+N,7E0F3109+7E0F3209+7E0F3309,Always 100 Bonus Points
+N,7E143401,Exit Level; Second Exit
+N,7E149301,Exit Level; Normal Exit
+N,7E0DB000,Disable Mosaic Effect
+N,7E1F2701,Activates Green Blocks
+N,7E1F2801,Activates Yellow Blocks
+N,7E1F2901,Activates Blue Blocks
+N,7E1F2A01,Activates Red Blocks
+N,7E1F2700,Deactivates Green Blocks
+N,7E1F2800,Deactivates Yellow Blocks
+N,7E1F2900,Deactivates Blue Blocks
+N,7E1F2A00,Deactivates Red Blocks
+N,7E193E00,Infinite POWs
+N,7E193E03,Remove POW Box
+N,7E190D00+7E00A900,Fireballs/Boos Never Attack Either Player
+N,7E190C97+7E190D3B,Fireballs/Boos Constantly Attack Either Player
+N,7E1846FA,Enemy 1 Speed Always
+N,7E184700,Enemy 2 Speed Always
+N,7E184800,Enemy 3 Speed Always
+N,7E184900,Enemy 4 Speed Always
+N,7E184A00,Enemy 5 Speed Always
+N,6A8C-0C30,Always Get White Ship
+N,40AA-6803,Multi-Jumps
+N,CBA1-6BDA+DFA1-6B0A,Start and Stay as ?
+N,0788-36AD+8B88-3BDD,Debug Mode
+N,7E04CB3C,Always Super Charged
+N,7E009900,Moon Jump
+N,2D86-6F50,Jump In Midair
+N,6D2E-02DF,Jump In Midair
+N,62E4-A779,Invincibility
+N,6139-052D,Invincibility
+N,C232-6106,Infinite Health
+N,C26E-D5A6,Infinite Lives
+N,C2B9-08AD,Infinite Lives
+N,6335-686D,Invincibility
+N,6DE8-030F,Invincible
+N,C222-D3DD,Infinite Lives
+N,768A-0F89,Timer Counts Slower
+N,408F-AD81,1 Coin Gives You 1 Life
+N,406E-D751,Enemies When Killed And Powerups Give 1Up
+N,4088-0D79,Mario/Luigi Don't Die When Timer Reaches 0
+N,6D88-0F89,Disable Fast Music When Timer is Less Than 100
+N,DFBA-6785+DFBA-67E5+DFB2-6D75,Timer Starts At 100
+N,D4BA-6785+D4BA-67E5,Timer Starts At 200
+N,D7BA-6785+D7B2-6D75,Timer Starts At 300
+N,D0BA-67E5+D0B2-6D75,Timer Starts At 400
+N,D9BA-6785+D9BA-67E5+D9B2-6D75,Timer Starts At 500
+N,D1BA-6785+D1BA-67E5+D1B2-6D75,Timer Starts At 600
+N,D5BA-6785+D5BA-67E5+D5B2-6D75,Timer Starts At 700
+N,D6BA-6785+D6BA-67E5+D6B2-6D75,Timer Starts At 800
+N,DBBA-6785+DBBA-67E5+DBB2-6D75,Timer Starts At 900
+N,766A-A565,Always Get A Life In Bonus Chance
+N,4062-A1D5,Get 99 Lives In Bonus Chance
+N,4086-662E+F8B1-DC22+B2B1-D892,Killing Enemies Give You A Life
+N,6DAD-ABAA,Mario/Luigi Don't Die When Timer Reaches 0
+N,6D30-6BC9,Disable Fast Music When Timer Reaches 100
+N,CABE-6DE5,Disable Swimming
+N,402A-0485+4028-0755,Enemies Die When You Get Close To Them
+N,CAA2-686A+B2A3-66DA+6DA3-660A+D2A3-666A+1D88-08BA,Invincible In Pits And Lava
+N,40C2-A82A+40C1-AC9A+6DB4-ACB3+40C2-DC22,Enemies Die When You Get Close To Them
+N,6D23-AC6A+6DAE-0BA2+6D27-DC62+4029-A803,Walk Though Objects
+N,4087-DF79,Always Shoot Fireballs
+N,408A-662A,Always Shoot Fireballs
+N,4026-DAAD,Always Shoot Fireballs
+N,FD22-D662,Grab blocks by pushing the B button
+N,DDAD-6CD3+DDA5-A663,Charge P meter by standing still & holding the B Button
+N,A3A7-DFEB,Start each stage by falling from the sky
+N,4083-D8F3+408D-08F3,Fireballs Hit Anywhere
+N,40C4-6C22,Tail Hits Anywhere
+N,4084-0BB3,Fireballs Can Kill Most Enemies
+N,A3A0-D7BD,SMB1: All stages are underwater 1
+N,A3A0-DFBD,SMB1: All stages are underwater 2
+N,A3A9-D7BD,SMB1: Stages are played in a different order 1
+N,EEA9-DDBD,SMB1: Stages are played in a different order 2
+N,A3A9-DDBD,SMB1: Always play on Stage 8-3
+N,A3A9-D4BD,SMB1: Different enemies on stages
+N,A3AE-D7BD,SMB1: Weird Worlds 1
+N,A3AE-D4BD,SMB1: Weird Worlds 2
+N,A3AC-DFEB,SMBLL: Stage 1-2 is very different
+N,DDAD-A7E0+DDAF-AF50,Take Any Path in Castles
+N,0D63-D605,Re-Enter Mushroom Houses and Special Levels
+N,1D63-D665,Re-Enter Beaten Fortresses
+N,DD63-D6A5,Re-Enter Beaten Levels
+N,7E103501,Infinite Misses Match Game
+N,7E008F00,Character Graphic Modifier
+N,3D27-A508+DD27-A568+0720-A0D8,Hit Anywhere
+N,D58A-0DAF+8D8A-0F0F,Delete A Slot; Then Play And Save It; To Get The Maximum Level
+N,D68A-0DAF+8D8A-0F0F,Delete A Slot; Then Play And Save It; To Get The Maximum Level
+N,D42C-A26F,High Jump
+N,DF2C-A26F,Mega Jump
+N,DD32-6AAD,Start And Stay Invincible (Most of The Time)
+N,C264-63D7,Infinite Time (Switch Off For Some Puzzles)
+N,DDE0-0EA0,Any Yoshi Always Has Wings And Flies Without A Shell
+N,89E4-A2D9+89C6-D3DB,Yoshi Is Invincible
+N,7FFB0000,World Modifier (All Files)
+N,7E07DE09+7E07DF09,Always Have 99 Coins
+N,7E07CE09+7E07CF09+7E07D009+7E07D109+7E07D209+7E07D309,Score Is Always 9999990
+N,7E005300+7E005400+7E005500,Enemies Disabled
+N,7E007C01,Dinosaur Egg Available
+N,7E008557,Enemies Can't Touch You!
+N,7E07150F+7E071642+7E07173F,Score Is Always 9999990
+N,7E05525C,Enemies Can't Touch You
+N,7E057406,Hyper Mario + Luigi
+N,7E076000,Jump Higher
+N,7E190D00+7E00A900,Fireballs/Boos Never Attack Either Player
+N,7E190C97+7E190D3B,Fireballs/Boos Constantly Attack Either Player
+N,7E19AB01,Always Big Mario
+N,7E19AC01,Always Big Luigi
+N,7E192E04,One Coin To Win Mario
+N,7E192F04,One Coin To Win Luigi
+N,7E1F2600,Level Modifier
+N,DDC5-63AD+DDC6-626D,Press Start + Select together to clear/finish the level.
+N,6DA2-A80E,Disable Autoscroll
+N,F8BA-07D4+FEB4-67D4+DDBD-6467,Skip Intro Screens
+N,DD34-6A2F+CD66-0E2F,Show Save Prompt After Beating Any Level
+N,ED60-632D,Debug - Yoshi Select
+N,7DB2-D3AF,Debug - Boss Defeated Scene Select
+N,6D80-A470,Run Without Holding The Dash Button
+N,DD60-D10B+DD69-D1AB,Run Without Holding The Dash Button
+N,DDAE-0CA3,Run Without Holding The Dash Button
+N,DFDD-F2AD,Enable Universal Debug Mode
+N,C92A-A781,Fireballs Pierce Through Enemies
+N,C28C-6CB2,Fireballs Pierce Through Enemies
+N,C2C3-D366,Fireballs Pierce Through Enemies
+N,FD3A-DD62,Destroy Any Object By Running Into It
+N,0A38-67D2,Walk Through Anything
+N,DD22-DB62,Spawn Ice Blocks Anywhere
+N,D667-A702+D661-A462+D668-6D6E,Can Select 1 Player Or 2 Player On Any Save File For Super Mario Bros.
+N,FF80-006D+FF82-0CAF+FF82-A66F,Can Select 1 Player Or 2 Player On Any Save File For Super Mario Bros. 3
+N,D965-AE9D,Replace Continue Without Save With Continue And Save Menu Anywhere For Super Mario World
+N,D965-AE9D,Replace
+N,5BC6-DB09+5BC6-DB69,Easy Pipes
+N,38BF-6ED7+F3BF-6E07+CDC6-6E64+CDC6-020C,Enable Special Stage Mode
+N,7E1EEB80,Enable Special Stage Mode
+N,7E1EEB00,Disable Special Stage Mode
+N,6DCC-DD6E,Mostly No Pits
+N,6267-A5A6,All Characters can Float Jump and Float 3x longer
+N,7E05553C,All Characters can Float Jump
+N,C2A3-6803,Disable Starman Somersault Jump
+N,7E054F00,Disable Starman Somersault Jump
+N,CB67-A5A6+7A60-A0D6+3C60-A006+6D6B-A0D6,All Characters can Float Jump
+N,CB67-A5A6+5660-A0D6+3C60-A006+6D6B-A0D6,All Characters can Float Jump and Float 2x longer
+N,7E055578,All Characters can Float Jump and Float 2x longer
+N,7E0555B4,All Characters can Float Jump and Float 3x longer
+N,DD89-0485,Replace Poison Mushroom with Mushroom or Fire Flower Powerups
+N,CB30-D804+3C30-D8A4+DF30-D864,Toad Item Chest always contains ??
+N,CB26-DB3D+6D26-DC1D+DD26-DCCD+DF26-DC4D,Hammer Bros. Item Chest always contains ??
+N,AD6F-A068,2x as much sub-space time
+N,DD2B-670E,Invincibility (Starman effect)
+N,DD2A-04E5,Invincibility (Starman effect)
+N,DD36-666D+6D36-6CDD,Invincibility (mostly)
+N,62E7-A7D2+DDE0-AF02,Invincibility
+N,62E4-A779+DDE7-AF59,Invincibility
+N,7E078F0C,Infinite Time
+N,DDC2-D8F2,Can't Take Damage Or Die (If you don't fall down a pit)
+N,CBED-636F+6DED-63AF+69ED-6EDF+52ED-6E0F+18ED-6E6F+CECF-02A1,Invincibility against Enemies; Pits; and Lava (Hold B to Jump Higher in Pits and Lava)
+N,CB3B-D12D+D43B-D5FD+623B-D59D+C23C-D0FD+ED3C-D09D,Start Every Life With Max Health
+N,DD6C-A066,Disable Icy Surfaces
+N,FD29-A4AE,Temporary Invincibility After Being Hit Lasts 2x Longer
+N,F629-A4AE,Temporary Invincibility After Being Hit Lasts 3x Longer
+N,4629-A4AE,Temporary Invincibility After Being Hit Lasts 5x Longer
+N,792F-6DAE,Invincibility Star Powerup Lasts 1.5x Longer
+N,012F-6DAE,Invincibility Star Powerup Lasts 2x Longer
+N,1B2F-6DAE,Invincibility Star Powerup Lasts 3x Longer
+N,DD2D-670E+3C2F-67DE,Mushroom And Fire Flower Powerups Also Give Invincibility Star Powerup
+N,DC80-040E+4D89-0DAE+F489-0FDE+2389-0F0E+3C89-0F6E+3C89-0FAE,Receive An Extra Life And Invincibility Star Powerup Every ?? Coins
+N,FD2B-6DE5,Temporary Invincibility After Being Hit Lasts 2x Longer
+N,F62B-6DE5,Temporary Invincibility After Being Hit Lasts 3x Longer
+N,462B-6DE5,Temporary Invincibility After Being Hit Lasts 5x Longer
+N,7927-04E5,Invincibility Star Powerup Lasts 1.5x Longer
+N,0127-04E5,Invincibility Star Powerup Lasts 2x Longer
+N,1B27-04E5,Invincibility Star Powerup Lasts 5x Longer
+N,DD27-0F55+3C20-0F75,Mushroom And Fire Flower Powerups Also Give Invincibility Star Powerup
+N,DC8F-AD51+4D8F-A751+7C8F-A781+228F-A7E1+3C84-AD71+3C84-AD51,Receive An Extra Life And Invincibility Star Powerup Every ?? Coins
+N,8DC7-0C92,Blink 1.5x Longer After Being Hit
+N,EEC7-0C92,Blink 2x Longer After Being Hit
+N,EE69-0B37,Invincibility Star Powerup Lasts Slightly Longer
+N,CBA1-660A+D4A1-666A+3CA1-66AA,Always Big Mario
+N,CBA1-660A+D7A1-666A+3CA1-66AA,Always Fire Mario
+N,CBA1-660A+D0A1-666A+3CA1-66AA,Always Raccoon Mario
+N,CBA1-660A+D9A1-666A+3CA1-66AA,Always Frog Mario
+N,CBA1-660A+D1A1-666A+3CA1-66AA,Always Tanooki Mario
+N,CBA1-660A+D5A1-666A+3CA1-66AA,Always Sledgehammer Mario
+N,6D8F-0B93,Fireball Does Same Damage As Hammers
+N,2D2F-0635+8B24-0615,Infinite Items
+N,4428-AB11+D628-ABC1+8C28-AB31+4D28-AC41+1887-6804,Have All Infinite Items
+N,40A1-DFD2,Take Any Path in Castles 4-4 and 7-4

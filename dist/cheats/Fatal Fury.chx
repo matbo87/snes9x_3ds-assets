@@ -1,0 +1,33 @@
+N,FDC7-AFAF,10 seconds to complete bonus rounds
+N,7DC7-AFAF,30 seconds to complete bonus rounds
+N,09C7-AFAF,45 seconds to complete bonus rounds
+N,1DC7-AFAF,60 seconds to complete bonus rounds
+N,BDC7-AFAF,90 seconds to complete bonus rounds
+N,F6CD-A4AF,Both players start with 1/4 health
+N,7DCD-A4AF,Both players start with 1/2 health
+N,06CD-A4AF,Both players start with 3/4 health
+N,C2A9-D40F,Player 1 takes minimum damage
+N,C2A2-DF6F,Player 2 or computer takes minimum damage
+N,BAB4-6DAD+D7BC-A46D,Always fight Richard Myer
+N,BAB4-6DAD+D0BC-A46D,Always fight Michael Max
+N,BAB4-6DAD+D9BC-A46D,Always fight Duck King
+N,BAB4-6DAD+D1BC-A46D,Always fight Tung Fu Rue
+N,BAB4-6DAD+D5BC-A46D,Always fight Hwa Jai
+N,BAB4-6DAD+D6BC-A46D,Always fight Raiden
+N,BAB4-6DAD+DBBC-A46D,Always fight Billy Kane
+N,BAB4-6DAD+DCBC-A46D,Always fight Geese Howard
+N,1DAD-DD0F+4085-0DA7,Invincibility
+N,40A2-D40F,One Hit Kill
+N,3D20-6DAD+DD20-6FDD+FD20-6F0D+6D20-64DD+0420-640D+1D2B-6F0D,Hit Anywhere P1
+N,DFA5-64DF,Win 1 Bout To Win The Match Instead Of 2 Out Of 3 (Turn The Code Off On Bonus Rounds)
+N,7E061382,Infinite Health P1
+N,7E062300,No Health P2
+N,7E060699,Infinite Time
+N,7E061402,Win One Round To Win The Match
+N,7E060800,P1 Character Modifier
+N,7E060A00,P2 Character Modifier
+N,7E060200,Background Modifier
+N,7E06F135,Infinite Energy Bar Player One
+N,7E06F235,Infinite Energy Bar Player Two
+N,C2BC-0DDD+D3B5-0F04,Skip Intro Screens
+N,BAC7-A40F,Time Is 00 for Bonus Stages

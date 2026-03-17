@@ -1,0 +1,21 @@
+N,7E16D400,The Combatribes Player 1 Modifier
+N,7E16A4FA,Player 1 Infinite Health
+N,7E184401,Player 1 Invincibility
+N,7E146663,99 Credits in Options
+N,7E146409,Infinite Credits
+N,7E145801,Enemies Wear Alternate colored attire
+N,7E16A6E6,Player 2 Infinite Health
+N,7E16A800+7E16AA00+7E16AC00+7E16AE00,Enemies Have No Health
+N,7E167401,Player 1 can Knock Enemies Down with 1-Hit
+N,7E167601,Player 2 can Knock Enemies Down with 1-Hit
+N,7E167802+7E167A02+7E167C02+7E167E02,Enemies can Knock Players Down with 1-Hit
+N,7E18C401,Player 1 has Faster Animations
+N,7E18C601,Player 2 has Faster Animations
+N,7E18C801+7E18CA01+7E18CC01+7E18CE01,Enemies have Faster Animations
+N,7E147101,Enemies Die when you Continue
+N,7E16B401,Player 1's Health Drains Rapidly
+N,7E16B601,Player 2's Health Drains Rapidly
+N,7E16B801+7E16BA01+7E16BC01+7E16BE01,Enemies' Health Drains Rapidly
+N,7E15F401,Player 1 Doesn't Stay down long when knocked down
+N,7E15F601,Player 2 Doesn't Stay down long when knocked down
+N,7E15F801+7E15FA01+7E15FC01+7E15FE01,Enemies Don't Stay down long when knocked down

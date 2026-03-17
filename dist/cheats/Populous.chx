@@ -1,0 +1,27 @@
+N,DD30-64DD,Allows you to select any world from the Conquer screen with the B and X buttons
+N,DC6C-6F09,Your population starts at 10 instead of 3 for battles 0 thru 4
+N,F06C-6F09,Your population starts at 20 for battles 0 thru 4
+N,F36C-6F09,Your population starts at 30 for battles 0 thru 4
+N,DC6C-6F69,His population starts at 10 instead of 3 for battles 0 thru 4
+N,F06C-6F69,His population starts at 20 for battles 0 thru 4
+N,F36C-6F69,His population starts at 30 for battles 0 thru 4
+N,DD6C-6D69,You have no Supreme Commands available for battles 0 thru 4
+N,7E6C-6D09,He has all Supreme Commands available for battles 0 thru 4
+N,DC6C-67A9,Your population starts at 10 instead of 3 for battles 5 thru 9
+N,F06C-67A9,Your population starts at 20 for battles 5 thru 9
+N,F36C-67A9,Your population starts at 30 for battles 5 thru 9
+N,DC68-6DD9,His population starts at 10 instead of 3 for battles 5 thru 9
+N,F068-6DD9,His population starts at 20 for battles 5 thru 9
+N,F368-6DD9,His population starts at 30 for battles 5 thru 9
+N,DD6C-67D9,You have no Supreme Commands available for battles 5 thru 9
+N,7E6C-64A9,He has all Supreme Commands available for battles 5 thru 9
+N,DC68-6409,Your population starts at 10 instead of 2 for battles 10 thru 14
+N,F068-6409,Your population starts at 20 for battles 10 thru 14
+N,F368-6409,Your population starts at 30 for battles 10 thru 14
+N,DC68-6469,His population starts at 10 instead of 2 for battles 10 thru 14
+N,F068-6469,His population starts at 20 for battles 10 thru 14
+N,F368-6469,His population starts at 30 for battles 10 thru 14
+N,DD68-6F69,You have no Supreme Commands available for battles 10 thru 14
+N,7E68-6F09,He has all Supreme Commands available for battles 10 thru 14
+N,7E09BB00,Allows You To Select Any World From The Conquer Screen With The B And X Buttons
+N,7E008E00+7E009800,Automatic Win
