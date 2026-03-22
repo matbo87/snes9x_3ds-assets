@@ -81,6 +81,7 @@ If you want to add or replace images:
 
 - Use PNG format
 - Keep image dimensions small (use existing files as reference)
+- Pre-dither background images for best visual quality (RGB565 texture)
 - Use the trimmed game name as filename (no region/revision tags)
 
 Example:
@@ -109,6 +110,13 @@ Cheat filenames should also use the trimmed basename.
 - `Donkey Kong Country (USA) (V1.2) [!].chx` will **not** match
 
 If both `.cht` and `.chx` exist for the same game, `.chx` is used.
+
+## Licensing
+The repository [`LICENSE`](LICENSE) (MIT) applies to repository-authored code
+and documentation.
+
+Third-party images/cheats keep their original source terms. See
+[`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md).
 
 ## Credits
 - [nailbomb-rb](https://github.com/nailbomb-rp) for [pal-snes-covers](https://github.com/nailbomb-rp/pal-snes-covers)
