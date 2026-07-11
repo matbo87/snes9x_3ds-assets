@@ -203,10 +203,11 @@ def main():
         print(f"[Error] Input folder not found: {clean_input_path}")
         sys.exit(1)
 
-    # Collect PNG files recursively so region subfolders (e.g., Europe/USA/Japan) are included.
+    # Collect image files recursively so region subfolders (e.g., Europe/USA/Japan) are included
     input_root = Path(clean_input_path)
+    image_exts = {".png", ".webp"}
     files = sorted(
-        [p for p in input_root.rglob("*") if p.is_file() and p.suffix.lower() == ".png"],
+        [p for p in input_root.rglob("*") if p.is_file() and p.suffix.lower() in image_exts],
         key=lambda p: str(p.relative_to(input_root))
     )
     if len(files) > MAX_GAMES:

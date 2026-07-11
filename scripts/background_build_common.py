@@ -4,7 +4,7 @@ import subprocess
 import sys
 from pathlib import Path
 
-VALID_EXTENSIONS = {".png", ".jpg", ".jpeg", ".bmp"}
+VALID_EXTENSIONS = {".png", ".jpg", ".jpeg", ".bmp", ".webp"}
 
 
 def ensure_input_dir(input_path):
