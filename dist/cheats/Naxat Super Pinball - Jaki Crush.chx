@@ -1,0 +1,16 @@
+N,7E1C6299,P1 Infinite Balls
+N,7E1C6399,P2 Infinite Balls
+N,C263-C40F,Infinite Balls - 1P Game
+N,826D-376F,Infinite Balls - 2P Game - Both Players
+N,D06B-3F64,Start a new game with ?? balls; instead of 3 - Both Players
+N,8BB8-140B,Bonus Multiplier never resets when bonus is collected
+N,8BB8-17DB,Bonus Points never reset when bonus is collected
+N,D4B8-14DB,Bonus Multiplier always resets to ?? and Bonus Points always reset to ?? after bonus is collected
+N,ED6B-34A6+2D6C-3406+2D6B-140B,Enable Stage Select in Options/Config Menu
+N,ED6C-4FA7,Enable Free Movement of the Ball by Pressing X
+N,2D80-C76D,Enable Greyscale Mode
+N,7E1D4409,P1 Max Bonus Multiplier
+N,7E1D4699,P1 Max Bonus Points
+N,7E1D4509,P2 Max Bonus Multiplier
+N,7E1D4799,P2 Max Bonus Points
+N,7E00C001,Cheat Modifier

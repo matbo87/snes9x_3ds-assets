@@ -16,14 +16,17 @@ If you prefer, you can also download individual files directly from the [`dist`]
 ## Current status and scope
 Base list for the current set: [`src/file-list.txt`](src/file-list.txt)
 
+Per-game asset coverage: [`ASSET_OVERVIEW.md`](ASSET_OVERVIEW.md)
+
 ### Asset variants
 | Variant | Count | Notes |
 | --- | ---: | --- |
 | Gameplay | 1000 | Used for `thumbnails/gameplay` and `backgrounds/game_screen` |
 | Title | 1000 | Used for `thumbnails/title` |
-| Boxart | 840 | Used for `thumbnails/boxart` and `backgrounds/second_screen`<br>Diff vs `file-list.txt`: [`src/boxart/diff.txt`](src/boxart/diff.txt) |
+| Boxart (1g1r) | 1000 | Used for `thumbnails/boxart` and `backgrounds/second_screen`<br>Original regional covers, full coverage |
+| Boxart (pal-style) | 840 | Used for `thumbnails/boxart` and `backgrounds/second_screen`<br>Uniform PAL-style covers<br>Diff vs `file-list.txt`: [`src/boxart/pal-style/diff.txt`](src/boxart/pal-style/diff.txt) |
 | Cart | 840 | Used for `backgrounds/second_screen`<br>Diff vs `file-list.txt`: [`src/cart/diff.txt`](src/cart/diff.txt) |
-| Cheats | 860 | Used for `cheats` (`.chx` format)<br>Diff vs `file-list.txt`: [`src/cheats/diff.txt`](src/cheats/diff.txt) |
+| Cheats | 861 | Used for `cheats` (`.chx` format)<br>Diff vs `file-list.txt`: [`src/cheats/diff.txt`](src/cheats/diff.txt) |
 
 ### Regional scope
 - USA + PAL total set: **785 / 785** -> [`src/file-list_USA.txt`](src/file-list_USA.txt), [`src/file-list_Europe.txt`](src/file-list_Europe.txt)
@@ -87,7 +90,7 @@ If you want to add or replace images:
 Example:
 
 - ROM: `Donkey Kong Country (USA) (V1.2) [!].sfc`
-- Image/Cheat basename: `Donkey Kong Country`
+- Image filename: `Donkey Kong Country.png`
 
 This lets one file match multiple ROM variants (for example USA/EU revisions).
 
