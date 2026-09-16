@@ -129,6 +129,7 @@ have no column here.
 | Cal Ripken Jr. Baseball (USA) | ❌ | ✅ | ✅ | ❌ |
 | California Games II (USA) | ❌ | ✅ | ✅ | ❌ |
 | Cannon Fodder (Europe) | ✅ | ✅ | ✅ | ✅ |
+| Cannondale Cup (USA) | ❌ | ✅ | ❌ | ✅ |
 | Capcom's MVP Football (USA) | ❌ | ✅ | ❌ | ✅ |
 | Capcom's Soccer Shootout (USA) | ✅ | ✅ | ✅ | ✅ |
 | Captain America and the Avengers (USA) | ✅ | ✅ | ✅ | ✅ |
@@ -243,7 +244,6 @@ have no column here.
 | Emmitt Smith Football (USA) | ❌ | ✅ | ❌ | ✅ |
 | Energy Breaker (Japan) | ❌ | ✅ | ✅ | ❌ |
 | Equinox (USA) | ✅ | ✅ | ✅ | ✅ |
-| Exertainment Mountain Bike Rally (USA) | ❌ | ✅ | ❌ | ✅ |
 | Extra Innings (USA) | ✅ | ✅ | ✅ | ✅ |
 | F-Zero (USA) | ✅ | ✅ | ✅ | ✅ |
 | F1 Pole Position (USA) | ❌ | ✅ | ✅ | ❌ |
