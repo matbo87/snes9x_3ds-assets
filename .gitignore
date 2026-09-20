@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+src/**/*.png
+src/**/*.webp
+src/**/*.jpg
+src/**/*.jpeg
+!src/*.cache.preview.png

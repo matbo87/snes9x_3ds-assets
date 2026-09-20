@@ -6,7 +6,7 @@ The sets follow a 1G1R-style selection:
 - No hacks, betas, prototypes or unlicensed games
 - Region preference: **USA > Europe > Japan**
 
-Main focus is USA + PAL titles. Japanese exclusives are only partially covered.
+Main focus is USA + PAL titles. Japanese exclusives are only partially covered (215/977).
 
 ## Download
 You can download the latest release packages [here](https://github.com/matbo87/snes9x_3ds-assets/releases).
@@ -21,12 +21,12 @@ Per-game asset coverage: [`ASSET_OVERVIEW.md`](ASSET_OVERVIEW.md)
 ### Asset variants
 | Variant | Count | Notes |
 | --- | ---: | --- |
-| Gameplay | 1000 | Used for `thumbnails/gameplay` and `backgrounds/game_screen` |
-| Title | 1000 | Used for `thumbnails/title` |
-| Boxart (1g1r) | 1000 | Used for `thumbnails/boxart` and `backgrounds/second_screen`<br>Original regional covers, full coverage |
-| Boxart (pal-style) | 840 | Used for `thumbnails/boxart` and `backgrounds/second_screen`<br>Uniform PAL-style covers<br>Diff vs `file-list.txt`: [`src/boxart/pal-style/diff.txt`](src/boxart/pal-style/diff.txt) |
-| Cart | 840 | Used for `backgrounds/second_screen`<br>Diff vs `file-list.txt`: [`src/cart/diff.txt`](src/cart/diff.txt) |
-| Cheats | 861 | Used for `cheats` (`.chx` format)<br>Diff vs `file-list.txt`: [`src/cheats/diff.txt`](src/cheats/diff.txt) |
+| Gameplay | 1000 | Used for `thumbnails/gameplay.cache` and `backgrounds/game_screen` |
+| Title | 1000 | Used for `thumbnails/title.cache` |
+| Boxart (1g1r) | 1000 | Used for `thumbnails/boxart_1g1r.cache`<br>Original regional covers, full coverage |
+| Boxart (pal-style) | 1000 | Used for `thumbnails/boxart_pal-style.cache` and `backgrounds/second_screen_boxart`<br>PAL-style covers where available; titles in [`src/fallback/boxart_pal-style.cache.txt`](src/fallback/boxart_pal-style.cache.txt) use their original cover instead |
+| Console | 840 | Used for `backgrounds/second_screen_console`<br>Missing titles: [`src/missing/console_eu_jp.txt`](src/missing/console_eu_jp.txt) |
+| Cheats | 861 | Used for `cheats` (`.chx` format)<br>Missing titles: [`src/missing/cheats.txt`](src/missing/cheats.txt) |
 
 ### Regional scope
 - USA + PAL total set: **785 / 785** -> [`src/file-list_USA.txt`](src/file-list_USA.txt), [`src/file-list_Europe.txt`](src/file-list_Europe.txt)
@@ -72,8 +72,8 @@ If provided, `_default.png` overrides the built-in default image in `snes9x_3ds`
 ### Second screen option
 For `backgrounds/second_screen`, you can choose one of these styles:
 
-- `second_screen_cart`
 - `second_screen_boxart`
+- `second_screen_console`
 
 Pick the style you prefer, then copy/rename it to:
 
