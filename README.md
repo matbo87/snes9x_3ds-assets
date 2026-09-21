@@ -6,12 +6,12 @@ The sets follow a 1G1R-style selection:
 - No hacks, betas, prototypes or unlicensed games
 - Region preference: **USA > Europe > Japan**
 
-Main focus is USA + PAL titles. Japanese exclusives are only partially covered (215/977).
+Main focus is USA + PAL titles. Japanese exclusives are only partially covered.
 
 ## Download
-You can download the latest release packages [here](https://github.com/matbo87/snes9x_3ds-assets/releases).
+Download the latest release packages [here](https://github.com/matbo87/snes9x_3ds-assets/releases).
 
-If you prefer, you can also download individual files directly from the [`dist`](dist) folder.
+You can also download individual files directly from the [`dist`](dist) folder.
 
 ## Current status and scope
 Base list for the current set: [`src/file-list.txt`](src/file-list.txt)
@@ -25,7 +25,8 @@ Per-game asset coverage: [`ASSET_OVERVIEW.md`](ASSET_OVERVIEW.md)
 | Title | 1000 | Used for `thumbnails/title.cache` |
 | Boxart (1g1r) | 1000 | Used for `thumbnails/boxart_1g1r.cache`<br>Original regional covers, full coverage |
 | Boxart (pal-style) | 1000 | Used for `thumbnails/boxart_pal-style.cache` and `backgrounds/second_screen_boxart`<br>PAL-style covers where available; titles in [`src/fallback/boxart_pal-style.cache.txt`](src/fallback/boxart_pal-style.cache.txt) use their original cover instead |
-| Console | 840 | Used for `backgrounds/second_screen_console`<br>Missing titles: [`src/missing/console_eu_jp.txt`](src/missing/console_eu_jp.txt) |
+| Console (EU/JP) | 840 | Used for `backgrounds/second_screen_console/eu_jp`<br>Missing titles: [`src/missing/console_eu_jp.txt`](src/missing/console_eu_jp.txt) |
+| Console (USA) | 723 | Used for `backgrounds/second_screen_console/us`<br>Missing titles: [`src/missing/console_us.txt`](src/missing/console_us.txt) |
 | Cheats | 861 | Used for `cheats` (`.chx` format)<br>Missing titles: [`src/missing/cheats.txt`](src/missing/cheats.txt) |
 
 ### Regional scope
@@ -35,7 +36,7 @@ Per-game asset coverage: [`ASSET_OVERVIEW.md`](ASSET_OVERVIEW.md)
 ### Overlays
 Overlays are currently provided as demo examples only (`_default.png` and `Super Mario World.png`).
 
-From my side, there are currently no plans for broad overlay coverage in the near future.
+Broad overlay coverage is not planned.
 
 ## Usage
 Each set is optional. You can use only the parts you want.
@@ -67,13 +68,14 @@ Copy the unzipped files to `3ds/snes9x_3ds` on your SD card. The final structure
           └── title.cache
 ```
 
-If provided, `_default.png` overrides the built-in default image in `snes9x_3ds` for that category.
+When present, `_default.png` overrides the built-in default image in `snes9x_3ds` for that category.
 
 ### Second screen option
 For `backgrounds/second_screen`, you can choose one of these styles:
 
 - `second_screen_boxart`
-- `second_screen_console`
+- `second_screen_console/eu_jp`
+- `second_screen_console/us`
 
 Pick the style you prefer, then copy/rename it to:
 
