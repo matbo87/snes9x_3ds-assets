@@ -15,7 +15,8 @@ from background_build_common import (
     validate_flat_name_collisions,
 )
 
-# Source boxart size is expected to be 782x547.
+# PAL-style source covers are expected to be 782x547. Most are from
+# https://github.com/nailbomb-rp/pal-snes-covers, supplemented with custom covers.
 BACKGROUND_CROP_W, BACKGROUND_CROP_H = 562, 385
 BACKGROUND_CROP_X, BACKGROUND_CROP_Y = 186, 23
 BACKGROUND_W, BACKGROUND_H = 350, 240
@@ -28,6 +29,12 @@ def parse_args():
         "-i",
         required=True,
         help="Input folder containing source images",
+    )
+    parser.add_argument(
+        "--output",
+        "-o",
+        default=str(Path("dist") / "backgrounds" / "second_screen_cover_art"),
+        help="Output folder (default: dist/backgrounds/second_screen_cover_art)",
     )
     return parser.parse_args()
 
@@ -49,7 +56,7 @@ def crop_and_resize(source_path, temp_path):
 def main():
     args = parse_args()
     input_root = Path(os.path.normpath(args.input))
-    output_dir = Path("dist") / "backgrounds" / "second_screen_boxart"
+    output_dir = Path(os.path.normpath(args.output))
     failed_dir = output_dir / "_pngquant_failed"
 
     ensure_input_dir(input_root)
@@ -73,7 +80,7 @@ def main():
         f"Crop: {BACKGROUND_CROP_W}x{BACKGROUND_CROP_H}+{BACKGROUND_CROP_X}+{BACKGROUND_CROP_Y} | "
         f"Resize: {BACKGROUND_W}x{BACKGROUND_H}"
     )
-    print(f"Starting processing for '{input_root.name}' ({len(files)} images) for second_screen_boxart...")
+    print(f"Starting processing for '{input_root.name}' ({len(files)} images) for second_screen_cover_art...")
 
     processed = 0
     failed = 0

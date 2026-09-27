@@ -24,7 +24,7 @@ Per-game asset coverage: [`ASSET_OVERVIEW.md`](ASSET_OVERVIEW.md)
 | Gameplay | 1000 | Used for `thumbnails/gameplay.cache` and `backgrounds/game_screen` |
 | Title | 1000 | Used for `thumbnails/title.cache` |
 | Boxart (1g1r) | 1000 | Used for `thumbnails/boxart_1g1r.cache`<br>Original regional covers, full coverage |
-| Boxart (pal-style) | 1000 | Used for `thumbnails/boxart_pal-style.cache` and `backgrounds/second_screen_boxart`<br>PAL-style covers where available; titles in [`src/fallback/boxart_pal-style.cache.txt`](src/fallback/boxart_pal-style.cache.txt) use their original cover instead |
+| Boxart (pal-style) | 1000 | Used for `thumbnails/boxart_pal-style.cache` and `backgrounds/second_screen_cover_art`<br>PAL-style covers where available; titles in [`src/fallback/boxart_pal-style.cache.txt`](src/fallback/boxart_pal-style.cache.txt) use their original cover instead |
 | Console (EU/JP) | 840 | Used for `backgrounds/second_screen_console/eu_jp`<br>Missing titles: [`src/missing/console_eu_jp.txt`](src/missing/console_eu_jp.txt) |
 | Console (USA) | 723 | Used for `backgrounds/second_screen_console/us`<br>Missing titles: [`src/missing/console_us.txt`](src/missing/console_us.txt) |
 | Cheats | 861 | Used for `cheats` (`.chx` format)<br>Missing titles: [`src/missing/cheats.txt`](src/missing/cheats.txt) |
@@ -73,7 +73,7 @@ When present, `_default.png` overrides the built-in default image in `snes9x_3ds
 ### Second screen option
 For `backgrounds/second_screen`, you can choose one of these styles:
 
-- `second_screen_boxart`
+- `second_screen_cover_art`
 - `second_screen_console/eu_jp`
 - `second_screen_console/us`
 

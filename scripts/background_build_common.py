@@ -122,6 +122,21 @@ def apply_rgb565_o4x4_dither(source_path, target_path):
     return run_magick(cmd) is not None
 
 
+def recompress_lossless(filepath):
+    """Re-pack the PNG with max zlib (no palette quantization). Lossless."""
+    cmd = [
+        "magick",
+        str(filepath),
+        "-strip",
+        "-define",
+        "png:compression-level=9",
+        "-define",
+        "png:compression-filter=5",
+        str(filepath),
+    ]
+    return run_magick(cmd) is not None
+
+
 def handle_compression_failure(destination_path, working_path, failed_dir, source_name, suffix_label):
     failed_output_path = failed_dir / f"{destination_path.stem}.{suffix_label}.png"
     if destination_path.exists():
