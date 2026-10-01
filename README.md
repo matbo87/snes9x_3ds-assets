@@ -23,8 +23,7 @@ Per-game asset coverage: [`ASSET_OVERVIEW.md`](ASSET_OVERVIEW.md)
 | --- | ---: | --- |
 | Gameplay | 1000 | Used for `thumbnails/gameplay.cache` and `backgrounds/game_screen` |
 | Title | 1000 | Used for `thumbnails/title.cache` |
-| Boxart (1g1r) | 1000 | Used for `thumbnails/boxart_1g1r.cache`<br>Original regional covers, full coverage |
-| Boxart (pal-style) | 1000 | Used for `thumbnails/boxart_pal-style.cache` and `backgrounds/second_screen_cover_art`<br>PAL-style covers where available; titles in [`src/fallback/boxart_pal-style.cache.txt`](src/fallback/boxart_pal-style.cache.txt) use their original cover instead |
+| Boxart styles | 1000 each | **US:** `thumbnails/boxart_us-style.cache`; [`277 entries`](src/fallback/boxart_us-style.cache.txt) use the 1G1R cover (Europe > Japan).<br>**Japan:** `thumbnails/boxart_japan-style.cache`; [`304 entries`](src/fallback/boxart_japan-style.cache.txt) use the 1G1R cover (USA > Europe).<br>**PAL:** `thumbnails/boxart_pal-style.cache` and `backgrounds/second_screen_cover_art`; [`160 entries`](src/fallback/boxart_pal-style.cache.txt) use the 1G1R cover (USA > Japan). |
 | Console (EU/JP) | 840 | Used for `backgrounds/second_screen_console/eu_jp`<br>Missing titles: [`src/missing/console_eu_jp.txt`](src/missing/console_eu_jp.txt) |
 | Console (USA) | 723 | Used for `backgrounds/second_screen_console/us`<br>Missing titles: [`src/missing/console_us.txt`](src/missing/console_us.txt) |
 | Cheats | 861 | Used for `cheats` (`.chx` format)<br>Missing titles: [`src/missing/cheats.txt`](src/missing/cheats.txt) |
@@ -63,9 +62,9 @@ Copy the unzipped files to `3ds/snes9x_3ds` on your SD card. The final structure
       │   ├── Super Mario World.png
       │   └── ...
       └── thumbnails/
-          ├── boxart.cache
+          ├── boxart_us-style.cache
           ├── gameplay.cache
-          └── title.cache
+          └── ...
 ```
 
 When present, `_default.png` overrides the built-in default image in `snes9x_3ds` for that category.

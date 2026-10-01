@@ -1,0 +1,7 @@
+# source	published
+# published is the asset's git commit time in epoch seconds
+thumbnails/boxart_us-style.cache.gz	1791621878
+thumbnails/boxart_japan-style.cache.gz	1791621878
+thumbnails/boxart_pal-style.cache.gz	1791621878
+thumbnails/title.cache.gz	1791621878
+thumbnails/gameplay.cache.gz	1791621878
