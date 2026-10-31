@@ -1,27 +1,63 @@
-N,F561-DD86,Start On Training Level 2
-N,FB61-DD86,Start On Training Level 3
-N,F161-DD86,Start On Training Level 4
-N,F261-DD86,Start On Training Level 5
-N,F361-DD86,Start On Training Level 6
-N,FE61-DD86,Start On Training Level 7
-N,4D61-DD86,Start On Training Level 8
-N,FC61-DD86,Start On Training Level 9
-N,DF61-DD86,Start On Real World Level 1
-N,D461-DD86,Start On Real World Level 2
-N,D761-DD86,Start On Real World Level 3
-N,D061-DD86,Start On Real World Level 4
-N,D961-DD86,Start On Goblin Underworld Level 1
-N,D161-DD86,Start On Goblin Underworld Level 2
-N,D561-DD86,Start On Goblin Underworld Level 3
-N,D661-DD86,Start On Goblin Underworld Level 4
-N,DA61-DD86,Start On Cloud World Level 1
-N,D261-DD86,Start On Cloud World Level 2
-N,D361-DD86,Start On Cloud World Level 3
-N,DE61-DD86,Start On Cloud World Level 4
-N,FD61-DD86,Start On Cloud World Level 5
-N,FF61-DD86,Start On Cloud World Level 6
-N,F461-DD86,Start On Cloud World Level 7
-N,8EA8-642F+8EAC-6F2F,Unlimited Men (If You Have At Least One Of That Type)
-N,CBEB-6405+F0EB-6465+DDEB-64A5,Start With Many Men
-N,8EBC-6DEC,Unlimited Spells (Must Have At Least One To Use)
-N,C4EE-6D79+7DEE-6D59+D4EE-6D89,Start With 4 Of Each Type Of Spell
+N,7E09F2E0,Changes Arthur
+N,7FFF0708,Infinite 8 Archers
+N,7FFF0108,Infinite 8 Barrelmen
+N,7FFF0D08,Infinite 8 Black Wizards
+N,7FFF2308,Infinite 8 Death Spells
+N,7FFF0308,Infinite 8 Engineers
+N,7FFF1B08,Infinite 8 Fire Rain Spells
+N,7FFF1F08,Infinite 8 Fireball Spells
+N,7FFF1508,Infinite 8 Health Spells
+N,7FFF0908,Infinite 8 Shield Holders
+N,7FFF1908,Infinite 8 Shielding Spells
+N,7FFF1D08,Infinite 8 Soldier Stopper Spells
+N,7FFF0508,Infinite 8 Soldiers
+N,7FFF2108,Infinite 8 Storm Spells
+N,7FFF1708,Infinite 8 Strength Spells
+N,7FFF0B08,Infinite 8 White Wizards
+N,7FFFF136,Infinite Archers
+N,7FFFF0F6,Infinite Architects
+N,7FFFF0D6,Infinite Barrelmen
+N,7FFFF196,Infinite Black Wizards
+N,7FFFF2F6,Infinite Fire Ball for the Black Wizard
+N,7FFFF2B6,Infinite Fireballs (Raining) for the Black Wizard
+N,7E09F532,Infinite Hearts for Arthur
+N,7FFFF216,Infinite Hearts/Healing for the White Wizard
+N,7FFFF316,Infinite Lightning for the Black Wizard
+N,8EA8-642F+8EAC-6F2F,Infinite Men [If You Have at Least One of That Type]
+N,7FFFF156,Infinite Shieldmen
+N,7FFFF256,Infinite Shields for the White Wizard
+N,7FFFF336,Infinite Skulls for the Black Wizard
+N,7FFFF116,Infinite Soldiers
+N,8EBC-6DEC,Infinite Spells [Must Have at Least One to Use]
+N,7FFFF236,Infinite Strength for the White Wizard
+N,7FFFF2D6,Infinite Stun Energy for the Black Wizard
+N,7FFFF176,Infinte White Wizards
+N,7E09F2D0,Invisible Arthur
+N,7F6559FF,King Has All Keys
+N,7E09F550,Nothing Hits Arthur
+N,7E09F5A0,Shield
+N,DA61-DD86,Start on Cloud World Level 1
+N,D261-DD86,Start on Cloud World Level 2
+N,D361-DD86,Start on Cloud World Level 3
+N,DE61-DD86,Start on Cloud World Level 4
+N,FD61-DD86,Start on Cloud World Level 5
+N,FF61-DD86,Start on Cloud World Level 6
+N,F461-DD86,Start on Cloud World Level 7
+N,D961-DD86,Start on Goblin Underworld Level 1
+N,D161-DD86,Start on Goblin Underworld Level 2
+N,D561-DD86,Start on Goblin Underworld Level 3
+N,D661-DD86,Start on Goblin Underworld Level 4
+N,DF61-DD86,Start on Real World Level 1
+N,D461-DD86,Start on Real World Level 2
+N,D761-DD86,Start on Real World Level 3
+N,D061-DD86,Start on Real World Level 4
+N,F561-DD86,Start on Training Level 2
+N,FB61-DD86,Start on Training Level 3
+N,F161-DD86,Start on Training Level 4
+N,F261-DD86,Start on Training Level 5
+N,F361-DD86,Start on Training Level 6
+N,FE61-DD86,Start on Training Level 7
+N,4D61-DD86,Start on Training Level 8
+N,FC61-DD86,Start on Training Level 9
+N,C4EE-6D79+7DEE-6D59+D4EE-6D89,Start with 4 of Each Type of Spell
+N,CBEB-6405+F0EB-6465+DDEB-64A5,Start with Many Men

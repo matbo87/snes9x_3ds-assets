@@ -1,12 +1,158 @@
-N,7E009563,Infinite climbers
-N,7E009663,Infinite floaters
-N,7E009763,Infinite bombers
-N,7E009863,Infinite blockers
-N,7E009963,Infinite builders
-N,7E009A63,Infinite bashers
-N,7E009B63,Infinite miners
-N,7E009C63,Infinite diggers
-N,7E009200,Need to save 0%
-N,7E006BFF,Always save tons
-N,7E009300,Instant level end
-N,7E009301,Infinite time
+N,7E009200,0% Lemmings Needed
+N,7E00980A,10 Blockers
+N,7E00990A,10 Builders
+N,7E009C0A,10 Diggers
+N,7E00960A,10 Floaters
+N,7E00970A,10 Lemmings
+N,7E009B0A,10 Miners
+N,7E006B64,Always Rescued 100% of Lemmings
+N,31B6-6FAF+18B6-64DF,Each Saved Lemming Counts as Two
+N,7E006900,Have 0 Lemmings Left in Level
+N,7E006A00,Have 0 Lemmings Left to Enter Level
+N,7E009A63,Have 99 Bashers Left
+N,7E009863,Have 99 Blockers Left
+N,7E009963,Have 99 Builders Left
+N,7E009563,Have 99 Climbers Left
+N,7E009C63,Have 99 Diggers Left
+N,7E009763,Have 99 Exploders Left
+N,7E009663,Have 99 Floaters Left
+N,7E009B63,Have 99 Miners Left
+N,7E0094FF,Have a Lot of Time
+N,C982-6FD7,Infinite Bashers If You Start with at Least 1
+N,C984-6DA7,Infinite Blockers If You Start with at Least 1
+N,C987-A407,Infinite Bombers If You Start with at Least 1
+N,C98E-6D07,Infinite Builders If You Start with at Least 1
+N,C984-A467,Infinite Climbers If You Start with at Least 1
+N,C98B-64A7,Infinite Diggers If You Start with at Least 1
+N,C98F-AD07,Infinite Floaters If You Start with at Least 1
+N,C981-67D7,Infinite Miners If You Start with at Least 1
+N,7E009100,Instantly Win Levels
+N,7FFFC01E,Open All 'Fun' Levels
+N,7FFFC31E,Open All 'Mayhem' Levels
+N,7FFFC405,Open All 'SUNSOFT' Levels
+N,7FFFC21E,Open All 'Taxing' Levels
+N,7FFFC11E,Open All 'Tricky' Levels
+N,CBCC-DD05+9CCC-DD65+C9C8-0FD5,Start on Level 1 [Rating : Mayhem]
+N,CBCC-DD05+56CC-DD65+C9C8-0FD5,Start on Level 1 [Rating : Sunsoft]
+N,CBCC-DD05+7ACC-DD65+C9C8-0FD5,Start on Level 1 [Rating : Taxing]
+N,CBCC-DD05+F3CC-DD65+C9C8-0FD5,Start on Level 1 [Rating : Tricky]
+N,CBCC-DD05+DFCC-DD65+C9C8-0FD5,Start on Level 2 [Rating : Fun]
+N,CBCC-DD05+98CC-DD65+C9C8-0FD5,Start on Level 2 [Rating : Mayhem]
+N,CBCC-DD05+5BCC-DD65+C9C8-0FD5,Start on Level 2 [Rating : Sunsoft]
+N,CBCC-DD05+72CC-DD65+C9C8-0FD5,Start on Level 2 [Rating : Taxing]
+N,CBCC-DD05+FECC-DD65+C9C8-0FD5,Start on Level 2 [Rating : Tricky]
+N,CBCC-DD05+D4CC-DD65+C9C8-0FD5,Start on Level 3 [Rating : Fun]
+N,CBCC-DD05+9ACC-DD65+C9C8-0FD5,Start on Level 3 [Rating : Mayhem]
+N,CBCC-DD05+5CCC-DD65+C9C8-0FD5,Start on Level 3 [Rating : Sunsoft]
+N,CBCC-DD05+73CC-DD65+C9C8-0FD5,Start on Level 3 [Rating : Taxing]
+N,CBCC-DD05+4DCC-DD65+C9C8-0FD5,Start on Level 3 [Rating : Tricky]
+N,CBCC-DD05+D7CC-DD65+C9C8-0FD5,Start on Level 4 [Rating : Fun]
+N,CBCC-DD05+92CC-DD65+C9C8-0FD5,Start on Level 4 [Rating : Mayhem]
+N,CBCC-DD05+58CC-DD65+C9C8-0FD5,Start on Level 4 [Rating : Sunsoft]
+N,CBCC-DD05+7ECC-DD65+C9C8-0FD5,Start on Level 4 [Rating : Taxing]
+N,CBCC-DD05+4FCC-DD65+C9C8-0FD5,Start on Level 4 [Rating : Tricky]
+N,CBCC-DD05+D0CC-DD65+C9C8-0FD5,Start on Level 5 [Rating : Fun]
+N,CBCC-DD05+93CC-DD65+C9C8-0FD5,Start on Level 5 [Rating : Mayhem]
+N,CBCC-DD05+5ACC-DD65+C9C8-0FD5,Start on Level 5 [Rating : Sunsoft]
+N,CBCC-DD05+0DCC-DD65+C9C8-0FD5,Start on Level 5 [Rating : Taxing]
+N,CBCC-DD05+44CC-DD65+C9C8-0FD5,Start on Level 5 [Rating : Tricky]
+N,CBCC-DD05+D9CC-DD65+C9C8-0FD5,Start on Level 6 [Rating : Fun]
+N,CBCC-DD05+9ECC-DD65+C9C8-0FD5,Start on Level 6 [Rating : Mayhem]
+N,CBCC-DD05+0FCC-DD65+C9C8-0FD5,Start on Level 6 [Rating : Taxing]
+N,CBCC-DD05+47CC-DD65+C9C8-0FD5,Start on Level 6 [Rating : Tricky]
+N,CBCC-DD05+D1CC-DD65+C9C8-0FD5,Start on Level 7 [Rating : Fun]
+N,CBCC-DD05+1DCC-DD65+C9C8-0FD5,Start on Level 7 [Rating : Mayhem]
+N,CBCC-DD05+04CC-DD65+C9C8-0FD5,Start on Level 7 [Rating : Taxing]
+N,CBCC-DD05+40CC-DD65+C9C8-0FD5,Start on Level 7 [Rating : Tricky]
+N,CBCC-DD05+D5CC-DD65+C9C8-0FD5,Start on Level 8 [Rating : Fun]
+N,CBCC-DD05+1FCC-DD65+C9C8-0FD5,Start on Level 8 [Rating : Mayhem]
+N,CBCC-DD05+07CC-DD65+C9C8-0FD5,Start on Level 8 [Rating : Taxing]
+N,CBCC-DD05+49CC-DD65+C9C8-0FD5,Start on Level 8 [Rating : Tricky]
+N,CBCC-DD05+D6CC-DD65+C9C8-0FD5,Start on Level 9 [Rating : Fun]
+N,CBCC-DD05+14CC-DD65+C9C8-0FD5,Start on Level 9 [Rating : Mayhem]
+N,CBCC-DD05+00CC-DD65+C9C8-0FD5,Start on Level 9 [Rating : Taxing]
+N,CBCC-DD05+41CC-DD65+C9C8-0FD5,Start on Level 9 [Rating : Tricky]
+N,CBCC-DD05+DBCC-DD65+C9C8-0FD5,Start on Level 10 [Rating : Fun]
+N,CBCC-DD05+17CC-DD65+C9C8-0FD5,Start on Level 10 [Rating : Mayhem]
+N,CBCC-DD05+09CC-DD65+C9C8-0FD5,Start on Level 10 [Rating : Taxing]
+N,CBCC-DD05+45CC-DD65+C9C8-0FD5,Start on Level 10 [Rating : Tricky]
+N,CBCC-DD05+DCCC-DD65+C9C8-0FD5,Start on Level 11 [Rating : Fun]
+N,CBCC-DD05+10CC-DD65+C9C8-0FD5,Start on Level 11 [Rating : Mayhem]
+N,CBCC-DD05+01CC-DD65+C9C8-0FD5,Start on Level 11 [Rating : Taxing]
+N,CBCC-DD05+46CC-DD65+C9C8-0FD5,Start on Level 11 [Rating : Tricky]
+N,CBCC-DD05+D8CC-DD65+C9C8-0FD5,Start on Level 12 [Rating : Fun]
+N,CBCC-DD05+19CC-DD65+C9C8-0FD5,Start on Level 12 [Rating : Mayhem]
+N,CBCC-DD05+05CC-DD65+C9C8-0FD5,Start on Level 12 [Rating : Taxing]
+N,CBCC-DD05+4BCC-DD65+C9C8-0FD5,Start on Level 12 [Rating : Tricky]
+N,CBCC-DD05+DACC-DD65+C9C8-0FD5,Start on Level 13 [Rating : Fun]
+N,CBCC-DD05+11CC-DD65+C9C8-0FD5,Start on Level 13 [Rating : Mayhem]
+N,CBCC-DD05+06CC-DD65+C9C8-0FD5,Start on Level 13 [Rating : Taxing]
+N,CBCC-DD05+4CCC-DD65+C9C8-0FD5,Start on Level 13 [Rating : Tricky]
+N,CBCC-DD05+D2CC-DD65+C9C8-0FD5,Start on Level 14 [Rating : Fun]
+N,CBCC-DD05+15CC-DD65+C9C8-0FD5,Start on Level 14 [Rating : Mayhem]
+N,CBCC-DD05+0BCC-DD65+C9C8-0FD5,Start on Level 14 [Rating : Taxing]
+N,CBCC-DD05+48CC-DD65+C9C8-0FD5,Start on Level 14 [Rating : Tricky]
+N,CBCC-DD05+D3CC-DD65+C9C8-0FD5,Start on Level 15 [Rating : Fun]
+N,CBCC-DD05+16CC-DD65+C9C8-0FD5,Start on Level 15 [Rating : Mayhem]
+N,CBCC-DD05+0CCC-DD65+C9C8-0FD5,Start on Level 15 [Rating : Taxing]
+N,CBCC-DD05+4ACC-DD65+C9C8-0FD5,Start on Level 15 [Rating : Tricky]
+N,CBCC-DD05+DECC-DD65+C9C8-0FD5,Start on Level 16 [Rating : Fun]
+N,CBCC-DD05+1BCC-DD65+C9C8-0FD5,Start on Level 16 [Rating : Mayhem]
+N,CBCC-DD05+08CC-DD65+C9C8-0FD5,Start on Level 16 [Rating : Taxing]
+N,CBCC-DD05+42CC-DD65+C9C8-0FD5,Start on Level 16 [Rating : Tricky]
+N,CBCC-DD05+FDCC-DD65+C9C8-0FD5,Start on Level 17 [Rating : Fun]
+N,CBCC-DD05+1CCC-DD65+C9C8-0FD5,Start on Level 17 [Rating : Mayhem]
+N,CBCC-DD05+0ACC-DD65+C9C8-0FD5,Start on Level 17 [Rating : Taxing]
+N,CBCC-DD05+43CC-DD65+C9C8-0FD5,Start on Level 17 [Rating : Tricky]
+N,CBCC-DD05+FFCC-DD65+C9C8-0FD5,Start on Level 18 [Rating : Fun]
+N,CBCC-DD05+18CC-DD65+C9C8-0FD5,Start on Level 18 [Rating : Mayhem]
+N,CBCC-DD05+02CC-DD65+C9C8-0FD5,Start on Level 18 [Rating : Taxing]
+N,CBCC-DD05+4ECC-DD65+C9C8-0FD5,Start on Level 18 [Rating : Tricky]
+N,CBCC-DD05+F4CC-DD65+C9C8-0FD5,Start on Level 19 [Rating : Fun]
+N,CBCC-DD05+1ACC-DD65+C9C8-0FD5,Start on Level 19 [Rating : Mayhem]
+N,CBCC-DD05+03CC-DD65+C9C8-0FD5,Start on Level 19 [Rating : Taxing]
+N,CBCC-DD05+7DCC-DD65+C9C8-0FD5,Start on Level 19 [Rating : Tricky]
+N,CBCC-DD05+F7CC-DD65+C9C8-0FD5,Start on Level 20 [Rating : Fun]
+N,CBCC-DD05+12CC-DD65+C9C8-0FD5,Start on Level 20 [Rating : Mayhem]
+N,CBCC-DD05+0ECC-DD65+C9C8-0FD5,Start on Level 20 [Rating : Taxing]
+N,CBCC-DD05+7FCC-DD65+C9C8-0FD5,Start on Level 20 [Rating : Tricky]
+N,CBCC-DD05+F0CC-DD65+C9C8-0FD5,Start on Level 21 [Rating : Fun]
+N,CBCC-DD05+13CC-DD65+C9C8-0FD5,Start on Level 21 [Rating : Mayhem]
+N,CBCC-DD05+9DCC-DD65+C9C8-0FD5,Start on Level 21 [Rating : Taxing]
+N,CBCC-DD05+74CC-DD65+C9C8-0FD5,Start on Level 21 [Rating : Tricky]
+N,CBCC-DD05+F9CC-DD65+C9C8-0FD5,Start on Level 22 [Rating : Fun]
+N,CBCC-DD05+1ECC-DD65+C9C8-0FD5,Start on Level 22 [Rating : Mayhem]
+N,CBCC-DD05+9FCC-DD65+C9C8-0FD5,Start on Level 22 [Rating : Taxing]
+N,CBCC-DD05+77CC-DD65+C9C8-0FD5,Start on Level 22 [Rating : Tricky]
+N,CBCC-DD05+F1CC-DD65+C9C8-0FD5,Start on Level 23 [Rating : Fun]
+N,CBCC-DD05+5DCC-DD65+C9C8-0FD5,Start on Level 23 [Rating : Mayhem]
+N,CBCC-DD05+94CC-DD65+C9C8-0FD5,Start on Level 23 [Rating : Taxing]
+N,CBCC-DD05+70CC-DD65+C9C8-0FD5,Start on Level 23 [Rating : Tricky]
+N,CBCC-DD05+F5CC-DD65+C9C8-0FD5,Start on Level 24 [Rating : Fun]
+N,CBCC-DD05+5FCC-DD65+C9C8-0FD5,Start on Level 24 [Rating : Mayhem]
+N,CBCC-DD05+97CC-DD65+C9C8-0FD5,Start on Level 24 [Rating : Taxing]
+N,CBCC-DD05+79CC-DD65+C9C8-0FD5,Start on Level 24 [Rating : Tricky]
+N,CBCC-DD05+F6CC-DD65+C9C8-0FD5,Start on Level 25 [Rating : Fun]
+N,CBCC-DD05+54CC-DD65+C9C8-0FD5,Start on Level 25 [Rating : Mayhem]
+N,CBCC-DD05+90CC-DD65+C9C8-0FD5,Start on Level 25 [Rating : Taxing]
+N,CBCC-DD05+71CC-DD65+C9C8-0FD5,Start on Level 25 [Rating : Tricky]
+N,CBCC-DD05+FBCC-DD65+C9C8-0FD5,Start on Level 26 [Rating : Fun]
+N,CBCC-DD05+57CC-DD65+C9C8-0FD5,Start on Level 26 [Rating : Mayhem]
+N,CBCC-DD05+99CC-DD65+C9C8-0FD5,Start on Level 26 [Rating : Taxing]
+N,CBCC-DD05+75CC-DD65+C9C8-0FD5,Start on Level 26 [Rating : Tricky]
+N,CBCC-DD05+FCCC-DD65+C9C8-0FD5,Start on Level 27 [Rating : Fun]
+N,CBCC-DD05+50CC-DD65+C9C8-0FD5,Start on Level 27 [Rating : Mayhem]
+N,CBCC-DD05+91CC-DD65+C9C8-0FD5,Start on Level 27 [Rating : Taxing]
+N,CBCC-DD05+76CC-DD65+C9C8-0FD5,Start on Level 27 [Rating : Tricky]
+N,CBCC-DD05+F8CC-DD65+C9C8-0FD5,Start on Level 28 [Rating : Fun]
+N,CBCC-DD05+59CC-DD65+C9C8-0FD5,Start on Level 28 [Rating : Mayhem]
+N,CBCC-DD05+95CC-DD65+C9C8-0FD5,Start on Level 28 [Rating : Taxing]
+N,CBCC-DD05+7BCC-DD65+C9C8-0FD5,Start on Level 28 [Rating : Tricky]
+N,CBCC-DD05+FACC-DD65+C9C8-0FD5,Start on Level 29 [Rating : Fun]
+N,CBCC-DD05+51CC-DD65+C9C8-0FD5,Start on Level 29 [Rating : Mayhem]
+N,CBCC-DD05+96CC-DD65+C9C8-0FD5,Start on Level 29 [Rating : Taxing]
+N,CBCC-DD05+7CCC-DD65+C9C8-0FD5,Start on Level 29 [Rating : Tricky]
+N,CBCC-DD05+F2CC-DD65+C9C8-0FD5,Start on Level 30 [Rating : Fun]
+N,CBCC-DD05+55CC-DD65+C9C8-0FD5,Start on Level 30 [Rating : Mayhem]
+N,CBCC-DD05+9BCC-DD65+C9C8-0FD5,Start on Level 30 [Rating : Taxing]
+N,CBCC-DD05+78CC-DD65+C9C8-0FD5,Start on Level 30 [Rating : Tricky]

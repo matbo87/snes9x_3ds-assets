@@ -1,4 +1,54 @@
-N,7E001E05,Infinite lives
-N,7E001C05,Infinite health
-N,7E000A32,50 stars
-N,7E29F328,Inf fuel (rc car)
+N,7E29D200,1 Hit to Kill Buzz in "Buzz Nightmare" Battle
+N,7E02006A,Almost No Sfx
+N,7E1780FF,Brings You to the End of the Level
+N,7E296E00,Buzz Has 1 Health in "Buzz Battle"
+N,7E292C01,Buzz Never Pushes Woody in Food Abd Drink Level
+N,7E001400,Checkpoint Activator
+N,7E294A00,Claw Machine Has 0 Health
+N,7E294A01,Claw Machine Has 1 Health
+N,7E00B102,Drunk Mode
+N,7E000401,Enable Both Debugging Functions
+N,DF65-DF0D,Enable Debugging Functions 1 (Level Skip)
+N,DF65-DF6D,Enable Debugging Functions 2 (Infinite Health)
+N,7E005001,Has Something to Do with Staff Roll
+N,7E29780A,Infinite Continue Time
+N,7E001201,Infinite Continues
+N,7E001C04,Infinite Health
+N,7E001E03,Infinite Lives
+N,7E004501,Infinite Time in "Really Inside the Claw Machine" Level
+N,7E292805,Infinite Time on "Red Alert"
+N,7E292800,Infinite Time on Intros and Level Endings
+N,7E29F36A,Infinite Time on Rc Levels
+N,7E29F2FF,Infinite Time Rc Racer
+N,7E01A202,Invincibility
+N,DDB1-C1CD,Jump in Midair
+N,7E001E99,Max/Infinite Lives
+N,7E178FFF,Moon Jump
+N,7E020A6A,Quiet Army Men
+N,7E292802,Scud Always Barks
+N,DFA6-3DC4,Start on Level 2
+N,D4A6-3DC4,Start on Level 3
+N,D7A6-3DC4,Start on Level 4
+N,D0A6-3DC4,Start on Level 5
+N,D9A6-3DC4,Start on Level 6
+N,D1A6-3DC4,Start on Level 7
+N,D5A6-3DC4,Start on Level 8
+N,D6A6-3DC4,Start on Level 9
+N,DBA6-3DC4,Start on Level 10
+N,DCA6-3DC4,Start on Level 11
+N,D8A6-3DC4,Start on Level 12
+N,DAA6-3DC4,Start on Level 13
+N,D2A6-3DC4,Start on Level 14
+N,D3A6-3DC4,Start on Level 15
+N,DEA6-3DC4,Start on Level 16
+N,FDA6-3DC4,Start on Level 17
+N,D63D-C7BA,Start with 5 More Lives Than Usual
+N,DE3D-C7BA,Start with 10 More Lives Than Usual
+N,F33D-C7BA,Start with 25 More Lives Than Usual
+N,753D-C7BA,Start with 50 More Lives Than Usual
+N,F4A4-C7C4,Unused Song 1 Plays at Title Screen (You've Got a Friend in Me)
+N,D8A4-C7C4,Unused Song 2 Plays at Title Screen (Roller Bob)
+N,7E001A11,View Credits
+N,7E024400,Woody Constantly Yells "Hello" in "Really Inside the Claw Machine" Level
+N,7E024408,Woody Never Yells "Hello" in "Really Inside the Claw Machine" Level
+N,7E004407,You Are Holding the Enemy Needed to Win Claw Level

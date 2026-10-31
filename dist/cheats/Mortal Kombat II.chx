@@ -1,3 +1,205 @@
-N,-7C5ECC80,Infinite time
-N,-7B628C00,One hit kill
-N,-7C5FD053,Infinite continues
+N,D6AD-17D1+18AF-1F01,1 Button Specials/Fatalities
+N,C7C2-1F6A,1 Round Wins Match P1
+N,7E190600,1-Button Specials/1-Sec Charge Moves
+N,BBBE-37AE,5 Rounds of Fighting, Then Gameover
+N,6D65-376E,Air Fire Hangs in Air Until You Throw High or Low
+N,CBBA-44FD+D3BA-449D+DDBA-44BD,All CPU Opponents Emit Smoke
+N,C2BA-44FD+DFBA-44BD+D3DF-9A76,All CPU Opponents Emit Smoke Like Smoke
+N,DDB4-3FF7,Almost All Kicks Are Ultra Slow
+N,676A-47AF,Alter Mileena's Speed Modifier
+N,CBC6-3D6E+D7C6-3DAE,Always Fight Baraka
+N,CBC6-3D6E+D4C6-3DAE,Always Fight Cage
+N,CBC6-3D6E+FDC6-3DAE,Always Fight Jade
+N,CBC6-3D6E+D8C6-3DAE,Always Fight Jax
+N,CBC6-3D6E+DAC6-3DAE,Always Fight Kintaro
+N,CBC6-3D6E+D0C6-3DAE,Always Fight Kitana
+N,CBC6-3D6E+DDC6-3DAE,Always Fight Kung Lao
+N,CBC6-3D6E+DFC6-3DAE,Always Fight Liu Kang
+N,CBC6-3D6E+D9C6-3DAE,Always Fight Mileena
+N,CBC6-3D6E+DEC6-3DAE,Always Fight Noob Saibot
+N,CBC6-3D6E+D5C6-3DAE,Always Fight Rayden
+N,CBC6-3D6E+DBC6-3DAE,Always Fight Reptile
+N,CBC6-3D6E+DCC6-3DAE,Always Fight Scorpion
+N,CBC6-3D6E+D1C6-3DAE,Always Fight Shang Tsung
+N,CBC6-3D6E+D2C6-3DAE,Always Fight Shao Kahn
+N,CBC6-3D6E+D3C6-3DAE,Always Fight Smoke
+N,CBC6-3D6E+D6C6-3DAE,Always Fight Sub-Zero
+N,DDC0-4462+DDC7-4462+DDC9-4FA2+DDC4-4402,Always Have Smoke/Jade Clues
+N,CDEE-1F0A,Awesome Fatalities!!
+N,DD88-4400+DD86-4460+DDAA-37A9,Baraka One Button Fatalities
+N,06EE-C4A4,Baraka's Blade Spark Does Massive Damage
+N,82B4-3404,Blood Never Hits the Ground, More Blood (Game Will Slow Down)
+N,06EF-4767,Cage's Shadow Kick Does Massive Damage
+N,CBC0-17A1+DDC9-1D01+CBBF-44F4+DDBF-44B4,Character Moveset/Move Extractor (P1 & P2)
+N,CBC0-17A1+DDC9-1DD1+DDC9-1D01+CBBF-44F4+DDBF-4494+DDBF-44B4,Character Moveset/Move Extractor (P1 & P2) (alt)
+N,EE20-CDDD,Computer Opponents Have "Access" to Kintaro's Moves in Addition to Their Own
+N,C220-CDDD,Computer Opponents Have "Access" to Shao Khan's Moveset
+N,6DAF-3FD4,Computer Won't Duck or Block Incoming Projectiles
+N,40A3-17A7,CPU Always Finishes with a Fatality
+N,40AD-CD07,CPU Always Finishes with a Fatality [Rev 1]
+N,6DE0-3FA7,CPU Always Finishes with Friendships & Babalities
+N,6DE5-3467,CPU Always Finishes with Friendships & Babalities [Rev 1]
+N,DDC3-14A2+DDAE-3DDB,CPU Fights CPU
+N,DDCE-14A2+DDA3-376B,CPU Fights CPU [Rev 1]
+N,6D2A-CFA5+6DED-34A7+D9ED-37D7,Dan Forden Every Uppercut
+N,6D2A-C465+6DE7-3767+D9E7-37A7,Dan Forden Every Uppercut [Rev 1]
+N,DD8B-17D5,Dead Pool Fatality on Any Stage
+N,6DC3-1F0A,Defeat Any Opponent to Trigger Shao Kahn's Death Sequence (P1)
+N,C4EA-44B7,Different Projectiles Only Useful at Different Range, Some Not at All
+N,40BC-4FF7,Disable Blocking
+N,40BC-44F7,Disable Blocking [Rev 1]
+N,40EC-1F97,Disable Blood
+N,40EC-1497,Disable Blood [Rev 1]
+N,EE29-CDAD,Disable Computer Walk/Follow Routine
+N,EE21-CF0D,Disable CPU Walk/Follow Routine [Rev 1]
+N,1DC9-CDB1+1DCF-37F1+1DC4-44B5,Disable Throws
+N,622B-C70C,Disable Throws (2-player Mode) [Rev 1]
+N,622B-C7AC,Disable Throws [2-player Mode]
+N,DDA2-3769,Do Pit/Spikes Fatality from Anywhere
+N,6DCF-4F9D,Enable All 2-Player Rules/Moves When Fighting Computer
+N,6DCF-4D9D,Enable All 2-Player Rules/Moves When Fighting Computer (alt)
+N,CDC5-CFD2+DFC5-CF02+DDC5-CF62,Enable Finishing Moves to Be Performed with Secret Characters
+N,3464-340F,Enable Pause Anywhere in Game
+N,DDC1-3FA1,Enable Raiden's Shock-Grab When Fighting CPU
+N,7E188402,Enemy Appears Perfectly Still but Still Fights You
+N,0069-CD27,Extra Audio When Johnny Cage Wins (See Below)
+N,0065-CD27,Extra Audio When Scorpion Wins (See Below)
+N,0061-CD27,Extra Audio When Shang Tsung Wins (See Below)
+N,006E-CD27,Extra Audio with "Excellent" (See Below)
+N,0062-CD27,Extra Audio with "Flawless Victory" (See Below)
+N,7E325000,Fake No Powerbars
+N,7E325601,Fight Before Announcer Says "Fight!"
+N,7E022602,Freeze Timer
+N,DCC8-CD6E,Goro's Lair Becomes Part of the Normal Stage Lineup
+N,DCCA-CD6E,Goro's Lair Becomes Part of the Normal Stage Lineup [Rev 1]
+N,5EC3-CF02,Have 127 Times More Fatality Time
+N,5EC2-CF02,Have 127 Times More Fatality Time (alt)
+N,40B1-4DB7+40B9-4FB7,Hit Anywhere Both Players
+N,3DB0-4D97+DDB0-4DB7+2DB0-4FF7+0DB0-4F97,Hit Anywhere P1
+N,6D8C-1405,Holding LP+LK Not Required for Dead Pool Fatality
+N,7E017201+7E027201+7E037201+7E047201+7E057201+7E067201+7E077201+7E087201+7E097201+7E0A7201+7E0B7201+7E0C7201+7E0D7201,Hyper Mode P1 & P2
+N,6DB1-44F7+DBB1-4497+DDB5-4427+1DC9-CDB1+1DCF-37F1+1DC4-44B5,Improved Untouchable P1
+N,6DB1-44F7+D1B1-4497+DDB5-4FB7+1DC9-CDB1+1DCF-37F1+1DC4-44B5,Improved Untouchable P2
+N,C2C4-47AA,Infinite Continues
+N,7E30B863,Infinite Credits
+N,CB89-4FAA+CF89-44DA+DD89-440A+EA89-44AA+4389-47DA,Infinite Energy
+N,7E023201,Infinite Fatality Time
+N,7E2EFCA1,Infinite Health P1
+N,7E30AAA1,Infinite Health P2
+N,6DC7-1DAA,Infinite Time
+N,6DC0-1DAA,Infinite Time [Rev 1]
+N,3DAC-57B0+D4AC-5720+DDA8-5DF0+EDA8-5D90,Invincibility
+N,DDC5-47A5+DDAA-37A9,Jax One Button Fatality 1
+N,DD81-C400+DD86-CDD0,Jax One Button Fatality 2
+N,DD88-C700+DD8A-CF60+DD82-4F60,Johnny Cage One Button Fatalities
+N,CBAD-4499+DDAD-44B9+DDAD-4429,Kintaro Character Modifier Acclaim Smash
+N,DDC7-1DA5+DDC4-1465+DAC9-17A5+DDAA-37A9,Kitana One Button Fatalities
+N,06E9-17A4,Kitana's Fan Throw Does Massive Damage
+N,6DAB-37D9,Kombat Tomb Fatality Any Stage
+N,DD8B-4FD9+DD8C-4DD9+DD8E-4DD9+DD8E-4409,Kung Lao One Button Fatalities
+N,DD8E-4409,Kung Lao's Fatality 1 from Anywhere
+N,06E2-1767,Kung Lao's Hat Throw Does Massive Damage
+N,6D3B-47DA,Lao Dive Kick Never Connects
+N,D935-47DA,Lao Dive Kick Never Connects, and Makes Random Sounds
+N,57E9-C76A,Lao's Hat High, Can Pull and Rethrow Quickly
+N,DD81-4769+DDC8-47D5+DDAA-37A9,Liu Kang One Button Fatalities
+N,06E9-1DD7,Liu Kang's High Fireball Does Massive Damage
+N,6D68-37DE,Liu Kang's Recovers from Low Fire Really Quick
+N,6D66-376E,Liu's Air Fire Locks Him in Place in Air
+N,6D63-376E,Liu's High Ground Fire Is Disabled
+N,DDC2-1705+DDAA-37A9,Mileena One Button Fatalities
+N,1325-346E,Mileena Roll Skips Across the Screen a Little Way
+N,2228-37AE,Mileena's Roll Always Bounces Up Like Blocked
+N,DD28-37AE,Mileena's Roll Doesn't Bounce When Blocked
+N,DD2B-3F6E,Mileena's Roll Doesn't Travel
+N,7828-3D6E,Mileena's Roll Is Bouncy Except in Close
+N,0E28-3D6E,Mileena's Roll Is Flawless
+N,442B-3F6E,Mileena's Roll Is Superfast
+N,172B-3F6E,Mileena's Roll Is Superfast and Goes Out of Full Screen (Glitches)
+N,7728-3D6E,Mileena's Roll Needs Practice
+N,D828-3D6E,Mileena's Roll Only Useful in Close Quarters
+N,06E1-17D4,Mileena's Sai Throw Does Massive Damage
+N,DD20-37AE+BB28-376E,Mileena's Telekick, Roll Combo
+N,7E2EFC00,No Health P1
+N,0A28-3D6E,No in-Fight Music Except for Finishing Move
+N,DD86-1490,P1 Access Smoke Fight Any Stage
+N,C2EE-1FDA+DFEE-1F6A,P1 Fatality Modifier
+N,C2EE-1FDA+DFEE-1F6A+DDDF-9A76,P1 Fatality Modifier (alt)
+N,CBEE-1FDA+DDEE-1F0A+DDEE-1F6A,P1 Fatality Modifier (alt 2)
+N,7E2EF47C,P1 Free Movement
+N,C2B1-17F7,P1 Infinite Health [Rev 1]
+N,C2B1-14F7,P1 Is Invincible
+N,DDB1-1FF7,P1 Is Killed by One Hit
+N,DDB1-14F7,P1 No Health [Rev 1]
+N,CBC0-17A1+DCC9-1DD1+DDC9-1D01+CBA3-37DB+DEA3-370B+DDA3-376B+62A3-37AB+E6AE-3DDB+43AE-3D0B+40AE-3D6B+CBBF-44F4+DCBF-4494+DDBF-44B4,P1 Play as Real Noob Saibot
+N,CBC0-17A1+DCC9-1DD1+DDC9-1D01+CBA3-37DB+D3A3-370B+DDA3-376B+62A3-37AB+E6AE-3DDB+43AE-3D0B+40AE-3D6B+CBBF-44F4+DCBF-4494+DDBF-44B4,P1 Play as Real Smoke
+N,DD86-1490+DD8B-1790,P1 Press Down + Start to Access Smoke Fight Any Stage
+N,C6B5-1D0E+C1B5-1D6E+67B5-1DAE+18CC-C762,P1 Press Start for Finishers Anytime Second/Third Round
+N,71B5-1D0E+3BB5-1D6E+60B5-1DAE,P1 Press Start to Bring in New P1 Character
+N,BEB5-1D0E+3BB5-1D6E+60B5-1DAE,P1 Press Start to Bring in New P2 Character
+N,EAB1-17B7+43B1-1727+EAB5-1497+43B5-14B7,P1 Takes All Damage
+N,7E2D4665,P1 Untouchable
+N,7E30A27C,P2 Free Movement
+N,C2B5-17F7,P2 Infinite Health [Rev 1]
+N,7E309A01,P2 Is Always Controlled by Human Player
+N,DDB5-14F7,P2 No Health [Rev 1]
+N,C2B5-14F7,P2 or Computer Is Invincible
+N,DDB5-1FF7,P2 or Computer Is Killed by One Hit
+N,CBC0-17A1+DCC9-1DD1+DDC9-1D01+CBA3-37DB+DEA3-370B+DDA3-376B+62A3-37AB+C1AE-3DDB+7DAE-3D0B+C1AE-3D6B+CBBF-44F4+DCBF-4494+DDBF-44B4,P2 Play as Real Noob Saibot
+N,CBC0-17A1+DCC9-1DD1+DDC9-1D01+CBA3-37DB+D3A3-370B+DDA3-376B+62A3-37AB+C1AE-3DDB+7DAE-3D0B+C1AE-3D6B+CBBF-44F4+DCBF-4494+DDBF-44B4,P2 Play as Real Smoke
+N,BBB0-37AE,P2 Plays as Current CPU Opponent
+N,C6B6-1D6E+C1B6-1DAE+67B6-1FDE+18CC-C762,P2 Press Start for Finishers Anytime Second/Third Round
+N,71B6-1D6E+3BB6-1DAE+60B6-1FDE,P2 Press Start to Bring in New P1 Character
+N,BEB6-1D6E+3BB6-1DAE+60B6-1FDE,P2 Press Start to Bring in New P2 Character
+N,CCB9-17B7+7DB9-1727+CCB1-1497+7DB1-14B7,P2 Takes All Damage
+N,7E2D483D,P2 Untouchable
+N,DD8C-1FD5,Perform Dead Pool Fatality Anytime During the Match
+N,6DAB-37D9+6DA8-3FD9,Pit II Fatality Any Stage
+N,C4E8-44B7,Player Color Inverted, Normal, Invisible Depending on Stage and Current Location
+N,7E010400+7E020400+7E030400+7E040400+7E050400+7E060400+7E070400+7E080400+7E090400+7E0A0400+7E0B0400+7E0C0400+7E0D0400,Quick Attacks P1 & P2
+N,EEE5-140A,Random Sound on Player Select (No Poses)
+N,7E2D7A00+7E2D7B00,Rapid Fire P1
+N,7E2D7F00+7E2D7E00,Rapid Fire P2
+N,DDAA-37A9+DDC4-37A1+DDC0-3FD1,Rayden One Button Fatality 2
+N,06E4-34DF,Rayden's Lightning Bolt Does Massive Damage
+N,C488-C7DA+DF88-C70A+DD88-C76A,Remove Secret Characters from Goro's Lair
+N,DDC5-34D5+DDCB-3DD5+DD89-3D60+DD89-37D0,Reptile One Button Fatalities
+N,06EB-17AF,Reptile's Force Ball Does Massive Damage
+N,1DEA-17D0,Restore Kintaro's Punch
+N,1DE2-1DA0,Restore Kintaro's Punch [Rev 1]
+N,6D8C-1DA0+D38C-1FD0,Scorpion One Button Fatality 1
+N,DD80-14A0+DDAA-37A9,Scorpion One Button Fatality 2
+N,B584-146F,Scorpion's "Flame" Fatality Randomly Altered
+N,E127-176E,Scorpion's Trip Is Disabled
+N,406F-470E,Scorpions Spear Dizzy Lasts Forever
+N,DDC5-4D06,Screen Doesn't Darken During Fatalities
+N,DD8C-1761,Shang Tsung Morph Modifier((Use Block) Up, Down, High Punch - Reptile)
+N,DD88-1DA1,Shang Tsung Morph Modifier((Use Block) Up, Up - Scorpion)
+N,DD8B-1DD1,Shang Tsung Morph Modifier(Back, Back, Down, Low Punch - Johnny Cage)
+N,DD86-1F61,Shang Tsung Morph Modifier(Back, Down, Back, High Kick - Kung Lao)
+N,DD86-14A1,Shang Tsung Morph Modifier(Back, Forward, Forward, Block - Liu Kang)
+N,DD8B-1461,Shang Tsung Morph Modifier(Block, Block, Block - Kitana)
+N,DD8C-1FD1,Shang Tsung Morph Modifier(Down, Back, Forward, Low Kick - Rayden)
+N,DD8B-1F01,Shang Tsung Morph Modifier(Down, Down, Low Kick - Baraka)
+N,DD88-14D1,Shang Tsung Morph Modifier(Down, Forward, Back, High Kick - Jax)
+N,DD8C-1401,Shang Tsung Morph Modifier(Forward, Down, Forward, High Punch - Sub-Zero)
+N,DD8B-17A1,Shang Tsung Morph Modifier(Hold High Punch for 2 Seconds and Release - Mileena)
+N,DD8A-3FD0+DD8A-3700+DDAA-37A9+DDCC-37A1+DDCA-3F01,Shang Tsung One Button Fatalities
+N,06E0-4FA4,Shang Tsung's Flaming Skull Attack Does Massive Damage
+N,CBA2-34B0+DDA2-3420+DDA2-37F0,Shao Kahn Character Modifier Acclaim Smash
+N,C588-CDAA+DD88-CF6A,Shao Kahn Mode
+N,DF60-C7AF+CE65-4FDD,Skip Intro Screens
+N,CE65-4FAD+DF69-CD6F+CE69-C7DF,Skip Intro Screens [Rev 1]
+N,6D25-C46C+0325-C4AC,Skip VS Screen
+N,6D25-C4DC+0325-C40C,Skip VS Screen [Rev 1]
+N,FFB4-3FF7,Some Kicks Are Ultra Slow
+N,DF8C-CDDA,Start with 0 Continues
+N,D78C-CDDA,Start with 2 Continues
+N,D58C-CDDA,Start with 6 Continues
+N,DB8C-CDDA,Start with 8 Continues
+N,DDCF-3F05+DDCE-1D65+DDCD-CDD5+DDC4-CDA5+DDAA-37A9,Sub Zero One Button Fatalities
+N,EE67-1467,Uppercuts Take Longer to Direct Opponent
+N,DDAA-44B0,Upside Down Kombat
+N,7E327800,Very Easy Difficulty
+N,E12A-176E,Warps the Opponents
+N,FFC2-1F6A,Win 1 Round to See Ending

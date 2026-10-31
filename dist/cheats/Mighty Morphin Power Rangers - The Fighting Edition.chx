@@ -1,2 +1,29 @@
-N,7E1A2271,Zenergy
-N,7E9A2601,Eenergy
+N,7E1B0007+7E1B020C,1 Button Special 1 P1 (Use Only 1 at a Time)
+N,7E1B0407+7E1B060C,1 Button Special 1 P2 (Use Only 1 at a Time)
+N,7E1B0807+7E1B0A0C,1 Button Special 2 P1 (Use Only 1 at a Time)
+N,7E1B0C07+7E1B0E0C,1 Button Special 2 P2 (Use Only 1 at a Time)
+N,7E1B1007+7E1B120C,1 Button Special 3 P1 (Use Only 1 at a Time)
+N,7E1B1407+7E1B160C,1 Button Special 3 P2 (Use Only 1 at a Time)
+N,7E1B1807+7E1B1A0C,1 Button Special 4 P1 (Use Only 1 at a Time)
+N,7E1B1C07+7E1B1E0C,1 Button Special 4 P2 (Use Only 1 at a Time)
+N,7E1B2007+7E1B220C,1 Button Special 5 P1 [Use Only 1 at a Time]
+N,7E1B2407+7E1B260C,1 Button Special 5 P2 [Use Only 1 at a Time]
+N,7E1B3003+7E1B3218,1 Button Super Move P1 (Use Only 1 at a Time)
+N,7E1B3403+7E1B3618,1 Button Super Move P2 (Use Only 1 at a Time)
+N,7E1A2201,1-Hit Death P1
+N,7E1A2601,1-Hit Death P2
+N,7E1A70FE,Glowing P1
+N,7E1A74FE,Glowing P2
+N,7E158000,Hyper Mode P1
+N,7E158400,Hyper Mode P2
+N,7E1A2270,Infinite Health P1
+N,7E1A2670,Infinite Health P2
+N,7E1A2278,Infinite P1 Health
+N,7E1A2678,Infinite P2 Health
+N,7E06B806+7E06BA00,Infinite Round Time
+N,7E06BA09,Infinite Time
+N,7E108782,P1 Instant Win
+N,7E06A030,P1 Special Maxed
+N,7E108382,P2 Instant Win
+N,7E06A630,P2 Special Maxed
+N,7E06BC01,Timer Stopped

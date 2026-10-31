@@ -1,6 +1,7 @@
-N,7E091CE7,Infinite time
-N,7E091D03,Infinite time
-N,7E093E0F,Max score
-N,7E093F27,Max score
-N,7E094609,Max jokers
-N,7E091565,Level 100
+N,7E0E3E09,Infinite Continues
+N,7E094609,Infinite Jokers
+N,C262-0DD4,Infinite Time
+N,7E091C0F,Infinite Time (Must Turn Off at the End of Each Level to Continue)
+N,7E093E0F+7E093F27,Max Score
+N,7E743B01,Start on Level
+N,DBCC-6F6D,Start with and Always Have 9 Jokers

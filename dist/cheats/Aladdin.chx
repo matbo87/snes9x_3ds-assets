@@ -1,9 +1,61 @@
-N,7E036E01,Always Parachute
-N,7E03640A,Infinite Lives
-N,7E036703,Infinite Health
-N,7E036999,Infinite Apples
-N,7E036B99,Infinite Gems
-N,7E08FB16,Super Jump
-N,7E034704,Invincible
 N,7E096C01,Abu Doesn't Follow You
-N,7E146B80,Abu Eats An Apple
+N,7E146B80,Abu Eats an Apple
+N,7E095101,Abu Has Faster Animation
+N,7E093401,Abu Is Gone
+N,7E090101,Aladdin Has Faster Animation
+N,C267-4D0A,Almost Invincible
+N,7E036E01,Always Have Parachute
+N,4D8B-4DD3,Apple Power-Ups Worth 20 Instead of 10
+N,9D8B-4DD3,Apple Power-Ups Worth 50
+N,BD8B-4DD3,Apple Power-Ups Worth 90
+N,7E035101,Background & Foreground Move Automatically
+N,DDA7-4DD5,Bonus Round Played After Every Level
+N,FA80-44AE,Emeralds Worth 2 Instead of 1
+N,FB80-44AE,Emeralds Worth 3
+N,BDCC-C4D3,Enemies Are Stunned Longer
+N,7E03670A,Full Hearts
+N,7E141F0E,Glide
+N,7E036999,Infinite Apples
+N,7E03F670,Infinite Apples (alt)
+N,C283-37DD,Infinite Continues
+N,A267-4D0A,Infinite Energy
+N,7E036703,Infinite Health
+N,C26F-4DDA,Infinite Health Against Spikes and Lava
+N,C221-4FA5,Infinite Lives
+N,A221-4FA5,Infinite Lives (alt)
+N,C267-476A,Intangible After First Hit
+N,7E03F5FF,Invincibility
+N,DD3A-4D61+D669-4DAA,Invincibility Against Enemies
+N,6D2D-14A0,Invincibility Against Spikes
+N,7E034908,Jump Is Reassigned to Up on the D-Pad
+N,DDB5-3467+DDBA-3FA7,Level Select on Main Menu (R + Direction)
+N,7E036B99,Max Gems
+N,7E03640A,Max Lives
+N,7E08FB16,Moon Jump
+N,F626-4400+F621-1FD1+F62B-CD69,Moon Jump with Moon Gravity Descent
+N,7E037101,No Sound Effects
+N,FD86-4F6E,Only 10 Gems Needed for Health Increase/free Life
+N,4D86-4F6E,Only 20 Gems Needed for Health Increase/free Life
+N,7D86-4F6E,Only 30 Gems Needed for Health Increase/free Life
+N,0D86-4F6E,Only 40 Gems Needed for Health Increase/free Life
+N,9D86-4F6E,Only 50 Gems Needed for Health Increase/free Life
+N,1D86-4F6E,Only 60 Gems Needed for Health Increase/free Life
+N,BD86-4F6E,Only 90 Gems Needed for Health Increase/free Life
+N,A381-4F0E,Rubies Worth 1 Instead of 3
+N,C281-4F0E,Rubies Worth 2
+N,3C6D-1D00+CB6D-1D60+D96D-1DA0,Start Every Life with More Hearts
+N,DFB8-3F07,Start with 1 Continue
+N,DF64-1DD0,Start with 1 Life
+N,D464-14A0,Start with 2 Health
+N,D967-1F60,Start with 5 Apples
+N,D9B8-3F07,Start with 5 Continues
+N,D964-14A0,Start with 5 Health
+N,D964-1DD0,Start with 5 Lives
+N,D564-14A0,Start with 7 Health
+N,DCB8-3F07,Start with 9 Continues
+N,4D67-1F60,Start with 20 Apples
+N,F064-1DD0,Start with 20 Lives
+N,1B29-4DD9+FA29-4D09,Super Jump
+N,F1A6-C70D+F126-440D,Super Jump (alt)
+N,7E034704,Totally Invincible
+N,C989-4469+C980-CDD9+C263-4FAA+C264-3762+C2B7-34D2,Walk Through Walls and Objects

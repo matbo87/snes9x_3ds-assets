@@ -1,5 +1,51 @@
-N,7E15D263,Infinite bullets
-N,7E15E264,Infinite flamethro
-N,7E15DA09,Inf. grenade ammo
-N,7E124264,Infinite life
-N,7E12440A,Invincible
+N,7E0F7404,Activates Infinite Ammo Cheat
+N,7E0F7001,Activates Invincible Cheat
+N,7E0F7202,Activates No Damage Cheat
+N,7E10A440,Always Blue Flame
+N,7E10A420,Always Green Flame
+N,7E10A400,Always Red Flame
+N,7E0F6EFF,Can Finish Stage
+N,6D6F-3764,Easy 1-Controller Debug Mode
+N,7D26-37D4,Faster Fuel Consumption for Flame Thrower
+N,7E10AC00,Game Level
+N,3C22-3D64,Infinite Ammo for Grenade Launcher
+N,3C28-44D4,Infinite Ammo for Pulse Rifle
+N,7E15DC63,Infinite Clips (Grenade Launcher)
+N,7E15D463,Infinite Clips (Pulse Rifle)
+N,7E12425E,Infinite Energy
+N,6D64-1D60,Infinite Energy [All Levels]
+N,7E15E400,Infinite Flame Thrower Ammo
+N,C22A-17D1,Infinite Flamethrower
+N,7E15DA0A,Infinite Grenades
+N,7E124264+7E124864,Infinite Health
+N,7E15D263,Infinite Machine Gun Ammo
+N,8B28-4404,Infinite Machinegun
+N,8B22-3DA4,Infinite Missiles
+N,3C25-3704,Infinite Oil for Flame Thrower
+N,7E10D8FF,Invincibility
+N,D923-3D64,Less Ammo in Grenade Clips
+N,742A-44A4,Less Ammo in Rifle Clips
+N,D76D-1DA0,Less Energy from Medi-Kits
+N,EE6B-CD00,Longer Invulnerability After Being Hit
+N,DD6D-1700,Max Energy from Medi-Kits
+N,7E0FDEFF,Mission 1 Completed
+N,7E0FF0FF,Mission 2 Completed
+N,7E0FF2FF,Mission 3 Completed
+N,7E0FF4FF,Mission 4 Completed
+N,7E0FF6FF,Mission 5 Completed
+N,7E0FF8FF,Mission 6 Completed
+N,7E0FFAFF,Mission 7 Completed
+N,7E0FFCFF,Mission 8 Completed
+N,F023-3D64,More Ammo in Grenade Clips
+N,CD2A-44A4,More Ammo in Rifle Clips
+N,DD64-1D60,Most Attacks Do No Damage [Can Switch on and Off]
+N,EE26-37D4,Slower Fuel Consumption for Flame Thrower
+N,7E10AA00,Sound Level
+N,7E0F2801,Start at Stage
+N,4D3B-4F01,Start with Even More Grenade Clips
+N,4D36-44D1,Start with Even More Rifle Clips
+N,D03B-4F01,Start with Fewer Grenade Clips
+N,D036-44D1,Start with Fewer Rifle Clips
+N,FD3B-4F01,Start with More Grenade Clips
+N,FD36-44D1,Start with More Rifle Clips
+N,D464-1D60,Take Less Damage

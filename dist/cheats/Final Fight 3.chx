@@ -1,21 +1,26 @@
-N,7E051899,Max score player 1
-N,7E051999,Max score player 1
-N,7E051A99,Max score player 1
-N,7E051B99,Max score player 1
-N,7E061899,Max score player 2
-N,7E061999,Max score player 2
-N,7E061A99,Max score player 2
-N,7E061B99,Max score player 2
-N,7E040563,Infinite time
-N,7E051509,Inf.lives player 1
-N,7E061509,Inf.lives player 2
-N,7E052038,Invincib. player 1
-N,7E062038,Invincib. plyaer 2
-N,7E0553FF,Inf.health player1
-N,7E055901,Inf.health player1
-N,7E0653FF,Inf.health player2
-N,7E065901,Inf.health player2
-N,7E054BFF,Super att.player 1
-N,7E064BFF,Super att.player 2
-N,7E051665,Inf.super player 1
-N,7E061665,Inf.super player 2
+N,3CDC-E46F,Always Get Debug Screen
+N,DD12-E46F+DD10-7FD4,Can Always Do Super Moves
+N,7FEC-EDD7,Debug Mode Available
+N,DD1D-7D64+DD11-74A4,Easier Special 2 for Dean
+N,DD17-7D04+DD1A-EF6F,Easier Special 2 for Lucia
+N,DD1C-E7AF+DD1F-74A4,Easier Special Moves
+N,DD13-E4AF+DD19-7F04,Easier Super Moves
+N,106E-5467,Everyone Does Massive Damage
+N,3DA7-E76D+DDA7-E7AD+D5A0-EDDD,Hit Anywhere Both Players
+N,7E055847,Infinite Energy
+N,7E065847,Infinite Energy P2
+N,7E051505,Infinite Lives
+N,7E061505,Infinite Lives P2
+N,7E051663,Infinite Super
+N,7E061663,Infinite Super P2
+N,7E058010,Infinite Throw Time P1
+N,7E068010,Infinite Throw Time P2
+N,C2F9-84DF,Infinite Time
+N,CBB5-5D07+46B5-5D67+DDB5-5DA7+4BB5-5F07,Instant Super Energy
+N,7E052002,Invincibility
+N,7E062002,Invincibility P2
+N,7E050B08,P1 Untouchable
+N,7E060B08,P2 Untouchable
+N,7E218401+7E218501,Stage Select
+N,DBD7-5F0F,Start with 9 Lives P1
+N,DBD9-54AF,Start with 9 Lives P2

@@ -1,11 +1,13 @@
-N,7E015319,Invincibility
-N,7E013301,always shielded
-N,7E01DB63,Unlimited lives
-N,7E01557F,Unlimited credit
-N,7E015696,Unlimited credit
-N,7E015798,Unlimited credit
-N,7E013601,Giant jumps
-N,7E023C00,1 hit kills bosses
-N,7EE4E403,3x weapon
-N,7E034901,Featherweight fall
-N,7E032904,best shop items
+N,40A2-49E8+40A3-4988+6DAD-1988+40AF-1188+C268-3576,Continually Hit Anywhere
+N,7E013301,Have Stars Shield
+N,7E015B18,Infinite Health
+N,7E015B19,Infinite Health (alt)
+N,7E01DB63,Infinite Lives
+N,C268-3576,Invincibility
+N,A284-35EC,Items You Can Afford in the Shops Are Free
+N,7E01557F+7E015798+7E015696,Max Crystals
+N,7E03C7FF+7E03C8E0+7E03C9F5+7E03CA05,Max Score
+N,1DE7-31E8,Shields Last Until at Least End of the World [If You Get Stuck, Switch Off]
+N,DF3C-4073,Start with 2 Lives
+N,D93C-4073,Start with 6 Lives
+N,DB3C-4073,Start with 10 Lives

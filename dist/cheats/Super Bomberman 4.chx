@@ -1,0 +1,90 @@
+N,7E034100,# of Bombs You Can Place
+N,7E153901,1 Hit to Kill Most Bosses
+N,DDD9-7D9D+CBD9-7DFD,Alternate Battle Mode Setups
+N,7F202B0A,Auto Select Secret Stage #11
+N,7F202B0B,Auto Select Secret Stage #12
+N,7E034400,Bomb's Blast Rang(#+2 Spaces)
+N,7E034AFF,Can Move Bombs
+N,AE88-7FA5,Easy Fair Tag Battles
+N,DA07-77BD,Enable Extra Battle Stages
+N,A3E8-7FD0+DFE8-7F00+0DE8-7400+DDEA-7DD0,Hit Anywhere
+N,7E034BFF,Ignore Obstacles
+N,7E1ED204,Infinite 4 Minutes
+N,7E039703,Infinite Insulation(Bomb Blasts Don't Hurt You)
+N,7E1EAC08,Infinite Lives
+N,7E1D2309,Infinite Lives (alt)
+N,7E01A809,Infinite Lives (alt 2)
+N,7E0E1D3A,Infinite Time
+N,7E1ED03C,Infinite Time (alt)
+N,7E170AFD,Invincibility
+N,7E4EBDFF,Lay Up to 255 Bombs at Once
+N,7E17CA10,Max Fire Power
+N,7E1EBA01,Only Need to Defeat One Enemy to Activate Stage Exit
+N,7E034CFF,Set Bomb Walk (P1)
+N,7E044CFF,Set Bomb Walk (P2)
+N,7E054CFF,Set Bomb Walk (P3)
+N,7E064CFF,Set Bomb Walk (P4)
+N,7E074CFF,Set Bomb Walk (Player 5)
+N,7E044BFF,Set Brick Walk (P2)
+N,7E054BFF,Set Brick Walk (P3)
+N,7E064BFF,Set Brick Walk (P4)
+N,7E074BFF,Set Brick Walk (Player 5)
+N,7E044AFF,Set Kick Bomb (P2)
+N,7E054AFF,Set Kick Bomb (P3)
+N,7E064AFF,Set Kick Bomb (P4)
+N,7E074AFF,Set Kick Bomb (Player 5)
+N,7E034409,Set Max. Bomb Power (P1)
+N,7E044409,Set Max. Bomb Power (P2)
+N,7E054409,Set Max. Bomb Power (P3)
+N,7E064409,Set Max. Bomb Power (P4)
+N,7E074409,Set Max. Bomb Power (Player 5)
+N,7E034109,Set Max. Bomb Quantity (P1)
+N,7E044109,Set Max. Bomb Quantity (P2)
+N,7E054109,Set Max. Bomb Quantity (P3)
+N,7E064109,Set Max. Bomb Quantity (P4)
+N,7E074109,Set Max. Bomb Quantity (Player 5)
+N,7E034006,Set Max. Speed (P1)
+N,7E044006,Set Max. Speed (P2)
+N,7E054006,Set Max. Speed (P3)
+N,7E064006,Set Max. Speed (P4)
+N,7E074006,Set Max. Speed (Player 5)
+N,6D01-77BD+FC01-772D,Set P1 - 5 to Bomberman by Default
+N,6D01-77BD+F701-772D+0306-7F2D,Set P1 - 5 to Bomberman by Default and Set P3 and P4 to Opponents in Tag Mode
+N,DF01-74FD+AB01-77BD+AB05-7F9D+AB05-77FD+AB06-7D2D,Set P1 - 5 to Character 2 by Default
+N,D401-74FD+AB01-77BD+AB05-7F9D+AB05-77FD+AB06-7D2D,Set P1 - 5 to Character 3 by Default
+N,DF01-749D+AB01-77BD+AB05-7F9D+AB05-77FD+AB06-7D2D,Set P1 - 5 to Character 4 by Default
+N,DF01-74FD+DF01-749D+AB01-77BD+AB05-7F9D+AB05-77FD,Set P1 - 5 to Character 5 by Default
+N,D401-74FD+DF01-749D+AB01-77BD+AB05-7F9D+AB05-77FD,Set P1 - 5 to Character 6 by Default
+N,7E034DFF,Set Poison Status (P1)
+N,7E044DFF,Set Poison Status (P2)
+N,7E054DFF,Set Poison Status (P3)
+N,7E064DFF,Set Poison Status (P4)
+N,7E074DFF,Set Poison Status (Player 5)
+N,7E0348FF,Set Punch Glove (P1)
+N,7E0448FF,Set Punch Glove (P2)
+N,7E0548FF,Set Punch Glove (P3)
+N,7E0648FF,Set Punch Glove (P4)
+N,7E0748FF,Set Punch Glove (Player 5)
+N,7E1EE8FF,Set Score to 700,000 (P1)
+N,7E1EECFF,Set Score to 700,000 (P2)
+N,7E0349FF,Set Throw Glove (P1)
+N,7E0449FF,Set Throw Glove (P2)
+N,7E0549FF,Set Throw Glove (P3)
+N,7E0649FF,Set Throw Glove (P4)
+N,7E0749FF,Set Throw Glove (Player 5)
+N,7E0347FF,Set Vest (Invincibility) (P1)
+N,7E0447FF,Set Vest (Invincibility) (P2)
+N,7E0547FF,Set Vest (Invincibility) (P3)
+N,7E0647FF,Set Vest (Invincibility) (P4)
+N,7E0747FF,Set Vest (Invincibility) (Player 5)
+N,D167-ED65,Start on Level 1-7
+N,DC67-ED65,Start on Level 2-3
+N,DE67-ED65,Start on Level 2-8 [Boss]
+N,F767-ED65,Start on Level 3-4
+N,F567-ED65,Start on Level 3-8 [Boss]
+N,F867-ED65,Start on Level 4-4
+N,FE67-ED65,Start on Level 4-8 [Boss]
+N,4D67-ED65,Start on Level 5-1
+N,CBF4-8F0B+B9F4-840B,Walk Through Breakable Blocks
+N,7E179A05,When You Walk, You Look as If You're Riding an Invisible Louie
+N,7E034000,Your Speed

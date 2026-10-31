@@ -1,9 +1,42 @@
-N,7E010005,invincible
-N,7E01869A,inf time
-N,7E018709,inf time
-N,7E013100,normal Shot
-N,7E013102,double Shot
-N,7E013104,Grappling shot
-N,7E013106,gun shot
-N,7E013402,shield always on
-N,7E016709,1 food for bonus
+N,DD61-0D0A,1 Credit
+N,7E016709,1 Food for Bonus
+N,DF61-0D0A,2 Credits
+N,D461-0D0A,3 Credits
+N,D761-0D0A,4 Credits
+N,D961-0D0A,6 Credits
+N,D561-0D0A,8 Credits
+N,7E00B300,Automatically Clear Stages
+N,DD83-0704,Clock Is Frozen [No Time Limit]
+N,FB83-0D64,Clock Runs Faster
+N,A683-0D64,Clock Runs Much Slower
+N,1083-0D64,Clock Runs Slower
+N,D184-ADA8,Double Harpoon Pick-Up Gives You Machine Gun
+N,7E013102,Double Shot
+N,D42B-A7D0,Extra Credit After 2 Food Items Instead of 10
+N,D02B-A7D0,Extra Credit After 4 Food Items
+N,D12B-A7D0,Extra Credit After 6 Food Items
+N,D62B-A7D0,Extra Credit After 8 Food Items
+N,3C2B-A460,Food Items Never Earn Extra Credit
+N,7E013104,Grappling Shot
+N,7E013106,Gun Shot
+N,C9B9-6D04,Infinite Credits
+N,DDB2-07A4,Infinite Lives
+N,7E01869A+7E018709,Infinite Time
+N,7E01869A,Infinite Time (alt)
+N,7E018709,Infinite Time (alt 2)
+N,7E010005,Invincibility
+N,EE61-0D0A,No Credits
+N,7E013100,Normal Shot
+N,D780-DDD4+D781-DF04,Panic Mode Has 2 Levels Instead of 99
+N,D180-DDD4+D181-DF04,Panic Mode Has 5 Levels
+N,D880-DDD4+D881-DF04,Panic Mode Has 10 Levels
+N,F980-DDD4+F981-DF04,Panic Mode Has 20 Levels
+N,C96E-6FD6,Retain Weapon After Dying or Advancing Through Stages
+N,7E013402,Shield Always on
+N,DD61-0DDA,Start with 1 Life
+N,DF61-0DDA,Start with 2 Lives
+N,D461-0DDA,Start with 3 Lives
+N,D061-0DDA,Start with 5 Lives
+N,D961-0DDA,Start with 6 Lives
+N,D561-0DDA,Start with 8 Lives
+N,DB61-0DDA,Start with 10 Lives

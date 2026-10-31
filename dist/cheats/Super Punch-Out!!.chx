@@ -1,7 +1,59 @@
-N,7E089F50,Energy
-N,00C39401,Stay down
-N,00EF21A9,Ko 1/3
-N,00EF221B,Ko 2/3
-N,00EF23EA,Ko 3/3
-N,00C494AD,Special moves no
-N,0096A601,No energy
+N,BAEC-D46D,1-Hit Knocks Down Opponent
+N,7E0B9863+7E0B9963+7E0B9A63+7E0B9B63+7E0B9C63+7E0B9D63,99 of All Punches on Status Screen After Fight
+N,7E07E401+7E0C1403+7E0C2100+7E0C2200+7E0C2300,All Circuits Open
+N,7E0B4709,Always Get Max Bonus Points
+N,CB34-AD07+F834-AD67+3C34-DDE0+ABA7-D77C,Always Have K.O. Punch
+N,CB34-AD07+F834-AD67+3C34-ADA7,Always Have K.O. Punch After First Hit
+N,1CAD-D76F,Auto Block
+N,D9AD-DDA4,Both Fighters Gain Max Energy After Making a Hit
+N,49BC-6F6F,Both Players Start with Half Energy
+N,DFBC-6F6F,Both Players Start with Very Little Energy
+N,CB6A-AD09+6E6A-AD69+696A-ADA9+4C6A-AFD9,Counterpunch
+N,7E096041+7E087600,CPU Can't Hurt P1 (Fixed)
+N,7E0868A0+7E0869A0,CPU Hit Anywhere (Fixed)
+N,7E087600,Easy Kill/No Wimps Code
+N,CB84-DDA7+DD84-DFD7,Fix Game-Genied World Circuit
+N,7E0B32FF+7E0B33FF+7E0B34FF+7E0B35FF,High Score (In Fights)
+N,6DAA-076D,Hit Anywhere
+N,7E0868A0+7E0869A0+7E086AA0+7E086BA0,Hit Computer Anywhere (With Any Punch, Also Can't Be Blocked)
+N,C2A4-DFD4,Infinite Energy from Most Punches
+N,7E060605,Infinite Lives
+N,C9E3-64DD,Infinite Match Time
+N,C9E3-64DD+C9E3-6DDD,Infinite Match Time (alt)
+N,C2B8-64A5,Infinite Rematches
+N,7E0B2600+7E0B2700+7E0B2800+7E0B2900,Infinite Time
+N,7E0B2703,Infinite Time for Each Round
+N,7E099D03,Instant TKO When Opponent Is Knocked Down
+N,7E088F50+7E089F50,Invincibility
+N,DDAE-A70D,Invincibility Against Normal Attacks
+N,7E0B4700+7E0B4800+7E0B4902,Max Bonus
+N,7E089900+7E089A00+7E089B00+7E089C1B,Max Power (Always Do Super and Rapid Punches)
+N,7E0609FF,Max. Wins (On Personal Record Screen)
+N,54BE-EDB2,Mike Tyson Code
+N,DFAB-AFDD,Most Opponents Stay Down for the Count
+N,DFAB-DDDD+AF6D-D190,Most Opponents Stay Down for the Count (alt)
+N,7E089D00,Never Get TKO'd
+N,7E060A00+7E060B00,No Losses (On Personal Record Screen)
+N,DDB7-0704,No Rematches
+N,6D61-DFD0,Opponent Does Almost Nothing
+N,7E098F00+7E099F00,Opponent Gets Knocked Down with One Hit
+N,7E0B36FF,Opponents Stay Down Longer
+N,7E09388F,P1 All Hits Cause Dizziness
+N,7E092BB0,P1 All Hits Cause Super Dizziness
+N,7E083200,P1 Gloves Always Fine - Left Glove
+N,7E083300,P1 Gloves Always Fine - Right Glove
+N,7E087803+7E087C0B,P1 Glowing Glove (Left Punch)
+N,7E096AA0+7E096BA0,P1 Hit Anywhere (Fixed)
+N,7E089C1B,Power Bar Always at Max
+N,7E090101,Quick Attacks CPU
+N,7E080101,Quick Attacks P1
+N,C2AB-DFDF,Some Special Attacks Don't Hurt as Much
+N,DB8A-D4A1+D48A-D7D1+3C8A-D701,Start on World Circuit
+N,DFB8-D4A1+D48A-D7D1+3C8A-D701,Start on World Circuit (alt)
+N,D1B7-0704,Start with 5 Rematches
+N,D1B7-DDDD+07A4-D190,Start with 5 Rematches (alt)
+N,DBB7-0704,Start with 8 Rematches
+N,DBB7-DDDD+07A4-D190,Start with 8 Rematches (alt)
+N,62BC-670F+C234-AFD7,Super Punch Meter Always Full
+N,7E087801,Super-Punch Anytime
+N,7E086800+7E086900+7E086A00+7E086B00,Untouchable (From Everything)

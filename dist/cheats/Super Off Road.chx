@@ -1,2 +1,46 @@
-N,7E061B50,Nitro
-N,7E056320,Money
+N,7E04E601,Always 1st Lap P2
+N,7E04E701,Always 1st Lap P3
+N,7E04E801,Always 1st Lap P4
+N,7E04E504,Always Last Lap P1
+N,7E04D40E,Bad Driver Gray
+N,7E05017E,Driver Super Fast Red
+N,7E056009+7E056109+7E056209+7E056309+7E056409+7E056509,Infinite Cash (P1) (99999900)
+N,7E056609+7E056709+7E056809+7E056909+7E056A09+7E056B09,Infinite Cash (P2) (99999900)
+N,2BCA-6707,Infinite Cash [P1]
+N,2B84-DDDD,Infinite Cash [P2]
+N,D4B7-07AF+22B0-0FDF,Infinite Nitros
+N,7E061D63,Infinite Nitros (Computer 3)
+N,7E061E63,Infinite Nitros (Computer 4)
+N,7E061B63,Infinite Nitros (P1)
+N,7E061C63,Infinite Nitros (P2)
+N,7E061B09,Infinite Turbo Red
+N,7E04E500,On Certain Lap Red
+N,7E056109+7E056209+7E056309,P1 $9,990,000
+N,7E061F06,P1 Max Accel.
+N,7E061B06,P1 Max Nitros
+N,7E062B06,P1 Max Shocks
+N,7E062306,P1 Max Tires
+N,7E062706,P1 Max Topspeed
+N,7E04EEFF,Remove Computer 3
+N,7E04F0FF,Remove Computer 4
+N,7E04EAFF,Remove P1
+N,7E04ECFF,Remove P2
+N,7E04E709,Set Laps to 9 (Computer 3)
+N,7E04E809,Set Laps to 9 (Computer 4)
+N,7E04E509,Set Laps to 9 (P1)
+N,7E04E609,Set Laps to 9 (P2)
+N,7E062106,Set Max. Accel (Computer 3)
+N,7E062206,Set Max. Accel (Computer 4)
+N,7E062006,Set Max. Accel (P2)
+N,7E062D06,Set Max. Shocks (Computer 3)
+N,7E062E06,Set Max. Shocks (Computer 4)
+N,7E062C06,Set Max. Shocks (P2)
+N,7E062506,Set Max. Tires (Computer 3)
+N,7E062606,Set Max. Tires (Computer 4)
+N,7E062406,Set Max. Tires (P2)
+N,7E062906,Set Max. Top Speed (Computer 3)
+N,7E062A06,Set Max. Top Speed (Computer 4)
+N,7E062806,Set Max. Top Speed (P2)
+N,7E06C400+7E06C500,Set Time to Zero
+N,D987-6D0F,Start with $500,000
+N,DB87-6D0F,Start with $900,000

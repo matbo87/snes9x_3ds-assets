@@ -1,6 +1,35 @@
-N,7ED6C903,Unl. continues
-N,7EA4240A,Unl. continue time
-N,7ED6EF03,Unl. lives
-N,7ED6F105,Invincibility
-N,7ED6F701,Always have t.whip
-N,7EA40E09,Unlimited time
+N,DF8B-C030,1 Life
+N,D18B-C030,6 Lives
+N,DB8B-C030,9 Lives
+N,7E16ED05,Dinosaur Refills to Full Energy When Enabled
+N,7E176305,Human Player Refills to Full Energy When Enabled
+N,C2C5-4038,Infinite Dweebs When Picked Up
+N,C2C1-301B,Infinite Elsa When Picked Up
+N,C2B2-C54B,Infinite Energy
+N,C265-41CB,Infinite Lives
+N,C2C6-C148,Infinite Vorb When Picked Up
+N,C2C1-194C,Infinite Woog When Picked Up
+N,DB6D-103C,Less Grain to Get for Stomp
+N,D76D-111C,Less Grain to Get for Tail Swipe
+N,4EB1-C14C,Mega Jump
+N,7E0DF063,Set the Time to 63 Seconds While the Action Replay Is Enabled
+N,CB85-1530+DB86-1040+DD86-1010,Start on 'Balloon Blow-Out'
+N,CB85-1530+D886-1040+DD86-1010,Start on 'Central Park - Zone 1'
+N,CB85-1530+DA86-1040+DD86-1010,Start on 'Central Park - Zone 2'
+N,CB85-1530+FF86-1040+DD86-1010,Start on 'Circus - Zone 1'
+N,CB85-1530+F486-1040+DD86-1010,Start on 'Circus - Zone 2'
+N,CB85-1530+D186-1040+DD86-1010,Start on 'Construction in the City'
+N,CB85-1530+D086-1040+DD86-1010,Start on 'Crazy Crane'
+N,CB85-1530+F986-1040+DD86-1010,Start on 'Empire State Building'
+N,CB85-1530+F786-1040+DD86-1010,Start on 'Jack in the Box'
+N,CB85-1530+D486-1040+DD86-1010,Start on 'Manhattan - Zone 2'
+N,CB85-1530+FD86-1040+DD86-1010,Start on 'Outside the Circus'
+N,CB85-1530+D386-1040+DD86-1010,Start on 'Prehistoric Panic'
+N,CB85-1530+F186-1040+DD86-1010,Start on 'Spaceship - Zone 1'
+N,CB85-1530+F586-1040+DD86-1010,Start on 'Spaceship - Zone 2'
+N,CB85-1530+D586-1040+DD86-1010,Start on 'Thanksgiving - Zone 1'
+N,CB85-1530+D686-1040+DD86-1010,Start on 'Thanksgiving - Zone 2'
+N,CB85-1530+D786-1040+DD86-1010,Start on 'the Subway'
+N,CB85-1530+D286-1040+DD86-1010,Start on 'the Zoo'
+N,D48B-C110+D466-49CC,Start with Less Energy
+N,FEB1-C14C,Super Jump

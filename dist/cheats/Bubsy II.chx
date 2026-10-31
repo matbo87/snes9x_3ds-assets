@@ -1,11 +1,26 @@
-N,7E34B063,Max lives
-N,7E34B27F,Max score
-N,7E34B396,Max score
-N,7E34B498,Max score
-N,7E349A70,Infinite time
-N,7E349B17,Infinite time
-N,7E34ACE7,Max marbles
-N,7E34AD03,Max marbles
-N,7E117FF9,Float
-N,7E2CA839,Invincibility
-N,7E1188FF,Infinite health
+N,7E342209,9 Lives
+N,7E34ACE7+7E34AD03,999 Marbles
+N,7E349A84,Freeze Timer
+N,C247-5465,Infinite Ammo for Nerf Gun
+N,7E34A463,Infinite Diving Suits
+N,7E34A263,Infinite Enemies to Marbles
+N,8FD5-EDD4,Infinite Energy
+N,7E34A063,Infinite Gun Shots
+N,7E118804,Infinite Health
+N,C2D8-7DAF,Infinite Lives
+N,C271-7DD0,Infinite Smart Bombs
+N,C217-8DD7,Infinite Time in Most Main Levels (Only Works in the "Play for Points" Mode)
+N,C21F-87A7,Infinite Time in Most Main Levels (Only Works in the "Play for Time" Mode)
+N,C217-8DD7+C21F-87A7,Infinite Time in Most Main Levels [Only Works in the "Play for Points" Mode]
+N,C25C-740D,Infinite Time in Some Bonus Levels
+N,C2DE-54D0,Infinite Warp Holes
+N,62E5-5F0F,Invincibility
+N,DDD2-E709+DDDA-8F01,Moon Jump
+N,2542-D706,Note
+N,DB8A-5DA4,Start with 9 Diving Suits
+N,DB8C-5704,Start with 9 Lives [Only in "Grand Tour" Mode]
+N,DB82-5404,Start with 9 Smart Bombs [Instead of 1]
+N,DB8A-5764,Start with 9 Warp Holes
+N,F08C-5704,Start with 20 Lives [Only in "Grand Tour" Mode]
+N,FB88-54D4,Start with 25 Nerf Gun Bullets [Instead of 1]
+N,7E2CA832,Walk Through Enemies

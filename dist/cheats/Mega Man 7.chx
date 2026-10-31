@@ -1,1 +1,110 @@
-N,7E0C2E1C,vincible
+N,7E013F0F,Access Versus Mode from Title Screen
+N,7E00E004,Always Clear Stage
+N,CBD3-E709+DDD3-E769+3CD3-E7A9+6DD2-EDA9,Always Drop Item Modifier
+N,DD7E-57A0,Always Have Beat (Beat Will Always Rescue You from Pits)
+N,7E0BC723,Always Shoot Charged Shots
+N,EE40-E405,Always Shoot Charged Wild Coils
+N,4340-E405,Always Shoot Danger Wrap Bombs
+N,4040-E405,Always Shoot Freeze Cracker
+N,5240-E405,Always Shoot Fully Charged Mega Buster Blasts
+N,4440-E405,Always Shoot Nearly Charged Shots
+N,1140-E405,Always Shoot Noise Crush
+N,4140-E405,Always Shoot Scorch Wheel
+N,7E1F2A00,Always Shoot Shots
+N,BA40-E405,Always Shoot Slash Claw
+N,8940-E405,Always Shoot Thunder Bolt
+N,E740-E405,Always Shoot Wild Coil
+N,7E0C5FFF,Auto Fire Mega Buster
+N,9CDC-5D62,Blink 1.5x Longer After Being Hit
+N,56DC-5D62,Blink 2x Longer After Being Hit
+N,80DC-5D62,Blink 3x Longer After Being Hit
+N,EDDC-5D62,Blink 4x Longer After Being Hit
+N,C22C-E5CF,Bolts Don't Decrease from Buying
+N,7E0BC900,Can Fire More Charged Shots
+N,7E0BC800,Can Fire More Weak Shots
+N,D911-5FA4,Continue a Password Game with 5 Lives
+N,DB11-5FA4,Continue a Password Game with 9 Lives
+N,D9D4-8767,Continue with 5 Lives
+N,DBD4-8767,Continue with 9 Lives
+N,7E0BB001,Enable Alternate Music in Shade Man's Stage
+N,5E94-8D6B,Get 1 Bolt to Get 999
+N,1D79-8700,Get Hit Once for Invincibility
+N,C440-E7A5,Get Revenge on Rush Code
+N,7E0BA4FF,Have Exit
+N,7E0B9DFF,Have Infinite Beat [Non Usable, in Rush Suit Spot]
+N,7E0B91FF,Have Infinite Danger Wrap
+N,7E0B85FF,Have Infinite Freeze Cracker
+N,7E0B89FF,Have Infinite Junk Shield
+N,7E0B8FFF,Have Infinite Noise Crush
+N,7E0B9BFF,Have Infinite Rush Coil
+N,7E0B99FF,Have Infinite Rush Jet
+N,7E0B97FF,Have Infinite Rush Search
+N,7E0B8BFF,Have Infinite Scorch Wheel
+N,7E0B8DFF,Have Infinite Slash Claw
+N,7E0B87FF,Have Infinite Thunder Bolt
+N,7E0B93FF,Have Infinite Wild Coil
+N,7E0B95FF,Have Proto Shield
+N,7E0B9FFF,Have S.Adapt / Rush Suit
+N,7E0BA44F,Have Super Fist Upgrade for Rush Suit
+N,6304-8FA7,Have/Infinite E Tanks
+N,6307-84A7,Have/Infinite S Tanks
+N,6307-8D07,Have/Infinite W Tanks
+N,6DD8-7DD2,Hit Anywhere
+N,7E0BA305,Infinite 5 Beats
+N,7E0B8409,Infinite 9 Lives
+N,7E0BA6E7+7E0BA703,Infinite 999 Bolts
+N,7E0BA384,Infinite Beat Whistles
+N,7E0BA0FF,Infinite E Cans
+N,C209-7DA4,Infinite E-Tanks
+N,7E0C2E01,Infinite Energy
+N,7E0BA004,Infinite Energy Cans
+N,C2DB-5F62,Infinite Health
+N,7E0B8105,Infinite Lives
+N,7E0BA2FF,Infinite S Cans
+N,C20E-7D04,Infinite S-Tanks
+N,C24A-EDD5+C200-E4A5,Infinite Shots
+N,7E0C61FF,Infinite Slide Time
+N,7E0BA201,Infinite Super Can
+N,7E0BA1FF,Infinite W Cans
+N,C20B-7DD4,Infinite W-Tanks
+N,7E0BA104,Infinite Weapon Cans
+N,FE42-E405,Infinite Weapon Energy
+N,697B-5F60,Invincibility Against Spikes
+N,C990-EFAB,Item Pickups Don't Disappear Until Picked Up or Left Behind
+N,1DFC-E400+5EFC-E460+C951-EDD5+0951-ED05+DC51-ED65+BD51-EDA5+D751-EFD5+4D51-EF05+8551-EF65+7451-EFA5+4D51-E4D5+BC51-E405+FF51-E465+1D51-E4A5,Jump in Midair
+N,DDDF-7769+4DDD-8DA9+D1DD-8FD9,Jump/Slide Through Walls
+N,FA92-7DDB,Large Energy Pellets Fully Restore Health
+N,DA92-7DDB,Large Energy Pellets Restore 1.5x More Health
+N,FD92-7DDB,Large Energy Pellets Restore 2x More Health
+N,FA99-5F0B,Large Weapon Capsules Fully Restore Weapon Energy
+N,DA99-5F0B,Large Weapon Capsules Restore 1.5x More Weapon Energy
+N,F099-5F0B,Large Weapon Capsules Restore 2.5x More Weapon Energy
+N,FD99-5F0B,Large Weapon Capsules Restore 2x More Weapon Energy
+N,60D3-7DA5,Mega Jump /Slow Decent
+N,7E0C1AF4,Moon Jump
+N,D9DB-5DA2,No Damage from Enemies
+N,C2DE-8D03,No Damage from Shade's Man Energy Drain
+N,40DE-7FD2,One Hit Kill
+N,C971-84A0+6976-57D0,Perfect Invincibility
+N,6D79-84A0,Retain Invincibility
+N,6DDA-7DAD+DDD6-ED64,Skip Intro Screens
+N,C2D4-7FD7,Skips Beginning Scene with Robo and Roll on New Game
+N,FA9A-746B,Small Energy Pellets Fully Restore Health
+N,D09A-746B,Small Energy Pellets Restore 2x More Health
+N,D69A-746B,Small Energy Pellets Restore 4x More Health
+N,FD9A-746B,Small Energy Pellets Restore 8x More Health
+N,FA90-570B,Small Weapon Capsules Fully Restore Weapon Energy
+N,D090-570B,Small Weapon Capsules Restore 2x More Weapon Energy
+N,D690-570B,Small Weapon Capsules Restore 4x More Weapon Energy
+N,FD90-570B,Small Weapon Capsules Restore 8x More Weapon Energy
+N,C96A-84A7,Start New Game with All Weapons, Rush and Protomans Shield
+N,D9DE-EDA4,Start with 5 Lives
+N,DBDE-EDA4,Start with 9 Lives
+N,7E0C1C10,Super Jump
+N,3BDB-5DD2+D4DB-5D02,Take Less Damage
+N,3BDB-5DD2+DFDB-5D02,Take Much Less Damage
+N,7E0C2F03,Untouchable
+N,7E0C2502,Walk on Air!
+N,C9DC-8F69+1942-EDD1,Walk Through Walls
+N,1140-E4D5,Weapon Changes as You Fire It
+N,EE02-E465,White Shots/Special Weapons

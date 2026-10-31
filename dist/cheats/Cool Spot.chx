@@ -1,6 +1,27 @@
-N,7E00D264,Cool % alw. = 100
-N,7E00D409,Unlimited lives
-N,7E00D007,Invincibility
-N,7E00CE09,Unlimited time
-N,7E09B001,Zero gravity
-N,7E00D606,Have the "uncola"
+N,7A8C-0D05,1 Minute Picked Up
+N,D98C-0D05,5 Seconds Picked Up
+N,FD89-07D5,16% Picked Up from '7up'
+N,7E00D264,100% Cool
+N,EE89-DFA9,After First Hit You Become Invincible
+N,DD26-D4D9,Be Able to Free Fellow Spot Right Away
+N,7E00FCE6,Freeze Timer
+N,7E0A363A,Ghost Cool Spot
+N,D928-6404,Go to Level Select Screen on Start of Game
+N,7E00D299,Have Lots of Cool
+N,7E07F604,Hyper Cool Spot
+N,7E07F804,Hyper Cool Spot [On Screen]
+N,7E00D007,Infinite Health
+N,7E00D409,Infinite Lives
+N,7E00FD40,Infinite Lives (alt)
+N,7E00CE63,Infinite Time
+N,7E00FCE5,Infinite Time (alt)
+N,7E00FD00,Invincibility
+N,DDBC-6DA4+DDBC-67D4+DDBB-6764,Jump in Midair
+N,FE89-DF69,Less Invincibility Time
+N,7E07E400,Moon Jump
+N,EE89-DF69,More Invincibility Time
+N,7E0A8501,No Title at Title Screen
+N,7E1DF200,Rapid Fire
+N,DF28-D404,Start with 1 Life
+N,D128-D404,Start with 6 Lives
+N,DB28-D404,Start with 9 Lives

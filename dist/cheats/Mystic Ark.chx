@@ -1,57 +1,28 @@
-N,7EB0040F,999 HP For Hero (1/2)
-N,7EB00527,999 HP For Hero (2/2)
-N,7EB008E7,999 MP For Hero (1/2)
-N,7EB00903,999 MP For Hero (2/2)
-N,7EB120FF,Have Enough Gold (1/2)
-N,7EB121FF,Have Enough Gold (2/2)
-N,7E0551FF,Quick Exp Gain (1/2)
-N,7E0552FF,Quick Exp Gain (2/2)
-N,7EB00CE7,Power (1/2)
-N,7EB00D03,Power (2/2)
-N,7EB00EE7,Guard (1/2)
-N,7EB00F03,Guard (2/2)
-N,7EB010E7,Speed (1/2)
-N,7EB01103,Speed (2/2)
-N,7EB012E7,Magic (1/2)
-N,7EB01303,Magic (2/2)
-N,DBC5-EFD7,Max Level After 2nd Battle
+N,7EB0040F+7EB00527,999 HP for Hero
+N,7EB008E7+7EB00903,999 MP for Hero
+N,7EB00EE7+7EB00F03,Guard
+N,7EB120FF+7EB121FF,Have Enough Gold
+N,6D69-8F0B,Infinite Candies on Pickup
+N,7E0BA000+7E0BA200+7E0BA400,Items/weapon Slots
+N,7EB62400+7EB62500+7EB6F400+7EB6F500+7EB6F600+7EB7C400+7EB7C500+7EB89400+7EB89500+7EB96400+7EB96500,Kill All Monsters in One Hit
+N,7EB012E7+7EB01303,Magic
+N,DBC5-EFD7,Max. Level After 2nd Battle
+N,DD30-EFDD,Monster Figurine Attack Never Misses Due to HP/Level Differences
+N,DD39-EDDD,Monster Figurine Attack Never Misses Due to Pure Chance
+N,CB1B-54D8+5E1B-5408+181B-54A8+10D1-5F20,Monster Figurines Always Get Max Possible Stats When Caught
+N,6D33-8DAD+6D3D-EFDD,Monster Figurines Can Be Collected from All Monsters
+N,5049-5DB7,No Horizontal Automatic Scrolling
 N,18D3-74F4,No Random Battles
-N,D895-8FAC,Sell An Item For 99999999 Gold
-N,D89E-846C,1 Arena Btl = Max Platinum
-N,6D69-8F0B,Infinite Candies On Pickup
-N,D119-8F21,Potion = 999 Attribute (1/4)
-N,CB19-8421,Potion = 999 Attribute (2/4)
-N,3519-87F1,Potion = 999 Attribute (3/4)
-N,D719-8791,Potion = 999 Attribute (4/4)
-N,DD30-EFDD,Mon. Fig. Atk Hits (Lev Diff)
-N,DD39-EDDD,Mon. Fig. Atk Hits (Chance)
-N,6D33-8DAD,Mon. Fig. From All Mon. (1/2)
-N,6D3D-EFDD,Mon. Fig. From All Mon. (2/2)
-N,CB1B-54D8,Mon. Fig. Always Maxed (1/4)
-N,5E1B-5408,Mon. Fig. Always Maxed (2/4)
-N,181B-54A8,Mon. Fig. Always Maxed (3/4)
-N,10D1-5F20,Mon. Fig. Always Maxed (4/4)
-N,6DFF-840B,Always Win Arena Monster Btl
-N,6DFF-840B,Inst. Win Arena Mon. Btl (1/2)
-N,10F0-ED91,Inst. Win Arena Mon. Btl (2/2)
-N,CB79-54F1,Crystal = Debug Crystal (1/4)
-N,6579-5421,Crystal = Debug Crystal (2/4)
-N,FA79-57F1,Crystal = Debug Crystal (3/4)
-N,F179-5491,Crystal = Debug Crystal (4/4)
-N,CB79-54F1,Debug Crystal = Crystal (1/3)
-N,6579-5421,Debug Crystal = Crystal (2/3)
-N,FA79-57F1,Debug Crystal = Crystal (3/3)
-N,5049-5DB7,No Horizontal Auto Scroll
-N,5049-5427,No Vertical Auto Scroll
-N,C2D1-5497,No Random Battles
-N,7EB62400,1 Hit Kills (1/11)
-N,7EB62500,1 Hit Kills (2/11)
-N,7EB6F400,1 Hit Kills (3/11)
-N,7EB6F500,1 Hit Kills (4/11)
-N,7EB6F600,1 Hit Kills (5/11)
-N,7EB7C400,1 Hit Kills (6/11)
-N,7EB7C500,1 Hit Kills (7/11)
-N,7EB89400,1 Hit Kills (8/11)
-N,7EB89500,1 Hit Kills (9/11)
-N,7EB96400,1 Hit Kills (10/11)
-N,7EB96500,1 Hit Kills (11/11)
+N,C2D1-5497,No Random Battles (alt)
+N,5049-5427,No Vertical Automatic Scrolling
+N,D119-8F21+CB19-8421+3519-87F1+D719-8791,Potion = 999 (X) Attribute
+N,7EB00CE7+7EB00D03,Power
+N,7E0551FF+7E0552FF,Quick Gain Exp
+N,D895-8FAC,Sell an Item for 99999999 Gold
+N,7EB010E7+7EB01103,Speed
+N,7E0BA101+7E0BA301+7E0BA501,Type of Item
+N,CB79-54F1+6579-5421+FA79-57F1+F179-5491,Use Crystal to Get Debug Crystal
+N,CB79-54F1+6579-5421+FA79-57F1,Use Debug Crystal to Get Crystal
+N,D89E-846C,Win 1 Arena Monster Battle for 99999999 Platinum
+N,6DFF-840B,Win Arena Monster Battles Every Time
+N,6DFF-840B+10F0-ED91,Win Arena Monster Battles Instantly

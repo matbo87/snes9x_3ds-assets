@@ -1,32 +1,33 @@
-N,7E867809,Infinite Lives
-N,7E083646,Invincible
-N,7E083CFF,Spinning Shields
-N,7E08223F,Always Have Limbs (1/2)
-N,7E0A8600,Always Have Limbs (2/2)
-N,7E080FFB,Super Jump (1/2)
-N,7E0A8600,Super Jump (2/2)
-N,7E090800,No Enemy Health
-N,7E07F6FF,Presents Last Forever
-N,7E0EB402,Instant Flag (1/2)
-N,7E0EB65B,Instant Flag (2/2)
-N,7E081E07,Always Space Ship
+N,7E076809,9x Lives
+N,7E076C04,All Plok Letters
+N,7E08223F+7E0A8600,Always Have Limbs
+N,7E081E00,Always Have Selected 'Forever' Present
+N,7E07F400,Always Have Selected Normal Present
 N,7E081E05,Always Helecopter
-N,7E081E00,Back To Normal
-N,7E081E0?,Always Have Normal Present
+N,7E081E07,Always Space Ship
+N,7E094000+7E094400+7E094800,Bosses No Recovery Time
+N,7E08F2CF,Every Shell Gives Bonus Plok
+N,7E069209+7E069309+7E069409+7E069509+7E069609+7E069709,Have Max Score
+N,DD6D-14DB,Illegal Game Configuration Message
 N,7E077209,Infinite 9 Continues
-N,7E069209,Have Maximum Score (1/6)
-N,7E069309,Have Maximum Score (2/6)
-N,7E069409,Have Maximum Score (3/6)
-N,7E069509,Have Maximum Score (4/6)
-N,7E069609,Have Maximum Score (5/6)
-N,7E069709,Have Maximum Score (6/6)
-N,C26D-3D0D,Invincibility
-N,F482-CDDD,Plok Floats In The Air
-N,F468-CDDD,Plok Can Multi-Jump (1/2)
-N,F482-CDDD,Plok Can Multi-Jump (2/2)
-N,F48C-CFDD,Weird Jump
-N,23CC-CDDD,Enemies And Limbs Are Invisible
-N,C288-3D6D,Plok Doesn't Bounce 
+N,7E067809,Infinite 9 Lives
+N,7E0806A0,Infinite Health
+N,7E867809,Infinite Lives
+N,7E0EB402+7E0EB65A,Instant Flag
+N,7E0EB402+7E0EB65B,Instant Flag (alt)
+N,7E083646,Invincibility
+N,66CC-3F0C,Logs Roll in the Opposite Direction
+N,C386-C7DF+DD86-C70F+FD86-C76F,Moon Jump - Normal Jump
+N,C282-CD0F+DD82-CD6F+FD82-CDAF,Moon Jump - Spin Jump
+N,7E0099B8,Mustache
+N,7E090800,No Enemy Health
 N,66CC-3D0C,No Logs
-N,66CC-3F0C,Logs Roll Opposite Direction
+N,7E07F620,Normal Presents Last Forever
+N,F468-CDDD+F482-CDDD,Plok Can Multi-Jump
+N,F482-CDDD,Plok Floats and Can Be Moved (Turn Off to Drop)
+N,7E07F6FF,Presents Last Forever
 N,66CC-3FDC,Psycho Logs
+N,7E083CFF,Spinning Shield
+N,7E080FFB,Super Jump
+N,7E080FFB+7E0A8600,Super Jump (alt)
+N,F48C-CFDD,Weird Jump (You Jump as High as the Spin Jump)

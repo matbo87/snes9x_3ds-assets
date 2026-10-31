@@ -1,3 +1,194 @@
-N,CB98-57DD+8D98-570D+6298-576D+7F98-57AD+D99A-5DDD,Player 1 Infinite Health
-N,06F8-E7AF,Allows You To Select Up To 40 Stars Instead Of 3 For Turbo Mode
-N,EE03-5D6D,Very Slow Timer countdown
+N,7E18CB00,1 Match to See Easy Ending (Both Players)
+N,7E18CA01+7E18CB01,1 Match to See Ending (Both Players)
+N,7E18CB1E,1 Match to See Hard Ending (Both Players)
+N,7E18CB01,1 Match to See Normal Ending (Both Players)
+N,7E192901,1 Second Left
+N,DD10-7707,1st Normal Hit Wins [Except Throws or Grabs]
+N,4625-8D6D,Akuma Mode
+N,7E078A22+7E078C22,All P1 Hits/Projectiles Burn (Blue)
+N,7E078A2A+7E078C2A,All P1 Hits/Projectiles Burn (Red)
+N,7E078A1A+7E078C1A,All P1 Hits/Projectiles Shock
+N,7E078A14+7E078C14,All P1 Projectiles Are Normal
+N,7E054A22+7E054C22,All P2 Hits/Projectiles Burn (Blue)
+N,7E054A2A+7E054C2A,All P2 Hits/Projectiles Burn (Red)
+N,7E054A1A+7E054C1A,All P2 Hits/Projectiles Shock
+N,7E054A14+7E054C14,All P2 Projectiles Are Normal
+N,06FB-EFDF,Allows You to Select Up to 40 Stars Instead of 3 for Turbo Mode
+N,7E18BC0A,Always Battle 10
+N,7E053706,Any Special Move from Ryu Produces a FireBall
+N,D18C-74D5,Balrog Has a Faster Turn Punch [Roundhouse]
+N,DB8C-74D5,Balrog Has a Superfast Turn Punch [Roundhouse]
+N,6E6A-EF90,Balrog's Fierce Charging Punch Does Heavy Damage
+N,6E69-5799,Balrog's Fierce Shoulder Butt Does Heavy Damage
+N,6E62-E790,Balrog's Roundhouse Charging Uppercut Does Heavy Damage
+N,6E1B-7D29,Blanka's Beast Leap Does Heavy Damage
+N,6E1C-E720,Blanka's Fierce Forward Ball Does Heavy Damage
+N,6E15-ED20,Blanka's Jab Zap Does Heavy Damage
+N,3C30-7467+3C30-74A7,Both Players Only Take Damage from Throws, Bites, Hugs and Head-Butts
+N,969C-7FDF,Both Players Start with 1/2 Health
+N,962C-7FDF,Both Players Start with 1/2 Health (alt)
+N,4A9C-7FDF,Both Players Start with 1/4 Health
+N,4A2C-7FDF,Both Players Start with 1/4 Health (alt)
+N,609C-7FDF,Both Players Start with 3/4 Health
+N,602C-7FDF,Both Players Start with 3/4 Health (alt)
+N,DDBE-E760,Cammy Has a Superfast Cannon Drill
+N,D620-17FA,Cammy Has a Superfast Front Kick [Fierce]
+N,D620-14FA,Cammy Has a Superfast Front Kick [Jab]
+N,D620-149A,Cammy Has a Superfast Front Kick [Strong]
+N,D1BE-E7A0,Cammy Has an Erratic Cannon Drill
+N,DF8F-576E+DF84-5D6E+D484-57DE+DF87-5DDE+D787-546E+DF87-576E,Cammy's Cannon Drill Recovers 6 Frames Faster
+N,6EB3-5F20,Cammy's Fierce Spin Knuckle Does Heavy Damage
+N,6EBF-5420,Cammy's Roundhouse Cannon Drill from Far Away Does Heavy Damage
+N,6EBB-5720,Cammy's Roundhouse Front Kick Does Heavy Damage
+N,7E1D4008,Choose Same Character Up to 8 Times in Group Mode
+N,D15E-8F60,Chun Li Has a Faster Whirlwind Kick [Roundhouse]
+N,DB5E-8F60,Chun Li Has a Superfast Whirlwind Kick [Roundhouse]
+N,DE10-5425,Chun-Li's Down Step Does Heavy Damage
+N,6E5D-7D20,Chun-Li's Fierce Fireball Does Heavy Damage
+N,6E11-8425,Chun-Li's Short Lightning Kick Does Heavy Damage
+N,DB23-179A,Dee Jay's Dread Kick Is Faster [Fierce]
+N,6EC5-EF99,Dee Jay's Fierce Hyper Fist [1st Hit] Does Heavy Damage
+N,6ECF-7D91,Dee Jay's Fierce Max Out Does Heavy Damage
+N,6EC3-8F99,Dee Jay's Roundhouse Dread Kick Does Heavy Damage
+N,DB23-1F9A,Deejay's Dread Kick Is Faster [Strong]
+N,6E58-E729,Dhalsim's Fierce Yoga Fire Does Heavy Damage
+N,6E5E-E429,Dhalsim's Strong Yoga Flame [Solid Hit] Does Heavy Damage
+N,DE5E-8729,Dhalsim's Yoga Spear Does Heavy Damage
+N,7E1C6F00,Difficulty (1-7)
+N,1077-7F61,Dizziness Doesn't Last
+N,1087-7F61,Dizzy Effect Is Over Almost Instantly
+N,7E2A-5409,Do Tricks in Midair
+N,3C10-7467+3C10-74A7,Don't Take Damage Except from Throws or Grabs (Both Players)
+N,6E92-E795,E. Honda's Fierce Sumo Splash Does Heavy Damage
+N,6E96-E495,E. Honda's Fierce Torpedo Does Heavy Damage
+N,6E99-8795,E. Honda's Jab Hundred-Hand Slap Does Heavy Damage
+N,DF81-E404,Each Battle Lasts Only 1 Round
+N,DD01-57A5+D602-EDD5+D658-5761+D6BE-5FD1+DDB8-8701,Easier Special Moves[See Notes]
+N,7E0771FF,Enemy(P2) Instantly Dies
+N,CB37-8FAD+DC37-84DD,Every Hit Is a "Hard Hit" - Opponent Almost Never Gets Knocked Down
+N,CB17-8FAD+DC17-84DD,Every Hit Is a "Hard Hit" (Opponent Almost Never Gets Knocked Down)
+N,CB17-8FAD+FA17-84DD,Every Hit Knocks the Opponent Down
+N,CB37-8FAD+FA37-84DD,Every Hit Knocks the Opponent Down (alt)
+N,CB17-8FAD+7D17-84DD,Every Hit Sets Opponent on Fire
+N,CB37-8FAD+7D37-84DD,Every Hit Sets the Opponent on Fire
+N,CB17-8FAD+F617-84DD,Every Hit Sets the Opponent on Fire and Knocks Him Down
+N,CB37-8FAD+F637-84DD,Every Hit Sets the Opponent on Fire and Knocks Him Down (alt)
+N,CB17-8FAD+FC17-84DD,Every Hit Zaps the Opponent and Knocks Him Down
+N,CB37-8FAD+FC37-84DD,Every Hit Zaps the Opponent and Knocks Him Down (alt)
+N,D1A9-1DBA,Faster Hurricane Kicks [Roundhouse]
+N,6EC7-5F20,Fei Long's Fierce Slide Punch [1st Hit] Does Heavy Damage
+N,6EC0-5D20,Fei Long's Fierce Slide Punch [2nd Hit] Does Heavy Damage
+N,6EC0-5720,Fei Long's Fierce Slide Punch [3rd Hit] Does Heavy Damage
+N,6ECE-7420,Fei Long's Roundhouse Dragon Kick Does Heavy Damage
+N,D627-1F2A,Feilong Has a Superfast Rekka-Ken [Fierce]
+N,D528-1D2A,Feilong Has a Superfast Rekka-Ken [Strong]
+N,EC20-4D9E,Fierce Projectiles Move Faster for Everyone [Except Sagat]
+N,609C-7F6F,First Hit KOS P1
+N,609C-74AF,First Hit KOS P2
+N,D81A-EFA5,Fix Incorrect Damage Value (Too High) Assigned to Chun Li's Ground Throw
+N,4189-5F61,Fix Incorrect Recovery Time (Too Slow) Assigned to Sagat's Low Tiger Shot
+N,7E192828,Freeze Timer
+N,7E066E01,Get Dizzy from Every Knockdown (P1)
+N,7E08AE01,Get Dizzy from Every Knockdown (P2)
+N,6E16-5491,Guile's Fierce Sonic Boom Does Heavy Damage
+N,6E1E-7491,Guile's Roundhouse Sonic Kick, Extremely Close Range Does Heavy Damage
+N,3D1D-5DDF+0D1D-5D0F+D51D-5D6F+8D1D-5DAF,Hit Anywhere P1
+N,1060-E405,Hurricane Kicks Rise Higher When Done in Midair
+N,7E051701,Hyper Mode P1
+N,7E075701,Hyper Mode P2
+N,7E192999,Infinite 99 Time
+N,7E053163,Infinite Health P1
+N,7E192996,Infinite Time
+N,6D9C-8D67+DF9C-8DA7+6DA1-8FD5+D4A1-8F05+6DAF-7405+D4AF-7465,Invincibility
+N,7E07615C,Juggle P1
+N,6E96-8721,Ken's Fierce Dragon Punch Close to Opponent Does Heavy Damage
+N,6E92-8F21,Ken's Fierce Fireballs Close to Opponent Does Heavy Damage
+N,6E9A-5721,Ken's Roundhouse Hurricane Kick While on the Ground Does Heavy Damage
+N,1086-5D00,M. Bison Does His Psycho Crusher in One Place [Fierce]
+N,DB2F-CD9A,M. Bison Has a Super Fast Psycho Crusher [Fierce]
+N,7E053091,Makes Chosen Character Rise P1
+N,7E8EF590,Master Code
+N,D003-E465,No Charging
+N,D002-EDD5,No Charging Required for Some Special Moves
+N,D0A2-EDD5,No Charging Required for Some Special Moves (alt)
+N,3169-57A5,No Delay After Throwing Fireball
+N,7E052401,No Delay When Ryu/Ken/Dhalsim/Dee Jay Use a Fireball (P1)
+N,7E076401,No Delay When Ryu/Ken/Dhalsim/Dee Jay Use a Fireball (P2)
+N,7E077100,No Health P2
+N,7E00BF13,No HUD
+N,7E00BF10,No HUD/BG Sprites
+N,7E00BF11,No HUD/Certain BG Sprites
+N,7E05947F,No Push Back or Delay When Hit (P1)
+N,7E07D47F,No Push Back or Delay When Hit (P2)
+N,7E058D1E,Once Dizzy, Always Dizzy (P1)
+N,7E07CD1E,Once Dizzy, Always Dizzy (P2)
+N,609C-77AF,P1 Automatically Gets First Attack Bonus
+N,7E05EA00,P1 Can Do Midair Moves
+N,7E058C01,P1 Can Wall Jump in Midair
+N,7E063816,P1 Can't Be Hit (Can Still Be Grabbed)
+N,7E05D3FF,P1 Easier Specials (Motion Move)
+N,7E0531B0+7E0530B0,P1 Infinite Health
+N,7E0531B0,P1 Infinite Life
+N,7E066E00,P1 Never Dizzies
+N,7E053100+7E053000,P1 No Health
+N,7E077A00+7E077B00+7E077C00,P1 Throws Disabled
+N,B94B-5D60+6298-540D+7598-546D+D198-54AD+6D1A-5407,P1 Untouchable
+N,7E05A800,P1 Vega Never Loses His Claw
+N,7E082A00,P2 Can Do Midair Moves
+N,7E077C01,P2 Can Wall Jump in Midair
+N,7E087816,P2 Can't Be Hit (Can Still Be Grabbed)
+N,7E0813FF,P2 Easier Specials (Motion Move)
+N,7E0771B0+7E0770B0,P2 Infinite Health
+N,7E08AE00,P2 Never Dizzies
+N,7E077100+7E077000,P2 No Health
+N,F122-E760,P2 Starts Right in Front of P1
+N,7E053A00+7E053B00+7E053C00,P2 Throws Disabled
+N,7E07E800,P2 Vega Never Loses His Claw
+N,CB89-EF61+D889-EFA1,Players Have Heavy Gravity
+N,CB89-EF61+D589-EFA1,Players Have Light Gravity
+N,CB79-EF61+D879-EFA1,Players Jump Faster (Don't Work for the Computer)
+N,CB79-EF61+D579-EFA1,Players Jump Slower (Don't Work for the Computer)
+N,7E05F014,Ryu Has a Red Fireball Everything
+N,DDD6-57A5,Ryu's Dragon Punch Goes as Far as Ken's Dragon Punch
+N,6E9B-E429,Ryu's Fierce Red Fireballs from Far Away Does Heavy Damage
+N,6E9D-8729,Ryu's Jab Dragon Punch Close to Opponent Does Heavy Damage
+N,6E9D-E429,Ryu's Roundhouse Hurricane Kick in the Air Does Heavy Damage
+N,6E62-7720,Sagat's Fierce High Tiger, from Far Away Does Heavy Damage
+N,E520-4F2E,Sagat's Fierce Projectiles Move Faster
+N,EE27-479E,Sagat's Jab Projectiles Move Slower for Everyone but Sagat Does Heavy Damage
+N,EE20-4D2E,Sagat's Jab Projectiles Move Slower for Sagat Does Heavy Damage
+N,6E64-5F20,Sagat's Roundhouse Low Tiger, from Far Away Does Heavy Damage
+N,6E53-ED25,Sagat's Short Tiger Knee Does Heavy Damage
+N,C02B-CF9A+D02B-CFBA+1F2B-CF2A+D12B-C4FA+872B-C79A+D62B-C7BA,Sagat's Tiger Uppercut Goes as Far as Ken's Dragon Punch
+N,DD2D-4FB3,Shadow-Colored Fireball
+N,C2F7-8DAD+C2F1-87DD+DDF3-E76D+DDF7-84AF,Skip Intro Screens
+N,6D76-84AF,Skip VS Screen
+N,9C0C-7FDD,Slow Down Timer
+N,DD47-8DD1,Some Special Moves Can Be Done in the Air
+N,DDC7-8DD1,Some Special Moves Can Be Done in the Air (alt)
+N,7E1C7FF7,Sound (Stereo) Mode
+N,7E00F014,Speed Code
+N,7E06910E,Speed Code (alt)
+N,7E8E5900,Speed Code (Different)
+N,FE0C-7FDD,Speed Up Timer
+N,DBA9-1DBA,Super Fast Hurricane Kicks [Roundhouse]
+N,7E00FF01,Super Speed
+N,E2EA-EDAD,Super Speed Code
+N,7E059A01,Super Speed for P1 Only
+N,6EB3-5F91,T. Hawk's the Hawk Does Heavy Damage
+N,DD30-7707,The First Normal Hit Wins (Non-Throw, Bite, Hug, Etc.)
+N,7E1C7000,Time Limit
+N,1053-5760,Vega Does His Claw Roll in One Place
+N,D553-5F00,Vega Has a Superfast Claw Roll
+N,C945-87A9,Vega Never Loses His Claw
+N,DA45-87D9,Vega's Claw Takes 4 More Hits Before Falling Off
+N,6E6E-EF91,Vega's Claw Thrust Does Heavy Damage
+N,AE6A-8491,Vega's Fierce Claw Dive Does Heavy Damage
+N,6E62-8F91,Vega's Rolling Claw Attack Does Heavy Damage
+N,D7A3-5F00+0DA3-5FD0,Vega's Rolling Crystal Flash Is Slightly Faster/farther
+N,7E05D002,Win One Round to Win Match P1
+N,7E081002,Win One Round to Win Match P2
+N,7E07D002,Win One Round to Win Match P2 (alt)
+N,6E51-EF90,Zangief's Double Spinning Lariat Does Heavy Damage [Only Certain Hits]
+N,6E5F-ED90,Zangief's Spinning Clothesline Does Heavy Damage
+N,52EA-EF09,Zangief's Spinning Piledriver Can Be Performed from Anywhere

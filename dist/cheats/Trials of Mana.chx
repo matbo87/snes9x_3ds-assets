@@ -1,29 +1,88 @@
-N,1032-806D,1 Hit Kill
-N,1DF8-8FA1,Walk Through Walls
-N,CBE6-EF9F,Get Any Item From Sto. (1/2)
-N,DD32-7561,Get Any Item From Sto. (2/2)
+N,7E2EF309+7E2EF409+7E2EF509+7E2EF609+7E2EF709+7E2EF809+7E2EF909+7E2EFA09+7E2EFB09+7E2EFC09,*Infinite Active Items
+N,7FF100FF,1st Character Boost Lv Up (255 X 256 Exp/enemy)
+N,7FF0FFFF,1st Character Fast Lv Up (255 Exp/enemy)
+N,7FF400FF,2nd Character Boost Lv Up (255 X 256 Exp/enemy)
+N,7FF3FFFF,2nd Character Fast Lv Up (255 Exp/enemy)
+N,7FF700FF,3rd Character Boost Lv Up (255 X 256 Exp/enemy)
+N,7FF6FFFF,3rd Character Fast Lv Up (255 Exp/enemy)
+N,7FEE0C09,9 S. Attack Bars (Slot 1)
+N,7FF10C09,9 S. Attack Bars (Slot 2)
+N,7FF40C09,9 S. Attack Bars (Slot 3)
+N,7FEDFFFF,255 Experience P1
+N,7FEDFEFF,264,000,000 Experience - P1
+N,7FF0FEFF,264,000,000 Experience - P2
+N,7FF3FEFF,264,000,000 Experience - P3
+N,7FEDF2E7+7FEDF303,999 Current HP (Slot 1)
+N,7FF0F2E7+7FF0F303,999 Current HP (Slot 2)
+N,7FF3F2E7+7FF3F303,999 Current HP (Slot 3)
+N,7FEDF4E7+7FEDF503,999 Current MP (Slot 1)
+N,7FF0F4E7+7FF0F503,999 Current MP (Slot 2)
+N,7FF3F4E7+7FF3F503,999 Current MP (Slot 3)
+N,7FEEC7E7+7FEEC803,999 Max HP (Slot 1)
+N,7FF1C7E7+7FF1C803,999 Max HP (Slot 2)
+N,7FF4C7E7+7FF4C803,999 Max HP (Slot 3)
+N,7FEEC9E7+7FEECA03,999 Max MP (Slot 1)
+N,7FF1C9E7+7FF1CA03,999 Max MP (Slot 2)
+N,7FF4C9E7+7FF4CA03,999 Max MP (Slot 3)
+N,7FED00FF,65280 Experience P1
+N,7E2C26FF,Adds 16,711,680 Luc
+N,7E2C25FF,Adds 65,280 Luc
+N,7E2C24FF,Adds 255 Luc (See Note)
+N,7DAB-750D,All 3 Characters Attribute Menu Is Infinite
+N,CBE6-EF9F+DD32-7561,Can Get Any Item from Storage
+N,DD7E-EFBF,Change Class at Any Level
+N,7FFA00FF,Character 2 Levels Up per Every Kill
+N,7FFD00FF,Character 3 Levels Up per Every Kill
+N,7FEDFC04+7FEEED04+7FEE0C04,Edit Level of Charged Weapon - P1
+N,7FF0FC00+7FF1ED00+7FF10C00,Edit Level of Charged Weapon - P2
+N,7FF3FC00+7FF4ED00+7FF40C00,Edit Level of Charged Weapon - P3
+N,7FF3FC04+7FF4ED04+7FF40C04,Edit Tech Meter - P1 (Meter Won't Be Charged)
+N,7FF3FC01+7FF4ED01+7FF40C01,Elemental Spells Quantity Digits
+N,1032-806D,Enemies Die with 1 Hit
+N,7E2C2400,First Digit (Max of 255)
+N,7E2E9701,Have the Wind Drum in Your Inventory
 N,7E2C2697,Infinite High Money
-N,7FF0FFFF,1st Character Fast Lv Up
-N,7FF3FFFF,2nd Character Fast Lv Up
-N,7FF6FFFF,3rd Character Fast Lv Up
-N,7FF100FF,1st Character Boost Lv Up
-N,7FF400FF,2nd Character Boost Lv Up
-N,7FF700FF,3rd Character Boost Lv Up
-N,7E2E9701,Have The Wind Drum
-N,7DAB-750D,All Unlimited Atrribute Menu
-N,DD7E-EFBF,Change Class At Any Level
-N,7FEDF2E7,P1 Infinite Health (1/2)
-N,7FEDF303,P1 Infinite Health (2/2)
-N,7FF0F2E7,P2 Infinite Health (1/2)
-N,7FF0F303,P2 Infinite Health (2/2)
-N,7FF3F2E7,P3 Infinite Health (1/2)
-N,7FF3F303,P3 Infinite Health (2/2)
 N,7FEDF463,Infinite Mana 1st Character
 N,7FF0F463,Infinite Mana 2nd Character
 N,7FF3F463,Infinite Mana 3rd Character
-N,7FEDFEFF,264,000,000 Exp - P1
-N,7FF0FEFF,264,000,000 Exp - P2
-N,7FF3FEFF,264,000,000 Exp - P3
-N,CB25-5064,Untouchable (1/3)
-N,DD25-50A4,Untouchable (2/3)
-N,DD25-59D4,Untouchable (3/3)
+N,7FEE1162,Level 99 (Slot 1)
+N,7FF11162,Level 99 (Slot 2)
+N,7FF41162,Level 99 (Slot 3)
+N,DD18-87AF+C41A-84DF+BD1A-840F+791A-846F+CB1A-84AF+271A-87DF+3C1A-870F,Low-Quality Instant Kill Code
+N,7FEDF720,Max Agility (Slot 1)
+N,7FF0F720,Max Agility (Slot 2)
+N,7FF3F720,Max Agility (Slot 3)
+N,7FEE53E6+7FEE5403,Max Attack (Slot 1)
+N,7FF153E6+7FF15403,Max Attack (Slot 2)
+N,7FF453E6+7FF45403,Max Attack (Slot 3)
+N,7FEE5AFE,Max Defense (Slot 1)
+N,7FF15AFE,Max Defense (Slot 2)
+N,7FF45AFE,Max Defense (Slot 3)
+N,7FEE5BE6+7FEE5C03,Max Evade Rate (Slot 1)
+N,7FF15BE6+7FF15C03,Max Evade Rate (Slot 2)
+N,7FF45BE6+7FF45C03,Max Evade Rate (Slot 3)
+N,7FEDF920,Max Intelligence (Slot 1)
+N,7FF0F920,Max Intelligence (Slot 2)
+N,7FF3F920,Max Intelligence (Slot 3)
+N,7FEDFB20,Max Luck (Slot 1)
+N,7FF0FB20,Max Luck (Slot 2)
+N,7FF3FB20,Max Luck (Slot 3)
+N,7FEE5DE6+7FEE5E03,Max Magic Defense (Slot 1)
+N,7FF15DE6+7FF15E03,Max Magic Defense (Slot 2)
+N,7FF45DE6+7FF45E03,Max Magic Defense (Slot 3)
+N,7FEDFA20,Max Spirit (Slot 1)
+N,7FF0FA20,Max Spirit (Slot 2)
+N,7FF3FA20,Max Spirit (Slot 3)
+N,7FEDF620,Max Strength (Slot 1)
+N,7FF0F620,Max Strength (Slot 2)
+N,7FF3F620,Max Strength (Slot 3)
+N,7FEDF820,Max Vitality (Slot 1)
+N,7FF0F820,Max Vitality (Slot 2)
+N,7FF3F820,Max Vitality (Slot 3)
+N,7FEE1400,P1
+N,7FF11400,P2
+N,7FF41400,P3
+N,7E2C2500,Second Digit (Max of 255 X 256)
+N,7E2C2600,Third Digit (Max of 255 X 256 X 256)
+N,CB25-5064+DD25-50A4+DD25-59D4,Untouchable
+N,1DF8-8FA1,Walk Through Walls

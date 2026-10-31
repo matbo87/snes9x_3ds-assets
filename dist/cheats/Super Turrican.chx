@@ -1,1 +1,57 @@
-N,00D700AD,f lives
+N,7F0016F0,Access Sound Test Easier
+N,6D22-640F+F122-646F,Don't Decrease Weapon Power After Dying
+N,BACF-646D+BA8E-D7D9,Don't Get Pushed Back by Wind
+N,6D8C-07D4+568C-0704+C280-67D4,Hit Anywhere
+N,C226-D704,Infinite "Smart Lines"
+N,7E050A04,Infinite Bombs
+N,C266-DD6F,Infinite Continues
+N,7E04FF0C,Infinite Health
+N,7E04FB04,Infinite Lives
+N,7E04FFB0,Infinite Lives (alt)
+N,7E056C23,Infinite Time
+N,C22D-0404,Infinite Wheel Time
+N,7E04FFD0,Invincibility
+N,C226-DDD4,Invincibility [Falling in a Hole Still Kills You]
+N,E6C8-D704,Jump Height Modifier
+N,DFC8-DF64,Jump to Any Height (Hold Jump to Go Higher, Release to Descend)
+N,6D28-ADDF,Level Timer Doesn't Count Down [Infinite Time]
+N,6DCD-0404,Multi-Jump
+N,4A82-AF0D,Never Change Weapon Type
+N,7E168D02,Semi Invincibility + Phase Mode + Stop Time
+N,D46D-64DD,Start on Level 2
+N,D76D-64DD,Start on Level 3
+N,D06D-64DD,Start on Level 4
+N,D96D-64DD,Start on Level 5
+N,D16D-64DD,Start on Level 6
+N,D56D-64DD,Start on Level 7
+N,D66D-64DD,Start on Level 8
+N,DB6D-64DD,Start on Level 9
+N,DC6D-64DD,Start on Level 10
+N,D86D-64DD,Start on Level 11
+N,DA6D-64DD,Start on Level 12
+N,DF8E-6DDD,Start with 1 "Smart Line"
+N,DF6F-6DDD,Start with 1 Continue [Easy/Normal Only]
+N,DD61-6D0D,Start with 1 Life [Normal/Hard Only]
+N,D48E-6DDD,Start with 2 "Smart Lines"
+N,D46F-6DDD,Start with 2 Continues [Easy/Normal Only]
+N,DF61-6D0D,Start with 2 Lives [Normal/Hard Only]
+N,D08E-6DDD,Start with 4 "Smart Lines" [Only 3 Shown at Once]
+N,D98E-6DDD,Start with 5 "Smart Lines" [Only 3 Shown at Once]
+N,D96F-6DDD,Start with 5 Continues [Easy/Normal Only]
+N,D061-6D0D,Start with 5 Lives [Normal/Hard Only]
+N,DC8E-6DDD,Start with 10 "Smart Lines" [Only 3 Shown at Once]
+N,DC6F-6DDD,Start with 10 Continues [Easy/Normal Only]
+N,DB61-6D0D,Start with 10 Lives [Normal/Hard Only]
+N,FB8E-6DDD,Start with 25 "Smart Lines" [Only 3 Shown at Once]
+N,FB6F-6DDD,Start with 25 Continues [Easy/Normal Only]
+N,F661-6D0D,Start with 25 Lives [Normal/Hard Only]
+N,748E-6DDD,Start with 50 "Smart Lines" [Only 3 Shown at Once]
+N,746F-6DDD,Start with 50 Continues [Easy/Normal Only]
+N,7F61-6D0D,Start with 50 Lives [Normal/Hard Only]
+N,178E-6DDD,Start with 99 "Smart Lines" [Only 3 Shown at Once]
+N,176F-6DDD,Start with 99 Continues [Easy/Normal Only]
+N,1461-6D0D,Start with 99 Lives [Normal/Hard Only]
+N,D083-6D0D+BA83-67DD,Start with All Weapons at Max Power [4 Power-Ups]
+N,DF83-6D0D,Start with Blue Weapon
+N,DD8E-6DDD,Start with No "Smart Lines"
+N,D483-6D0D,Start with Yellow Weapon

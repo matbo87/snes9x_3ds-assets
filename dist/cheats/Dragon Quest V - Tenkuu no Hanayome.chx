@@ -1,20 +1,165 @@
-N,7E1954FF,Walk Anywhere On The World Map
-N,7E203C90,250000 Casino Coins (1/3)
-N,7E203DD0,250000 Casino Coins (2/3)
-N,7E203E03,250000 Casino Coins (3/3)
-N,7E203F35,53 Small Medals
-N,7E20199F,Max GP (1/3)
-N,7E201A75,Max GP (2/3)
-N,7E201B00,Max GP (3/3)
-N,7E1A9A01,No Random Battles
-N,7E1A9AFF,Many Random Battles
+N,7E200101,1st Name Digit
+N,7E203F35,53 Small Medals (Enough to Buy Everything)
+N,7E203C90+7E203DD0+7E203E03,250000 Casino Coins (Enough to Buy Everything)
+N,7E204600,Agility
+N,7E207000,Agility (alt)
+N,7E209A00,Agility (alt 2)
+N,7E20C400,Agility (alt 3)
+N,7E20EE00,Agility (alt 4)
+N,7E211800,Agility (alt 5)
+N,7E214200,Agility (alt 6)
+N,7E216C00,Agility (alt 7)
+N,7E233800,Agility (alt 8)
+N,7E235100,Agility (alt 9)
+N,7E236C00,Agility (alt 10)
+N,7E238500,Agility (alt 11)
+N,7E234BFF,All Battle Spells/skills Known
+N,7E2365FF,All Battle Spells/skills Known (alt)
+N,7E237FFF,All Battle Spells/skills Known (alt 2)
+N,7E2398FF,All Battle Spells/skills Known (alt 3)
+N,7E234AFF,All Command Spells Known
+N,7E2364FF,All Command Spells Known (alt)
+N,7E237EFF,All Command Spells Known (alt 2)
+N,7E2397FF,All Command Spells Known (alt 3)
+N,7E2063FF,All Field Spells Known
+N,7E208EFF,All Field Spells Known (alt)
+N,7E20B7FF,All Field Spells Known (alt 2)
+N,7E20E2FF,All Field Spells Known (alt 3)
+N,7E210BFF,All Field Spells Known (alt 4)
+N,7E2135FF,All Field Spells Known (alt 5)
+N,7E215FFF,All Field Spells Known (alt 6)
+N,7E2189FF,All Field Spells Known (alt 7)
+N,DD6F-0898,Always Do a Tremendous Blow/Monsters Always Offer to Join
+N,7E10EC00+7E10ED00,Always Do XXXX Damage
+N,7E10D7FF,Battle Command/Result Is Repeated Until the Code Is Turned Off
+N,BECB-6809+EEC8-6669,Can Add/Take Any Item at Oracle Valley/Oracleberry Item Storage
+N,DD6D-DDD0+DD6D-DD00,Enable Debug Menu
 N,7E10F6FF,Enemies Attack Each Other
-N,7E10D7FF,Repeat Battle Command
-N,DD6F-0898,Monsters Always Offer To Join
-N,BECB-6809,Any Oracle Valley Item (1/2)
-N,EEC8-6669,Any Oracle Valley Item (2/2)
-N,CBB4-0BA0,Withdraw = Get More Gold (1/2)
-N,DFB4-0CD0,Withdraw = Get More Gold (2/2)
+N,7E10FC00+7E10FD00+7E10FE00,Exp Gained from a Battle
+N,7E204B00+7E204C00+7E204D00,Experience
+N,7E207500+7E207600+7E207700,Experience (alt)
+N,7E209F00+7E20A000+7E20A100,Experience (alt 2)
+N,7E20C900+7E20CA00+7E20CB00,Experience (alt 3)
+N,7E20F300+7E20F400+7E20F500,Experience (alt 4)
+N,7E211D00+7E211E00+7E211F00,Experience (alt 5)
+N,7E214700+7E214800+7E214900,Experience (alt 6)
+N,7E217100+7E217200+7E217300,Experience (alt 7)
+N,7E233D00+7E233E00+7E233F00,Experience (alt 8)
+N,7E235600+7E235700+7E235800,Experience (alt 9)
+N,7E237100+7E237200+7E237300,Experience (alt 10)
+N,7E238A00+7E238B00+7E238C00,Experience (alt 11)
+N,7E2053FF,Gain 1 MP for Each Step
+N,7E207DFF,Gain 1 MP for Each Step (alt)
+N,7E2047FF,Gain 1 MP for Each Step (alt 2)
+N,7E20D1FF,Gain 1 MP for Each Step (alt 3)
+N,7E20FBFF,Gain 1 MP for Each Step (alt 4)
+N,7E2125FF,Gain 1 MP for Each Step (alt 5)
+N,7E214FFF,Gain 1 MP for Each Step (alt 6)
+N,7E2179FF,Gain 1 MP for Each Step (alt 7)
+N,7E2052FF,Gain 10 HP for Each Step
+N,7E207CFF,Gain 10 HP for Each Step (alt)
+N,7E2046FF,Gain 10 HP for Each Step (alt 2)
+N,7E20D0FF,Gain 10 HP for Each Step (alt 3)
+N,7E20FAFF,Gain 10 HP for Each Step (alt 4)
+N,7E2124FF,Gain 10 HP for Each Step (alt 5)
+N,7E214EFF,Gain 10 HP for Each Step (alt 6)
+N,7E2178FF,Gain 10 HP for Each Step (alt 7)
+N,7E10FF00+7E110000+7E110100,Gp Gained from Battle
+N,7E204900,Intelligence
+N,7E207300,Intelligence (alt)
+N,7E209D00,Intelligence (alt 2)
+N,7E20C700,Intelligence (alt 3)
+N,7E20F100,Intelligence (alt 4)
+N,7E211B00,Intelligence (alt 5)
+N,7E214500,Intelligence (alt 6)
+N,7E216F00,Intelligence (alt 7)
+N,7E233B00,Intelligence (alt 8)
+N,7E235400,Intelligence (alt 9)
+N,7E236F00,Intelligence (alt 10)
+N,7E238800,Intelligence (alt 11)
+N,7E2065FF,Last 4 Battle Spells Known
+N,7E2090FF,Last 4 Battle Spells Known (alt)
+N,7E20B9FF,Last 4 Battle Spells Known (alt 2)
+N,7E20E4FF,Last 4 Battle Spells Known (alt 3)
+N,7E210DFF,Last 4 Battle Spells Known (alt 4)
+N,7E2137FF,Last 4 Battle Spells Known (alt 5)
+N,7E2161FF,Last 4 Battle Spells Known (alt 6)
+N,7E218BFF,Last 4 Battle Spells Known (alt 7)
+N,7E204A00,Luck
+N,7E207400,Luck (alt)
+N,7E209E00,Luck (alt 2)
+N,7E20C800,Luck (alt 3)
+N,7E20F200,Luck (alt 4)
+N,7E212C00,Luck (alt 5)
+N,7E214600,Luck (alt 6)
+N,7E217000,Luck (alt 7)
+N,7E233C00,Luck (alt 8)
+N,7E235500,Luck (alt 9)
+N,7E237000,Luck (alt 10)
+N,7E238900,Luck (alt 11)
+N,7E1A9AFF,Many Random Battles
+N,7E20199F+7E201A75+7E201B00,Max Gp (99999)
+N,7E204E00+7E204F00,Max HP [Don't Go Higher Than 999 Dec]
+N,7E207800+7E207900,Max HP [Don't Go Higher Than 999 Dec] (alt)
+N,7E20A200+7E20A300,Max HP [Don't Go Higher Than 999 Dec] (alt 2)
+N,7E20CC00+7E20CD00,Max HP [Don't Go Higher Than 999 Dec] (alt 3)
+N,7E20F600+7E20F700,Max HP [Don't Go Higher Than 999 Dec] (alt 4)
+N,7E212000+7E212100,Max HP [Don't Go Higher Than 999 Dec] (alt 5)
+N,7E214A00+7E214B00,Max HP [Don't Go Higher Than 999 Dec] (alt 6)
+N,7E217400+7E217500,Max HP [Don't Go Higher Than 999 Dec] (alt 7)
+N,7E234000+7E234100,Max HP [Don't Go Higher Than 999 Dec] (alt 8)
+N,7E235900+7E235A00,Max HP [Don't Go Higher Than 999 Dec] (alt 9)
+N,7E237400+7E237500,Max HP [Don't Go Higher Than 999 Dec] (alt 10)
+N,7E238D00+7E238E00,Max HP [Don't Go Higher Than 999 Dec] (alt 11)
+N,7E205000,Max MP [Don't Go Higher Than 99 Dec]
+N,7E207A00,Max MP [Don't Go Higher Than 99 Dec] (alt)
+N,7E20A400,Max MP [Don't Go Higher Than 99 Dec] (alt 2)
+N,7E20CE00,Max MP [Don't Go Higher Than 99 Dec] (alt 3)
+N,7E20F800,Max MP [Don't Go Higher Than 99 Dec] (alt 4)
+N,7E212200,Max MP [Don't Go Higher Than 99 Dec] (alt 5)
+N,7E214C00,Max MP [Don't Go Higher Than 99 Dec] (alt 6)
+N,7E217600,Max MP [Don't Go Higher Than 99 Dec] (alt 7)
+N,7E234200,Max MP [Don't Go Higher Than 99 Dec] (alt 8)
+N,7E235B00,Max MP [Don't Go Higher Than 99 Dec] (alt 9)
+N,7E237600,Max MP [Don't Go Higher Than 99 Dec] (alt 10)
+N,7E238F00,Max MP [Don't Go Higher Than 99 Dec] (alt 11)
+N,7E239101,Monster Activator
+N,7E234401,Monster Type
+N,7E235D01,Monster Type (alt)
+N,7E237801,Monster Type (alt 2)
+N,7E2064FF,Most Battle Spells Known
+N,7E20B8FF,Most Battle Spells Known (alt)
+N,7E20E3FF,Most Battle Spells Known (alt 2)
+N,7E210CFF,Most Battle Spells Known (alt 3)
+N,7E2136FF,Most Battle Spells Known (alt 4)
+N,7E2160FF,Most Battle Spells Known (alt 5)
+N,7E218AFF,Most Battle Spells Known (alt 6)
+N,7E208FFF,Most Battle Spells Knows
+N,7E1A9A01,No Random Battles
+N,7E204700,Strength
+N,7E207100,Strength (alt)
+N,7E209B00,Strength (alt 2)
+N,7E20C500,Strength (alt 3)
+N,7E20EF00,Strength (alt 4)
+N,7E211900,Strength (alt 5)
+N,7E214300,Strength (alt 6)
+N,7E216D00,Strength (alt 7)
+N,7E233900,Strength (alt 8)
+N,7E235200,Strength (alt 9)
+N,7E236D00,Strength (alt 10)
+N,7E238600,Strength (alt 11)
+N,7E204800,Vitality
+N,7E207200,Vitality (alt)
+N,7E209C00,Vitality (alt 2)
+N,7E20C600,Vitality (alt 3)
+N,7E20F000,Vitality (alt 4)
+N,7E211A00,Vitality (alt 5)
+N,7E214400,Vitality (alt 6)
+N,7E216E00,Vitality (alt 7)
+N,7E233A00,Vitality (alt 8)
+N,7E235300,Vitality (alt 9)
+N,7E236E00,Vitality (alt 10)
+N,7E238700,Vitality (alt 11)
+N,7E1954FF,Walk Anywhere on the World Map
 N,DD6D-6FDD,Walk Through Walls
-N,DD6D-DDD0,Enables Debug Menu (1/2)
-N,DD6D-DD00,Enables Debug Menu (2/2)
+N,CBB4-0BA0+DFB4-0CD0,Withdraw Gold at Oracleberry for 257,000 in Bank

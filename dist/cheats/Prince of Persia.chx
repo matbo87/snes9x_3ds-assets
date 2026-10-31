@@ -1,1 +1,47 @@
-N,01CF839C,f energy
+N,C260-A701+DF6C-DFA0,All Enemies Have 1 Health Point
+N,C260-A701+D46C-DFA0,All Enemies Have 2 Health Points
+N,C260-A701+D76C-DFA0,All Enemies Have 3 Health Points
+N,C260-A701+D06C-DFA0,All Enemies Have 4 Health Points
+N,C260-A701+D96C-DFA0,All Enemies Have 5 Health Points
+N,C260-A701+DC6C-DFA0,All Enemies Have 10 Health Points
+N,BA69-ADA1,Enemies Drop Dead Immediately
+N,6DC0-6701,Falls Do No Damage [Except onto Spikes]
+N,6D32-0FA1+DC32-04D1,Freeze Timer
+N,7E053201,Have Sword from Start
+N,7E050803,Infinite Health
+N,7E052D00,Infinite Time
+N,C2BA-AFD0,Invincibility Enemies
+N,7E050800,More Speed
+N,7E050B00,No Enemies
+N,D4C1-6701,Non-Fatal Falls Do 2 Points of Damage Instead of 1
+N,43C9-6D61,Non-Fatal Falls Do No Damage
+N,BAA6-ADA5,Non-Fatal Injuries Do No Damage
+N,BAA6-DA5D,Non-Fatal Injuries Do No Damage (alt)
+N,DFB7-D46E,Start on Level 2
+N,D4B7-D46E,Start on Level 3
+N,D7B7-D46E,Start on Level 4
+N,D0B7-D46E,Start on Level 5
+N,D9B7-D46E,Start on Level 6
+N,D1B7-D46E,Start on Level 7
+N,D5B7-D46E,Start on Level 8
+N,D6B7-D46E,Start on Level 9
+N,DBB7-D46E,Start on Level 10
+N,DCB7-D46E,Start on Level 11
+N,D8B7-D46E,Start on Level 12
+N,DAB7-D46E,Start on Level 13
+N,D2B7-D46E,Start on Level 14
+N,D3B7-D46E,Start on Level 15
+N,DEB7-D46E,Start on Level 16
+N,FDB7-D46E,Start on Level 17
+N,FFB7-D46E,Start on Level 18
+N,F4B7-D46E,Start on Level 19
+N,F7B7-D46E,Start on Level 20
+N,D430-04A5,Start with 2 Health Points Instead of 3
+N,D030-04A5,Start with 4 Health Points
+N,D930-04A5,Start with 5 Health Points
+N,D130-04A5,Start with 6 Health Points
+N,D530-04A5,Start with 7 Health Points
+N,D630-04A5,Start with 8 Health Points
+N,DB30-04A5,Start with 9 Health Points
+N,FD30-04A5,Start with 15 Health Points
+N,6DCE-ADD1,Walk on Air

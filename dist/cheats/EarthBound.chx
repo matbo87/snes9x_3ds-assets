@@ -1,82 +1,175 @@
-N,386C-71F9,ATM Card = Apple Debug (1/3)
-N,6D6C-7199,ATM Card = Apple Debug (2/3)
-N,A96C-71B9,ATM Card = Apple Debug (3/3)
-N,4474-54D9,Talk Air = Higher Debug (1/5)
-N,1774-5409,Talk Air = Higher Debug (2/5)
-N,4374-5469,Talk Air = Higher Debug (3/5)
-N,AF74-54A9,Talk Air = Higher Debug (4/5)
-N,3C74-57D9,Talk Air = Higher Debug (5/5)
-N,6B82-ED05,Town Map = Highest Debug (1/3)
-N,3182-ED65,Town Map = Highest Debug (2/3)
-N,3E82-EDA5,Town Map = Highest Debug (3/3)
-N,DD15-ED6B,Instant Win Face-To-Face (1/2)
-N,DD13-EF0B,Instant Win Face-To-Face (2/2)
+N,386C-71F9+6D6C-7199+A96C-71B9,'Use' the ATM Card to Get to the 'Apple' Debug Menu
+N,1782-ED05+4382-ED65+AF82-EDA5,'Use' the Town Map to Get to the Higher-Tier Debug Menu
+N,6B82-ED05+3182-ED65+3E82-EDA5,'Use' the Town Map to Get to the Highest-Tier Debug Menu
+N,7E99EBFF,255 Real Defense (Slot 1)
+N,7E9A4AFF,255 Real Defense (Slot 2)
+N,7E9AA9FF,255 Real Defense (Slot 3)
+N,7E9B08FF,255 Real Defense (Slot 4)
+N,7E99EDFF,255 Real Guts (Slot 1)
+N,7E9A4CFF,255 Real Guts (Slot 2)
+N,7E9AABFF,255 Real Guts (Slot 3)
+N,7E9B0AFF,255 Real Guts (Slot 4)
+N,7E99F0FF,255 Real IQ (Slot 1)
+N,7E9A4FFF,255 Real IQ (Slot 2)
+N,7E9AAEFF,255 Real IQ (Slot 3)
+N,7E9B0DFF,255 Real IQ (Slot 4)
+N,7E99EEFF,255 Real Luck (Slot 1)
+N,7E9A4DFF,255 Real Luck (Slot 2)
+N,7E9AACFF,255 Real Luck (Slot 3)
+N,7E9B0BFF,255 Real Luck (Slot 4)
+N,7E99EAFF,255 Real Offense (Slot 1)
+N,7E9A49FF,255 Real Offense (Slot 2)
+N,7E9AA8FF,255 Real Offense (Slot 3)
+N,7E9B07FF,255 Real Offense (Slot 4)
+N,7E99ECFF,255 Real Speed (Slot 1)
+N,7E9A4BFF,255 Real Speed (Slot 2)
+N,7E9AAAFF,255 Real Speed (Slot 3)
+N,7E9B09FF,255 Real Speed (Slot 4)
+N,7E99EFFF,255 Real Vitality (Slot 1)
+N,7E9A4EFF,255 Real Vitality (Slot 2)
+N,7E9AADFF,255 Real Vitality (Slot 3)
+N,7E9B0CFF,255 Real Vitality (Slot 4)
+N,7E9A150F+7E9A1627,9999 Current HP (Slot 1)
+N,7E9A740F+7E9A7527,9999 Current HP (Slot 2)
+N,7E9AD30F+7E9AD427,9999 Current HP (Slot 3)
+N,7E9B320F+7E9B3327,9999 Current HP (Slot 4)
+N,7E9A1B0F+7E9A1C27,9999 Current PP (Slot 1)
+N,7E9A7A0F+7E9A7B27,9999 Current PP (Slot 2)
+N,7E9AD90F+7E9ADA27,9999 Current PP (Slot 3)
+N,7E9B380F+7E9B3927,9999 Current PP (Slot 4)
+N,7E99D80F+7E99D927,9999 Max HP (Slot 1)
+N,7E9A370F+7E9A3827,9999 Max HP (Slot 2)
+N,7E9A960F+7E9A9727,9999 Max HP (Slot 3)
+N,7E9AF50F+7E9AF627,9999 Max HP (Slot 4)
+N,7E99DA0F+7E99DB27,9999 Max PP (Slot 1)
+N,7E9A390F+7E9A3A27,9999 Max PP (Slot 2)
+N,7E9A980F+7E9A9927,9999 Max PP (Slot 3)
+N,7E9AF70F+7E9AF827,9999 Max PP (Slot 4)
+N,6B84-7D04+3184-7D64+3E84-7DA4,Access Debug Mode (In-Game)
+N,DD6F-77DB+5E6F-77AB,Always Get a 'Smash' Bonus on Attack
+N,DD6F-77DB+EE6F-776B+EE6F-77AB,Always Get a 'Smash' Bonus on Attack (alt)
+N,7E98357F+7E983696+7E983798,Always Have 9999999 ATM Cash
+N,7E4DBC00,Always Have a Face-To-Face Battle
+N,7E98319F+7E983286+7E983301,Always Holding 99999 Cash
+N,7E98B900+7E98BA00+7E98BB00,Amount of Money You Receive via Your Father
+N,DD17-8099,Big Bottle Rockets Are Free [Instead of $139]
+N,7E2C1E00+7E2C1F00,Character in Slot 2 Is Invisible
+N,7E2C2000+7E2C2100,Character in Slot 3 Is Invisible
+N,7E2C2200+7E2C2300,Character in Slot 4 Is Invisible
 N,DD29-8D0D,Character's Back Attacked
+N,DD92-51B1,Cheap Bracelets Are Free [Instead of $98]
+N,DD92-7029+DD92-79F9,Chef's Fry Pans Are Free [Instead of $1198]
+N,7E9E54FF+7E9E55FF,Dad Never Calls
+N,DD5B-E190,Double Burgers Are Free [Instead of $24]
+N,7EA975FF,Each Battle Gives Tons of Exp
 N,DD20-8D0D,Enemy's Back Attacked
-N,DD6F-77DB,Always Smash Bonus Atk (1/2)
-N,5E6F-77AB,Always Smash Bonus Atk (2/2)
-N,EE64-54A1,Multi-Task Code
-N,EE2E-54A1,Level 99 After Battle
-N,F2EB-54D1,Gain Level After Battle
-N,552E-54A1,Level Up
-N,992E-54A1,Level Up #2 (1/2)
-N,773E-54A1,Level Up #2 (2/2)
-N,EE67-57A1,Night Vision
-N,EE9A-E5F5,Fast Money
-N,CB93-746F,Walk Through All
-N,FD93-776F,Walk Through Walls
-N,EE67-54A1,Store = Receive Franklin Badge 
-N,DD92-50F5,Hamburgers Are Free
-N,DD5B-E190,Double Burgers Are Free
-N,DD57-81B0,Skip Sandwiches Are Free
-N,DD1B-E1B0,Refreshing Herbs Are Free
-N,DD17-8099,Big Bottle Rockets Are Free
-N,DD1C-89B9,Super Bombs Are Free (1/2)
-N,DD1C-8929,Super Bombs Are Free (2/2)
-N,DD92-81F0,Tee Ball Bats Are Free
-N,DD92-7029,Chef's Fry Pans Are Free (1/2)
-N,DD92-79F9,Chef's Fry Pans Are Free (2/2)
-N,DD92-51B1,Cheap Bracelets Are Free
-N,DD90-8521,Gold Bracelets Are Free (1/2)
-N,DD99-80F1,Gold Bracelets Are Free (2/2)
-N,DD91-71F0,Teddy Bears Are Free
+N,7E9D1200+7E9D1300+7E9D1400,Exp After Battle/Amount of Damage You Deal to an Enemy (Fake)
+N,7EA97400+7EA97500+7EA97600,Exp Earned After Battle
+N,EE9A-E5F5,Fast Money Code
+N,F2EB-54D1,Gain at Least 1 Level After Each Battle
+N,EE67-54A1,Go to a Store, Click on "Buy" and Receive a Free Franklin Badge
+N,DD90-8521+DD99-80F1,Gold Bracelets Are Free [Instead of $2799]
+N,DD92-50F5,Hamburgers Are Free [Instead of $14]
+N,7E9C2107,Have All Phone Numbers
+N,7E9C5EFF+7E9C6EFF+7E9C7EFF+7E9C8EFF+7E9C9EFF,Have All Pictures Taken
+N,7E9839FF,Have All Teleport Spells
+N,7E9C22FF+7E9C23FF,Have All Teleports
+N,7E9A15FF,HP Level Points
+N,7E0F0601,Hyper Ness
+N,D017-8029,Infinite Big Bottle Rockets
+N,D01D-85F9,Infinite Bottle Rockets
+N,DE5B-59B9,Infinite Bottles of DX Water
+N,DE99-E1F5,Infinite Brain Food Lunch
 N,DE9A-E595,Infinite Bread Rolls
 N,DE96-59F5,Infinite Cookies
-N,DE1C-81F9,Infinite Super Bombs
-N,D01D-85F9,Infinite Bottle Rockets
-N,D017-8029,Infinite Big Bottle Rockets
-N,DE99-E1F5,Infinite Brain Food Lunch
-N,DE56-80F9,Infinite Cup Of Life Noodles
+N,DE56-80F9,Infinite Cup of Life Noodles
+N,7E9A13E7+7E9A1403,Infinite Health
+N,8251-57D6,Infinite Health (All Characters)
+N,4359-5F66,Infinite Health for Teddy Bear
 N,DE18-7920,Infinite Kraken Soup
 N,DE93-8025,Infinite Large Pizzas
-N,DE97-E095,Infinite Magic Truffles
-N,DE5A-E0B0,Infinite Peanut Cheesebars
-N,DE5B-59B9,Infinite Bottles Of DX Water
 N,DE58-5599,Infinite Magic Puddings
-N,DC92-E095,Makes The Bread Roll Stronger
-N,7F92-E095,Makes Bread Roll MUCH Stronger
-N,D996-51F5,Makes The Cookie Stronger
-N,DC96-51F5,Makes The Cookie Much Stronger
-N,7F96-51F5,Makes The Cookie MUCH Stronger
-N,F098-89B0,Makes K'ed Bat Much Stronger
-N,0098-89B0,Makes K'ed Bat MUCH Stronger
-N,7E98319F,Hold 99999 Cash (1/3)
-N,7E983286,Hold 99999 Cash (2/3)
-N,7E983301,Hold 99999 Cash (3/3)
-N,7E98357F,Have 9999999 ATM Cash (1/3)
-N,7E983696,Have 9999999 ATM Cash (2/3)
-N,7E983798,Have 9999999 ATM Cash (3/3)
-N,7E9C2107,Have All Phone Numbers
-N,7E9C22FF,Have All Teleports (1/2)
-N,7E9C23FF,Have All Teleports (2/2)
-N,7E9C5EFF,Have All Pictures Taken (1/5)
-N,7E9C6EFF,Have All Pictures Taken (2/5)
-N,7E9C7EFF,Have All Pictures Taken (3/5)
-N,7E9C8EFF,Have All Pictures Taken (4/5)
-N,7E9C9EFF,Have All Pictures Taken (5/5)
+N,DE97-E095,Infinite Magic Truffles
+N,7E983100+7E9832E1+7E9833F5+7E983405,Infinite Money on Hand (A Value Above 9999999 Will Crash the Game)
+N,DE5A-E0B0,Infinite Peanut Cheesebars
+N,7E9A1BE7+7E9A1C03,Infinite PP
+N,DE1C-81F9,Infinite Super Bombs
 N,7E9F8A00,Instantly Win All Battles
-N,7E4DBC00,Always Face-To-Face Battle
-N,7E9839FF,Have All Teleport Spells
-N,7E9E54FF,Dad Never Calls (1/2)
-N,7E9E55FF,Dad Never Calls (2/2)
-N,E395-87DD,Dad never calls
+N,DD15-ED6B+DD13-EF0B,Instantly Win Face-To-Face Random Battles
+N,7E9A92FF+7E9A93FF+7E9A94FF,Jeff Levels Up to 99 in One Battle
+N,7E9AA200,Jeff's Defense
+N,7E9AA400,Jeff's Guts
+N,7E9AA700,Jeff's IQ
+N,7E9AA500,Jeff's Luck
+N,7E9AA100,Jeff's Offense
+N,7E9AA300,Jeff's Speed
+N,7E9A9A00,Jeff's Status
+N,7E9AA600,Jeff's Vitality
+N,7E99D363,Level 99 (Slot 1)
+N,7E9A3263,Level 99 (Slot 2)
+N,7E9A9163,Level 99 (Slot 3)
+N,7E9AF063,Level 99 (Slot 4)
+N,EE2E-54A1,Level 99 After Battle
+N,6D8D-6759,Level 255
+N,552E-54A1,Level Up
+N,992E-54A1+773E-54A1,Level Up #2
+N,7F92-E095,Makes the Bread Roll MUCH Stronger
+N,DC92-E095,Makes the Bread Roll Stronger
+N,DC96-51F5,Makes the Cookie Much Stronger
+N,7F96-51F5,Makes the Cookie MUCH Stronger (alt)
+N,D996-51F5,Makes the Cookie Stronger
+N,F098-89B0,Makes the Cracked Bat Much Stronger
+N,0098-89B0,Makes the Cracked Bat MUCH Stronger (alt)
+N,EE64-54A1,Multi-Task Code
+N,2542-D706,Multi-Task Code NOTE
+N,7E99D4FF+7E99D5FF+7E99D6FF,Ness Levels Up to 99 in One Battle!
+N,7E99E400,Ness's Defense
+N,7E99E600,Ness's Guts
+N,7E99E900,Ness's IQ
+N,7E99E800,Ness's Luck
+N,7E99D800+7E99D900,Ness's Max HP
+N,7E99DA00+7E99DB00,Ness's Max MP
+N,7E99E300,Ness's Offense
+N,7E99E500,Ness's Speed
+N,7E99E700,Ness's Vitality
+N,EE67-57A1,Night Vision
+N,7E9A33FF+7E9A34FF+7E9A35FF,Paula Levels Up to 99 in One Battle
+N,7E9A4300,Paula's Defense
+N,7E9A4500,Paula's Guts
+N,7E9A4800,Paula's IQ
+N,7E9A4700,Paula's Luck
+N,7E9A4200,Paula's Offense
+N,7E9A4400,Paula's Speed
+N,7E9A4600,Paula's Vitality
+N,7E9AF1FF+7E9AF2FF+7E9AF3FF,Poo Levels Up to 99 in One Battle
+N,7E9B0100,Poo's Defense
+N,7E9B0300,Poo's Guts
+N,7E9B0600,Poo's IQ
+N,7E9B0400,Poo's Luck
+N,7E9B0000,Poo's Offense
+N,7E9B0200,Poo's Speed
+N,7E9B0500,Poo's Vitality
+N,7E9A1BFF,PP (PSI Level)
+N,DD1B-E1B0,Refreshing Herbs Are Free [Instead of $80]
+N,DD57-81B0,Skip Sandwiches Are Free [Instead of $38]
+N,33B3-CDA4,Sound Test
+N,DB23-77D1,Start with a Level 9 Character
+N,DE23-77D1,Start with a Level 15 Character
+N,7423-77D1,Start with a Level 50 Character
+N,1723-77D1,Start with a Level 100 Character
+N,EE23-77D1,Start with a Level 255 Character
+N,BB2D-5461,Start with a Lot of H.P.
+N,BB2F-54A1,Start with a Lot of PSI
+N,EE2E-7D01,Start with a Super Strong Character
+N,EE23-77D1+EE23-7771,Starts You at Level 65,535
+N,DD1C-89B9+DD1C-8929,Super Bombs Are Free [Instead of $399]
+N,3874-5409+6D74-5469+A974-5769,Talk to the Air to Get to the 'Apple' Debug Menu
+N,4474-54D9+1774-5409+4374-5469+AF74-54A9+3C74-57D9,Talk to the Air to Get to the Higher-Tier Debug Menu
+N,DD91-71F0,Teddy Bears Are Free [Instead of $178]
+N,DD92-81F0,Tee Ball Bats Are Free [Instead of $48]
+N,CB93-746F,Walk Through All
+N,FD93-776F,Walk Through Walls
+N,EEB3-CDA4,Weird Sound Test
+N,7E866BFF+7E866CFF,When You Sell Anything with Your "for Sale" Sign, You Will Receive $65535
+N,7EB53B00,You Will Never Hear a Specific BGM
+N,7E107600,Your Character in Slot 2 Has Walking Priority (Walks on Top of Ness)

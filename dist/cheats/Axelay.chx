@@ -1,2 +1,34 @@
-N,008C8F0B,Start w/ 9 credits
-N,00DB6163,Start w/ 99 lives
+N,CBB1-D425+DEB1-D7F5+DDB1-D795,All Weapons Selectable on Weapon Select Screen
+N,8285-AF07+82AA-676D,Don't Lose Weapon When Hit by Enemy
+N,DD36-D70F+DD3B-DF0F+C93C-DD0F+C9BD-D408,Hit Anywhere
+N,C2C5-DDDF,Infinite Credits
+N,7E005E04,Infinite Lives
+N,7E005E02,Infinite Lives (alt)
+N,7E042C01+7E049C01,Invincibility
+N,DD87-AD64+DDA6-AF0D,Invincibility (alt)
+N,7E03244D,Invincible (No Flickering)
+N,DAB1-AFA7,Start a New Game to View Ending
+N,CBB7-AFA7+DFB7-A4D7+DDB7-A407,Start on Stage 2
+N,CBB7-AFA7+D4B7-A4D7+DDB7-A407,Start on Stage 3
+N,CBB7-AFA7+D7B7-A4D7+DDB7-A407,Start on Stage 4
+N,CBB7-AFA7+D0B7-A4D7+DDB7-A407,Start on Stage 5
+N,CBB7-AFA7+D9B7-A4D7+DDB7-A407,Start on Stage 6
+N,D766-D7A7,Start with 1 Credit Instead of 5
+N,DF21-AD04,Start with 1 Life Instead of 3
+N,D066-D7A7,Start with 2 Credits
+N,D421-AD04,Start with 2 Lives
+N,D966-D7A7,Start with 3 Credits
+N,D166-D7A7,Start with 4 Credits
+N,D921-AD04,Start with 5 Lives
+N,D666-D7A7,Start with 6 Credits
+N,DB66-D7A7,Start with 7 Credits
+N,D521-AD04,Start with 7 Lives
+N,DC66-D7A7,Start with 8 Credits
+N,D866-D7A7,Start with 9 Credits
+N,DB21-AD04,Start with 9 Lives
+N,DE21-AD04,Start with 15 Lives
+N,FB21-AD04,Start with 25 Lives
+N,7421-AD04,Start with 50 Lives
+N,0821-AD04,Start with 75 Lives
+N,1721-AD04,Start with 99 Lives
+N,7E032403,Untouchable

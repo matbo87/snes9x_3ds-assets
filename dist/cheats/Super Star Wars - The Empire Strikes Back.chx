@@ -1,6 +1,144 @@
-N,-7F194253,Infinite lives
-N,-7E27AF53,Infinite continues
-N,-7F0BA080,Inf thermal dtntrs
-N,-7A2B1380,All force abilitys
-N,-7F194D53,Keep gun powerups
-N,-7F72A2EA,Start on d.v. levl
+N,7E1D7600,0 AT-ATs Left
+N,7E1D7400,0 AT-STs Left
+N,7E0B2400,0 Bikers Left
+N,7E1DA600,0 CloudCars Left
+N,7E0CFA00,0 Life Left on Boss 1
+N,7E0CFE00,0 Life Left on Boss 2
+N,7E0D0000,0 Life Left on Boss 3 Gun 1
+N,7E0D0200,0 Life Left on Boss 3 Gun 2
+N,7E0D0400,0 Life Left on Boss 3 Gun 3
+N,7E0B2600,0 Probes Left
+N,7E010C01,Activate Debug Mode
+N,7E0110E0,Activate Multiple Cheats
+N,483F-376F,Almost Invincible Except to Spikes [Works for Enemy Too]
+N,7E031263,Always Have 99 Bombs
+N,7E0BA401,Always Have Thermal Detonator
+N,3B3F-340F+DF3F-346F+DD3F-34AF+3C3F-37DF,Always Take the Minimal Amount of Damage
+N,3C8D-3D04,Big Hearts Heal 1/2 Your Health Instead of 1/4
+N,DC8D-3D04,Big Hearts Heal Completely
+N,7E01D800,Blaster Level Always
+N,7E0D0600,Boss 2 Dies with 1 Hit (After Accessories Are Destroyed)
+N,7E0D1600,Boss 4 Dies with 1 Hit (After Accessories Are Destroyed)
+N,6DCE-CD0D,Can't Fall on Open Air
+N,DF21-C465,Continue with 2 Lives [Easy Difficulty]
+N,DF21-C765,Continue with 2 Lives [Jedi Difficulty]
+N,D921-C465,Continue with 6 Lives [Easy Difficulty]
+N,D921-C765,Continue with 6 Lives [Jedi Difficulty]
+N,F021-C465,Continue with 21 Lives [Easy Difficulty]
+N,F021-C765,Continue with 21 Lives [Jedi Difficulty]
+N,7421-C465,Continue with 51 Lives [Easy Difficulty]
+N,1721-C765,Continue with 100 Lives [Jedi Difficulty]
+N,7E01B8BE,Current Level
+N,3CBB-07AF,Debug Menu Part 1
+N,3CBC-0DDF,Debug Menu Part 2
+N,D1BC-046F,Debug Menu Part 3
+N,C229-14F9,Elevation & Freeze Don't Drain Force Bar
+N,DD63-C7A4,Enable Debug Menu Plus Invincibility and Player Coordinate Display
+N,DD68-CFD4,Enable Stage Skip
+N,F68B-3764,Force Orbs Add 1/2 as Much
+N,1D8B-3764,Force Orbs Add 2x as Much
+N,EE8B-3764,Force Orbs Fill Force Bar
+N,7E031A01,Have Elevation Force Power
+N,7E032201,Have Freeze Force Power
+N,7E032601,Have Heal Force Power
+N,7E032401,Have Invisible Force Power
+N,7E031801,Have Mind Control Force Power
+N,7E031E01,Have Saber Control Force Power
+N,7E032001,Have Saber Deflect Force Power
+N,7E031C01,Have Slowdown Force Power
+N,D484-37A4,Health Sword Power-Ups Add 1/2 as Much
+N,D684-37A4,Health Sword Power-Ups Add 2x as Much
+N,FD84-37A4,Health Sword Power-Ups Add 4x as Much
+N,7E01AC63,Infinite 99 Lives
+N,7E019663,Infinite Continues
+N,7E0F1840,Infinite Falcon Energy
+N,7E03F15F,Infinite Force
+N,7E0315FF,Infinite Force Power
+N,C21C-7FA7,Infinite Health
+N,7E01AC03,Infinite Lives
+N,7E01FAC0,Infinite Lives (alt)
+N,7E0CF644,Infinite Max Energy
+N,7E0F1825,Infinite Shields for Falcon (Leaving Hoth)
+N,7E031120,Infinite Spin for Chewie
+N,6DE9-47AF,Infinite Thermal Detonators
+N,7E0CF6FF,Invincibility (Infinite Health)
+N,7E0CF840,Invincibility on Tauntaun
+N,C238-CD6F,Keep Gun Power-Ups After Dying
+N,7E01AE44,Max Energy Capacity
+N,7E01AE64,Max Health Gauge (Get Hit to Enable)
+N,C22F-C7F9,Mind Control, Slow, Deflect, and Invisible Don't Drain Force Bar
+N,6D86-340D,One Hit Is Lethal for Both You and Enemies on Side-Scrolling Levels
+N,DDCC-1DDA,Saber Control Doesn't Drain Force Bar
+N,7E019A09+7E019C09+7E019E09+7E01A009+7E01A209+7E01A409+7E01A609,Score Always 9999999
+N,DD81-3DD4,Shield Power-Ups Don't Last as Long
+N,DE81-3DD4,Shield Power-Ups Last a Very Long Time
+N,D481-3DD4,Shield Power-Ups Last Longer
+N,D781-3DD4,Shield Power-Ups Last Much Longer
+N,CE8D-37D4+D02B-C465,Small Heart Pickups Worth More Health Units on All Difficulty Levels
+N,D02B-C7D5,Small Hearts Heal 2x as Much [Brave Difficulty]
+N,D12B-C465,Small Hearts Heal 2x as Much [Easy Difficulty]
+N,D02B-C765,Small Hearts Heal 2x as Much [Jedi Difficulty]
+N,D62B-C7D5,Small Hearts Heal 4x as Much [Brave Difficulty]
+N,DA2B-C465,Small Hearts Heal 4x as Much [Easy Difficulty]
+N,D62B-C765,Small Hearts Heal 4x as Much [Jedi Difficulty]
+N,002B-C7D5,Small Hearts Heal Completely [Brave Difficulty]
+N,002B-C465,Small Hearts Heal Completely [Easy Difficulty]
+N,002B-C765,Small Hearts Heal Completely [Jedi Difficulty]
+N,DF2B-C7D5,Small Hearts Heal Less [Brave Difficulty] Level
+N,DF2B-C465,Small Hearts Heal Less [Easy Difficulty]
+N,DF2B-C765,Small Hearts Heal Less [Jedi Difficulty] Level
+N,4D2B-C7D5,Small Hearts Heal Very Much [Brave Difficulty]
+N,4D2B-C465,Small Hearts Heal Very Much [Easy Difficulty]
+N,4D2B-C765,Small Hearts Heal Very Much [Jedi Difficulty]
+N,CE2A-CDA5+D921-C465,Start and Continue with More Lives on All Difficulty Levels
+N,F469-17D7+DD69-1707,Start on Asteroids Level
+N,D369-17D7+FC69-1707,Start on Cloud City 3D Level
+N,F169-1707,Start on Darth Vader Level
+N,D369-17D7+DC69-1707,Start on Hoth 3D Level
+N,D469-1707,Start on Level 1-2
+N,D169-1707,Start on Level 1-3
+N,D769-1707,Start on Level 1-4
+N,D969-1707,Start on Level 1-5
+N,D069-1707,Start on Level 1-6
+N,DB69-1707,Start on Level 1-7
+N,F969-1707,Start on Level 1-8
+N,D569-1707,Start on Level 1-10
+N,D669-1707,Start on Level 1-11
+N,DA69-1707,Start on Level 3-1
+N,D269-1707,Start on Level 3-2
+N,D369-1707,Start on Level 3-3
+N,DE69-1707,Start on Level 4-2
+N,F769-1707,Start on Level 4-3
+N,F469-1707,Start on Level 4-4
+N,FD69-1707,Start on Level 4-5
+N,F569-1707,Start on Level 4-6
+N,F669-1707,Start on Level 4-7
+N,DF2C-CDA5,Start with 1 Continue
+N,FD25-CD65,Start with 1/2 as Much Health [Brave Difficulty]
+N,F425-CDD5,Start with 1/2 as Much Health [Easy Difficulty]
+N,DF21-C7D5,Start with 2 Lives [Brave Difficulty]
+N,F625-CD65,Start with 3/4 as Much Health [Brave Difficulty]
+N,F625-CDD5,Start with 3/4 as Much Health [Easy Difficulty]
+N,F925-CFD5,Start with 3/4 as Much Health [Jedi Difficulty]
+N,D92C-CDA5,Start with 5 Continues
+N,D921-C7D5,Start with 6 Lives [Brave Difficulty]
+N,DB2C-CDA5,Start with 9 Continues
+N,F021-C7D5,Start with 21 Lives [Brave Difficulty]
+N,1721-C7D5,Start with 100 Lives [Brave Difficulty]
+N,6D23-47F9,Start with All Force Abilities
+N,622C-47D0,Start with Flame Gun [1st Life Only]
+N,D325-CFD5,Start with Half as Much Health [Jedi Difficulty]
+N,0025-CD65,Start with Max Health [Brave Difficulty]
+N,0025-CDD5,Start with Max Health [Easy Difficulty]
+N,4C25-CD65,Start with More Health [Brave Difficulty]
+N,4C25-CDD5,Start with More Health [Easy Difficulty]
+N,CE23-CDA5+7D25-CDD5,Start with More Health Units on All Difficulty Levels
+N,7D25-CD65,Start with Much More Health [Brave Difficulty]
+N,7D25-CDD5,Start with Much More Health [Easy Difficulty]
+N,DD2C-CDA5,Start with No Continues
+N,4D20-CF2F,Tauntaun Starts with 1/2x Usual Health
+N,7D20-CF2F,Tauntaun Starts with 3/4x Usual Health
+N,0020-CF2F,Tauntaun Starts with a Little More Health Than Usual
+N,0D8A-17DF,Temporary Invincibility After Being Hit Lasts Longer
+N,ADCE-CD0D,Touch the Ground and Automatically Die on Side-Scrolling Levels
+N,7E126FE1,You Can Fly!

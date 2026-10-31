@@ -1,3 +1,85 @@
-N,7E3A9300,auto victory p1
-N,7E3A8F60,Invincibility p1
-N,7E3AA308,p1 = n. boss (vs.)
+N,DD4A-8548+DD9C-E53E,Always Fight Bad Mr. Frosty After 1st Match
+N,DD4A-8548+D09C-E53E,Always Fight Blue Suede Goo After 1st Match
+N,DD4A-8548+D59C-E53E,Always Fight Bonker After 1st Match
+N,DD4A-8548+D19C-E53E,Always Fight Helga After 1st Match
+N,DD4A-8548+D99C-E53E,Always Fight Ickybod Clay After 1st Match
+N,DD4A-8548+D69C-E53E,Always Fight N. Boss After 1st Match
+N,DD4A-8548+DF9C-E53E,Always Fight Taffy After 1st Match
+N,DD4A-8548+D79C-E53E,Always Fight the Blob After 1st Match
+N,DD4A-8548+D49C-E53E,Always Fight Tiny After 1st Match
+N,7D4B-E112+7D4B-E1C2+7D4B-E132+7D4B-E542+7D4B-E512,Bad Mr. Frosty's Brutal Kicks Do More Damage
+N,7D46-E1C2+7D46-E132+7D46-E542+7D46-E512+7D46-E5C2,Bad Mr. Frosty's Brutal Punches Do More Damage
+N,7D4B-E5C2+7D4B-E532+7D4C-E042+7D4C-E012+7D4C-E0C2,Bad Mr. Frosty's Medium Kicks Do More Damage
+N,7D46-E532+7D4B-E042+7D4B-E012+7D4B-E0C2+7D4B-E032,Bad Mr. Frosty's Medium Punches Do More Damage
+N,ED4C-E142,Bad Mr. Frosty's Needle Nose Destroys
+N,7D4C-E032+7D4C-E942+7D4C-E912+7D4C-E9C2+7D4C-E932,Bad Mr. Frosty's Quick Kicks Do More Damage
+N,7D4B-E942+7D4B-E912+7D4B-E9C2+7D4B-E932+7D4B-E142,Bad Mr. Frosty's Quick Punches Do More Damage
+N,7D4C-E142,Bad Mr. Frosty's Snow Ball [All Punches] Does More Damage
+N,7D4F-7013+7D4F-70C3+7D4F-7033+7D4F-7943+7D4F-7913,Blob's Brutal Kick Does More Damage
+N,7D4D-70C3+7D4D-7033+7D4D-7943+7D4D-7913+7D4D-79C3,Blob's Brutal Punches Do More Damage
+N,7D4F-79C3+7D4F-7933+7D4F-7143+7D4F-7113+7D4F-71C3,Blob's Medium Kicks Do More Damage
+N,7D4D-7933+7D4D-7143+7D4D-7113+7D4D-71C3+7D4D-7133,Blob's Medium Punches Do More Damage
+N,7D4F-7133+7D4F-7543+7D4F-7513+7D4F-75C3+7D4F-7533,Blob's Quick Kicks Do More Damage
+N,7D4D-7543+7D4D-7513+7D4D-75C3+7D4D-7533+7D4F-7043,Blob's Quick Punches Do More Damage
+N,7D47-7113+7D47-71C3+7D47-7133+7D47-7543+7D47-7513,Blue Suede Goo's Brutal Kicks Do More Damage
+N,7D44-71C3+7D44-7133+7D44-7543+7D44-7513+7D44-75C3,Blue Suede Goo's Brutal Punches Do More Damage
+N,7D47-75C3+7D47-7533+7D40-7043+7D40-7013+7D40-70C3,Blue Suede Goo's Medium Kicks Do More Damage
+N,7D44-7533+7D47-7043+7D47-7013+7D47-70C3+7D47-7033,Blue Suede Goo's Medium Punches Do More Damage
+N,7D40-7033+7D40-7943+7D40-7913+7D40-79C3+7D40-7933,Blue Suede Goo's Quick Kicks Do More Damage
+N,7D47-7943+7D47-7913+7D47-79C3+7D47-7933+7D47-7143,Blue Suede Goo's Quick Punches Do More Damage
+N,7D48-7013+7D48-70C3+7D48-7033+7D48-7943+7D48-7913,Bonker's Brutal Kicks Do More Damage
+N,7D4C-70C3+7D4C-7033+7D4C-7943+7D4C-7913+7D4C-79C3,Bonker's Brutal Punches Do More Damage
+N,7D4A-7043,Bonker's Cutting Cartwheel Does More Damage
+N,7D48-79C3+7D48-7933+7D48-7143+7D48-7113+7D48-71C3,Bonker's Medium Kicks Do More Damage
+N,7D4C-7933+7D4C-7143+7D4C-7113+7D4C-71C3+7D4C-7133,Bonker's Medium Punches Do More Damage
+N,7D48-7133+7D48-7543+7D48-7513+7D48-75C3+7D48-7533,Bonker's Quick Kicks Do More Damage
+N,7D4C-7543+7D4C-7513+7D4C-75C3+7D4C-7533+7D48-7043,Bonker's Quick Punches Do More Damage
+N,6280-DD6F,Enable Blob's Bomb Move
+N,7D46-7113+7D46-71C3+7D46-7133+7D46-7543+7D46-7513,Helga's Brutal Kicks Do More Damage
+N,7D45-71C3+7D45-7133+7D45-7543+7D45-7513+7D45-75C3,Helga's Brutal Punches Do More Damage
+N,7D46-75C3+7D46-7533+7D4B-7043+7D4B-7013+7D4B-70C3,Helga's Medium Kicks Do More Damage
+N,7D45-7533+7D46-7043+7D46-7013+7D46-70C3+7D46-7033,Helga's Medium Punches Do More Damage
+N,7D46-5033+7D4B-7943+7D4B-7913+7D4B-79C3+7D4B-7933,Helga's Quick Kicks Do More Damage (Not Far Away)
+N,7D46-7943+7D46-7913+7D46-79C3+7D46-7933+7D46-7143,Helga's Quick Punches Do More Damage
+N,7D4B-71C3,Helga's Viking Ram Does More Damage
+N,6DE2-7438+94E2-7748,Hit Anywhere Both Players
+N,7D41-7013+7D41-70C3+7D41-7033+7D41-7943+7D41-7913,Ickybod Clay's Brutal Kicks Do More Damage
+N,7D49-70C3+7D49-7033+7D49-7943+7D49-7913+7D49-79C3,Ickybod Clay's Brutal Punches Do More Damage
+N,7D45-7013,Ickybod Clay's Ecto Punch Does More Damage
+N,7D41-79C3+7D41-7933+7D41-7143+7D41-7113+7D41-71C3,Ickybod Clay's Medium Kicks Do More Damage
+N,7D49-7933+7D49-7143+7D49-7113+7D49-71C3+7D49-7133,Ickybod Clay's Medium Punches Do More Damage
+N,7D41-7133+7D41-7543+7D41-7513+7D41-75C3+7D41-7533,Ickybod Clay's Quick Kicks Do More Damage
+N,7D49-7543+7D49-7513+7D49-75C3+7D49-7533+7D41-7043,Ickybod Clay's Quick Punches Do More Damage
+N,7E3A9360,Infinite Energy P2 or CPU
+N,7E3A8F60,Infinite Health P1
+N,7E3A8F00,No Energy P1
+N,7E3A9300,No Energy P2 or CPU
+N,C24A-593C+C24A-51CC,Skip Intro Screens
+N,7DF7-E5CE,Start with 1/2 Health [1st Round]
+N,7D4A-E01C,Start with 1/2 Health [2nd and Later Rounds]
+N,4DF7-E5CE,Start with 1/3 Health [1st Round]
+N,4D4A-E01C,Start with 1/3 Health [2nd and Later Rounds]
+N,FDF7-E5CE,Start with 1/6 Health [1st Round]
+N,FD4A-E01C,Start with 1/6 Health [2nd and Later Rounds]
+N,0DF7-E5CE,Start with 2/3 Health [1st Round]
+N,0D4A-E01C,Start with 2/3 Health [2nd and Later Rounds]
+N,9DF7-E5CE,Start with 5/6 Health [1st Round]
+N,9D4A-E01C,Start with 5/6 Health [2nd and Later Rounds]
+N,7D4A-E012+7D4A-E0C2+7D4A-E032+7D4A-E942+7D4A-E912,Taffy's Brutal Kicks Do More Damage
+N,7D48-E0C2+7D48-E032+7D48-E942+7D48-E912+7D48-E9C2,Taffy's Brutal Punches Do More Damage
+N,7D4A-E9C2+7D4A-E932+7D4A-E142+7D4A-E112+7D4A-E1C2,Taffy's Medium Kick Does More Damage
+N,7D48-E932+7D48-E142+7D48-E112+7D48-E1C2+7D48-E132,Taffy's Medium Punches Do More Damage
+N,7D4A-E132+7D4A-E542+7D4A-7513+7D4A-E5C2+7D4A-E532,Taffy's Quick Kicks Do More Damage (Not in Crouch)
+N,7D48-E542+7D48-E512+7D48-E5C2+7D48-E532+7D4A-E042,Taffy's Quick Punches Do More Damage
+N,7D42-E9C2,Taffy's Whack [All Kicks] Does More Damage
+N,7D42-E912,Taffy's Whack [All Punches] Does More Damage
+N,7D43-E112+7D43-E1C2+7D43-E132+7D43-E542+7D43-E512,Tiny's Brutal Kicks Do More Damage
+N,7D42-E1C2+7D42-E132+7D42-E542+7D42-E512+7D42-E5C2,Tiny's Brutal Punches Do More Damage
+N,7D4E-E142,Tiny's Medicine Ball Does More Damage
+N,7D43-E5C2+7D43-E532+7D4E-E042+7D4E-E012+7D4E-E0C2,Tiny's Medium Kicks Do More Damage
+N,7D42-E532+7D43-E042+7D43-E012+7D43-E0C2+7D43-E032,Tiny's Medium Punches Do More Damage
+N,7D4E-E032+7D4E-E942+7D4E-E912+7D4E-E9C2+7D4E-E932,Tiny's Quick Kicks Do More Damage
+N,7D43-E942+7D43-E912+7D43-E9C2+7D43-E932+7D43-E142,Tiny's Quick Punches Do More Damage
+N,7D4E-E512,Tiny's Sucker Punch Does More Damage
+N,7E3A8B02,Win One Round to Win the Match P1
+N,55CA-55CC,You'll Love This Code (Not!)

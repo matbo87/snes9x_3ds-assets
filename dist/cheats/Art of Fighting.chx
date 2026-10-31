@@ -1,9 +1,11 @@
-N,7F930C01,unl.spec.energy p1
-N,7F930801,invincibility p1
-N,7F944200,p2 low health
-N,7F949B00,p1 invisible to p2
-N,7F95830A,all char. in story
-N,7F943701,p2 cannot move
-N,7F944600,red spec.energy p2
-N,7F944500,no recharge s.e.p2
-N,7F93060E,p1 shadow colors
+N,075C-EDAD+075A-74AF+0D57-7F0F+0852-7464,Easier Special Moves
+N,6D14-7DD4,Hit Anywhere Both Players
+N,CB3C-57AF+3E38-5DDF+6238-5D0F,Infinite Energy
+N,7F956B3C,Infinite Time
+N,3D17-7464+DD17-74A4+DD17-77D4,Invincibility
+N,7F9307EF+7F9309EF,P1 Infinite Health
+N,7F930700+7F930900,P1 No Health
+N,7F9441EF+7F9443EF,P2 Infinite Health
+N,7F944100+7F944300,P2 No Health
+N,CB7C-7DAD+DD7C-7F0D+D47C-7FDD,Play as Any Character in 1P Story Mode
+N,7E0657E7+7E065803,Player Select

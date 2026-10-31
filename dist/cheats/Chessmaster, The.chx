@@ -1,6 +1,6 @@
-N,C9C7-D76F,White player's timer is stopped
-N,C9C9-DFDF,Black player's timer is stopped
-N,56C4-D46F,Timers count 2x as slow
-N,80C4-D46F,Timers count 3x times as slow
-N,F3C4-D46F,Timers count 2x as fast
-N,F0C4-D46F,Timers count 3x times as fast
+N,C9C9-DFDF,Black Player's Timer Is Stopped
+N,F3C4-D46F,Timers Count 2x as Fast
+N,56C4-D46F,Timers Count 2x as Slow
+N,F0C4-D46F,Timers Count 3x Times as Fast
+N,80C4-D46F,Timers Count 3x Times as Slow
+N,C9C7-D76F,White Player's Timer Is Stopped

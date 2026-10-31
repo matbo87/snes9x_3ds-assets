@@ -1,1 +1,13 @@
-N,0AA18B62,All action rounds
+N,14C6-0436,All 99 Action Rounds Available Without the Secret Code
+N,DD67-AD38,Clear Level Automatically
+N,D48D-AD36,Complete Action Level When Turned On (Keep Off to Play)
+N,7E013301,Enable Continue
+N,6D8F-DF3B,In Action Mode Passing a Stage Advances to the Next Round
+N,DD3C-6738,In Puzzle Mode Passing a Stage Advances to the Next Round
+N,D685-A766+DD86-AF66,In VS Mode Play Against Tougher Opponents Without the Secret Code
+N,C2A0-DF48,In VS Mode the Fuses Don't Count Down
+N,DF86-A71C,In VS Mode, Only 1 Win Is Required, P2 Always Wins the Set [2-player Only]
+N,7E098400,Infinite Moves
+N,C2EA-671B,Infinite Moves in Puzzle Mode (Turn Off If a Level Becomes Impossible)
+N,7E03A401+7E03A301,More Cookies Are Never Added
+N,7E005C01,View Background Forever

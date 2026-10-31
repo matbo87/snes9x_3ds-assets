@@ -1,4 +1,17 @@
-N,7E895564,Infinite health
-N,7E895764,Unlimited ammo
-N,7E895D64,Unlimited rockets
-N,7E895B64,Unlimited fire
+N,7E1769AC+7E1775AE,Face Always Smiling
+N,7E895764,Infinite Ammo
+N,C289-77DF,Infinite Ammo for Special Weapon 1
+N,C28F-84DF,Infinite Ammo for Special Weapon 2
+N,C2CC-5D64,Infinite Energy
+N,7E895B63,Infinite Flamethrower Ammo
+N,7E895564,Infinite Health
+N,C228-E7D4,Infinite Lives
+N,7E895D63,Infinite Rockets
+N,DF25-84D4,Start with 1 Life
+N,D125-84D4,Start with 6 Lives
+N,DB25-84D4,Start with 9 Lives
+N,622C-7764,Start with Chain Gun
+N,622C-74A4,Start with Machine Gun
+N,1729-8704+1728-74D4,Start with More Ammo
+N,622A-7DD4+D02C-7DA4,Start with Special Weapon 1 [Super Machine Gun] and Ammo
+N,6228-7704+D92C-7DAF,Start with Special Weapon 2 [Rocket Launcher] and Ammo

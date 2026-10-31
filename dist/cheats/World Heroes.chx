@@ -1,4 +1,36 @@
-N,7E08C308,Play As Geegus
+N,DDAB-77A4+1FAC-7D64,1 Hit to Win (Sudden Death -- Either Player)
+N,DDAB-77A4+7FAC-7D64,2 Hits to Win Round (Either Player)
+N,7F0C-7D64+DD0B-77A4,2 Hits to Win Round for Either Player
+N,DDAB-77A4+FBAC-7D64,3 Hits to Win Round (Either Player)
+N,FB0C-7D64+DD0B-77A4,3 Hits to Win Round for Either Player
+N,6D7B-8704,Easier Special Moves
+N,1F0C-7D64+DD0B-77A4,Either Player Needs 1 Hit to Win [Sudden Death]
+N,ADFE-746D+DDFE-74AD+FDFE-77DD+7DFE-776D,Hit Anywhere P1
+N,40A8-8FAF,Infinite Energy (P1)
+N,7E107B63,Infinite Health P1
 N,7E08C199,Infinite Time
-N,7E107B60,P1 Infinte Health
-N,7E117B00,P2 No Health
+N,5455-758B+5458-858B+575E-858B+5758-758B,Makes Dragon Punch Easy Todo
+N,7E117B00,No Health P2
+N,7B86-84A4,P1 Always Wins
+N,7E0BC308,P1 Controls Geegus (Boss)
+N,4008-8FAF,P1 Has Infinite Energy
+N,7D49-87D4,P1 Starts with 1/2 Energy
+N,7DC9-87D4,P1 Starts with 1/2 Energy (alt)
+N,5349-87D4,P1 Starts with More Energy
+N,53C9-87D4,P1 Starts with More Energy (alt)
+N,DF49-87D4,P1 Starts with Very Little Energy
+N,DFC9-87D4,P1 Starts with Very Little Energy (alt)
+N,D409-8F04,P1 Wins a Draw
+N,D4A9-8F04,P1 Wins a Draw (alt)
+N,7E083902,P1 Wins the Match After Winning a Round
+N,D509-8F04,P2 Wins a Draw
+N,D5A9-8F04,P2 Wins a Draw (alt)
+N,7D4A-8F64,P2/CPU Starts with Half Energy
+N,7DCA-8F64,P2/CPU Starts with Half Energy (alt)
+N,534A-8F64,P2/CPU Starts with More Energy
+N,53CA-8F64,P2/CPU Starts with More Energy (alt)
+N,DF4A-8F64,P2/CPU Starts with Very Little Energy
+N,DFCA-8F64,P2/CPU Starts with Very Little Energy (alt)
+N,B3D5-8FDF,Skip Intro Screens
+N,CD07-84AF,Slow Timer Down by Half
+N,CDA7-84AF,Slow Timer Down by Half (alt)

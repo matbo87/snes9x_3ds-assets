@@ -1,46 +1,46 @@
-N,7E10689A,Player 1 99 Lives
-N,7E10699A,Player 2 99 Lives
-N,FDC3-6D67+CBC3-6D07+3CC3-6DA7,Both players start with 10 lives
-N,F9C3-6D67+CBC3-6D07+3CC3-6DA7,Both players start with 15 lives
-N,4DC3-6D67+CBC3-6D07+3CC3-6DA7,Both players start with 20 lives
-N,49C3-6D67+CBC3-6D07+3CC3-6DA7,Both players start with 25 lives
-N,DFC3-6D67+D9C3-6DA7+C4C3-6D07+63C3-6FD7+C2C3-6FA7,Player 1 starts with 1 life; player 2 with 5 lives
-N,DFC3-6D67+FDC3-6DA7+C4C3-6D07+63C3-6FD7+C2C3-6FA7,Player 1 starts with 1 life; player 2 with 10 lives
-N,D4C3-6D67+D9C3-6DA7+C4C3-6D07+63C3-6FD7+C2C3-6FA7,Player 1 starts with 2 lives; player 2 with 5 lives
-N,D4C3-6D67+FDC3-6DA7+C4C3-6D07+63C3-6FD7+C2C3-6FA7,Player 1 starts with 2 lives; player 2 with 10 lives
-N,D9C3-6D67+DFC3-6DA7+C4C3-6D07+63C3-6FD7+C2C3-6FA7,Player 1 starts with 5 lives; player 2 with 1 life
-N,FDC3-6D67+DFC3-6DA7+C4C3-6D07+63C3-6FD7+C2C3-6FA7,Player 1 starts with 10 lives; player 2 with 1 life
-N,D9C3-6D67+D4C3-6DA7+C4C3-6D07+63C3-6FD7+C2C3-6FA7,Player 1 starts with 5 lives; player 2 with 2 lives
-N,FDC3-6D67+D4C3-6DA7+C4C3-6D07+63C3-6FD7+C2C3-6FA7,Player 1 starts with 10 lives; player 2 with 2 lives
-N,DD35-6FA5,Player 1 has infinite lives
-N,DD3B-6FA5,Player 2 has infinite lives
-N,62CD-AF67+4ACE-64D7,Player 1 starts with 1 green power cube instead of none
-N,62CD-A407+4ACE-64D7,Player 2 starts with 1 green power cube instead of none
-N,C22D-67D9,Invincibility (player 1)
-N,C23C-AF60,Invincibility (player 2)
-N,DFB0-A7DD+CDB0-A4AD+DDB0-A70D+6AB0-A76D,Start on planet B
-N,D4B0-A7DD+CDB0-A4AD+DDB0-A70D+6AB0-A76D,Start on planet C
-N,D7B0-A7DD+CDB0-A4AD+DDB0-A70D+6AB0-A76D,Start on planet D
-N,D0B0-A7DD+CDB0-A4AD+DDB0-A70D+6AB0-A76D,Start on planet E
-N,D9B0-A7DD+CDB0-A4AD+DDB0-A70D+6AB0-A76D,Start on planet F
-N,D1B0-A7DD+CDB0-A4AD+DDB0-A70D+6AB0-A76D,Start on planet G
-N,D5B0-A7DD+CDB0-A4AD+DDB0-A70D+6AB0-A76D,Start on planet H
-N,D6B0-A7DD+CDB0-A4AD+DDB0-A70D+6AB0-A76D,Start on planet I
-N,DBB0-A7DD+CDB0-A4AD+DDB0-A70D+6AB0-A76D,Start on planet J
-N,DCB0-A7DD+CDB0-A4AD+DDB0-A70D+6AB0-A76D,Start on planet K
-N,D8B0-A7DD+CDB0-A4AD+DDB0-A70D+6AB0-A76D,Start on planet L
-N,7E177900,Invincibility
-N,CBC3-6D07+D6C3-6D67+3CC3-6DA7+62C3-6467+62C3-6707,Start With Strongest Main Weapon Both Players
+N,FDC3-6D67+CBC3-6D07+3CC3-6DA7,Both Players Start with 10 Lives
+N,F9C3-6D67+CBC3-6D07+3CC3-6DA7,Both Players Start with 15 Lives
+N,4DC3-6D67+CBC3-6D07+3CC3-6DA7,Both Players Start with 20 Lives
+N,49C3-6D67+CBC3-6D07+3CC3-6DA7,Both Players Start with 25 Lives
 N,6D23-6FA4+DD28-67A4+C22D-A764+DD2E-6D04,Hit Anywhere Both Players
-N,7E106725,Start With 25 Lives
-N,7E1067FF,Start With 99 Lives
 N,7E106809,Infinite Lives
-N,7E106799,Set Lives to 99 (Player 1 & Player 2)
-N,7E177BFF,Infinite Shield (Player 1)
-N,7E188BFF,Infinite Shield (Player 2)
-N,7E17A408,Set Max. 1st Gun (Player 1)
-N,7E183508,Set Max. 1st Gun (Player 2)
-N,7E17EB08,Set Max. 2nd Gun (Player 1)
-N,7E177C08,Set Max. 2nd Gun (Player 2)
-N,7E12A700,Stage Select After 1st Stage Cleared
+N,7E177BFF,Infinite Shield (P1)
+N,7E188BFF,Infinite Shield (P2)
+N,7E177900,Invincibility
+N,C22D-67D9,Invincibility (P1)
+N,C23C-AF60,Invincibility (P2)
+N,7E10689A,P1 99 Lives
+N,DD35-6FA5,P1 Has Infinite Lives
+N,62CD-AF67+4ACE-64D7,P1 Starts with 1 Green Power Cube Instead of None
+N,DFC3-6D67+D9C3-6DA7+C4C3-6D07+63C3-6FD7+C2C3-6FA7,P1 Starts with 1 Life, P2 with 5 Lives
+N,DFC3-6D67+FDC3-6DA7+C4C3-6D07+63C3-6FD7+C2C3-6FA7,P1 Starts with 1 Life, P2 with 10 Lives
+N,D4C3-6D67+D9C3-6DA7+C4C3-6D07+63C3-6FD7+C2C3-6FA7,P1 Starts with 2 Lives, P2 with 5 Lives
+N,D4C3-6D67+FDC3-6DA7+C4C3-6D07+63C3-6FD7+C2C3-6FA7,P1 Starts with 2 Lives, P2 with 10 Lives
+N,D9C3-6D67+DFC3-6DA7+C4C3-6D07+63C3-6FD7+C2C3-6FA7,P1 Starts with 5 Lives, P2 with 1 Life
+N,D9C3-6D67+D4C3-6DA7+C4C3-6D07+63C3-6FD7+C2C3-6FA7,P1 Starts with 5 Lives, P2 with 2 Lives
+N,FDC3-6D67+DFC3-6DA7+C4C3-6D07+63C3-6FD7+C2C3-6FA7,P1 Starts with 10 Lives, P2 with 1 Life
+N,FDC3-6D67+D4C3-6DA7+C4C3-6D07+63C3-6FD7+C2C3-6FA7,P1 Starts with 10 Lives, P2 with 2 Lives
+N,7E10699A,P2 99 Lives
+N,DD3B-6FA5,P2 Has Infinite Lives
+N,62CD-A407+4ACE-64D7,P2 Starts with 1 Green Power Cube Instead of None
+N,7E106799,Set Lives to 99 (P1 & P2)
+N,7E17A408,Set Max. 1st Gun (P1)
+N,7E183508,Set Max. 1st Gun (P2)
+N,7E17EB08,Set Max. 2nd Gun (P1)
+N,7E177C08,Set Max. 2nd Gun (P2)
 N,DDBC-646D,Skip Intro Screens
+N,7E12A700,Stage Select After 1st Stage Cleared
+N,DFB0-A7DD+CDB0-A4AD+DDB0-A70D+6AB0-A76D,Start on Planet B
+N,D4B0-A7DD+CDB0-A4AD+DDB0-A70D+6AB0-A76D,Start on Planet C
+N,D7B0-A7DD+CDB0-A4AD+DDB0-A70D+6AB0-A76D,Start on Planet D
+N,D0B0-A7DD+CDB0-A4AD+DDB0-A70D+6AB0-A76D,Start on Planet E
+N,D9B0-A7DD+CDB0-A4AD+DDB0-A70D+6AB0-A76D,Start on Planet F
+N,D1B0-A7DD+CDB0-A4AD+DDB0-A70D+6AB0-A76D,Start on Planet G
+N,D5B0-A7DD+CDB0-A4AD+DDB0-A70D+6AB0-A76D,Start on Planet H
+N,D6B0-A7DD+CDB0-A4AD+DDB0-A70D+6AB0-A76D,Start on Planet I
+N,DBB0-A7DD+CDB0-A4AD+DDB0-A70D+6AB0-A76D,Start on Planet J
+N,DCB0-A7DD+CDB0-A4AD+DDB0-A70D+6AB0-A76D,Start on Planet K
+N,D8B0-A7DD+CDB0-A4AD+DDB0-A70D+6AB0-A76D,Start on Planet L
+N,7E106725,Start with 25 Lives
+N,7E1067FF,Start with 99 Lives
+N,CBC3-6D07+D6C3-6D67+3CC3-6DA7+62C3-6467+62C3-6707,Start with Strongest Main Weapon Both Players

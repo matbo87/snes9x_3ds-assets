@@ -1,32 +1,188 @@
-N,7E6E1A7F,Hero 4 Experience (1/3)
-N,7E6E1B96,Hero 4 Experience (2/3)
-N,7E6E1C98,Hero 4 Experience (3/3)
-N,7E14B37F,Maximum Money (1/3)
-N,7E14B496,Maximum Money (2/3)
-N,7E14B598,Maximum Money (3/3)
-N,7E143C0B,No Random Encounters
+N,7E6AECFF,255 Real Agl (Slot 1)
+N,7E6BECFF,255 Real Agl (Slot 2)
+N,7E6CECFF,255 Real Agl (Slot 3)
+N,7E6DECFF,255 Real Agl (Slot 4)
+N,7E6EECFF,255 Real Agl (Slot 5)
+N,7E6AF8FF,255 Real Base Acy (Slot 1)
+N,7E6BF8FF,255 Real Base Acy (Slot 2)
+N,7E6CF8FF,255 Real Base Acy (Slot 3)
+N,7E6DF8FF,255 Real Base Acy (Slot 4)
+N,7E6EF8FF,255 Real Base Acy (Slot 5)
+N,7E6AF3FF,255 Real Base Run (Slot 1)
+N,7E6BF3FF,255 Real Base Run (Slot 2)
+N,7E6CF3FF,255 Real Base Run (Slot 3)
+N,7E6DF3FF,255 Real Base Run (Slot 4)
+N,7E6EF3FF,255 Real Base Run (Slot 5)
+N,7E6AE7FF,255 Real Con (Slot 1)
+N,7E6BE7FF,255 Real Con (Slot 2)
+N,7E6CE7FF,255 Real Con (Slot 3)
+N,7E6DE7FF,255 Real Con (Slot 4)
+N,7E6EE7FF,255 Real Con (Slot 5)
+N,7E6AEEFF,255 Real Luc (Slot 1)
+N,7E6BEEFF,255 Real Luc (Slot 2)
+N,7E6CEEFF,255 Real Luc (Slot 3)
+N,7E6DEEFF,255 Real Luc (Slot 4)
+N,7E6EEEFF,255 Real Luc (Slot 5)
+N,7E6AD0E7+7E6AD103,999 Current HP (Slot 1)
+N,7E6BD0E7+7E6BD103,999 Current HP (Slot 2)
+N,7E6CD0E7+7E6CD103,999 Current HP (Slot 3)
+N,7E6DD0E7+7E6DD103,999 Current HP (Slot 4)
+N,7E6ED0E7+7E6ED103,999 Current HP (Slot 5)
+N,7E6AD6E7+7E6AD703,999 Current TP (Slot 1)
+N,7E6BD6E7+7E6BD703,999 Current TP (Slot 2)
+N,7E6CD6E7+7E6CD703,999 Current TP (Slot 3)
+N,7E6DD6E7+7E6DD703,999 Current TP (Slot 4)
+N,7E6ED6E7+7E6ED703,999 Current TP (Slot 5)
+N,7E6ACCE7+7E6ACD03,999 Real Max HP (Slot 1)
+N,7E6BCCE7+7E6BCD03,999 Real Max HP (Slot 2)
+N,7E6CCCE7+7E6CCD03,999 Real Max HP (Slot 3)
+N,7E6DCCE7+7E6DCD03,999 Real Max HP (Slot 4)
+N,7E6ECCE7+7E6ECD03,999 Real Max HP (Slot 5)
+N,7E6AD2E7+7E6AD303,999 Real Max TP (Slot 1)
+N,7E6BD2E7+7E6BD303,999 Real Max TP (Slot 2)
+N,7E6CD2E7+7E6CD303,999 Real Max TP (Slot 3)
+N,7E6DD2E7+7E6DD303,999 Real Max TP (Slot 4)
+N,7E6ED2E7+7E6ED303,999 Real Max TP (Slot 5)
+N,7E6AE1FF+7E6AE27F,32767 Real Str (Slot 1)
+N,7E6BE1FF+7E6BE27F,32767 Real Str (Slot 2)
+N,7E6CE1FF+7E6CE27F,32767 Real Str (Slot 3)
+N,7E6DE1FF+7E6DE27F,32767 Real Str (Slot 4)
+N,7E6EE1FF+7E6EE27F,32767 Real Str (Slot 5)
+N,7E1593FF+7E1594FF+7E1595FF,Always Have All Special Items
+N,7E1484FF+7E14857F+7E1486FF+7E14877F,Always Have Max Food
+N,7E710C01,Arche Has Black Hole
+N,7E710A01,Arche Has Death Clo.
+N,7E710601,Arche Has Distortion
+N,7E70FA01,Arche Has Eruption
+N,7E710701,Arche Has Explode
+N,7E710D01,Arche Has Extinction
+N,7E710401,Arche Has Fire Storm
+N,7E70FF01,Arche Has Fire Wall
+N,7E70F601,Arche Has Fireball
+N,7E710201,Arche Has Flame Torrent
+N,7E710501,Arche Has God Breath
+N,7E70F901,Arche Has Grave
+N,7E70F801,Arche Has Ice Needle
+N,7E70FC01,Arche Has Ice Tornado
+N,7E710101,Arche Has Ice Wall
+N,7E710801,Arche Has Indignation
+N,7E70F701,Arche Has Lightning
+N,7E710B01,Arche Has Meteor Strike
+N,7E710301,Arche Has Ray
+N,7E70FD01,Arche Has Stone Wall
+N,7E70FB01,Arche Has Storm
+N,7E710001,Arche Has Thunder Blade
+N,7E710901,Arche Has Tidal Wave
+N,7E70FE01,Arche Has Tractor Beam
+N,7E6AD00F+7E6AD127,Character 1
+N,7E6BD00F+7E6BD127,Character 2
+N,7E6CD00F+7E6CD127,Character 3
+N,7E6DD00F+7E6DD127,Character 4
+N,7E020647,Credits
+N,CED6-774F+23D6-773F,Enemies Die with 1 Hit
+N,7E6B1A00+7E6B1B09+7E6B1C3D,Exp
+N,DC5C-5401+DC5C-5461+695C-54A1+4D5C-57D1,EXP Multiplier x4
+N,CB5F-E7D8+6C54-E7D8+B254-E708+1654-E768+0D52-8DD8,Get 8 of Every Item Except for 'Chicken' [Item Code Set 1]
+N,CB5F-E7D8+D65F-E708+B254-EF08,Get 8 of Every Item Except for 'Chicken' [Item Code Set 2]
+N,CB5F-E7D8+665F-E708+B254-EF08,Get 8 of Every Item Except for 'Chicken' [Item Code Set 3]
+N,7E020646,Goodbye Friends
+N,7E14B37F+7E14B496+7E14B598,Have 9999999 Gold
+N,7E709581+7E715864,Have Blade Storm & Learned at 100%
+N,7E70AC81,Have Bolt Crash
+N,7E70B281,Have Burning Soul
+N,7E70B381,Have Cinder Hawk
+N,7E709D81+7E715B64,Have Duel Kick & Learned at 100%
+N,7E70AF81,Have Earth's Rage
+N,7E709901,Have Eir's Love
+N,7E709801,Have Firebrand
+N,7E70B081,Have Flare Talon
+N,7E709B01,Have Focus
+N,7E709A01,Have Focus More
+N,7E709601,Have Fury Slash
+N,7E709301,Have Gale Shield
+N,7E709E81+7E715C64,Have Lightning Bolt & Learned at 100%
+N,7E70AA81,Have Lion Claws
+N,7E70AB81,Have Lion Flare
+N,7E70A881,Have Lion Lunge
+N,7E70A981,Have Lion Teeth
+N,7E709781+7E715964,Have Lionheart & Learned at 100%
+N,7E70A781,Have Magma Bolt
+N,7E709F81+7E715D64,Have Magma Rift & Learned at 100%
+N,7E70A581,Have Mecha Blade
+N,7E70B181,Have Odin's Wrath
+N,7E709C81+7E715A64,Have Phoenix & Learned at 100%
+N,7E709281+7E715764,Have Psion Bolt & Learned at 100%
+N,7E70A481,Have Psion Kick
+N,7E70A681,Have Psion Storm
+N,7E70A381+7E715F64,Have Soul Edge & Learned at 100%
+N,7E70B481,Have Soul Forge
+N,7E70B581,Have Soul Strike
+N,7E70A081,Have Soul Wave
+N,7E70A181+7E715E64,Have Teleport & Learned at 100%
+N,7E70AE81,Have Tempest
+N,7E70AD81,Have Thor's Wrath
+N,7E709181+7E715664,Have Tiger Teeth & Learned at 100%
+N,7E709401,Have Wagasumi
+N,7E6E1A7F+7E6E1B96+7E6E1C98,Hero 4 Experience
+N,7E020645,I Miss You
+N,6DDF-7DBE,Infinite Health in Battle
+N,7E6ACC0F+7E6ACD27+7E6AD00F+7E6AD127,Infinite HP
+N,1831-7D60,Infinite TP in Battle
+N,7E70DD01,Klarth Has Aska
+N,7E70E101,Klarth Has Chamemel
+N,7E70D901,Klarth Has Efreet
+N,7E70D801,Klarth Has Gnome
+N,7E70E001,Klarth Has Gremlin
+N,7E70DB01,Klarth Has Luna
+N,7E70DA01,Klarth Has Maxwell
+N,7E70DF01,Klarth Has Origin
+N,7E70DC01,Klarth Has Shadow
+N,7E70D601,Klarth Has Sylphs
+N,7E70D701,Klarth Has Undine
+N,7E70DE01,Klarth Has Volt
+N,7E6AD863,Level 99 (Slot 1)
+N,7E6BD863,Level 99 (Slot 2)
+N,7E6CD863,Level 99 (Slot 3)
+N,7E6DD863,Level 99 (Slot 4)
+N,7E6ED863,Level 99 (Slot 5)
+N,7E70BC01,Mint Has Acid Rain
+N,7E70BA01,Mint Has Antidote
+N,7E70C001,Mint Has Barrier
+N,7E70BD01,Mint Has Cure
+N,7E70B701,Mint Has Deep Mist
+N,7E70C401,Mint Has Delay
+N,7E70C101,Mint Has Dispel
+N,7E70B601,Mint Has First Aid
+N,7E70B801,Mint Has Hammer
+N,7E70C501,Mint Has Hammer Head
+N,7E70C301,Mint Has Haste
+N,7E70B901,Mint Has Heal
+N,7E70C201,Mint Has Nurse
+N,7E70C701,Mint Has Raise Dead
+N,7E70BF01,Mint Has Recover
+N,7E70C601,Mint Has Ressurect
+N,7E70BB01,Mint Has Silence
+N,7E70BE01,Mint Has Valkerie
+N,7E143C4B,No Random Battles
+N,6DB5-57F6,No Random Battles (Other Areas)
+N,DD63-EF3B,No Random Battles (Overworld)
+N,7E143C0B,No Random Encounters (All Areas)
+N,7E6C1A00+7E6C1B09+7E6C1C3D,P.2 Exp
+N,7E6BCC0F+7E6BCD27+7E6BD00F+7E6BD127,P.2 Max HP
+N,7E6D1A00+7E6D1B09+7E6D1C3D,P.3 Exp
+N,7E6CCC0F+7E6CCD27+7E6CD00F+7E6CD127,P.3 Max HP
+N,7E6E1A00+7E6E1A00+7E6E1C3D,P.4 Exp
+N,7E6DCC0F+7E6DCD0F+7E6DD00F+7E6DD127,P.4 Max HP
+N,7E02064D,Piano Lesson 6
+N,7E020642,Rally X
+N,7E020643,Rally X R.Clear
+N,7E020644,Rally x R.Start
+N,7E020649,Recovery
+N,7E02064C,Ridge Racer
 N,7E137E01,Save Anywhere
-N,7E1484FF,Have Max Food (1/4)
-N,7E14857F,Have Max Food (2/4)
-N,7E1486FF,Have Max Food (3/4)
-N,7E14877F,Have Max Food (4/4)
-N,7E1593FF,Have All Special Items (1/3)
-N,7E1594FF,Have All Special Items (2/3)
-N,7E1595FF,Have All Special Items (3/3)
-N,6D6A-8F4B,Walk Through Walls (Map) (1/2)
-N,406A-8F1B,Walk Through Walls (Map) (2/2)
-N,6D69-8DF8,Walk Through Walls
-N,CED6-774F,1 Hit Kill (1/2)
-N,23D6-773F,1 Hit Kill (2/2)
-N,7E14B37F,Have 9999999 Gold (1/3)
-N,7E14B496,Have 9999999 Gold (2/3)
-N,7E14B598,Have 9999999 Gold (3/3)
-N,DC5C-5401,Exp X4 (1/4)
-N,DC5C-5461,Exp X4 (2/4)
-N,695C-54A1,Exp X4 (3/4)
-N,4D5C-57D1,Exp X4 (4/4)
-N,1831-7D60,Infinite TP In Battle
-N,CB44-E4A5,Maste Skills In 1 Use (1/2)
-N,1044-E7D5,Maste Skills In 1 Use (2/2)
-N,6D4B-7DA8,Shop Items Are Free (1/2)
-N,C24B-8F08,Shop Items Are Free (2/2)
+N,6D4B-7DA8+C24B-8F08,Shop Items Are Free!
+N,CB44-E4A5+1044-E7D5,Skills Get Mastered from 1 Use
+N,7E020648,This Is a Holiday
+N,7E009005,Walk Anywhere on World Map
+N,6D69-8DF8,Walk Through Walls Except on Overworld
+N,6D6A-8F4B+406A-8F1B,Walk Through Walls on Overworld

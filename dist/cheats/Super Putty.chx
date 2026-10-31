@@ -1,14 +1,13 @@
-N,7E09151E,Infinite Energy
-N,7E099799,Infinite Time
-N,7E001E4C,Infinite Lives
 N,7E09AF00,Current Bot Count
-N,7E09151E,Infinite Health
-N,7E004C02,Invincibilty Caused By Dying Is Never Turned Off
-N,7E08FD01,Enemy Stopper Powerup On
+N,7E002600,Determines How Many More Bots You Need to Deposit Before a Level Is Won
+N,7E08FD01,Enemy Stopper Powerup on
 N,7E004C1E,Enemy Stopper Powerup Timer
-N,7E0048DD+7E09A9B4+7E09AADD,You are the rabbit
-N,7E0048DD+7E09A98B+7E09AAE0,You are the electric worm
-N,7E0048C5+7E090F01,You have teeth
-N,7E0048DD+7E09A984+7E09AADE,You are the missile launching knight
-N,7E0048DD+7E09A9A7+7E09AADF,You are the lemon thing that spits seeds
-N,7E002600,Determines how many more bots you need to deposit before a level is won
+N,7E09151E,Infinite Energy
+N,7E001E4C,Infinite Lives
+N,7E099799,Infinite Time
+N,7E004C02,Invincibility Caused by Dying Is Never Turned Off
+N,7E0048DD+7E09A98B+7E09AAE0,You Are the Electric Worm
+N,7E0048DD+7E09A9A7+7E09AADF,You Are the Lemon Thing That Spits Seeds
+N,7E0048DD+7E09A984+7E09AADE,You Are the Missile Launching Knight
+N,7E0048DD+7E09A9B4+7E09AADD,You Are the Rabbit
+N,7E0048C5+7E090F01,You Have Teeth

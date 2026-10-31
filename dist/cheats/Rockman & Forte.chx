@@ -1,16 +1,79 @@
-N,7E0C2F63,Inf Health
-N,7E0B9CE7,Inf Bolts
-N,7E0B9D03,Inf Bolts
-N,7E0B7E09,Inf Lives
-N,7E0B7F00,Inf Lives
-N,7E0B8CFF,Inf Ice Wall
-N,7E0B8EFF,Inf Tengu Blade
-N,7E0B90FF,Inf Copy Vision
-N,7E0B86FF,Inf Remote Mine
-N,7E0B88FF,Inf Wave Burner
-N,7E0B8AFF,Inf Magic Card
-N,7E0B84FF,Inf Lightnig Bolt
-N,7E0B82FF,Inf Spread Drill
-N,7E0B92FF,Inf Rush Search
-N,7E0B969D,Inf Eddie
-N,7E0B949D,Inf Beat
+N,7E19EF01+7E1A2F01,1 Hit Boss Death
+N,7E19EF01,1 Hit Boss Death (alt)
+N,7E1A2F01,1 Hit Death
+N,3179-ED69+7279-EDA9,2x Health Recovery Speed
+N,7E0B97FF+7E0B98FF+7E0B99FF,All & Infinite Subscreen Items
+N,7E0BD002,All Shop Items Available
+N,CB7A-546D+EE7A-54AD+BB7A-57AD,All Special Items
+N,CDFC-5FA9+DDFC-54D9+3CFC-5469,Always Drop Item Modifier
+N,7E0BB601,Enemies Can't Touch You
+N,7E0C1601,Fast Animations
+N,7E16DC00,First Rising Block to Spikes Moves Incredably Slow
+N,7E0BB500,Forte Can Shoot More Weak Shots, Megaman Can Shoot More Charged Shots
+N,7E0B97FF,Have 1st 5 Units
+N,E310-DADD+EE10-DA0D+EE10-DA6D+EE10-DAAD+EE10-D2DD+EE10-D20D+EE10-D26D+EE10-D2AD+EE10-D3DD+EE10-D30D+EE10-D36D+EE10-D3AD+FE10-DEDD,Have All CDs
+N,7E0B98FF,Have CD Sparkle + Info.
+N,D079-EF09,Have Health Recover Ability
+N,6D0E-7402,Hit Anywhere
+N,7E0B7E09,Infinite 9 Lives
+N,7E0B9CE7+7E0B9D03,Infinite 999 Bolts
+N,CB4A-7FDD+BA4A-7F0D+B24A-7F6D+6D4A-7FAD,Infinite All Weapons
+N,7E0B949F,Infinite Beat Energy (Rockman Only!)
+N,7E0B909F,Infinite C. Vision
+N,7E0B969C,Infinite Eddie
+N,7E0B969F,Infinite Eddie (Rockman Only!)
+N,C20E-5D62,Infinite Energy
+N,7E0B929F,Infinite Gospel Booster/Rush Search
+N,7E0C2F1C,Infinite Health
+N,7E0B8C9F,Infinite Ice Wall
+N,7E0C5C00,Infinite Jumps (Bass)
+N,7E0B849F,Infinite L. Bolt
+N,C2F7-EF04,Infinite Lives
+N,7E0B8A9F,Infinite M. Cards
+N,7E0B869F,Infinite Mines
+N,7E0B929C,Infinite Rush Search/Infinite G. Boost
+N,7E0B829F,Infinite S. Drill
+N,7E0C5401,Infinite Sliding Time
+N,7E0B97F9,Infinite Spikestep & Capsule
+N,7E0B8E9F,Infinite T. Blade
+N,7E0B889F,Infinite W. Burner
+N,ED79-E7D9,Instant Health Recover
+N,7E0C3031,Invincibility
+N,DDF4-8761+CBF4-87A1+69F7-8D01+6D72-EF60,Invincibility Against Enemies and Spikes
+N,1808-5FA2,Invincibility Enemies
+N,187F-7D09,Invincibility Fire
+N,1D48-74D5,Invincibility Pits
+N,1873-E400,Invincibility Spikes
+N,E241-8D69,Jump in Midair - Bass
+N,1DFB-7F05+5EFB-7F65+4D51-EDD5+E251-ED05+7C51-ED65+4D51-EDA5+3B51-EFD5+7F51-EF05+1D51-EF65,Jump in Midair - Megaman
+N,6D99-5D0C,Jump on Any Button to Open Door
+N,6D0C-7F62+6D00-54D2,Kill Armored Enemies
+N,7E0B7B00,Last Area Level
+N,7E0B79FF,Last Area Open
+N,7E1C4104,Last Drill Is Gone in the Ground Man Stage
+N,EE1F-876D+6214-840D,Last Level Is Open
+N,650E-5762,Longer Invincibility After Being Hit
+N,7E0C5B46,Mega Buster Charged
+N,D5FE-54D1,Mega Jump
+N,7E0C1C01,Moon Jump
+N,4006-5F02,One Hit Kill
+N,7E19FD00+7E1A3D00+7E1A7D00+7E1ABD00,Pillar of Fire 1
+N,7E1AFD00+7E1B3D00+7E1B7D00+7E1BBD00,Pillar of Fire 2
+N,7E1BFD00+7E1C3D00+7E1C7D00+7E1CBD00,Pillar of Fire 3
+N,7E1CFD00+7E1D3D00+7E1D7D00+7E1DBD00,Pillar of Fire 4
+N,7E0B7601,Play as Bass
+N,7E0B7600,Play as Megaman
+N,7E0C5B78,Rapid Big Fire
+N,7E0C5B52,Rapid Medium Fire
+N,7E0BB400,Rockman Can Shoot More Weak Shots
+N,DD74-5DA1,Scroll Through Weapons (L/R)
+N,7E0BB401,Shoot as Many R Buster Rounds Off Without Having to Recharge
+N,3CD0-5FAF+0AD0-54DF+A3D0-540F+08D0-546F+4308-77D7,Sound Test Activated When Game Boots
+N,D34F-77A0,Start with 1/2 Energy
+N,D54F-77A0,Start with 1/4 Energy
+N,764F-77A0,Start with 2X Energy
+N,F94F-77A0,Start with 3/4 Energy
+N,DBF9-7F07,Start with 9 Lives
+N,3B03-57D2+D403-5702,Take Less Damage
+N,3B03-57D2+DF03-5702,Take Much Less Damage
+N,C9F4-7409+8201-7460,Walk Through Walls

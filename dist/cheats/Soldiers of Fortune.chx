@@ -1,19 +1,120 @@
-N,7E40F064,Infinite Health (P1)
-N,7E416564,Infinite Health (P2)
-N,7E009004,Infinite Lives (P1)
-N,7E009204,Infinite Lives (P2)
-N,7E40FF06,Infinite Special Attacks (P1)
-N,7E417406,Infinite Special Attacks (P2)
-N,DCE0-87AD,Smaller Food Heal 2X
-N,F0E0-87AD,Smaller Food Heal 4X
-N,F3E9-8FDD,Large Food Heals 2X
-N,7AE9-8FDD,Large Food Heals 4X
-N,6DEB-8D0D,Special Pwr-Up Worth 6
-N,3CC6-870D,Inf. Special Powers
-N,DDF6-5D50,Extra Lives Cost 244
-N,DDF6-5DE0,Skill Power-Ups Cost 44
-N,DFF6-5F70,Health Power-Ups Cost 1
-N,DFF6-5F80,Speed Power-Ups Cost 1
-N,DFF6-5470,Wisdom Power-Ups Cost 1
-N,DFF6-5480,Special Powers Cost 1
-N,DFF6-5780,Weapon Power-Ups Cost 1
+N,DB40-EDE5,Brigand Gets Party Power as a 4th Special Power
+N,DC40-ED75,Brigand Starts with Air Burst Special Power
+N,DF40-ED75,Brigand Starts with Bomb Special Power
+N,D040-ED75,Brigand Starts with Destroy Nodes Power
+N,D840-ED75,Brigand Starts with Distract Monster Special Power
+N,D340-ED75,Brigand Starts with Dynamite Special Power
+N,D140-ED75,Brigand Starts with First Aid Special Power
+N,D540-ED75,Brigand Starts with Freeze Monster Special Power
+N,D240-ED75,Brigand Starts with Ground Mine Special Power
+N,D740-ED75,Brigand Starts with Map Special Power
+N,DA40-ED75,Brigand Starts with Molotov Special Power
+N,1D44-87E5,Brigand Starts with Much More Health
+N,DB40-ED75,Brigand Starts with Party Power Special Power
+N,D940-ED75,Brigand Starts with Repel Monster Special Power
+N,D640-ED75,Brigand Starts with Shield Special Power
+N,D440-ED75,Brigand Starts with Shot Burst Special Power
+N,DDF6-5D50,Extra Lives Cost 244 Instead of 500
+N,DC40-E475,Gentleman Starts with Air Burst Special Power
+N,DF40-E475,Gentleman Starts with Bomb Special Power
+N,D040-E475,Gentleman Starts with Destroy Nodes Power
+N,D840-E475,Gentleman Starts with Distract Monster Special Power
+N,D340-E475,Gentleman Starts with Dynamite Special Power
+N,D140-E475,Gentleman Starts with First Aid Special Power
+N,D540-E475,Gentleman Starts with Freeze Monster Special Power
+N,D240-E475,Gentleman Starts with Ground Mine Special Power
+N,D740-E475,Gentleman Starts with Map Special Power
+N,DA40-E475,Gentleman Starts with Molotov Special Power
+N,1D41-8F85,Gentleman Starts with Much More Health
+N,DB40-E475,Gentleman Starts with Party Power Special Power
+N,D940-E475,Gentleman Starts with Repel Monster Special Power
+N,D640-E475,Gentleman Starts with Shield Special Power
+N,D440-E475,Gentleman Starts with Shot Burst Special Power
+N,DFF6-5F70,Health Power-Ups Cost 1 Instead of 75
+N,FBF6-5F70,Health Power-Ups Cost 25 Instead of 75
+N,7E40F064,Infinite Health P1
+N,7E416564,Infinite Health P2 or Computer Partner
+N,CBC1-E46F,Infinite Lives
+N,7E009004,Infinite Lives P1
+N,7E009204,Infinite Lives P2 or Computer Partner
+N,7E40FF06,Infinite Special Attacks P1
+N,7E417406,Infinite Special Attacks P2 or Computer Partner
+N,7AE9-8FDD,Large Food Power-Ups Heal Four Times as Much
+N,F3E9-8FDD,Large Food Power-Ups Heal Twice as Much
+N,DB40-EFE5,Mercenary Gets Party Power as a 4th Special Power
+N,DC40-EF75,Mercenary Starts with Air Burst Special Power
+N,DF40-EF75,Mercenary Starts with Bomb Special Power
+N,D040-EF75,Mercenary Starts with Destroy Nodes Power
+N,D840-EF75,Mercenary Starts with Distract Monster Special Power
+N,D340-EF75,Mercenary Starts with Dynamite Special Power
+N,D140-EF75,Mercenary Starts with First Aid Special Power
+N,D540-EF75,Mercenary Starts with Freeze Monster Special Power
+N,D240-EF75,Mercenary Starts with Ground Mine Special Power
+N,D740-EF75,Mercenary Starts with Map Special Power
+N,DA40-EF75,Mercenary Starts with Molotov Special Power
+N,1D4E-5475,Mercenary Starts with Much More Health
+N,DB40-EF75,Mercenary Starts with Party Power Special Power
+N,D940-EF75,Mercenary Starts with Repel Monster Special Power
+N,D640-EF75,Mercenary Starts with Shield Special Power
+N,D440-EF75,Mercenary Starts with Shot Burst Special Power
+N,DB40-E785,Navvie Gets Party Power as a 3rd Special Power
+N,DC40-E775,Navvie Starts with Air Burst Special Power
+N,DF40-E775,Navvie Starts with Bomb Special Power
+N,D040-E775,Navvie Starts with Destroy Nodes Power
+N,D840-E775,Navvie Starts with Distract Monster Special Power
+N,D340-E775,Navvie Starts with Dynamite Special Power
+N,D140-E775,Navvie Starts with First Aid Special Power
+N,D540-E775,Navvie Starts with Freeze Monster Special Power
+N,D240-E775,Navvie Starts with Ground Mine Special Power
+N,D740-E775,Navvie Starts with Map Special Power
+N,DA40-E775,Navvie Starts with Molotov Special Power
+N,1D4B-8755,Navvie Starts with Much More Health
+N,DB40-E775,Navvie Starts with Party Power Special Power
+N,D940-E775,Navvie Starts with Repel Monster Special Power
+N,D640-E775,Navvie Starts with Shield Special Power
+N,D440-E775,Navvie Starts with Shot Burst Special Power
+N,D0EB-8DDD,Only 3 Special Powers Can Be Stored Instead of 6 [Handicap]
+N,DC49-EF75,Scientist Starts with Air Burst Special Power
+N,DF49-EF75,Scientist Starts with Bomb Special Power
+N,D049-EF75,Scientist Starts with Destroy Nodes Power
+N,D849-EF75,Scientist Starts with Distract Monster Special Power
+N,D349-EF75,Scientist Starts with Dynamite Special Power
+N,D149-EF75,Scientist Starts with First Aid Special Power
+N,D549-EF75,Scientist Starts with Freeze Monster Special Power
+N,D249-EF75,Scientist Starts with Ground Mine Special Power
+N,D749-EF75,Scientist Starts with Map Special Power
+N,DA49-EF75,Scientist Starts with Molotov Special Power
+N,1D4D-E4E5,Scientist Starts with Much More Health
+N,DB49-EF75,Scientist Starts with Party Power Special Power
+N,D949-EF75,Scientist Starts with Repel Monster Special Power
+N,D649-EF75,Scientist Starts with Shield Special Power
+N,D449-EF75,Scientist Starts with Shot Burst Special Power
+N,DDF6-5DE0,Skill Power-Ups Cost 44 Instead of 300
+N,F0E0-87AD,Smaller Food Power-Ups Heal Four Times as Much
+N,DCE0-87AD,Smaller Food Power-Ups Heal Twice as Much
+N,6DEB-8D0D,Special Power Power-Ups Are Worth 6 [Always Fill Meter]
+N,3CC6-870D,Special Powers Aren't Used Up
+N,DFF6-5480,Special Powers Cost 1 Instead of 150
+N,74F6-5480,Special Powers Cost 50 Instead of 150
+N,DFF6-5F80,Speed Power-Ups Cost 1 Instead of 250
+N,10F6-5F80,Speed Power-Ups Cost 100 Instead of 250
+N,DB49-ED85,Thug Gets Party Power as a 3rd Special Power
+N,DC49-ED75,Thug Starts with Air Burst Special Power
+N,DF49-ED75,Thug Starts with Bomb Special Power
+N,D049-ED75,Thug Starts with Destroy Nodes Power
+N,D849-ED75,Thug Starts with Distract Monster Special Power
+N,D349-ED75,Thug Starts with Dynamite Special Power
+N,D149-ED75,Thug Starts with First Aid Special Power
+N,D549-ED75,Thug Starts with Freeze Monster Special Power
+N,D249-ED75,Thug Starts with Ground Mine Special Power
+N,D749-ED75,Thug Starts with Map Special Power
+N,DA49-ED75,Thug Starts with Molotov Special Power
+N,1D42-8F75,Thug Starts with Much More Health
+N,DB49-ED75,Thug Starts with Party Power Special Power
+N,D949-ED75,Thug Starts with Repel Monster Special Power
+N,D649-ED75,Thug Starts with Shield Special Power
+N,D449-ED75,Thug Starts with Shot Burst Special Power
+N,DFF6-5780,Weapon Power-Ups Cost 1 Instead of 250
+N,10F6-5780,Weapon Power-Ups Cost 100 Instead of 250
+N,DFF6-5470,Wisdom Power-Ups Cost 1 Instead of 80
+N,FBF6-5470,Wisdom Power-Ups Cost 25 Instead of 80

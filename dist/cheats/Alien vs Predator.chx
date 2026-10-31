@@ -1,2 +1,62 @@
-N,00E180AD,power
-N,00B38DAD,life
+N,7E1026FF+7E102700,255 Max Life
+N,1D8D-A7AF,Blue Bottles Don't Heal at All
+N,3C8F-A76F,Blue Bottles Heal 1/2 of Your Health Instead of 1/4
+N,DD84-A4DF,Blue Bottles Heal Completely
+N,DF83-64AF,Disc Power-Ups Give 1 Disc Instead of 6 [Handicap]
+N,D783-64AF,Disc Power-Ups Give 3 Discs
+N,DC83-64AF,Disc Power-Ups Give 10 Discs
+N,FB83-64AF,Disc Power-Ups Give 25 Discs
+N,F6B5-AD67,Fire Heavy Laser Above 3rd Line Without Waiting
+N,DFB5-AD67,Heavy Laser Can Be Fired Above 2nd Line [Eliminates Medium Laser]
+N,7E0D120F+7E0D1327,High Score Always 999900
+N,D12D-0D67+402B-6FD7+D13A-A4DD+D12B-0D07,Hit Anywhere
+N,7E105C09,Infinite 9 Lives
+N,7E1024FF,Infinite 255 Life
+N,3CEA-67D8,Infinite Continues
+N,1DB3-6727+C236-0DDD,Infinite Energy
+N,7E102464,Infinite Health
+N,C286-A70D,Infinite Lives
+N,DD86-A70D,Infinite Lives (alt)
+N,1D3B-0FAD+6D22-D4D7,Invincibility
+N,DFB1-A4D7,Light Laser Can Be Fired Instantly
+N,D9B5-ADD7,Medium Laser Can Be Fired Above 1st Line
+N,DCB1-A4A7,Medium Laser Can Be Fired Below 1st Line [Eliminates Light Laser]
+N,F6B1-A707,Medium Laser Is Fired Above 3rd Line Instead of 2nd
+N,F6B5-AF07,No Damage Is Taken from Using Heavy Laser
+N,C238-0FDD,No Damage Taken from Jumping Attacks, Tail Attacks, Rushes
+N,C236-0DDD,No Damage Taken from Punches
+N,6D2D-AFA7+6D37-64DD+6DB8-A765+6D39-DD6F,One Hit Kill
+N,7E1A0400+7E112400+7E1AA400,One Hit Kills Enemies & Bosses
+N,7E10A5FF+7E1125FF+7E1AA5FF,One Hit Kills Most or All Enemies
+N,DDCC-042D,Press Start on Controller 1 in Config Mode to Enter Stage Select
+N,C28D-A40F,Ptera Meat Doesn't Heal
+N,D08A-6F6F,Rhynth Meat Adds 1/2 as Much to Max Health [Handicap]
+N,FD82-67DF,Rhynth Meat Adds 2x as Much to Current Health
+N,FD8A-6F6F,Rhynth Meat Adds 2x as Much to Max Health
+N,4D82-67DF,Rhynth Meat Adds 4x as Much to Current Health
+N,4D8A-6F6F,Rhynth Meat Adds 4x as Much to Max Health
+N,D082-67DF,Rhynth Meat Adds Half as Much to Current Health
+N,DD82-67DF,Rhynth Meat Adds Nothing to Your Current Health
+N,C282-6FDF,Rhynth Meat Doesn't Add to Your Max Health
+N,7E0D0E0F+7E0D0F27,Score Always 999900
+N,CE8F-6F0B+CE6E-DF0D,Skip Intro Screens
+N,EDCA-0DD4,Spear and Disc Power-Ups Last Until End of Level [Can't Pick Up Other Power-Ups]
+N,DF8E-6D6F,Spear Power-Ups Give 1 Spear Instead of 6
+N,D78E-6D6F,Spear Power-Ups Give 3 Spears
+N,DC8E-6D6F,Spear Power-Ups Give 10 Spears
+N,FB8E-6D6F,Spear Power-Ups Give 25 Spears
+N,D4EE-A766,Start on Level 1-2
+N,D7EE-A766,Start on Level 2-1
+N,D0EE-A766,Start on Level 3-1
+N,D9EE-A766,Start on Level 4-1
+N,D1EE-A766,Start on Level 5-1
+N,D5EE-A766,Start on Level 5-2
+N,D6EE-A766,Start on Level 5-3
+N,DBEE-A766,Start on Level 6-1
+N,DCEE-A766,Start on Level 6-2
+N,EEB6-6D04+EEB6-6DA4,Start with Full Health Bar on Advanced Level
+N,EEB6-6F04+EEB6-6FA4,Start with Full Health Bar on Expert Level
+N,EEB5-6704+EEB5-67A4,Start with Full Health Bar on Novice Level
+N,EEB5-6404+EEB5-64A4,Start with Full Health Bar on Standard Level
+N,DB8F-AD9D,Start with Up to 9 Lives on Options Screen [Selecting Downward from 1 Goes to 6]
+N,F38F-AD2D,Up to 30 Continues on Options Screen

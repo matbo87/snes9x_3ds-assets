@@ -1,2 +1,30 @@
-N,7E1124A0,Unlimited health
-N,01E2DD00,Unlimited super
+N,C485-0DD7+DD85-0D07+10C6-07DF,All Opponents Have Less Energy
+N,DDB5-0D07+10C6-07DF+C485-0DD7,All Opponents Have Less Energy (alt)
+N,C485-0DD7+DD85-0D07+10C6-07DF+D4C6-070F,All Opponents Have More Energy
+N,10C8-07DF,Angel Has Less Energy in Match 3
+N,DFC8-070F,Angel Has More Energy in Match 3
+N,10CB-07DF+DDCB-070F,C.C. Has Less Energy in Match 2
+N,D4CB-070F,C.C. Has More Energy in Match 2
+N,7E124301,Enemy 1 Poses Constantly
+N,7E12D001,Enemy 2 Poses Constantly
+N,7E123EFF,Enemy Has Infinte Health
+N,10C6-07DF,Executioner in Match 1 Has Less Energy
+N,DFC6-070F,Executioner in Match 1 Has More Energy
+N,7E1124A0,Infinite Energy
+N,7E1124FF,Infinite Health
+N,DD32-6700,Infinite Super Powers After Gaining One
+N,7E123E00+7E123F00,Kill Enemies with 1 Hit
+N,7E112F03,P1 Has Infinite Specials
+N,7E114F01,P1 Is Untouchable
+N,7E112901,P1 Poses Constantly
+N,7E112501,P1 Starts with More Health
+N,7E11B1FF,P2 Has Infinite Health
+N,7E11BC03,P2 Has Infinite Specials
+N,7E11DC01,P2 Is Untouchable
+N,7E11B601,P2 Poses Constantly
+N,7E11B201,P2 Starts with More Health
+N,D7B3-D769,Start with 3 Super Powers
+N,D4BF-A760,Start with a Lot More Energy
+N,74BF-A4D0,Start with Less Energy
+N,EEBF-A4D0,Start with More Energy
+N,DD7D-0040,Start with More Energy (alt)

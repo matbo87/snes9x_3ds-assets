@@ -1,37 +1,27 @@
-N,3229-DDDD,Lord 90 HP & Alt Atk (1/4)
-N,3229-DDDD,Lord 90 HP & Alt Atk (2/4)
-N,A23D-D4FA,Lord 90 HP & Alt Atk (3/4)
-N,3229-A23D,Lord 90 HP & Alt Atk (4/4)
-N,10E3-9376,Quick Lv-Up 4 Hero Group (1/5)
-N,10E3-9356,Quick Lv-Up 4 Hero Group (2/5)
-N,10E3-9386,Quick Lv-Up 4 Hero Group (3/5)
-N,10E3-93E6,Quick Lv-Up 4 Hero Group (4/5)
-N,10E3-9E76,Quick Lv-Up 4 Hero Group (5/5)
-N,10E3-9E56,Quick Lv-Up 4 Lans Group (1/5)
-N,10E3-9E86,Quick Lv-Up 4 Lans Group (2/5)
-N,10E3-9EE6,Quick Lv-Up 4 Lans Group (3/5)
-N,10EE-9A76,Quick Lv-Up 4 Lans Group (4/5)
-N,10EE-9A56,Quick Lv-Up 4 Lans Group (5/5)
-N,CBE7-A70C,Edit Units = 2778 HP (1/4)
-N,B2E0-AD6C,Edit Units = 2778 HP (2/4)
-N,2CE0-ADAC,Edit Units = 2778 HP (3/4)
-N,DCE0-AFDC,Edit Units = 2778 HP (4/4)
-N,CB6A-AD20,Hidden Things Visible (1/3)
-N,CB6A-AF90,Hidden Things Visible (2/3)
-N,EE6A-AFB0,Hidden Things Visible (3/3)
+N,7E157879+7E157986,50000 Cash
+N,7E157850+7E157986+7E157A00,10000000 Cash
+N,6DA9-6463+DDA8-D4DE+CBAA-D40E+1DA6-04AE,Always Have 14 Cards in Battle
+N,CB6A-AD20+CB6A-AF90+EE6A-AFB0,Every Hidden Thing Starts Off Visible
+N,3229-DDDD+3229-DDDD+A23D-D4FA+3229-A23D,Gives Lord About 90 HP and Alternate Attack
+N,3229-A23D,Gives the Lord About 90 HP and His Attack Changes
+N,7EF1E864+7EF1E964+7EF1EA64+7EF1EB64+7EF1EC64,Hero's Group Has Quick Level Up
+N,7E15A3FF,Infinite Crowns
+N,7E1597FF,Infinite Drags
+N,7E15A7FF,Infinite Liebels
+N,7E15A9FF,Infinite Runes
+N,EE20-070E,Judgement Tarot Card Is Stronger
+N,7EF1ED64+7EF1EE64+7EF1EF64+7EF1F064+7EF1F164,Lans Group Has Quick Level Up
+N,DDE7-1F68,Lans' Group Moves 'Sky High'
+N,DDE6-1D68,Leader's Group Moves 'Sky High'
+N,7E1F1829,Level Up After 3 Battles (Active Characters Only)
 N,DD2F-AFF4,Level Up After Every Fight
-N,6DA9-6463,Always 14 Cards In Btl (1/4)
-N,DDA8-D4DE,Always 14 Cards In Btl (2/4)
-N,CBAA-D40E,Always 14 Cards In Btl (3/4)
-N,1DA6-04AE,Always 14 Cards In Btl (4/4)
-N,CB67-ADFB,Edit Units = Max Luck (1/4)
-N,EE67-AD9B,Edit Units = Max Luck (2/4)
-N,3C67-ADBB,Edit Units = Max Luck (3/4)
-N,BE67-AD2B,Edit Units = Max Luck (4/4)
-N,CB6F-A7FB,Edit Units = Max Cha. (1/4)
-N,196F-A79B,Edit Units = Max Cha. (2/4)
-N,3C6F-A7BB,Edit Units = Max Cha. (3/4)
-N,BE6F-A72B,Edit Units = Max Cha. (4/4)
-N,DDE6-1D68,Leader's Group Moves Sky High
-N,DDE7-1F68,Lans' Group Moves Sky High
-N,EE20-070E,Stronger Judgement Tarot Card
+N,7E157980+7E157996+7E157A98,MAX Cash
+N,CB3F-67AE+DD34-6DDE+DD34-6D0E,One Hit Kills
+N,7E157CFF,Rep
+N,7E157C64,Sets Reputation to Max
+N,CE67-DF0D+C261-D7AD,Skip Intro Screens
+N,A66B-AF6D+CE6B-AFAD,Start a New Game with $45,000 Goth (Instead of $30,000)
+N,EE6B-AF6D+EE6B-AFAD,Start a New Game with $65,535 Goth (Instead of $30,000)
+N,CBE7-A70C+B2E0-AD6C+2CE0-ADAC+DCE0-AFDC,View 'Edit Units' Screen to Give Everyone 2778 Max HP
+N,CB6F-A7FB+196F-A79B+3C6F-A7BB+BE6F-A72B,View Someone's Stats from 'Edit Units' Screen to Give Them Max Cha.
+N,CB67-ADFB+EE67-AD9B+3C67-ADBB+BE67-AD2B,View Someone's Stats from 'Edit Units' Screen to Give Them Max Luck

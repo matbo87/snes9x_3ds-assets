@@ -1,16 +1,138 @@
-N,0188E906,3X Spell Power Increases Rate
-N,018E1903,6,553 Exp Per Battle
-N,019E7964,Infinite Energy
-N,01B3F564,Spells Use Up No HP
-N,07EDCA9C,Free Learning Centre
-N,7E15FBFF,65,000 Exp/Battle Leader (1/2)
-N,7E15FCFF,65,000 Exp/Battle Leader (2/2)
-N,7E1621FF,65,000 Exp/Battle 2nd (1/2)
-N,7E1622FF,65,000 Exp/Battle 2nd (2/2)
-N,7E186809,No Random Battles
-N,7E17C30E,Infinite High Gold
+N,7E160F63,99 Available Magic (Slot 1)
+N,7E163563,99 Available Magic (Slot 2)
+N,7E165B63,99 Available Magic (Slot 3)
+N,7E168163,99 Available Magic (Slot 4)
+N,7E16157F,127 a Spirit (Slot 1)
+N,7E163B7F,127 a Spirit (Slot 2)
+N,7E16617F,127 a Spirit (Slot 3)
+N,7E16877F,127 a Spirit (Slot 4)
+N,7E16107F,127 E Spirit (Slot 1)
+N,7E16367F,127 E Spirit (Slot 2)
+N,7E165C7F,127 E Spirit (Slot 3)
+N,7E16827F,127 E Spirit (Slot 4)
+N,7E16127F,127 F Spirit (Slot 1)
+N,7E16387F,127 F Spirit (Slot 2)
+N,7E165E7F,127 F Spirit (Slot 3)
+N,7E16847F,127 F Spirit (Slot 4)
+N,7E16147F,127 L Spirit (Slot 1)
+N,7E163A7F,127 L Spirit (Slot 2)
+N,7E16607F,127 L Spirit (Slot 3)
+N,7E16867F,127 L Spirit (Slot 4)
+N,7E16167F,127 Mt Spirit (Slot 1)
+N,7E163C7F,127 Mt Spirit (Slot 2)
+N,7E16627F,127 Mt Spirit (Slot 3)
+N,7E16887F,127 Mt Spirit (Slot 4)
+N,7E16137F,127 Sk Spirit (Slot 1)
+N,7E16397F,127 Sk Spirit (Slot 2)
+N,7E165F7F,127 Sk Spirit (Slot 3)
+N,7E16857F,127 Sk Spirit (Slot 4)
+N,7E16177F,127 SP Spirit (Slot 1)
+N,7E163D7F,127 SP Spirit (Slot 2)
+N,7E16637F,127 SP Spirit (Slot 3)
+N,7E16897F,127 SP Spirit (Slot 4)
+N,7E16117F,127 W Spirit (Slot 1)
+N,7E16377F,127 W Spirit (Slot 2)
+N,7E165D7F,127 W Spirit (Slot 3)
+N,7E16837F,127 W Spirit (Slot 4)
+N,7E1606E7+7E160703,999 Defense/Endurance (Slot 1)
+N,7E162CE7+7E162D03,999 Defense/Endurance (Slot 2)
+N,7E1652E7+7E165303,999 Defense/Endurance (Slot 3)
+N,7E1678E7+7E167903,999 Defense/Endurance (Slot 4)
+N,7E1608E7+7E160803,999 Luck (Slot 1)
+N,7E162EE7+7E162E03,999 Luck (Slot 2)
+N,7E1654E7+7E165403,999 Luck (Slot 3)
+N,7E167AE7+7E167A03,999 Luck (Slot 4)
+N,7E1602E7+7E160303,999 Power/Attack (Slot 1)
+N,7E1628E7+7E162903,999 Power/Attack (Slot 2)
+N,7E164EE7+7E164F03,999 Power/Attack (Slot 3)
+N,7E1674E7+7E167503,999 Power/Attack (Slot 4)
+N,7E1604E7+7E160503,999 SP/Attack SP (Slot 1)
+N,7E162AE7+7E162B03,999 SP/Attack SP (Slot 2)
+N,7E1650E7+7E165103,999 SP/Attack SP (Slot 3)
+N,7E1676E7+7E167703,999 SP/Attack SP (Slot 4)
+N,7E15FE0F+7E15FF27,9999 Current HP (Slot 1)
+N,7E16240F+7E162527,9999 Current HP (Slot 2)
+N,7E164A0F+7E164B27,9999 Current HP (Slot 3)
+N,7E16700F+7E167127,9999 Current HP (Slot 4)
+N,7E16000F+7E160127,9999 Max HP (Slot 1)
+N,7E16260F+7E162727,9999 Max HP (Slot 2)
+N,7E164C0F+7E164D27,9999 Max HP (Slot 3)
+N,7E16720F+7E167327,9999 Max HP (Slot 4)
+N,6D63-6701+6D6E-6401,Automatically Go to Level 99 After a Fight
+N,DDEA-6F3D,Change the Item Equipped on Chenzi's Belt at the Start of the Game
+N,DDEA-6FCD,Change the Item Equipped on Chenzi's Body at the Start of the Game
+N,DDEA-6F4D,Change the Item Equipped on Chenzi's Left Arm (Shield) at the Start of the Game
+N,DDEA-644D,Change the Item Equipped on Chenzi's Legs at the Start of the Game
+N,DDEA-6F1D,Change the Item Equipped on Chenzi's Right Arm (Sword) at the Start of the Game
+N,DDEA-6D3D,Change the Item Equipped on Chenzis Head at the Start of the Game
+N,AEEB-64CF,Chenzi Starts with 997 Luck
+N,AEEB-6FCF,Chenzi Starts with 997 Speed and 997 Attack Speed
+N,AEEB-644F,Chenzi Starts with 1004 Endurance and 1016 Defense
+N,AEEB-6F4F,Chenzi Starts with 1007 Power and 1009 Attack
+N,EEEB-6DCF,Chenzi Starts with 5400 Hit Points
+N,EEEB-643F,Chenzi Starts with Every Spell
+N,F3EB-6F1F,Chezni Starts with 30 Speed
+N,46EB-6D3F,Chezni Starts with 40 Power, 42 Attack
+N,F3EB-6F3F,Chezni Starts with 42 Defense, 30 Endurance
+N,7AEB-6D3F,Chezni Starts with 60 Power, 62 Attack
+N,7AEB-6F1F,Chezni Starts with 60 Speed
+N,7AEB-6F3F,Chezni Starts with 72 Defense, 60 Endurance
+N,EEEB-6D1F,Chezni Starts with 255 Max. H.P.
+N,EEE6-673F,Chezni Starts with 255 Present H.P.
+N,FCEA-6F1D,Chezni Starts with a Aybro Spear
+N,D6EA-6F1D,Chezni Starts with a Bow
+N,57EA-6F1D,Chezni Starts with a Flame Thrower
+N,F5EA-6F1D,Chezni Starts with a Heavy Sword
+N,D2EA-6F1D,Chezni Starts with a Light Sword
+N,FDEA-6F1D,Chezni Starts with a Mid Sword
+N,54EA-6F1D,Chezni Starts with a Psych Beam
+N,7DEA-6F1D,Chezni Starts with a Wind Sword
+N,77EA-6FCD,Chezni Starts with Bib
+N,55EA-6D3D,Chezni Starts with Cosmo Helmet
+N,FBEA-6F4D,Chezni Starts with Fire Shield
+N,79EA-6F4D,Chezni Starts with Gabni Shield
+N,F0EA-6F4D,Chezni Starts with Gauntlet
+N,9FEA-6F1D,Chezni Starts with Gomutai
+N,FAEA-6FCD,Chezni Starts with Heavy Armor
+N,DAEA-6D3D,Chezni Starts with Helmet
+N,70EA-6F1D,Chezni Starts with HST
+N,40EA-6F3D,Chezni Starts with Knife Boots
+N,D9EA-6D3D,Chezni Starts with Leather Helm
+N,71EA-6F4D,Chezni Starts with Leather Shield
+N,D8EA-6FCD,Chezni Starts with Light Armor
+N,F8EA-6F3D,Chezni Starts with Long Boots
+N,DEEA-6FCD,Chezni Starts with Mid Armor
+N,F9EA-6F3D,Chezni Starts with Mid Boots
+N,DBEA-6F4D,Chezni Starts with Pick-Axe
+N,F1EA-6D3D,Chezni Starts with Power Helmet
+N,4AEA-6D3D,Chezni Starts with Rage Helmet
+N,59EA-6F4D,Chezni Starts with Rft Shield
+N,7FEA-6FCD,Chezni Starts with Storm Armor
+N,74EA-6D3D,Chezni Starts with Sun Helm
+N,D4EA-6F3D,Chezni Starts with Wood Boots
+N,AE36-6F4F,Get 2 Fritz Characters to Join Your Party
+N,D76F-6405,Get 6,553 EXP. per Battle
+N,A432-7765,Get Good Items After Battles
 N,10B5-6405,Infinite Energy
+N,7E17C30E,Infinite High Gold
+N,7E15FA63,Level 99 (Slot 1)
+N,7E162063,Level 99 (Slot 2)
+N,7E164663,Level 99 (Slot 3)
+N,7E166C63,Level 99 (Slot 4)
+N,BA3A-04BE,No Money Needed in Learning Center
+N,BA88-6481,No Money Needed in Toolhouse and Weapon Shop
+N,7E186809,No Random Battles
+N,7E15FBFF+7E15FCFF,Over 65,000 Experience Points a Battle for the Character Leading the Group
+N,7E1621FF+7E1622FF,Over 65,000 Experience Points for the Second Character
+N,D063-D401,Spell Power Increases at 2x Normal Rate
+N,D163-D401,Spell Power Increases at 3x Normal Rate
 N,108E-AF00,Spells Use Up No HP
-N,6D63-6701,Level 99 After A Fight (1/2)
-N,6D6E-6401,Level 99 After A Fight (2/2)
-N,7E162063,Level 99
+N,EEEB-6F3F+EEEB-644F,Start with 65,535 Endurance
+N,EEEB-6DCF+EEEB-6D1F,Start with 65,535 HP
+N,EEEB-6FCF+EEEB-6F1F,Start with 65,535 Speed and Attack Speed
+N,EEEB-6F3F,Start with 255 Endurance and 267 Defense
+N,EEEB-6D3F,Start with 255 Power and 257 Attack
+N,EEEB-6F1F,Start with 255 Speed, and Attack
+N,EEEB-64CF,Start with 285 Luck
+N,EEEB-6FCF,Start with 285 Speed and Attack Speed
+N,EEEB-6F4F,Start with 295 Power, and 297 Attack

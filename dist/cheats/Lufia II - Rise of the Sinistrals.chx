@@ -1,70 +1,76 @@
-N,81F9AFFF,Lv 22 In 1 Battle
-N,81F99FFF,Lv 83 In 1 Battle
-N,00F0908F,Lv 99 In 1 Battle (1/3)
-N,00F0908F,Lv 99 In 1 Battle (2/3)
-N,07C06863,Lv 99 In 1 Battle (3/3)
-N,7E1605FF,Get 700 Exp After Battle
-N,81FC02FF,Get More Gold
-N,81FC05FF,Get Lots More Gold
-N,7E31CB00,Get Lots & Lots More Gold
+N,EEE0-1DD9,13 Gauntlets After Equipping Item
+N,EEED-45A5,20,000 Gold
+N,EEED-4F05,35,000 Gold
+N,5560-3FD3,59 Gauntlets
+N,81F54200,999 ATP/DFP/STR and Up to 9999 Damage
+N,DDE0-1D69,999 ATP/DFP/STR, Up to 9999 Damage
+N,EEEE-4FD9,999 HP
+N,00F04000+00F04000+07C05862,999 STR/ATP/DFP
+N,EEED-4D65,1000 Gold
+N,7E0B557F+7E0B5696+7E0B5798,9999999 Coins
+N,7E0A8A7F+7E0A8B96+7E0A8C98,9999999 GP
+N,7E1608FF+7E1609FF,A Lot of Gold After Battle 500+
+N,819131FF,All Enemies Will Vanish If You Try to Attack
+N,7E097BFF+7E097CFF+7E097DFF+7E097EFF+7E097FFF+7E0980FF+7E0981FF+7E0982FF+7E0983FF+7E0986FF+7E0988FF+7E0989FF+7E098AFF+7E098BFF+7E098CFF+7E098DFF+7E098EFF+7E098FFF+7E0990FF+7E0991FF+7E0992FF+7E0996FF,All Warps
+N,7E700093+7E700293+7E700493,Always Get 5 Sets of 3 7's on Adventure 7 Slot Machines
+N,81F94DFF,Any Game You Load Will Have Maxed Out Data
+N,00F04000,Attack Power, Strength, Defense Up to 999
+N,0080BF00,Could Give More Damage, Could Heal Enemy
+N,EE60-0DDD,Cut-Up or Missing Body Pixels
 N,81FC34FF,Enemy Always Misses!
-N,82F91CFF,Unequipping Item Will Add Item
-N,82F91D2B,Zircon Armor When Unequip Item
-N,82F91D46,Deadly Sword When Unequip Item
-N,82F91D4A,War Rapier When Unequip Item
-N,82F9D1FF,Get Many Items On Status Screen
-N,7E117000,No Random Battles
-N,7E11E300,No Random Battles (Alt.)
+N,81FC74FF,Enemy Will Miss You
+N,7E1605FF,Get About 700 Exp After Battle
+N,01EF-170C,Get Deadly Sword When Item Is Unequipped
+N,19EF-170C,Get Deadly Sword When Item Is Unequipped (alt)
+N,82F91D46,Get Deadly Sword When Unequip Item
+N,82F91D65,Get Deadly Sword When Unequip Item (alt)
+N,81FC05FF,Get Lots More Gold (35,000+)
+N,91FC0FFF,Get Lots More Gold. (20,000+)
+N,82F9D1FF,Get Many Items from Going to Status Screen
+N,EEE2-1D0C,Get Many Items When Going to Status Screen
+N,81FC02FF,Get More Gold (1,000+)
+N,808B5C8F,Get Power Gourd or No Equip Item via Spell Menu
+N,81F540FF,Get Thirteen Gauntlets When Unequipping and Equipping Item
+N,0CEF-170C,Get War Rapier When Item Is Unequipped
+N,82F91D4A,Get War Rapier When Unequip Item
+N,48EF-170C,Get Zircon Armor When Item Is Unequipped
+N,56EF-170C,Get Zircon Armor When Item Is Unequipped (alt)
+N,2EEF-170C,Get Zircon Armor When Item Is Unequipped (alt 2)
+N,82F91D2B,Get Zircon Armor When Unequip Item
+N,82F91D78,Get Zircon Armor When Unequip Item (alt)
+N,82F91DDF,Get Zircon Armor When Unequip Item (alt 2)
+N,EE60-DDDD,Glitchy Start-Up but Speeds Up the Gameplay (Ie. Walking, Battle, Speech)
+N,838B4477,Grass Reappear, 59 Gauntlets
+N,DD68-D7AD,Greater Damage
+N,008020FF,Increase Stats by Choosing Equip Strongest
+N,7E0A8F2B+7E0A9010,Infinite 8 Dragon Eggs (Slot 2)
+N,81F4F4FF,Infinite 999 HP
 N,7E11E783,Instant Win Battles
-N,7E700093,3X 7's On Slot Machine (1/3)
-N,7E700293,3X 7's On Slot Machine (2/3)
-N,7E700493,3X 7's On Slot Machine (3/3)
-N,7E703E01,Win At Both Card Games (1/3)
-N,7E70C605,Win At Both Card Games (2/3)
-N,7E709E01,Win At Both Card Games (3/3)
-N,7E0A8A7F,9999999 GP (1/3)
-N,7E0A8B96,9999999 GP (2/3)
-N,7E0A8C98,9999999 GP (3/3)
-N,7E0B557F,9999999 Coins (1/3)
-N,7E0B5696,9999999 Coins (2/3)
-N,7E0B5798,9999999 Coins (3/3)
-N,7E097BFF,All Warps (1/22)
-N,7E097CFF,All Warps (2/22)
-N,7E097DFF,All Warps (3/22)
-N,7E097EFF,All Warps (4/22)
-N,7E097FFF,All Warps (5/22)
-N,7E0980FF,All Warps (6/22)
-N,7E0981FF,All Warps (7/22)
-N,7E0982FF,All Warps (8/22)
-N,7E0983FF,All Warps (9/22)
-N,7E0986FF,All Warps (10/22)
-N,7E0988FF,All Warps (11/22)
-N,7E0989FF,All Warps (12/22)
-N,7E098AFF,All Warps (13/22)
-N,7E098BFF,All Warps (14/22)
-N,7E098CFF,All Warps (15/22)
-N,7E098DFF,All Warps (16/22)
-N,7E098EFF,All Warps (17/22)
-N,7E098FFF,All Warps (18/22)
-N,7E0990FF,All Warps (19/22)
-N,7E0991FF,All Warps (20/22)
-N,7E0992FF,All Warps (21/22)
-N,7E0996FF,All Warps (22/22)
-N,DFED-F4D5,No Random Battles (1/3)
-N,EE65-4F69,No Random Battles (2/3)
-N,A46E-4D09,No Random Battles (3/3)
-N,EEE7-44D5,Kill Enemy With One Hit
-N,CB81-CD0A,Ancient Cave Floor 99 (1/2)
-N,1481-CD6A,Ancient Cave Floor 99 (2/2)
-N,DDAD-30B8,1 Hit Ancient Cave Boss (1/2)
-N,DDAD-3028,1 Hit Ancient Cave Boss (2/2)
-N,BAC2-44AD,All Ancient Dungeon Trophies
-N,6DE9-34D1,Always Get Items (1/2)
-N,DCE9-3401,Always Get Items (2/2)
-N,7E0A8F2B,Infinite 8 Dragon Eggs (1/2)
-N,7E0A9010,Infinite 8 Dragon Eggs (2/2)
-N,6EEB-DDDD,Lv 99 In 1 Battle (1/2)
-N,17A1-D4FA,Lv 99 In 1 Battle (2/2)
-N,6EEB-17A1,Lv 99 In 1 Battle (Alt.)
-N,EEEC-17A1,Lv 22 In 1 Battle (Alt.)
-N,EEEB-17A1,Lv 83 In 1 Battle (Alt.)
+N,EEE7-44D5,Kill Enemy with One Hit
+N,81FC38FF,Kill Enemy with One Hit or Magic and Knows How Much HP Enemies Have
+N,EEEC-17A1,Level 22 After One Battle
+N,6EEB-DDDD+17A1-D4FA,Level 99 After One Battle
+N,81F9AFFF,Level Up to Level 22 in One Battle
+N,81F99FFF,Level Up to Level 83 in One Battle
+N,81F94AFF,Load Any Games with Maxed Out Data (HP/MP Also)
+N,E3E9-17A1,Load or Start New Game with 167 for Stats
+N,81F95FFE,Load or Start New Game with 167 in Most Stats
+N,EEE0-1461,Loaded Games Have Max Attributes
+N,DFF348FF,Major Stat Increases with Level Up
+N,81F94FFF,MAJOR Stats Increase at Level Up
+N,DFED-F4D5+EE65-4F69+A46E-4D09,No Battles
+N,818476FF,No Enemy to Fight
+N,8184F1C2,No Enemy to Fight (alt)
+N,7E117000,No Random Battles on the Map
+N,7E11E300,No Random Battles on World Map
+N,00F0908F+00F0908F+07C06863,One Battle Level 99
+N,EEE7-4FD5,Opponents Always Miss
+N,EEE0-3DDD,Saturated Color of Town and Dungeon
+N,5560-3FDF,Saturated Color of Town and Dungeon #2
+N,7E62-37DF,Screen Messed Up When You Talk to People
+N,81F440FF,Super Status for the Main Hero
+N,82F91CFF,Unequipping an Item Will Add an Item
+N,EE64-DDDD+D46D-D4FA,Use Equip Strongest in Equip Menu to Increase Stats
+N,7E703E01+7E70C605+7E709E01,Win at Both Card Games (Blackjack, and One in the VIP Room)
+N,81F99F8F,Yet Another Code to Level Up to Level 99 in One Battle
+N,41FC0801,You Will Fight No Enemy

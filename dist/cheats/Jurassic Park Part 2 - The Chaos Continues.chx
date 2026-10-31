@@ -1,12 +1,30 @@
-N,DEC0-397D,Start With Less Machine Gun Ammo
-N,10C0-31ED,Start With More Shotgun Ammo
-N,FDC9-315D,Start With Less Tranquilizer Gun Ammo
-N,10C1-307D,Start With More Tranquilizer Missiles
 N,8BEB-C22D+8B65-1C67,Almost Invincible
-N,82B6-C704,Get Hit And You Become Invisible Until You Enter A New Screen
-N,EE30-1DAF,Flash Longer After Getting Hit
 N,DD30-1DAF,Don't Flash After Getting Hit
-N,6DED-3A9D,Don't Take Damage From Some Larger Dinosaurs
+N,6DED-3A9D,Don't Take Damage from Some Larger Dinosaurs
+N,EE30-1DAF,Flash Longer After Getting Hit
+N,82B6-C704,Get Hit and You Become Invisible Until You Enter a New Screen
+N,7E000AC8+7E000B03,Infinite Time (Not Sure What Level)
+N,7E000AC8,Infinite Time [Not Sure What Level]
+N,7EB04A0E,Invincible (P1)
+N,7EA9B2FF,P1 Infinite Bolas
+N,7E000864,P1 Infinite Dino Stock
+N,7EB03228,P1 Infinite Energy
+N,7EA9B6FF,P1 Infinite Grenade Launcher
+N,7EA9B8FF,P1 Infinite Machine Gun
+N,7EA9B814,P1 Infinite Missiles [Instead of 20]
+N,7EA9B6C8,P1 Infinite Rockets [Instead of 200]
+N,7EA9B0FF,P1 Infinite Sub-Machine Gun
+N,7EA9C8C8,P2 Infinite Ammo Bomb
+N,7EA9C2C8,P2 Infinite Ammo Bullet Spread Gun
+N,7EA9C0C8,P2 Infinite Ammo Machine Gun
+N,7EA9C6C8,P2 Infinite Ammo Needle Gun/Rockets
+N,7EB09728,P2 Infinite Health
+N,7EA9C814,P2 Infinite Missiles [Instead of 20]
+N,7EB088FE+7EB089FF,P2 Moon Jump
 N,0D6A-106E,Regular Gun Is Super Strong
-N,D462-48DD,Some Dinosaurs Die With One Hit
+N,D462-48DD,Some Dinosaurs Die with One Hit
+N,DEC0-397D,Start with Less Machine Gun Ammo
+N,FDC9-315D,Start with Less Tranquilizer Gun Ammo
+N,10C0-31ED,Start with More Shotgun Ammo
+N,10C1-307D,Start with More Tranquilizer Missiles
 N,4DC5-C67C,Velociraptor Takes More Damage

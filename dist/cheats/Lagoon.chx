@@ -1,58 +1,58 @@
-N,7E04D0FF,All Equipment & Magic (1/4)
-N,7E04D1FF,All Equipment & Magic (2/4)
-N,7E04D2FF,All Equipment & Magic (3/4)
-N,7E04D3F8,All Equipment & Magic (4/4)
-N,7E04D4FF,All Items (1/4)
-N,7E04D5FF,All Items (2/4)
-N,7E04D6FF,All Items (3/4)
-N,7E04D780,All Items (4/4)
-N,7E052C23,Maximum Level
-N,7E0520FF,Infinite Maximum HP
-N,7E0522FF,Infinite Maximum MP
-N,7E052502,Always Have High Str
 N,7E052702,Always Have High Def
 N,7E0529FF,Always Have High Gold
-N,7E052AFF,Maximum Exp (1/2)
-N,7E052BFF,Maximum Exp (2/2)
-N,7E045C00,Shop Item 1 Free (1/2)
-N,7E045D00,Shop Item 1 Free (2/2)
-N,7E045E00,Shop Item 2 Free (1/2)
-N,7E045F00,Shop Item 2 Free (2/2)
-N,7E046000,Shop Item 3 Free (1/2)
-N,7E046100,Shop Item 3 Free (2/2)
-N,02D9D905,Start On Level 5 
-N,02D9D923,Begin At Level 35! (Highest)
-N,02DA0256,Start With 22116 Gold
-N,02D94F18,Edit Mode (On Continue) (1/2)
-N,02D950DA,Edit Mode (On Continue) (2/2)
-N,019C6F60,Walk Through Walls (1/4)
-N,019CA660,Walk Through Walls (2/4)
-N,019D2D60,Walk Through Walls (3/4)
-N,019D6460,Walk Through Walls (4/4)
-N,01C95860,Pit Death Disabled
-N,02BEC780,Save Always Available (1/2)
-N,02BEC813,Save Always Available (2/2)
-N,EE23-0DDC,Walk SLOW! (New Game!)
-N,EE2D-6F6C,Start Out With Fireball Magic
-N,8822-AFA0,All Magic, Equip. & Items (1/5)
-N,B3A3-04A5,All Magic, Equip. & Items (2/5)
-N,23A3-0765,All Magic, Equip. & Items (3/5)
-N,2DA3-07A5,All Magic, Equip. & Items (4/5)
-N,D0AE-0DD5,All Magic, Equip. & Items (5/5)
-N,CBB0-0FA0,HP Recovers Instantly (1/2)
-N,EEB0-04D0,HP Recovers Instantly (2/2)
-N,CBB0-07A0,MP Recovers Instantly (1/2)
-N,EEB9-0DD0,MP Recovers Instantly (2/2)
-N,CBB0-0FA0,HP Recovers Fast
-N,CBB0-07A0,MP Recovers Fast
-N,CBB0-07D0,MP Recovers Very Fast (1/2)
-N,3CB0-0760,MP Recovers Very Fast (2/2)
-N,F620-07AC,Debug Menu (Continue)  (1/2)
-N,2C29-0DDC,Debug Menu (Continue)  (2/2)
-N,1DB1-D7A5,Walk Through Walls (1/4)
-N,1DBC-DF65,Walk Through Walls (2/4)
-N,1DB4-0705,Walk Through Walls (3/4)
-N,1DB1-0FD5,Walk Through Walls (4/4)
+N,7E052502,Always Have High Str
+N,4722-040C,Begin at Level 35! (Highest)
+N,1BB5-D769+DFB5-D7A9+3CB6-DDD9,Get 1 Gold Piece for Each Creature Killed
+N,1BB5-D769+10B5-D7A9+3CB6-DDD9,Get 100 Gold Pieces for Each Creature Killed
+N,1BB5-D769+A6B5-D7A9+3CB6-DDD9,Get 200 Gold Pieces for Each Creature Killed
+N,8822-AFA0+B3A3-04A5+23A3-0765+2DA3-07A5+D0AE-0DD5,Get All Magic, Equipment, and Items
+N,7E04D0FF+7E04D1FF+7E04D2FF+7E04D3F8,Have All Equipment & Magic
+N,7E04D4FF+7E04D5FF+7E04D6FF+7E04D780,Have All Items
+N,7E052AFF+7E052BFF,Have Max Experience
+N,7E052C23,Have Max Level
+N,DD84-64D9,Hit Anywhere
+N,CBB0-0FA0,HP Always Recovers Fast
+N,CBB0-0FA0+EEB0-04D0,HP Always Recovers Instantly
+N,7E0520FF,Infinite Max HP
+N,7E0522FF,Infinite Max MP
+N,F620-07AC+2C29-0DDC,Lagoon Edit Mode Debug Menu Enabled When Continue
+N,CBB0-07D0+3CB0-0760,MP Always Recovers Almost Instantly
+N,CBB0-07A0,MP Always Recovers Fast
+N,CBB0-07A0+EEB9-0DD0,MP Always Recovers Instantly
 N,1DA9-04D1,Pit Death Disabled
-N,6D8A-6FA8,Save Always Available (1/2)
-N,F78A-64D8,Save Always Available (2/2)
+N,6D8A-6FA8+F78A-64D8,Save Always Available
+N,7E045C00+7E045D00,Shop Item 1 Free
+N,7E045E00+7E045F00,Shop Item 2 Free
+N,7E046000+7E046100,Shop Item 3 Free
+N,DD02-040C,Start on Level 0 (HP= 0/0, MP= 0/0, EXP= 0/0)
+N,D422-040C,Start on Level 2
+N,D722-040C,Start on Level 3
+N,D022-040C,Start on Level 4
+N,D922-040C,Start on Level 5
+N,ED22-040C,Start on Level 240 (HP= 240, MP= 232, EXP= 17471, Walk at a Slower Speed)
+N,EF22-040C,Start on Level 241 (HP= 255, MP= 255, EXP= 22859, Walk at a Regular Speed)
+N,E422-040C,Start on Level 242 (HP= 220, MP= 221, EXP= 30560, Walk at a Medium Speed)
+N,E722-040C,Start on Level 243 (HP= 255, MP= 255, EXP= 36478, Walk at a Fast Speed)
+N,E022-040C,Start on Level 244 (HP= 232, MP= 232, EXP= 39316, Walk at a Super Fast Speed)
+N,E922-040C,Start on Level 245 (HP/MP 255, Super-Fast Walk)
+N,EE22-040C,Start on Level 255 (HP= 255, MP= 255, EXP= 2568, Walk Super-Duper Slow)
+N,EE2D-6F6C,Start Out with Fireball Magic
+N,DD2E-04AC,Start with 0 Defense
+N,DD2D-6D0C,Start with 0 GP
+N,DD23-07DC,Start with 0 Strength
+N,DF2D-6D0C,Start with 1 GP
+N,D92D-6D6C,Start with 1,380 Gold
+N,D62D-6D6C,Start with 2,148 Gold
+N,DE2D-6D6C,Start with 3,940 GP
+N,4D2D-6D6C,Start with 8,292 Gold
+N,912D-6D6C,Start with 22,116 Gold
+N,EE2D-6D6C,Start with 65,380 GP
+N,102E-04AC,Start with 100 Defense
+N,1023-07DC,Start with 100 Strength
+N,EE2E-04AC,Start with 255 Defense
+N,EE23-07DC,Start with 255 Strength
+N,DF2D-6D6C,Start with 356 GP
+N,D42D-6D6C,Start with 612 Gold
+N,E12E-07DC+F52E-04AC,Start with 999 Defense
+N,EE23-0DDC,Walk SLOW! (ONLY When You Start a New Game!)
+N,1DB1-D7A5+1DBC-DF65+1DB4-0705+1DB1-0FD5,Walk Through Walls

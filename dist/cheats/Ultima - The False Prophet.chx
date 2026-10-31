@@ -1,11 +1,62 @@
-N,EEEE-2735,Almost Infinite Items
-N,EE2B-DF6F,High Spd Char. Scroll In Btl
-N,322B-D467,Oil Atk Does Mega-Dmg (1/2)
-N,322B-D767,Oil Atk Does Mega-Dmg (2/2)
-N,7E014BFF,Infinite Gold (1/2)
-N,7E014CFF,Infinite Gold (2/2)
-N,7E014A64,Max Karma
+N,EE2A-DF6F,Affects Attack Graphics
+N,EE22-DF67,Affects Heal Spell
+N,322B-D467+322B-D767,Attacking with Oil Does Mega-Damage
+N,5560-DDDF,Can't Enter or Exit Buildings
+N,5560-DD6D,Change Location
+N,A56B-D767,Erases Your Saves
+N,3ABB-D767,Get Lord British in Your Party
+N,EE2B-DF6F,High Speed Character Scrolling in Battle
 N,7E8603F0,Infinite Energy
+N,7E8607F0,Infinite Energy (alt)
+N,7E8609F0,Infinite Energy (alt 2)
+N,7E8605F0,Infinite Energy (alt 3)
+N,7E867DF0,Infinite Energy (alt 4)
+N,7E8685F0,Infinite Energy (alt 5)
+N,7E8741F0,Infinite Energy (alt 6)
+N,7E86C3F0,Infinite Energy (alt 7)
+N,7E874DF0,Infinite Energy (alt 8)
+N,7E86E3F0,Infinite Energy (alt 9)
+N,7E8757F0,Infinite Energy (alt 10)
+N,7E86E5F0,Infinite Energy (alt 11)
+N,7E870FF0,Infinite Energy (alt 12)
+N,7E875DF0,Infinite Energy (alt 13)
+N,7E8687F0,Infinite Energy (alt 14)
+N,7E014BFF+7E014CFF,Infinite Gold
+N,EEEE-2735,Infinite Items! (Sort of)
 N,7E8C023C,Infinite MP
-N,7E88020F,Max Exp (1/2)
-N,7E880327,Max Exp (2/2)
+N,7E8C063C,Infinite MP (alt)
+N,7E8C083C,Infinite MP (alt 2)
+N,7E8C043C,Infinite MP (alt 3)
+N,7E8C7C3C,Infinite MP (alt 4)
+N,7E8C843C,Infinite MP (alt 5)
+N,7E8D403C,Infinite MP (alt 6)
+N,7E8CC23C,Infinite MP (alt 7)
+N,7E8D4C3C,Infinite MP (alt 8)
+N,7E8CE23C,Infinite MP (alt 9)
+N,7E8D563C,Infinite MP (alt 10)
+N,7E8CE43C,Infinite MP (alt 11)
+N,7E8D0E3C,Infinite MP (alt 12)
+N,7E8D5C3C,Infinite MP (alt 13)
+N,7E8C863C,Infinite MP (alt 14)
+N,552C-DF6F,Kills, Then Erases Avatar
+N,7E88020F+7E880327,Max Experience
+N,7E88060F+7E880727,Max Experience (alt)
+N,7E88080F+7E880927,Max Experience (alt 2)
+N,7E88040F+7E880527,Max Experience (alt 3)
+N,7E887C0F+7E887D27,Max Experience (alt 4)
+N,7E88840F+7E888527,Max Experience (alt 5)
+N,7E89400F+7E894127,Max Experience (alt 6)
+N,7E88C20F+7E88C327,Max Experience (alt 7)
+N,7E894C0F+7E894D27,Max Experience (alt 8)
+N,7E88E20F+7E88E327,Max Experience (alt 9)
+N,7E89560F+7E895727,Max Experience (alt 10)
+N,7E88E40F+7E88E527,Max Experience (alt 11)
+N,7E890E0F+7E890F27,Max Experience (alt 12)
+N,7E895C0F+7E895D27,Max Experience (alt 13)
+N,7E88860F+7E888727,Max Experience (alt 14)
+N,7E014A64,Max Karma
+N,35BB-D767,Moonwalking Party Members
+N,5560-DFDF,Multiple Effects
+N,1060-DD6D,No Battle at Start Using a New Game
+N,1060-D4AD,No Name for Hero When Starting a New Game
+N,7E1B8D00,Talk Command

@@ -1,33 +1,186 @@
-N,7E00BE01,Only One Monster In Battle
-N,7FE064FF,Max Character 1 Exp (1/4)
-N,7FE067FF,Max Character 1 Exp (2/4)
-N,7FE068FF,Max Character 1 Exp (3/4)
-N,7FE069FF,Max Character 1 Exp (4/4)
-N,7FE0EEFF,Max Character 2 Exp (1/4)
-N,7FE0EFFF,Max Character 2 Exp (2/4)
-N,7FE0F0FF,Max Character 2 Exp (3/4)
-N,7FE0F1FF,Max Character 2 Exp (4/4)
-N,7FE176FF,Max Character 3 Exp (1/4)
-N,7FE177FF,Max Character 3 Exp (2/4)
-N,7FE178FF,Max Character 3 Exp (3/4)
-N,7FE179FF,Max Character 3 Exp (4/4)
-N,7FE1FEFF,Max Character 4 Exp (1/4)
-N,7FE1FFFF,Max Character 4 Exp (2/4)
-N,7FE200FF,Max Character 4 Exp (3/4)
-N,7FE201FF,Max Character 4 Exp (4/4)
-N,7FE286FF,Max Character 5 Exp (1/4)
-N,7FE287FF,Max Character 5 Exp (2/4)
-N,7FE288FF,Max Character 5 Exp (3/4)
-N,7FE289FF,Max Character 5 Exp (4/4)
-N,7FE30EFF,Max Character 6 Exp (1/4)
-N,7FE30FFF,Max Character 6 Exp (2/4)
-N,7FE310FF,Max Character 6 Exp (3/4)
-N,7FE311FF,Max Character 6 Exp (4/4)
-N,7FE396FF,Max Character 7 Exp (1/4)
-N,7FE397FF,Max Character 7 Exp (2/4)
-N,7FE398FF,Max Character 7 Exp (3/4)
-N,7FE399FF,Max Character 7 Exp (4/4)
-N,7FE41EFF,Max Character 8 Exp (1/4)
-N,7FE41FFF,Max Character 8 Exp (2/4)
-N,7FE420FF,Max Character 8 Exp (3/4)
-N,7FE421FF,Max Character 8 Exp (4/4)
+N,7FE02801,Character 1 Can Cast Spells
+N,7FE056FF+7FE057FF+7FE058FF+7FE059FF+7FE05AFF+7FE05BFF,Character 1 Learned All Sorceror Spells
+N,7FE0B300,Character 2 Always in "Good" Conditions
+N,7FE0B001,Character 2 Can Cast Spells
+N,7FE0DEFF+7FE0DFFF+7FE0E0FF+7FE0E1FF+7FE0E2FF+7FE0E3FF,Character 2 Learned All Sorceror Spells
+N,7FE13B00,Character 3 Always in "Good" Conditions
+N,7FE13801,Character 3 Can Cast Spells
+N,7FE166FF+7FE167FF+7FE168FF+7FE169FF+7FE16AFF+7FE16BFF,Character 3 Learned All Sorceror Spells
+N,7FE1C300,Character 4 Always in "Good" Conditions
+N,7FE1C001,Character 4 Can Cast Spells
+N,7FE1EEFF+7FE1EFFF+7FE1F0FF+7FE1F1FF+7FE1F2FF+7FE1F3FF,Character 4 Learned All Sorceror Spells
+N,7FE24B00,Character 5 Always in "Good" Conditions
+N,7FE24801,Character 5 Can Cast Spells
+N,7FE276FF+7FE277FF+7FE278FF+7FE279FF+7FE27AFF+7FE27BFF,Character 5 Learned All Sorceror Spells
+N,7FE2D300,Character 6 Always in "Good" Conditions
+N,7FE2D101,Character 6 Can Cast Spells
+N,7FE2FEFF+7FE2FFFF+7FE300FF+7FE301FF+7FE302FF+7FE303FF,Character 6 Learned All Sorceror Spells
+N,7FE35B00,Character 7 Always in "Good" Conditions
+N,7FE35801,Character 7 Can Cast Spells (Two Steps Next to Age)
+N,7FE39A00+7FE39B00,Character 7 Cost Nothing
+N,7FE386FF+7FE387FF+7FE388FF+7FE389FF+7FE38AFF+7FE38BFF,Character 7 Learned All Sorceror Spells (Next to Skills)
+N,7FE42200+7FE42300,Character 8 Cost Nothing
+N,F9A0-AD22+F9A0-AF92,Gene Eric Starts with 21 SP Instead of 7
+N,01A0-AD22+01A0-AF92,Gene Eric Starts with 70 SP Instead of 7
+N,7FE062FF,Infinite Health (1st Character)
+N,7FE0EAFF,Infinite Health (2nd Character)
+N,7FE1FAFF,Infinite Health (3rd Character)
+N,7FE282FF,Infinite Health (5th Character)
+N,7FE30AFF,Infinite Health (6th Character)
+N,7E198A99+7E198B09,Item Quantity Digits
+N,7FE029FF,Max Character 1 AC
+N,7FE073FF,Max Character 1 Acy
+N,7FE077FF,Max Character 1 End
+N,7FE064FF+7FE067FF+7FE068FF+7FE069FF,Max Character 1 Exp
+N,7FE02AFF,Max Character 1 Food
+N,7FE061FF,Max Character 1 Gems
+N,7FE062FF+7FE063FF+7FE078FF+7FE079FF,Max Character 1 HP
+N,7FE070FF,Max Character 1 Int
+N,7FE075FF,Max Character 1 Level
+N,7FE074FF,Max Character 1 Luc
+N,7FE06FFF,Max Character 1 Mig
+N,7FE06CFF+7FE06DFF,Max Character 1 Money (4 Billions)
+N,7FE071FF,Max Character 1 per
+N,7FE07609,Max Character 1 SL
+N,7FE05CFF+7FE05DFF+7FE05EFF+7FE05FFF,Max Character 1 SP
+N,7FE072FF,Max Character 1 Spd
+N,7FE0B1FF,Max Character 2 AC
+N,7FE0FBFF,Max Character 2 Acy
+N,7FE0FFFF,Max Character 2 End
+N,7FE0EEFF+7FE0EFFF+7FE0F0FF+7FE0F1FF,Max Character 2 Exp
+N,7FE0B2FF,Max Character 2 Food
+N,7FE0E9FF,Max Character 2 Gems
+N,7FE0F4FF+7FE0F5FF,Max Character 2 Gold (4 Billions)
+N,7FE0EBFF+7FE0ECFF+7FE100FF+7FE101FF,Max Character 2 HP
+N,7FE0F8FF,Max Character 2 Int
+N,7FE0FDFF,Max Character 2 Level
+N,7FE0FCFF,Max Character 2 Luc
+N,7FE0F7FF,Max Character 2 Mig
+N,7FE0F9FF,Max Character 2 per
+N,7FE0FE09,Max Character 2 SL
+N,7FE0E5FF+7FE0E6FF+7FE0E7FF+7FE0E8FF,Max Character 2 SP
+N,7FE0FAFF,Max Character 2 Spd
+N,7FE0AB64,Max Character 2 Thvy
+N,7FE139FF,Max Character 3 AC
+N,7FE183FF,Max Character 3 Acy
+N,7FE187FF,Max Character 3 End
+N,7FE176FF+7FE177FF+7FE178FF+7FE179FF,Max Character 3 Exp
+N,7FE13AFF,Max Character 3 Food
+N,7FE171FF,Max Character 3 Gems
+N,7FE17CFF+7FE17DFF,Max Character 3 Gold (4 Billions)
+N,7FE172FF+7FE173FF+7FE188FF+7FE189FF,Max Character 3 HP
+N,7FE180FF,Max Character 3 Int
+N,7FE185FF,Max Character 3 Level
+N,7FE184FF,Max Character 3 Luc
+N,7FE17FFF,Max Character 3 Mig
+N,7FE181FF,Max Character 3 per
+N,7FE18609,Max Character 3 SL
+N,7FE16CFF+7FE16DFF+7FE16EFF+7FE16FFF,Max Character 3 SP
+N,7FE182FF,Max Character 3 Spd
+N,7FE13364,Max Character 3 Thvy
+N,7FE1C1FF,Max Character 4 AC
+N,7FE20BFF,Max Character 4 Acy
+N,7FE20FFF,Max Character 4 End
+N,7FE1FEFF+7FE1FFFF+7FE200FF+7FE201FF,Max Character 4 Exp
+N,7FE1C2FF,Max Character 4 Food
+N,7FE1F9FF,Max Character 4 Gems
+N,7FE204FF+7FE205FF,Max Character 4 Gold (4 Billions)
+N,7FE1FAFF+7FE1FBFF+7FE210FF+7FE211FF,Max Character 4 HP
+N,7FE208FF,Max Character 4 Int
+N,7FE20DFF,Max Character 4 Level
+N,7FE20CFF,Max Character 4 Luc
+N,7FE207FF,Max Character 4 Mig
+N,7FE209FF,Max Character 4 per
+N,7FE20E09,Max Character 4 SL
+N,7FE1F4FF+7FE1F5FF+7FE1F6FF+7FE1F7FF,Max Character 4 SP
+N,7FE20AFF,Max Character 4 Spd
+N,7FE1BB64,Max Character 4 Thvy
+N,7FE249FF,Max Character 5 AC
+N,7FE293FF,Max Character 5 Acy
+N,7FE297FF,Max Character 5 End
+N,7FE286FF+7FE287FF+7FE288FF+7FE289FF,Max Character 5 Exp
+N,7FE24AFF,Max Character 5 Food
+N,7FE281FF,Max Character 5 Gems
+N,7FE28CFF+7FE28DFF,Max Character 5 Gold (4 Billions)
+N,7FE282FF+7FE283FF+7FE298FF+7FE299FF,Max Character 5 HP
+N,7FE290FF,Max Character 5 Int
+N,7FE295FF,Max Character 5 Level
+N,7FE294FF,Max Character 5 Luc
+N,7FE28FFF,Max Character 5 Mig
+N,7FE291FF,Max Character 5 per
+N,7FE29609,Max Character 5 SL
+N,7FE27CFF+7FE27DFF+7FE27EFF+7FE27FFF,Max Character 5 SP
+N,7FE292FF,Max Character 5 Spd
+N,7FE24364,Max Character 5 Thvy
+N,7FE2D1FF,Max Character 6 AC
+N,7FE31BFF,Max Character 6 Acy
+N,7FE31FFF,Max Character 6 End
+N,7FE30EFF+7FE30FFF+7FE310FF+7FE311FF,Max Character 6 Exp
+N,7FE2D2FF,Max Character 6 Food
+N,7FE309FF,Max Character 6 Gems
+N,7FE314FF+7FE315FF,Max Character 6 Gold (4 Billions)
+N,7FE30AFF+7FE30BFF+7FE320FF+7FE321FF,Max Character 6 HP
+N,7FE318FF,Max Character 6 Int
+N,7FE31DFF,Max Character 6 Level
+N,7FE31CFF,Max Character 6 Luc
+N,7FE317FF,Max Character 6 Mig
+N,7FE319FF,Max Character 6 per
+N,7FE31E09,Max Character 6 SL
+N,7FE304FF+7FE305FF+7FE306FF+7FE307FF,Max Character 6 SP
+N,7FE31AFF,Max Character 6 Spd
+N,7FE2CB64,Max Character 6 Thvy
+N,7FE359FF,Max Character 7 AC
+N,7FE3A3FF,Max Character 7 Acy
+N,7FE3A7FF,Max Character 7 End
+N,7FE396FF+7FE397FF+7FE398FF+7FE399FF,Max Character 7 Exp
+N,7FE35AFF,Max Character 7 Food
+N,7FE391FF,Max Character 7 Gems
+N,7FE392FF+7FE393FF+7FE3A8FF+7FE3A9FF,Max Character 7 HP
+N,7FE3A0FF,Max Character 7 Int
+N,7FE3A5FF,Max Character 7 Level
+N,7FE3A4FF,Max Character 7 Luc
+N,7FE39FFF,Max Character 7 Mig
+N,7FE3A1FF,Max Character 7 per
+N,7FE3A609,Max Character 7 SL
+N,7FE38CFF+7FE38DFF+7FE38EFF+7FE38FFF,Max Character 7 SP
+N,7FE3A2FF,Max Character 7 Spd
+N,7FE35364,Max Character 7 Thvy
+N,7FE3E1FF,Max Character 8 AC
+N,7FE42FFF,Max Character 8 End
+N,7FE41EFF+7FE41FFF+7FE420FF+7FE421FF,Max Character 8 Exp
+N,7FE3E2FF,Max Character 8 Food
+N,7FE419FF,Max Character 8 Gems
+N,7FE41AFF+7FE41BFF+7FE430FF+7FE431FF,Max Character 8 HP
+N,7FE428FF,Max Character 8 Int
+N,7FE42DFF,Max Character 8 Level
+N,7FE427FF,Max Character 8 Mig
+N,7FE429FF,Max Character 8 per
+N,7FE414FF+7FE415FF+7FE416FF+7FE417FF,Max Character 8 SP
+N,7E00BE01,Only One Monster in Battle
+N,D4A1-04F2,Sir Felgar Starts as a Dwarf/Knight Instead of a Half-Orc/Knight
+N,D7A1-04F2,Sir Felgar Starts as a Gnome/Knight Instead of a Half-Orc/Knight
+N,D4A1-0492,Sir Felgar Starts as a Half-Orc/Archer Instead of a Half-Orc/Knight
+N,D5A1-0492,Sir Felgar Starts as a Half-Orc/Barbarian Instead of a Half-Orc/Knight
+N,D7A1-0492,Sir Felgar Starts as a Half-Orc/Cleric Instead of a Half-Orc/Knight
+N,DFA1-0492,Sir Felgar Starts as a Half-Orc/Paladin Instead of a Half-Orc/Knight
+N,D9A1-0492,Sir Felgar Starts as a Half-Orc/Robber Instead of a Half-Orc/Knight
+N,D0A1-0492,Sir Felgar Starts as a Half-Orc/Sorcerer Instead of a Half-Orc/Knight
+N,DDA1-04F2,Sir Felgar Starts as a Human/Knight Instead of a Half-Orc/Knight
+N,DFA1-04F2,Sir Felgar Starts as an Elf/Knight Instead of a Half-Orc/Knight
+N,D7AA-0DF2,Sir Felgar Starts with $968 Gold Instead of $200
+N,F7AA-0DF2,Sir Felgar Starts with $5064 Gold Instead of $200
+N,1FAA-0DF2,Sir Felgar Starts with 25,032 Gold Instead of 200
+N,4CAA-0FF2,Sir Felgar Starts with 42 Mgt (Might) Instead of 21
+N,7DA8-0F22+7DA8-0492+7DAA-0792,Sir Felgar Starts with 48 HP Instead of 16
+N,17AA-0FF2,Sir Felgar Starts with 99 Mgt (Might) Instead of 21
+N,CDA8-0F22+CDA8-0492+CDAA-0792,Sir Felgar Starts with 160 HP Instead of 16
+N,D7AA-67F2,Sure Valla Starts with $968 Gold Instead of $200
+N,F7AA-67F2,Sure Valla Starts with $5064 Gold Instead of $200
+N,1FAA-67F2,Sure Valla Starts with 25,032 Gold Instead of 200
+N,45AA-6D22+45AA-6F92+45A2-6492,Sure Valla Starts with 39 HP Instead of 13
+N,64AA-6D22+64AA-6F92+64A2-6492,Sure Valla Starts with 130 HP Instead of 13
+N,D7A0-6FB2,Terwin III Starts with $968 Gold Instead of $200
+N,F7A0-6FB2,Terwin III Starts with $5064 Gold Instead of $200
+N,1FA0-6FB2,Terwin III Starts with 25,032 Gold Instead of 200
+N,45A7-6792+45A7-6722+45A9-6D22,Terwin III Starts with 39 HP Instead of 13
+N,64A7-6792+64A7-6722+64A9-6D22,Terwin III Starts with 130 HP Instead of 13

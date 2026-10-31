@@ -1,41 +1,35 @@
-N,7EF0C5FF,Max Luck
-N,7EF0C4FF,Max Speed
-N,7EF0C3FF,Max Intelligence
-N,7EF0CAFF,Max Power
-N,7EF0C8FF,Max Defend
-N,7EF0C9FF,Max Resist
 N,55C0-DD0F,Buy Stuff Cheap
-N,55CD-D70F,Energy Boost
+N,55C0-0DDF,Easy Win at Bingo!
+N,55CD-D70F,Energy Boost (5000 HP, 60000 Energy)
+N,55CD-07DF,Get 40000 EXP.!
+N,7EF076FF+7EF077FF,Infinite Chips
+N,7EF0BCE7+7EF0BD03,Infinite Energy
+N,7E9606E7+7E960703,Infinite HP in Battle
+N,7EF0C8FF,Max DEFEND
+N,7EF0BAE7+7EF0BB03,Max Energy
+N,7EF0B6E7+7EF0B703,Max HP
+N,7EF0C3FF,Max ITELIGENCE
+N,7EF0C5FF,Max LUCK
+N,7EF0CAFF,Max POWER
+N,7EF0C9FF,Max RESIST
+N,7EF0C4FF,Max SPEED
+N,7EF01BFF+7EF01CFF,Money
 N,55CD-0DDF,Move People!
-N,ECED-D400,Start With $250 Gold
-N,D0ED-D460,Start With $1,000 Gold
-N,45ED-D460,Start With $10,000 Gold
-N,A0ED-D460,Start With $50,000 Gold
-N,D4EC-D7D0,2 Exp For Lv 2
-N,74EC-DFD0,Start With 50 Health
-N,10EC-DFD0,Start With 100 Health
-N,ECEC-DFD0,Start With 250 Health
-N,F0EC-D4D0,Start With 20 Energy
-N,74EC-D4D0,Start With 50 Energy
-N,10EC-D4D0,Start With 100 Energy
-N,F6E8-D4D0,Start With Triple Power
-N,F9E8-DD00,Start With Triple Intelligence
-N,F6E8-DD60,Start With Triple Speed
-N,D7E8-DFA0,Start With Triple Resist
-N,DAE8-DDA0,Start With Triple Luck
-N,55C0-0DDF,Easy Win At Bingo!
-N,55CD-07DF,Get 40000 Exp!
-N,7EF01BFF,Money (1/2)
-N,7EF01CFF,Money (2/2)
-N,7E9606E7,Infinite HP In Battle (1/2)
-N,7E960703,Infinite HP In Battle (2/2)
-N,7EF0B6E7,Max HP (1/2)
-N,7EF0B703,Max HP (2/2)
-N,7EF0BAE7,Max Energy (1/2)
-N,7EF0BB03,Max Energy (2/2)
-N,7EF0BCE7,Infinite Energy (1/2)
-N,7EF0BD03,Infinite Energy (2/2)
-N,7EF0BE01,Quick Level Up (1/2)
-N,7EF0BF00,Quick Level Up (2/2)
-N,7EF076FF,Infinite Chips (1/2)
-N,7EF077FF,Infinite Chips (2/2)
+N,7EF0BE01+7EF0BF00,Quick Level Up
+N,EE79-D96B,Special Note for All Codes
+N,ECED-D400,Start with $250 Gold Instead of $50
+N,F0EC-D4D0,Start with 20 Energy Instead of 10
+N,74EC-D4D0,Start with 50 Energy
+N,74EC-DFD0,Start with 50 Health Instead of 25
+N,10EC-D4D0,Start with 100 Energy
+N,10EC-DFD0,Start with 100 Health
+N,ECEC-DFD0,Start with 250 Health
+N,D0ED-D460,Start with About $1,000 Gold Instead of $50
+N,45ED-D460,Start with About $10,000 Gold
+N,A0ED-D460,Start with About $50,000 Gold
+N,F9E8-DD00,Start with Triple Intelligence (Increased from 7 to 21)
+N,DAE8-DDA0,Start with Triple Luck (Increased from 4 to 12)
+N,F6E8-D4D0,Start with Triple Power (24 Power, 34 Attack)
+N,D7E8-DFA0,Start with Triple Resist (Increased from 1 to 3)
+N,F6E8-DD60,Start with Triple Speed (Increased from 8 to 24)
+N,D4EC-D7D0,You Only Need 2 Experience Points (Instead of 18) to Reach Level 2

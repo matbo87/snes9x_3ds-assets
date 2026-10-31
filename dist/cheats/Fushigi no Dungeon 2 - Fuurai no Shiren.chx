@@ -1,18 +1,11 @@
-N,DD79-5F0B,Gain Any EXP For Max. EXP
-N,DD7D-770C,Enemies Start With 1 HP (1/3)
-N,CE7D-776C,Enemies Start With 1 HP (2/3)
-N,FF7D-77AC,Enemies Start With 1 HP (3/3)
 N,DD9F-7FA8,Collect Any Gitan for Max
-N,DD72-ED66,Never Lose Satiation
-N,DD75-EFD3,Grab 1 Arrow To Gain 99
-N,CBD1-8FD2,Forging Makes Weapon +99 (1/2)
-N,14D1-8F02,Forging Makes Weapon +99 (2/2)
-N,CBD8-840A,Bartender Items Get +99 (1/2)
-N,17D8-846A,Bartender Items Get +99 (2/2)
-N,CBD6-87A2,Warehouse Items Get +99 (1/2)
-N,17DB-8DD2,Warehouse Items Get +99 (2/2)
-N,DD6D-4DDD,Enable Debug Mode (1/2)
-N,DD6D-4D0D,Enable Debug Mode (2/2)
-N,6D36-84D3,D-Pad Jumps To Next Floor (1/2)
-N,DD36-8403,D-Pad Jumps To Next Floor (2/2)
+N,DD6D-4DDD+DD6D-4D0D,Enable Debug Mode
+N,DD7D-770C+CE7D-776C+FF7D-77AC,Enemies Start with 1 HP
+N,DD79-5F0B,Gain Any EXP for Max. EXP
+N,DD75-EFD3,Grab 1 Arrow to Gain 99
 N,7E8604FF,Infinite HP Shiren
+N,CBD8-840A+17D8-846A,Items Gotten from Bartender Get +99 Refinement
+N,CBD6-87A2+17DB-8DD2,Items in Warehouse Get +99 Refinement
+N,6D36-84D3+DD36-8403,Move D-Pad to Jump to Next Floor
+N,DD72-ED66,Never Lose Satiation
+N,CBD1-8FD2+14D1-8F02,Smith a Weapon to Make It +99

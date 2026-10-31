@@ -1,17 +1,15 @@
-N,DDBE-0D05,Infinite Lives
 N,7E10FC50,Full Life Bar
-N,DD37-C4D7,Super Jump
-N,DE60-4460,Normal Pistol Does More Damage
-N,DE63-C460,Rockets Do More Damage
 N,7E10C50A,Infinite Life
-N,7E021C00,Weapon Modifier
-N,DFB3-CD0D,Start with 1 life
-N,DBB3-CD0D,Start with 9 lives
-N,DEB3-CD0D,Start with 15 lives [Ignore Counter]
-N,7D66-1F00,Plasma Rifle does massive damage
-N,FD64-446F,Only 10 Terminators to kill on the 3-D Stage
-N,7D64-446F,Only 30 Terminators to kill on the 3-D Stage
-N,62E4-3F6F,Infinite Life
-N,C2BE-0DA5,Infinite Lives
-N,62B3-07D5,Losing A Life Gives You 89 Lives!
-N,62E5-C46F,Losing A Life Gives You 255 Lives!
+N,DDBE-0D05,Infinite Lives
+N,C2BE-0DA5,Infinite Lives (alt)
+N,62B3-07D5,Losing a Life Gives You 89 Lives!
+N,62E5-C46F,Losing a Life Gives You 255 Lives!
+N,DE60-4460,Normal Pistol Does More Damage
+N,FD64-446F,Only 10 Terminators to Kill on the 3-D Stage
+N,7D64-446F,Only 30 Terminators to Kill on the 3-D Stage
+N,7D66-1F00,Plasma Rifle Does Massive Damage
+N,DE63-C460,Rockets Do More Damage
+N,DFB3-CD0D,Start with 1 Life
+N,DBB3-CD0D,Start with 9 Lives
+N,DEB3-CD0D,Start with 15 Lives [Ignore Counter]
+N,DD37-C4D7,Super Jump

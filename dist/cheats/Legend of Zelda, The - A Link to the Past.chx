@@ -1,17 +1,204 @@
-N,AEEC-A586,Some Shops Don't Take Money
-N,AE67-0D30,Infinite Bombs
+N,7EF36B00,# of Heart Pieces (0 - 4)
+N,7EF37B01,1/2 Magic "Curse" Enabled
+N,7EF37B02,1/4 Magic
+N,F3EE-D42F,20 Bombs
+N,7EF37763,99 Arrows
+N,DDE8-142C,100% Enemy Drop Rates
+N,7EF360E7+7EF36103,999 Ruppees
+N,7EF359D9,A Golden Sword with a Spin Effect of Ice and a Strike Effect of Fire
+N,7EF3C501,Ability to Swing, Even If You Have No Sword
+N,CB82-6409,All Bomb-Able Walls Opened
+N,5EED-0DFF,All Crystals
+N,7EF36D9F,All Hearts
+N,DD88-6DA9+DDA5-D4A9+C26E-04DC+C26A-A46C,All Non Key Doors Open
+N,05EE-D4BF,All Pendants
+N,7E040300,All Treasure Chests Can Be Received Infinite Times
 N,AE6E-DF2A,Almost Infinite Energy
-N,AE8A-D4FA,Almost Infinite Magic (1/2)
-N,AE8D-0D9A,Almost Infinite Magic (2/2)
-N,AE8D-0D9A,Infinite Magic (1/5)
-N,AE8A-D4FA,Infinite Magic (2/5)
-N,AE28-D4C7,Infinite Magic (3/5)
-N,AEC7-6D2E,Infinite Magic (4/5)
-N,AEC8-6FBE,Infinite Magic (5/5)
-N,EEA8-D4FA,Walk Through Walls
-N,A230-DD05,Get Chests Infinite Times
-N,EE22-AF1F,Spin Sword  (1 Use/Screen)
+N,AE8A-D4FA+AE8D-0D9A,Almost Infinite Magic
+N,7E007940,Always Do Link's Power Move (With Full Hearts, Press A Again for a Second Shot)
+N,CBE8-04BC+CBEA-07BC+26EA-072C+3CE2-0DFC,Always Drop Item Modifier
+N,7E005501,Always Using the Cloak
+N,7EF37601,Arrows Full
+N,7E031C00,Awesome Spin-Sword Effects
+N,7EF366FF,Big Key
+N,7EF367FF,Big Key #2
+N,7EF366FF+7EF367FF,Big Key in Dungeons
+N,7EF35965,Black Firaga Sword
+N,7EF35975,Black Sword That Kills Coloured Orbs
+N,7EF359A5,Blizaga Rod
+N,7EF359A7,Blizaga Sword
+N,6DA6-01CA,Bomb Through Walls in Overworld
+N,7EF34309,Bomb/Infinite Bombs
+N,7EF34701,Bombos Medallion
+N,DFEE-D42F,Bombs Full
+N,7EF34E01,Book of Mudora
+N,7E0C4E05,Boomerang Is Always Out
+N,D4EA-DF2F,Boomerang Level 2
+N,7EF34F01,Bottles
+N,7EF34001,Bow
+N,7EF34D01,Bug Catching Net
+N,DDB7-DF2E,Can Dash Without the Pegasus Boots
+N,D53C-17A5,Can Open All Chests in Chest Game
+N,DDB5-D7FE,Can Shoot Sword Beams with Less Than Full Health
+N,6DEE-DFA9+A4EB-D4A9+A4EC-DD69,Candles Remain Lit During Ganon Final Battle
+N,7EF35101,Cane of Byrna
+N,7EF35001,Cane of Somaria
+N,7EF365FF,Compass(In Dungeons)
+N,6DCF-A980+DDC7-A070,Cripple Thief Boss Defenses
+N,CB88-653E+308A-604E+D48A-601E+3C8A-60CE,Cut Down Grass or Bushes to Reveal Water
+N,4068-6466,Dark Caves Are Lit
+N,7EF359BB,Dark Master Sword
+N,45B8-D49A,Dash with Out Charging
+N,3C2B-DD55,Disable Low Health Beep
+N,FC67-0DC0,Dropping Bombs Will Increment Your Bombs by the Amount You Drop
+N,3C6E-A4DD,Enable Debug Mode 1
+N,3C6A-AD96,Enable Debug Mode 2
+N,DD67-D46D,Enable Frame Advance
+N,B431-A4B8,Enemies Die in 1 Hit
 N,C9A8-DD2A,Enemies Respawn
-N,E9A5-0F81,Free Fortune + 81 Rupees
+N,7E037B01,Enemies Walk Right Through You
+N,7EF34801,Ether Medallion
+N,6DEB-A46D,Faster Fade to Black When Entering Places
+N,7EF34501,Fire Rod
+N,7EF35601,Flippers
+N,7E002D01,Float
+N,D4E2-DDBF,Flute
+N,7EF34C02,Flute *4
+N,D738-1DA5,Free Chest Games, and Can Open All Chests
 N,DDA5-0FE1,Free Fortune Telling
+N,E9A5-0F81,Free Fortune Telling and Receive 81 Rupees
+N,3C3D-A7B8,Freezing Effects Will Not Be Applied to Enemies (Ice Rod, Ether)
+N,8234-AD96,Frozen Enemies Stay Frozen Until You Leave the Screen
+N,A230-DD05,Get Chests Infinite Times
+N,7EF36A64,Get Fairy at Pond of Happiness
+N,402F-07B6,Get Items from Anywhere
+N,7E0D8C02,Get Lots of Bottles [Wastes $200 per Bottle]
+N,DFE2-D4BF,Glove
+N,CB39-AFD8+1439-AF08+6239-AF68+2839-AFA8+3C39-A408,Golden Pyramid Wall Open
+N,7E0D8001+7E0D8101+7E0D8201,Guards Never Notice You in Dungeons
+N,7EF34B01,Hammer
+N,5D82-094E,Hammer Through Walls in Overworld
+N,7EF40500,Have 000 Deaths or Retries
+N,7EF36F09+7EF37101,Have 9 Keys
+N,7EF36DA0,Have 20 Heart Containers Which Are Always Full
+N,7EF3796F,Have All Abilities Except Lift
+N,7EF37A7F,Have All Crystals
+N,7EF35403,Have All Lift Abilities
+N,7EF37447,Have All Pendants
+N,7EF34002,Have Bow (That Looks Like It Has Arrows on It) Level 1
+N,7EF34004,Have Bow & Silver Arrows
+N,7EF3700F,Have Enhanced Bomb Max
+N,7EF34C03,Have Flute
+N,7EF35402,Have Golden Gloves (Level 2)
+N,7EF35904,Have Golden Sword (Level 4)
+N,7EF35B00,Have Green Shirt (Level 1)
+N,FE88-DDBA+8D88-DD2A+D588-DFFA+FE8E-DD9A+8D8E-DDBA+D58E-DD2A,Have Half Magic Curse
+N,7EF35A02,Have Large Golden Shield (Level 3)
+N,7EF34402,Have Magic Powder
+N,7EF36940,Have Map
+N,7EF36740,Have Master Key
+N,7EF35902,Have Master Sword (Level 2)
+N,7EF37107,Have Normal Arrow Max
+N,7EF37007,Have Normal Bomb Max
+N,7EF34102,Have Red Boomerang (Level 2)
+N,7EF35B02,Have Red Shirt (Level 3)
+N,7EF35901,Have Short Sword (Level 1)
+N,7EF34003,Have Silver Bow (That Looks Like It Has No Arrows on It) Level 2
+N,7EF35801,Have Silver Gloves (Level 1)
+N,7EF35A00,Have Small Shield (Level 1)
+N,7EF35903,Have Tempered Master Sword (Level 3)
+N,40E2-6D96+6D3E-A7FC+403F-DD28+40EC-AF26+6D34-D7F8+4068-A0E6,Hit Anywhere
+N,7EF34201,Hookshot
+N,6DCA-AF23+2DC6-A4B3,Hookshot Grabs to Any Surface
+N,7D2D-6FFA,Ice Isn't Slippery
+N,7EF34601,Ice Rod
+N,7E04C401,In the Light World Treasure Chest Game, Get All 3
+N,7EF3771E,Infinite Arrows
+N,7EF3773C,Infinite Arrows (Sets It at 60)
+N,7EF34363,Infinite Bombs
+N,7EF3431E,Infinite Bombs (Sets It at 30)
+N,3C6E-DF2A,Infinite Energy (Alt)
+N,AE8D-0D9A+AE8A-D4FA+AE28-D4C7+AEC7-6D2E+AEC8-6FBE,Infinite Magic
+N,3C8A-D4FA,Infinite Magic Alt
+N,7EF36E8F,Infinite Magic Energy.
+N,7EF36E80,Infinite Magic! (Doesn't Decrease at All)
+N,7EF362E7+7EF36303,Infinite Money
+N,7EF36F04,Infinite Small Keys
+N,7E04B41E,Infinite Time When You Play the Digging Game in the Dark World
+N,FDB4-A43F,Insta Bombs
+N,DDC0-6781+63C9-6D71,Invincibility
+N,7E031F6A,Invincible / Walk Through Enemies
+N,7E031F15,Invincible/Invisible
+N,7E031F01,Invincible/Walk Through Enemies
+N,7E031F69,Invisible
+N,3C2E-D496,Item Drops from Enemies Never Disappear
+N,9827-64B3+2327-6423+106A-A422,Jesus Mode
+N,7EF34A01,Lamp
+N,6D27-DF92,Lift Rocks and Boulders
+N,7E004810,Link Automatically Pushes Objects
+N,6D35-ADF8,Link Can Kill Cuccos
+N,7E005E10,Link Walks Really Fast, No Dash Necessary
+N,7EF35201,Magic Cape
+N,7EF37501,Magic Container Full
+N,7EF35302,Magic Mirror
+N,D4EA-D4BF,Magic Powder
+N,7EF369FF,Map(In Dungeons)
+N,CDEE-DDBF,Max Heart Containers
+N,D7E3-DDFF,Mirror Shield
+N,7EF35A03,Mirror Shield *7
+N,7EF35701,Moon Pearl
+N,DFEA-D4BF,Mushroom
+N,7EF34401,Mushroom/Magic Powder
+N,7E005D01+7E004600+7E004D00,No Collisions (Walk on Water and Through Barriers)
+N,7E0D3005+7E0D3105+7E0D3205,No Enemies in Dungeons
+N,DDAA-D7BA+DDA2-DDBA,No Slow Down Climbing Ladders
+N,DD88-D72E+DD62-A4A8,No Slow Down Climbing Stairs
+N,7EF35501,Pegasus Boots
+N,FB6F-0FAC+FBC1-070B,Press Start to Beat the Game
+N,5BA6-64E1+1B6E-6DF0+1B37-AD21+1BC8-6428+19EC-A576+1BEB-D155,Purchases Made at Shops Increase Your Rupees by the Price of the Item:
+N,7EF34901,Quake Medallion
+N,7FFE0000,Qualifying Time Is 0
+N,D4E3-DD9F,Red Tunic
+N,7EF36F00,Regular Key in Dungeons
+N,6DEF-DD39+CEE7-D739,Revive Infinite Times
+N,7E045A03,Room Fully Lit
+N,6365-A40C+8A6A-DFA8,Rooms Always Lit
+N,E2B5-DDFA,Running Boots Run x3 Faster
+N,FCC6-DDBA,Shooting an Arrow Increments Your Arrows by the Amount You Shoot
+N,DFE2-DDBF,Shovel
+N,7EF34C01,Shovel/Flute
+N,AEEC-A586,Some Shops Don't Take Your Money
+N,D6B5-049E,Spin Attack Needs Nearly No Charge Time
+N,7E0C5801,Spin Sword and Shoot Like a Higher Level Sword
+N,EE22-AF1F,Spin Sword and Shoot Like a Higher Level Sword (Good for One Use per Screen)
+N,6D8C-0437,Super Hookshot
+N,7EF359B7,Super Powerful Sword
+N,82BD-6F4D,The Blue Boomerang Has a Much Longer Reach.
+N,7E0D9008,The Fortune Tellers Refills Your Hearts and Maxes
+N,D68E-D481,The Regular Sword (The First Sword You Get) Is Stronger (8 Damage Instead of 2).
+N,FD8E-D481,The Regular Sword Is Much Stronger (16 Damage Instead of 2).
+N,108E-D481,The Regular Sword Is Ultra Strong (100 Damage Instead of 2).
+N,7EF35915,The Sword of Dark Mysteries
+N,7E0D8900,Thief Can't Move, or Knock Anything Out of You
+N,FD37-6FF6,Tossed Objects Stay Active
+N,7E001D00,Turn Rain on (1) or Off (0)
+N,7EF35989,Ultimate Black Sword (Kills Most Monsters)
+N,7EF35948,Ultimate Master Sword of Fire
+N,7EF35929,Uncle's Master Sword
+N,CB33-6FFA+2B33-6F9A,Walk Faster
+N,CB33-6FFA+2533-6F9A,Walk Much Faster
+N,DDE1-0752+DDE1-0472,Walk Through Special NPCS
+N,EEA8-D4FA,Walk Through Walls
+N,1D89-0FB3,Walk Through Walls (alt)
+N,3CAB-A4B3+3CAB-A423+3CAE-04BA+3CAE-042A,Walk Through Walls (alt 2)
+N,DDAD-DD93+DD88-0FBE,Walk Through Walls (alt 3)
+N,7E0021A8,Walk Through Walls [Horizontally Only]
 N,6DC9-0D23,Warp Between Worlds Freely
+N,6D87-611E,Whack Through Walls in Overworld
+N,C9AB-0D2A,WTW Horizontal Drops (Disables Horizontal Jumps Off a a Ledge/cliff)
+N,C9E1-0FE2,WTW Objects Horizontal
+N,C933-DD9A,WTW Others
+N,C9A6-07BA,WTW Vertical Drops (Disables Vertical Jumps Off a a Ledge/cliff)
+N,7E031F10,You Can't Be Hurt!
+N,7E004D00,You Don't Curl Up When You Get Hit
+N,C2BE-AD35,Zelda Stops Calling for Help at the Start

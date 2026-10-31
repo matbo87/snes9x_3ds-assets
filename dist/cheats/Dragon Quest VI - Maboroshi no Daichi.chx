@@ -1,41 +1,114 @@
-N,7E3B90FF,No Random Battles
-N,C428230D,Sell Item For Max Gold
-N,C289B580,Normal Dmg Poison Needle
-N,C2723180,P. Needle/D. Spear Crit (1/2)
-N,C2723209,P. Needle/D. Spear Crit (2/2)
-N,C2720C80,All Weapons Can Hit Weak Spot
-N,C261D600,Repeat Attack Once (1/2)
-N,C261F880,Repeat Attack Once (2/2)
-N,C2342A80,Inf. Btl Reward (O!=End) (1/2)
-N,C2342BFA,Inf. Btl Reward (O!=End) (2/2)
-N,C2B2AD00,Job Adv. After Any Btl
-N,C2B29400,1st Char Masters Job (1/2)
-N,C2B3078B,1st Char Masters Job (1/2)
-N,C2B37000,Most Monsters Want To Join
-N,C2B32E00,Hard Monsters Want To Join
-N,C289D900,All Physical Attacks Miss
-N,C289D92C,1 Atk Kills All Enemies
-N,7E400562,Inf. Thief Keys In Sack
-N,7E3EA29F,Infinite Gold Held (1/3)
-N,7E3EA386,Infinite Gold Held (2/3)
-N,7E3EA401,Infinite Gold Held (3/3)
 N,7E402E14,20 Frozen HP Battle
-N,7E2551A0,100000 Gold (1/3)
-N,7E255286,100000 Gold (2/3)
-N,7E255301,100000 Gold (3/3)
-N,7E254D80,10000000 XP (1/3)
-N,7E254E96,10000000 XP (2/3)
-N,7E254F98,10000000 XP (3/3)
-N,7E402EFF,Hero - Infinite HP
-N,7E4032FF,Hero - Infinite MP
-N,7E403AFF,999 Attack/Defense & 500 Style
+N,7E403AFF,999 Attack/Defense; 500 Style
+N,7E2551A0+7E255286+7E255301,100000 Gold
+N,7E254D80+7E254E96+7E254F98,10000000 XP
+N,DD8C-8706,All Battles Count Towards Class
+N,DD85-EDD6,All but the Hardest Monsters Always Offer to Join
+N,6D5D-87D6,All Weapons, While Behaving Normally, Have a Chance to Hit the Enemy's Weak Spot
+N,7E255100+7E255200,Amount of Gp Earned from a Battle
+N,7E254D00+7E254E00,Amount of XP Earned from a Battle
+N,CB92-842D+E892-87FD+3C92-879D,Any Item That Any Character Gets Becomes a Thief's Key
+N,DDCF-8D63+DDF9-54D3+DD97-7F24,Can Get Any Item Out of the Sack That Can Be Put into It
+N,7E3EA700+7E3EA800+7E3EA900,Casino Coins
+N,6DEE-E488+6DEE-E7A5,Enable Debug Room/menu
+N,EEEE-E765+EEEE-E7A5+6DEE-E4B8,Enables Debug Menu
+N,CB0E-5FFF+EE0E-5F9F+EE0E-5FBF,Get More Abilities When You Level Up a Class
+N,CBC1-ED08,Get to Level 99 in 2 Battles
+N,7E5A2E00+7E5A2F00+7E5A3000,GP at Bank
+N,DD84-E766,Hard-to-Recruit Monsters Always Offer to Join
+N,7E4064FF,Hassan - 923 Attack; 533 Defense; 500 Style
 N,7E4058FF,Hassan - Infinite HP
 N,7E405CFF,Hassan - Infinite MP
-N,7E4064FF,923 Atk, 533 Def & 500 Style
+N,7E4030FF+7E403103,Have Highest Max HP (Slot 1)
+N,7E405AFF+7E405B03,Have Highest Max HP (Slot 2)
+N,7E4084FF+7E408503,Have Highest Max HP (Slot 3)
+N,7E40AEFF+7E40AF03,Have Highest Max HP (Slot 4)
+N,7E40D8FF+7E40D903,Have Highest Max HP (Slot 5)
+N,7E4102FF+7E410303,Have Highest Max HP (Slot 6)
+N,7E412CFF+7E412D03,Have Highest Max HP (Slot 7)
+N,7E4156FF+7E415703,Have Highest Max HP (Slot 8)
+N,7E4180FF+7E418103,Have Highest Max HP (Slot 9)
+N,7E41AAFF+7E41AB03,Have Highest Max HP (Slot 10)
+N,7E4034FF+7E4035FF+7E4036FF,Have Highest Max MP, Max Agility (Slot 1)
+N,7E405EFF+7E405FFF+7E4060FF,Have Highest Max MP, Max Agility (Slot 2)
+N,7E4088FF+7E4089FF+7E408AFF,Have Highest Max MP, Max Agility (Slot 3)
+N,7E40B2FF+7E40B3FF+7E40B4FF,Have Highest Max MP, Max Agility (Slot 4)
+N,7E40DCFF+7E40DDFF+7E40DEFF,Have Highest Max MP, Max Agility (Slot 5)
+N,7E4106FF+7E4107FF+7E4108FF,Have Highest Max MP, Max Agility (Slot 6)
+N,7E4130FF+7E4131FF+7E4132FF,Have Highest Max MP, Max Agility (Slot 7)
+N,7E415AFF+7E415BFF+7E415CFF,Have Highest Max MP, Max Agility (Slot 8)
+N,7E4184FF+7E4185FF+7E4186FF,Have Highest Max MP, Max Agility (Slot 9)
+N,7E41AEFF+7E41AFFF+7E41B0FF,Have Highest Max MP, Max Agility (Slot 10)
+N,7E4037FF,Have Max Style (Slot 1)
+N,7E4061FF,Have Max Style (Slot 2)
+N,7E408BFF,Have Max Style (Slot 3)
+N,7E40B5FF,Have Max Style (Slot 4)
+N,7E40DFFF,Have Max Style (Slot 5)
+N,7E4109FF,Have Max Style (Slot 6)
+N,7E4133FF,Have Max Style (Slot 7)
+N,7E415DFF,Have Max Style (Slot 8)
+N,7E4187FF,Have Max Style (Slot 9)
+N,7E41B1FF,Have Max Style (Slot 10)
+N,7E402EFF,Hero - Infinite HP
+N,7E4032FF,Hero - Infinite MP
+N,7E400562,Infinite 98 Thief Keys in Sack
+N,7E3EA29F+7E3EA386+7E3EA401,Infinite Gold Held
+N,7E3EA780+7E3EA896+7E3EA998,Infinite Max Casino Coins
+N,7E3EA219+7E3EA303+7E3EA40F,Infinite Max Gold Held
+N,7E3EA50F+7E3EA627,Infinite Max Gold in Bank
+N,7E41FF00,Job
+N,6D74-746B+EC74-74AB,Keep Getting Rewards for End-Of-Battle Over and Over Again
+N,7E3B9000,Many Random Battles
+N,7E403400,Max MP
+N,7E405E00,Max MP (alt)
+N,7E408800,Max MP (alt 2)
+N,7E40B200,Max MP (alt 3)
+N,7E40DC00,Max MP (alt 4)
+N,7E410600,Max MP (alt 5)
+N,7E413000,Max MP (alt 6)
+N,7E415800,Max MP (alt 7)
+N,7E402A7F,Max Power (Slot 1)
+N,7E40547F,Max Power (Slot 2)
+N,7E407E7F,Max Power (Slot 3)
+N,7E40A87F,Max Power (Slot 4)
+N,7E40D27F,Max Power (Slot 5)
+N,7E40FC7F,Max Power (Slot 6)
+N,7E41267F,Max Power (Slot 7)
+N,7E41507F,Max Power (Slot 8)
+N,7E417A7F,Max Power (Slot 9)
+N,7E41A47F,Max Power (Slot 10)
+N,7E402B7F,Max Speed (Slot 1)
+N,7E40557F,Max Speed (Slot 2)
+N,7E407F7F,Max Speed (Slot 3)
+N,7E40A97F,Max Speed (Slot 4)
+N,7E40D37F,Max Speed (Slot 5)
+N,7E40FD7F,Max Speed (Slot 6)
+N,7E41277F,Max Speed (Slot 7)
+N,7E41517F,Max Speed (Slot 8)
+N,7E417B7F,Max Speed (Slot 9)
+N,7E41A57F,Max Speed (Slot 10)
+N,7E402CFF,Max Wisdom (Slot 1)
+N,7E4056FF,Max Wisdom (Slot 2)
+N,7E4080FF,Max Wisdom (Slot 3)
+N,7E40AAFF,Max Wisdom (Slot 4)
+N,7E40D4FF,Max Wisdom (Slot 5)
+N,7E40FEFF,Max Wisdom (Slot 6)
+N,7E4128FF,Max Wisdom (Slot 7)
+N,7E4152FF,Max Wisdom (Slot 8)
+N,7E417CFF,Max Wisdom (Slot 9)
+N,7E41A6FF,Max Wisdom (Slot 10)
 N,7E4082FF,Muriel - Infinite HP
 N,7E4086FF,Muriel - Infinite MP
-N,7E3EA50F,Inf. Max Gold In Bank (1/2)
-N,7E3EA627,Inf. Max Gold In Bank (2/2)
-N,7E3EA780,Inf. Max Casino Coins (1/3)
-N,7E3EA896,Inf. Max Casino Coins (2/3)
-N,7E3EA998,Inf. Max Casino Coins (3/3)
+N,DD62-540C,No Attacks Hit in Battle (Both Sides)
+N,7E3B90FF,No Random Battles
+N,4A62-540C,One Attack to Kill All Enemies
+N,DD12-5F66+6D1E-54D6,Party Attacks Twice at No Extra Cost
+N,6D68-5F0C,Poison Needle Does Normal Damage, Keeps Weak-Spot Hits
+N,7E3F0000,Sack Items
+N,7E3FF700,Small Medal
+N,CBE2-746A,Talk to the Medal King to Max Out Tiny Medals, and Get Everything from Him
+N,6D57-8D06+DB57-8D66,The Poison Needle and Demon Spear Always Hit an Enemy's Weak Spot
+N,DD8B-8FD6+688D-EFA6,Top Character Masters Job Levels After a Good Battle
+N,1DA0-EDB6+DDAB-E7F6+DDAC-EFF6,Walk Through Walls Except on Overworld
+N,DDB6-5F2A,Walk Through Walls on Overworld
+N,D244-7D24,When an Item Is Sold at a Shop, Gold Is Maxed Out to 999,999

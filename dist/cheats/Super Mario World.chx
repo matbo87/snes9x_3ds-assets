@@ -1,8 +1,220 @@
-N,7E001900,Always little
-N,7E001901,Always big
-N,7E001902,Always have cape
-N,7E001903,Always have fire
-N,7E0DBE63,Infinite lives
-N,7E148F00,Never float
-N,7E148F01,Always float
-N,7E149768,Cannot be hit
+N,0032-6DAD,"Gem" Mario
+N,62C0-AFA1,4000 Points Kicking an Empty Turtle Shell
+N,7E1F2901,Activates Blue Blocks
+N,7E1F2701,Activates Green Blocks
+N,7E1F2A01,Activates Red Blocks
+N,B286-07E9,Activates the Green Blocks in the Level
+N,7E1F2801,Activates Yellow Blocks
+N,7E0F4864,Always 100 Bonus Points
+N,7E0F3109+7E0F3209+7E0F3309,Always 999 Time
+N,7E13D501,Always Be at Level 1 Yoshi's Island
+N,7E1F1F00,Always Go to Bonus Level
+N,6DE7-6FDD,Always Guess Correct at 1up Minigame
+N,7E0DFC10,Always Have a Flying Yoshi
+N,7E0DC101,Always Have Yoshi
+N,7E00CB01,Always on Yoshi in Yellow Switch Palace Part 2
+N,7E00C501,Always on Yoshi in Yoshi's House
+N,7E00C801,Always on Yoshi in Yoshi's Island 1
+N,7E00CA01,Always on Yoshi in Yoshi's Island 2/Yellow Switch Palace Part 1
+N,7E00C601,Always on Yoshi in Yoshi's Island 3
+N,7E00C701,Always on Yoshi in Yoshi's Island 4
+N,4026-DDAD,Always Shoot Fireballs
+N,7E141E02,Any Yoshi Always Has Wings and Flies Without a Shell
+N,62C3-64DF,As Soon as You Start a Level, You'll Automatically Exit Through the 2nd Exit
+N,7E157705,Baby Yoshi Never Stops Eating
+N,0BCD-AF6F,Beat Levels via the Yoshi Bonus Stage
+N,9E32-6DAD,Black Mario
+N,9D32-6DAD,Black Mario (alt)
+N,7E0DB4DD,Blocks That Produce a Mushroom When Small & ! Boxes
+N,DE2C-AF6F,Bogus Jump
+N,312C-AF6F,Bunny/Moon Jumps
+N,7E007100,Can't Die on Collision
+N,40BE-AD66,Cape Hits Anywhere
+N,DD2C-AF6F,Causes Mario to Jump and Float Until You Let Go of Jump
+N,4064-ADD7,Coins Rack Up All the Time
+N,7E18AC01,Coins Skyrocket with Something in Yoshi's Mouth
+N,DFE3-D7A0,Collect 1 Berry for Yoshi to Hatch a Mushroom
+N,7E142005,Collect 1 Yoshi Coin for 1-UP
+N,DBE3-DF00,Collect 2 Berries for Yoshi to Hatch a Cloud
+N,B9E5-A4AD+F8E5-A7DD,Collecting a Yoshi Coin Gives You Yoshi's Wings
+N,62C2-DF0D,Continue with a Yoshi If You Die While on One
+N,7E1F2900,Deactivates Blue Blocks
+N,7E1F2700,Deactivates Green Blocks
+N,7E1F2A00,Deactivates Red Blocks
+N,7E1F2800,Deactivates Yellow Blocks
+N,DE22-D4DD,Die After Losing One Life
+N,7E0DB000,Disable Mosaic Effect
+N,7E1EEB00,Disable Special Stage Mode
+N,1031-6DD4+6D30-67A4,Disable Swimming
+N,6D2F-AFAF,Disable X and Y Buttons Running
+N,D332-6DAD,Dragon Coins Change Little Mario into Luigi
+N,7E007304,Duck When Jumping
+N,DFC7-6451+7DC7-6481,Easy Pipes
+N,7E0D-C2D7,Enable Item Window's "Goal Point" (Quit)
+N,7E1EEB80,Enable Special Stage Mode
+N,7E1F9283,Enable Special Stages Extra Features
+N,40C7-DDD1+6DC7-DF01+40C7-D761+40C0-DF01,Enemies Die When You Get Close to Them
+N,7E193800+7E193900+7E193A00+7E193B00+7E193C00+7E193D00+7E193E00+7E193F00+7E194000+7E194100+7E194200+7E194300+7E194400+7E194500+7E194600+7E194700+7E194800+7E194900+7E194A00+7E194B00+7E194C00+7E194D00+7E194E00+7E194F00,Enemies Multiplier
+N,7E18D409,Every Berry Makes Yoshi Lay an Egg
+N,7E18D501,Every Pink Berry Makes Yoshi Lay a Cloud Egg
+N,7E149301,Exit Level, Normal Exit
+N,7E143401,Exit Level, Second Exit
+N,DD64-A7D7+DD67-AFA7,Extra Life After Each Coin, Even Yoshi Coins
+N,D964-A7D7+D967-AFA7,Extra Life at 5 Coins Instead of 100
+N,DC64-A7D7+DC67-AFA7,Extra Life at 10 Coins
+N,F064-A7D7+F067-AFA7,Extra Life at 20 Coins
+N,7464-A7D7+7467-AFA7,Extra Life at 50 Coins
+N,D2E5-A7AD,Extra Life with Every Dragon Coin Instead of 5
+N,7732-6DAD,Fake Fire Mario
+N,7E0F2509+7E0F2609+7E0F2709,FAKE Infinite Time
+N,D032-6DAD,Fake Invincibility
+N,40C2-D7A6,Fireballs Hit Anywhere
+N,C2C3-D466,Fireballs Pierce Through Enemies
+N,59C4-0466,Fireballs Turn Most Enemies into Flowers
+N,56C4-0466,Fireballs Turn Most Enemies into Lives
+N,51C4-0466,Fireballs Turn Most Enemies into Starman
+N,CF2C-AF6F,Flying Ability
+N,CBB7-6D67+DEB7-6DA7+3CB7-6FD7+69B7-6F07,Funky Mario
+N,7E169707,Get 1-Up from Each Enemy You Stomp
+N,7E169706,Get 8000 Points from Each Enemy You Stomp
+N,6DED-A7AD,Get Coins Must of the Time
+N,40ED-A4AD,Get Yoshi Coin Must of the Time
+N,7E149602,Glide Walk
+N,DD3D-6460,Grab Key to Finish Level from Anywhere
+N,7E13CE02,Halfway Point Crossed
+N,188A-6767,Hit Some Blocks Repeatedly, Some Coins Stay
+N,7E149600,Hyper Mario+Luigi
+N,7E157800,Hyper Yoshi
+N,7E008680,Icy Floors
+N,6267-AF97,If You Die, Restart at the Halfway Point
+N,EE2C-AF6F,If You Hold Down the B Button, You Float Around!
+N,7E00AF00,In the Boss Room, Controls Vertical Angle of the Fireball 1 (In Wendy's Castle)
+N,7E00B100,In the Boss Room, Controls Vertical Angle of the Fireball 2 (In Wendy's Castle)
+N,7E0DBE63,Infinite 99 Lives
+N,7E186BFF,Infinite Coins from Multiple Coin Boxes
+N,C2EC-0700,Infinite Flying Time for Yoshi
+N,82E9-64A0+82E2-04D0,Infinite Items Yoshi Picks Up
+N,7E147101,Infinite Jumps
+N,C222-D4DD,Infinite Lives
+N,7E0DBF63,Infinite Max Coins
+N,7E1891FF,Infinite P-Balloon Time
+N,C264-64D7,Infinite Time
+N,6DE8-040F,Invincibility (Mostly)
+N,7E1497FF,Invincibility (Uneffected)
+N,7E1490FF,Invincible (Star Effect)
+N,CBED-646F+6DED-64AF+69ED-67DF+52ED-670F+18ED-676F+CECF-0FA1,Invincible Pits/Lava/Enemies
+N,7E157704,It Takes 1 Eating to Grow a Small Yoshi Up
+N,6DEE-14DF+D4EE-140F,Item Doesn't Fall from Box When You Get Hit
+N,232C-AF6F,Jackhammer Jump
+N,6D2E-0FDF,Jump in Midair
+N,7E13E470,Jump to Fly Automatically (With Cape)
+N,7E190002,Keep Gaining Star Points After Level (Turn Off to Stop)
+N,B837-6D61+BA37-6F61,Lakitu Throws Out an Amazing Flying Hammer Brother
+N,DFCE-64A0,Little Yoshi Grows into Big Yoshi After Eating Just 1 Enemy Instead of 5
+N,D4CE-64A0,Little Yoshi Grows into Big Yoshi After Eating Just 2 Enemies
+N,D7CE-64A0,Little Yoshi Grows into Big Yoshi After Eating Just 3 Enemies
+N,D0CE-64A0,Little Yoshi Grows into Big Yoshi After Eating Just 4 Enemies
+N,DECE-64A0,Little Yoshi Only Has to Eat 13 Enemies to Get Big
+N,F8CE-64A0,Little Yoshi Only Has to Eat 25 Enemies to Get Big
+N,BB22-D4DD,Lose Every Life Except One When You Die
+N,4D2C-AF0F,Low Gravity Float
+N,D732-6DAD,Low Gravity in Levels Over Water
+N,D02C-AF6F,Low Jump
+N,7E18E0FF,Lukita's Cloud Never Disappears from Under You (You Must Have One to Begin with)
+N,4832-ADAD,Mario Always Faces Left After a Power-Up
+N,CBB7-6D67+C9B7-6DA7+3CB7-6FD7+69B7-6F07,Mario Drives Without Benefit of a Car
+N,31B4-6F07,Mario Has a Halo on Map
+N,DD2F-A4DF,Mario Is Always Running
+N,EDA5-0F6F+61A5-040F+61A6-0D6F,Mario on Ice
+N,7E00787F,Mario/Luigi Are Invisible
+N,7E007600,Mario/Luigi Only Face Left
+N,7E007601,Mario/Luigi Only Face Right
+N,7E0DAA00,Mega Jump/Float
+N,DF2C-AF6F,Mega-Jump
+N,7E00B055+7E00B155+7E00B255+7E00B355+7E00B455+7E00B555+7E00B655+7E00B755+7E00B855+7E00B955+7E00BA55+7E00BB55+7E00BC55,Most Enemies Drop
+N,336B-D4D0,Multi-Jump and Low Gravity
+N,F53F-6767+DD3F-67A7,Multi-Jump Spin-Jumps, Hold for Slow Descent
+N,00ED-AFDF,Nighttime for Pros
+N,0DED-AFDF,Nighttime!
+N,DDA6-DF07,Nintendo Debug #2
+N,DDC1-64DD+DDC5-6DAD,Nintendo's Debug
+N,07ED-AFDF,No Background
+N,3E32-6DAD,No Enemies
+N,DDCD-0F06,One Hit Kills Chargin' Chucks
+N,CE3F-A4DD+CE6A-A407+8FB2-040D,Play as Luigi
+N,EDA5-0F6F,Power-Up Select
+N,F6AE-07A7+A4AD-67D7+D2AD-6707+A4AD-67A7+D2AF-6DD7+D1AF-6D67+17AF-6FD7+CBAF-6F07+DFAF-6F67+62AF-6FA7+A4AF-64D7+D2AF-6407+1DAF-6467,Press L / R to Cycle Items in the Item Box
+N,7E0DFC20,Press Select to Release an Extra Life from the Power-Up Box
+N,7FCAF601+7FCAF701+7FCB1901+7FCCC301+7FCCDA01+7FCE6901,Random Box Codes
+N,D5EB-6F07,Rapid-Fire Fireballs (Facing Right Only)
+N,2D80-0DE1+ED8B-0D89,Reverse Switch Palace Blocks
+N,7E152001,Ronzor 1 Not There
+N,7E152101,Ronzor 2 Not There
+N,7E152201,Ronzor 3 Not There
+N,7E152301,Ronzor 4 Not There
+N,EE2D-AF6F,Run Super Fast One Direction; Hard to Control
+N,EE28-6F6F,Runs Super Fast Without Holding Down Run; Turn Around with Spin Jump
+N,C022-D4DD,Says Game Over After Every Life
+N,9EED-AF6F,Screen Is Upside Down When You Play
+N,7E18AD01,Seizuring Yoshi!
+N,DDEA-6F07+DDB2-AFD8,Shoot Fireballs Straight
+N,DD34-6D2F+B066-0D2F,Show Save Prompt After Beating Any Level
+N,CBE4-6DDF,Shrink When Hit Ultra Fast
+N,CBEF-67AF,Shrink/Die Instantly
+N,40EC-AFDF,Sickening
+N,6DCB-D40D,Skip Story Intro
+N,EECD-AF6F,Skip Worlds
+N,842C-AF6F,Skitz Jumps
+N,7E14DCFF,Some Enemies Don't Exist
+N,7E14DDFF,Some Enemies Don't Exist (alt)
+N,FD32-6DAD,Spontaneously Change from Mario to Luigi
+N,7E0DB301,Start 1 Player Game as Luigi
+N,CBC5-6DAD,Start and Select Button Combo Makes the Game Pause Forever
+N,DD32-6DAD,Start and Stay Invincible Most of the Time
+N,CBB7-6D67+D0B7-6DA7+3CB7-6FD7+69B7-6F07,Start as a Red Faced Mario in Need of a Chiropractor
+N,CBB7-6D67+D4B7-6DA7+3CB7-6FD7+69B7-6F07,Start as Cape Mario
+N,CBB7-6D67+D7B7-6DA7+3CB7-6FD7+69B7-6F07,Start as Fire Mario
+N,CBB7-6D67+67B7-6DA7+3CB7-6FD7+69B7-6F07,Start as Hovercraft Mario, Get a Fire Flower to Put a Magic Squished Dinosaur in Reserve Which Will Let You Clear the Round Instantly If Collected
+N,CBB7-6D67+6DB7-6DA7+3CB7-6FD7+69B7-6F07,Start as Hovercraft Mario, Get a Mushroom to Put a Flying Key in Reserve
+N,CBB7-6D67+5BB7-6DA7+3CB7-6FD7+69B7-6F07,Start as Hovercraft Mario, Get a Mushroom to Turn It into a Pirahna Plant and Get a Giant Bullet Blob in Reserve
+N,CBB7-6D67+59B7-6DA7+3CB7-6FD7+69B7-6F07,Start as Hovercraft Mario, Get Any Item to Become Invincible
+N,CBB7-6D67+55B7-6DA7+3CB7-6FD7+69B7-6F07,Start as Hovercraft Mario, Get Any Item to Put a Shelless Turtle in Reserve
+N,CBB7-6D67+3CB7-6FD7+69B7-6F07,Start as Hovercraft Mario, or a Mushroom to Turn Invincible and Get a Football Koopa in Reserve
+N,CBB7-6D67+47B7-6DA7+3CB7-6FD7+69B7-6F07,Start as Mario - Grab a Mushroom and It Turns into a Pirahna Plant
+N,CBB7-6D67+FDB7-6DA7+3CB7-6FD7+69B7-6F07,Start as Nodding Mario - Grab a Mushroom to Get 1-Up
+N,69B7-6F07,Start as Red Spasms Mario
+N,CBB7-6D67+DBB7-6DA7+3CB7-6FD7+69B7-6F07,Start as Sub-Zero Mario - Grab a Mushroom to Become Invincible
+N,CBB7-6D67+66B7-6DA7+3CB7-6FD7+69B7-6F07,Start as Sub-Zero Mario, Get a Fire Flower or Mushroom to Put a 1-Up Mushroom in Reserve, Use That or Any Other 1-Up Mushroom to Put a Yoshi in Reserve
+N,31B7-6F07,Start as Super Mario
+N,CBC4-6DAD,Start Button Has No Effect
+N,62C1-ADAB,Start Most Stages with a Flying Yoshi (Needs Shell)
+N,DDB4-6F07,Start with 1 Life Instead of 5
+N,D6B4-6F07,Start with 9 Lives
+N,D3B4-6F07,Start with 15 Lives
+N,F6B4-6F07,Start with 25 Lives
+N,7FB4-6F07,Start with 50 Lives
+N,14B4-6F07,Start with 99 Lives
+N,CB28-DF6D,Stay as Super Mario, Fire Mario or Cape Mario When You Fall and Die
+N,CBED-6DDF,Stay as Super Mario, Fire Mario or Cape Mario When You Get Hit
+N,C23B-AF07,Stomp 8 Enemies and Get 1-Ups
+N,D42C-AF6F,Super Jump
+N,CBEF-6F6F,Super Stomp (Small Mario Bounces Off Enemies' Sides)
+N,AA64-64D7,Super-Fast Clock
+N,CBEA-6DAD,Swim in Every Level!
+N,7E14ADFF,Switch F/X on to Activate Infinite P-Switch Time
+N,7E007DF0,Switch F/X on to Levitate
+N,7E147105,Thick Air Cheat
+N,6664-64D7,Time Doesn't Countdown
+N,BB64-64D7,Time Never Runs Out
+N,7E0F3009+7E0F3109+7E0F3209+7E0F3309,Timer Always 999 Seconds
+N,7E0F3099,Timer Goes Real Fast
+N,7E0DB400,Turn Blocks That Produce a Star
+N,7E13F902,Walk Behind Scenery
+N,1D3F-6D04+C23D-64D4+6D3F-0D67+1D37-6D64,Walk Through Walls
+N,EDB7-0FBD,Warp to Star World
+N,EDA5-0F6F+69A5-040F+69A6-0D6F,Waterworld Mario
+N,3D2C-AF6F,Weird Jump (Doesn't Work with a Cape)
+N,CBCA-6DAD,Whenever You Land Hard on the Ground via the Cape, You Die
+N,7E1B9B00,Yoshi Allowed in Ghost Houses & Castles
+N,89E4-AFD9+89C6-D4DB,Yoshi Is Invincible
+N,E82C-AF64,You Can Climb and Fall Just Like the Original Except Much Faster

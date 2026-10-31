@@ -1,46 +1,60 @@
+N,7E0AA2FF+7E0AA3FF,All Dark Powers
+N,1069-44DD,Backwards Text
 N,7E09AE00,Can Always Attack
-N,7E0A1FBF,Have All Form Statues
-N,7E0AA2FF,Have All Dark Powers
-N,7E0AB050,Gem Holds 80 Gems
-N,7E0ACAE7,Have Maximum HP (1/2)
-N,7E0ACB03,Have Maximum HP (2/2)
-N,7E0ACEE7,Infinite HP (1/2)
-N,7E0ACDE7,Infinite HP (2/2)
-N,7E0ADEC8,Have 200 Strength
-N,7E0ADE64,Have 100 Strength
-N,7E0AD6E7,Infinite 99 DP (1/2)
-N,7E0AD709,Infinite 99 DP (2/2)
-N,7E0AD400,Normal Form
-N,7E0AD401,Knight Form
+N,DDED-4DDA,Collect One Dark Gem for Max DP
+N,7E1B740C+7E1B760C,Defense
 N,7E0AD402,Flaming Form
-N,CE3D-3D06,Walk Through Walls (1/2)
-N,B83D-3FD6,Walk Through Walls (2/2)
-N,DDA0-3D37,Red Jewel 50 Check Passes
-N,DDA7-3447,Red Jewel 30 Check Passes
-N,DDA4-3F37,Red Jewel 20 Check Passes
-N,DDAF-3FC7,Red Jewel 12 Check Passes
-N,DDAD-3F17,Red Jewel 8 Check Passes
-N,DDAE-CF47,Red Jewel 5 Check Passes
-N,DDA3-CD37,Red Jewel 3 Check Passes
-N,CB36-4FAE,View Cond To Max Stats (1/4)
-N,1036-44DE,View Cond To Max Stats (2/4)
-N,BB36-446E,View Cond To Max Stats (3/4)
-N,DD36-44AE,View Cond To Max Stats (4/4)
+N,7E0AB050,Gem Holds 80 Gems
+N,FD6B-47A3,Get 2x the Energy from Herbs
+N,F66B-47A3,Get 3x the Energy from Herbs
+N,7E0ADE64,Have 100 Strength
+N,7E0ADEC8,Have 200 Strength
+N,7E0ACAE7+7E0ACB03,Have 999 Max HP
+N,7E0AA2FF,Have All Dark Powers
+N,7E0A1FBF,Have All Form Statues
+N,7E15A4BE,High Defense
+N,408D-1FAE+6D80-170E+408F-170E+4087-1FAE,Hit Anywhere
+N,7E1B8864+7E1B8A64,Infinite & Max HP
+N,7E0AD6E7+7E0AD709,Infinite 99 DP & 9 S
+N,7E0ACEE7+7E0ACDE7,Infinite 999 HP
 N,C2A5-44A2,Infinite Energy
-N,D98F-4F0C,Psycho Dash Charges Faster 
-N,D98B-4DDC,Dark Friar Charges Faster
-N,FD6B-47A3,Get 2X Energy From Herbs
-N,F66B-47A3,Get 3X Energy From Herbs
-N,DD8F-4F0C,Psycho Dash Charges Instantly 
+N,C2AF-44A2,Infinite Energy (alt)
+N,7E0ACE32+7E0ACD32,Infinite HP
+N,8B3E-1FAB,Item Duplication When Rearranging
+N,7E0AD401,Knight Form
+N,D98B-4DDC,Less Charge Time for Dark Friar
+N,D98F-4F0C,Less Charge Time for Psycho Dash
+N,7E0ADEFF+7E0ADFFF,Makes Main Character Super Strong (One Hit Kills)
+N,7E0ADC63,Max Defence
+N,7E0AD6E7+7E0AD703,Max DP
+N,7E0ACA32+7E0ACB03,Max HP
+N,7E0ADE63,Max Strength
+N,7E1B67FF,Mucho Infinite Gems
+N,DD8F-4F0C,No Wait Time to Charge Up for Psycho Dash
+N,7E0AD400,Normal Form
+N,CB30-1408,Open Menu to Get All Form Statues
+N,DDA3-CD37,Red Jewel 03 Check Passes
+N,DDAE-CF47,Red Jewel 05 Check Passes
+N,DDAD-3F17,Red Jewel 08 Check Passes
+N,DDAF-3FC7,Red Jewel 12 Check Passes
+N,DDA4-3F37,Red Jewel 20 Check Passes
+N,DDA7-3447,Red Jewel 30 Check Passes
+N,DDA0-3D37,Red Jewel 50 Check Passes
+N,F065-4D0D,Start with 20 Strength Points
+N,7465-4D0D,Start with 50 Strength Points
+N,9D65-4D0D,Start with 80 Strength Points
+N,F061-44DD,Start with a Lot More Energy
+N,5568-4D0D,Start with All Dark Powers
+N,CB23-170E,Start with All Form Statues
+N,7E1B700C+7E1B720C,Strength
+N,D9AA-1F0B+E8A5-14AB,Super Run Left/right Only
+N,EAA7-1D6B+D0A3-446B,Super Run Up/down Only
 N,7F102803,Untouchable
-N,408D-1FAE,Hit Anywhere (1/4)
-N,6D80-170E,Hit Anywhere (2/4)
-N,408F-170E,Hit Anywhere (3/4)
-N,4087-1FAE,Hit Anywhere (4/4)
-N,7E0ADEFF,1-Hit Kills (1/2)
-N,7E0ADFFF,1-Hit Kills (2/2)
-N,7E0AA2FF,All Dark Powers (1/2)
-N,7E0AA3FF,All Dark Powers (2/2)
-N,5568-4D0D,Start With All Dark Powers
-N,CB23-170E,Start With All Form Statues
-N,8B3E-1FAB,Rearrange Item To Duplicate
+N,5D34-3FD3,Upgrade to 40 Max HP
+N,9D63-4D62,Use Red Jewel to Send 50 Red Jewels
+N,CB36-4FAE+1036-44DE+BB36-446E+DD36-44AE,View Will's 'Cond.' to Max Out His Stats
+N,CE3D-3D06+B83D-3FD6,Walk Through Walls
+N,1061-440D,Will Starts with 40 Max and Present HP
+N,EE65-4D0D,Will Starts with 55 Strength
+N,1765-4D0D,Will Starts with 99 Strength
+N,EE61-440D,Will Starts with All the Max HP You Can Get

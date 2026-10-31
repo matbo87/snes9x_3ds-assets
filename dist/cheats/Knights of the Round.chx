@@ -1,7 +1,59 @@
-N,7E400850,Invincibility
-N,7E4136FF,invisible to enemy
-N,7E413209,unlimited lives
-N,7E0C4A09,unlimited time
-N,7E41120F,start max. level
-N,7E0C4601,enemies immed. die
-N,7E095006,start final stage
+N,4029-4DD5+4022-1DD5,Almost Infinite Energy
+N,7E41120E,Be at Level 16
+N,7E43120E,Be at Level 16 (alt)
+N,8B2A-34A6,Don't Lose Energy from Special Attack
+N,4DA1-14DD+84A1-140D+ABA1-146D+1DA8-14D4,Enable Hidden Options Screen When Entering Options Menu
+N,F36B-47AF,Faster Timer
+N,7E400850,Infinite Energy
+N,7E400858,Infinite Health (P1)
+N,7E420858,Infinite Health (P2)
+N,7E413201,Infinite Lives
+N,7E413299,Infinite Lives (alt)
+N,7E433299,Infinite Lives (alt 2)
+N,7E413209,Infinite Lives (P1)
+N,7E433209,Infinite Lives (P2)
+N,7E0C4A59,Infinite Time
+N,2DA1-1DDC+ED2E-1D68,Instant Level Up
+N,7E413602,Invincibility
+N,7E420850,Invincibility (alt)
+N,76A8-14DC,Invincibility (Flickers)
+N,7E4136FF,Invincibility (P1)
+N,7E4336FF,Invincibility (P2)
+N,D12A-3406,Less Energy Lost from Special Move
+N,D7C9-1DDB,Low Jump (Arthur)
+N,D7C0-17DB,Low Jump (Lancelot) - Great for Keeping Enemies at Bay with Jump Attack!
+N,7E5C0800,Lower Enemy #1 Health
+N,7E5E0800,Lower Enemy #2 Health
+N,7E600800,Lower Enemy #3 Health
+N,DDAD-17BF,Max Energy from Most Food
+N,F02A-3406,More Energy Lost from Special Move
+N,EE2C-C7DC,More Invincibility Time After Successful Block
+N,DD2A-3406,No Energy Lost from Special Move
+N,4027-37A5+4038-C760+4033-4760,One Hit Kill
+N,7E41120F+7E411304+7E411404,P1 Full Armor
+N,7E413301,P1 Level Up! Without Hitting Enemies
+N,7E414900+7E414A00+7E414B00+7E414C00,P1 Quick Level Gain
+N,7E4146FF,P1 Score Multiplier
+N,7E43120F+7E431304+7E431404,P2 Full Armor
+N,7E433602,P2 Invincibility
+N,7E433301,P2 Level Up! Without Hitting Enemies
+N,7E434900+7E434A00+7E434B00+7E434C00,P2 Quick Level Gain
+N,7E4346FF,P2 Score Multiplier
+N,7E414585+7E414699+7E414799,Quick Level Gain
+N,7E434585+7E434699+7E434799,Quick Level Gain (alt)
+N,DDB3-47D9,Quick Level Up
+N,7E414899,Set Max. Exp. (P1)
+N,7E434899,Set Max. Exp. (P2)
+N,7E41120F,Set Max. Level (P1)
+N,7E43120F,Set Max. Level (P2)
+N,F92A-376D+202A-37AD+2E27-C4DD+D0B0-470F,Skip Intro Screens
+N,1D6B-47AF,Slower Timer
+N,3C81-4461+CB81-44A1+DF81-47D1,Start on Stage 2
+N,3C81-4461+CB81-44A1+D481-47D1,Start on Stage 3
+N,3C81-4461+CB81-44A1+D781-47D1,Start on Stage 4
+N,3C81-4461+CB81-44A1+D081-47D1,Start on Stage 5
+N,3C81-4461+CB81-44A1+D981-47D1,Start on Stage 6
+N,DAC9-1DDB,Super Jump [Arthur]
+N,DAC0-17DB,Super Jump [Lancelot]
+N,DAC9-1FDB,Super Jump [Percival]
+N,1D27-4405+1D21-1F65,Untouchable

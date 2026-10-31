@@ -1,9 +1,14 @@
-N,7E028C03,Infinite lives
-N,7E03C201,Ghosts alw.on run
-N,7E03D201,Ghosts alw.on run2
-N,7E03E201,Ghosts alw.on run3
-N,7E03F201,Ghosts alw.on run4
-N,7E029F01,Inf.pwr.p. time
-N,7E025601,Fruit bonus stays
-N,7E023600,Beat 1 stage = end
+N,7E029E03,Ghosts Eatable at Start and Infinite Power Pill Time
+N,7E028C03,Infinite Lives
+N,C269-1DDF,Infinite Lives - Both Players (Alternating Game)
+N,7E029EFF,Infinite Power Pill Time
 N,7E029C00,Invincibility
+N,DDBE-3D0D,Invincibility - Both Players
+N,7E03A220,Level Select on Main Menu
+N,C267-140F,P1 Infinite Lives (Except Alternating Game)
+N,7E029403,P2 Infinite Lives (Except Alternating Game)
+N,7E029E01,Power Pellets Last Forever
+N,7E03A263,Select Any Starting Level
+N,D969-4407,Start with 5 Lives - Both Players
+N,D569-4407,Start with 7 Lives - Both Players
+N,DB69-4407,Start with 9 Lives - Both Players

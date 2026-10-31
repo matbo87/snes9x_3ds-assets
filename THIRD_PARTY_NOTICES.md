@@ -25,21 +25,16 @@ licenses and terms apply to those materials.
   pages as of 2026-03-22. Treat as restricted unless explicit permission/terms
   are provided by LaunchBox/Unbroken Software.
 
-### CHX collection (HarkOn)
-- Source: https://gbatemp.net/threads/chx-file-collection-for-the-snes9x_3ds.591137/
-- Notes: No explicit standalone license statement is recorded here in this
-  repository. Keep attribution and follow source terms.
-
-### legacy CHT cheat collection (dohclude)
-- Source: https://gbatemp.net/threads/cheats-for-snes9x-gx.149024/
-- Notes: No explicit standalone license statement is recorded here in this
-  repository. Keep attribution and follow source terms.
-
 ### libretro-database
 - Source: https://github.com/libretro/libretro-database
 - License shown upstream: CC-BY-SA-4.0
 - Referenced subset in this repository:
   https://github.com/libretro/libretro-database/tree/master/cht/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System
+
+### GameHacking.org
+- Source: https://gamehacking.org/system/snes/
+- Notes: No explicit standalone license statement is recorded here in this
+  repository. Keep attribution and follow source terms.
 
 ## Repository license scope
 

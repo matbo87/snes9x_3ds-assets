@@ -1,10 +1,11 @@
 N,7E04E203,Infinite Health
-N,7E04E609,Infinite Time
-N,7E04460F,Invisible Smurf
-N,7E0447FF,Invincible (Flashing)
-N,7E04D809,Set Score To 900;000
-N,7E04DE09+7E04DF09,Set 99 Leaves
 N,7E04E104,Infinite Lives
 N,7E04E709,Infinite Stars
-N,7E005E9F,Switch F/X On To Levitate Jump
-N,7E0490??,Stage "Act" Select
+N,7E04E609,Infinite Time
+N,7E04467E,Invincibility
+N,7E0447FF,Invincible (Flashing)
+N,7E04460F,Invisible Smurf
+N,7B39-3FA7+C931-3707+C93A-4F66+6D3B-3707+D4E9-C4DD+DD61-C7D7,Moon Jump
+N,7E04DE09+7E04DF09,Set 99 Leaves
+N,7E04D809,Set Score to 900,000
+N,7E005E9F,Switch F/X on to Levitate Jump

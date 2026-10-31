@@ -1,1 +1,24 @@
-N,7E020201,Enable Stage Select after Select Player Screen
+N,7E1FA804,Always Have Double Shotgun
+N,2D82-0409,Enable Level Select
+N,7E020201,Enable Stage Select After Select Player Screen
+N,7E024460,Freeze Timer
+N,40BD-AD0A+6DBE-DDDF+40BF-0F6F+40B4-0DDF+40B4-070F+40B7-0FAF,Hit Anywhere
+N,8282-0F64,Infinite Bombs - Both Players
+N,7E1FA063,Infinite Bombs [To Use, Press X Button]
+N,8264-DFB4,Infinite Lives - Both Players
+N,7E1FD0FF+7E1FD1C9+7E1FD29A+7E1FD33B,Infinite Points and Lives
+N,82B2-D7FF,Infinite Special Gun Ammo - Both Players
+N,7E024699,Infinite Time
+N,4061-DFAA,Invincibility
+N,8267-D4F4+8267-DF94,Keep Special Gun and Special Gun Ammo After Dying - Both Players
+N,7E1FA006,P1 Infinite Bombs
+N,7E1FB20A,P1 Infinite Lives
+N,7E1FB099,P1 Infinite Special Gun Ammo
+N,7E1C8002,P1 Invincibility
+N,7E1FA406,P2 Infinite Bombs
+N,7E1FB60A,P2 Infinite Lives
+N,7E1FB499,P2 Infinite Special Gun Ammo
+N,7E1C8402,P2 Invincibility
+N,D9B6-DD64,Start with 5 Bombs - Both Players
+N,D9B5-D404,Start with 5 Lives - Both Players
+N,DBB5-D404,Start with 9 Lives - Both Players

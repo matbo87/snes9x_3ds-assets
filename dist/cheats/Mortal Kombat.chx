@@ -1,7 +1,179 @@
-N,-7F6A205B,Infinite Time
-N,-7F685300,1st Strike Wins
-N,-7F7E97F6,Goro Match
-N,-7F7B3457,Bottom Of Pit (1)
-N,-7F7B33FA,Bottom Of Pit (2)
-N,-7F604D80,Flawless Victory
-N,009C2190,Sweat Is Red
+N,7E002209+7E02C101+7E197204,"Play" as Reptile
+N,CB6A-44AF+DF6A-47DF,After 1st Match, Almost Always Fight at the Palace Gates
+N,CB6A-44AF+D96A-47DF,After 1st Match, Almost Always Fight in Goro's Lair
+N,CB6A-44AF+D76A-47DF,After 1st Match, Almost Always Fight in the Pit
+N,CB6A-44AF+D06A-47DF,After 1st Match, Almost Always Fight in the Throne Room
+N,CB6A-44AF+D46A-47DF,After 1st Match, Almost Always Fight in the Warrior Shrine
+N,7E192104,After a Subzero Freeze, the Ice Color Remains When You Recover
+N,DDBF-1FA4,All Strikes Do Minimal Damage [All Equal to 1 Hit Point]
+N,56B9-4DAD,All Throws Do More Damage
+N,CBBA-394F+D5BA-391F,Almost Always Fight Goro (Don't Use Kano's or Johnny Cage's Fatality on Goro)
+N,CB6A-44AF+D16A-47DF,Almost Always Fight in Goro's Lair After 1st Match
+N,CBBA-394F+DDBA-391F,Almost Always Fight Johnny Cage
+N,CBBA-394F+DFBA-391F,Almost Always Fight Kano
+N,CBBA-394F+D7BA-391F,Almost Always Fight Liu Kang
+N,CBBA-394F+D4BA-391F,Almost Always Fight Rayden
+N,CBBA-394F+D0BA-391F,Almost Always Fight Scorpion
+N,CBBA-394F+D1BA-391F,Almost Always Fight Sonya Blade
+N,CBBA-394F+D9BA-391F,Almost Always Fight Sub-Zero
+N,DD6A-47AF,Always Fight in the Courtyard
+N,6DB8-3D67,Always Get Flawless Victory Bonus
+N,7F31-4DDE,Both Players Are Invisible
+N,D881-404F,Can Make P1 Nearly Invincible in 2-player Game
+N,6C2A-146D,Changes Speed of Rayden's Torpedo
+N,CBE5-C7A4+DDE6-CDD4+DDE6-CD04,Character Displayed in Profile Modifier
+N,7E1959D3,Character Makes Funny Movements During Battle
+N,7E1959EB,Character Makes Funny Movements During Battle (alt)
+N,D6BA-14DD,Character Select Boxes Will Be Black
+N,A3CA-4D6D,Computer Cannot Win
+N,F62F-41C7,Crouched Kick Do More Damage
+N,7A26-1944,Crouched Kick Does More Damage
+N,F628-4534,Crouched Kick Does More Damage (alt)
+N,7A2F-3114,Crouched Kick Does More Damage (alt 2)
+N,7A2D-35CF,Crouched Kick Does More Damage (alt 3)
+N,F620-C114,Crouched Kick Does More Damage (alt 4)
+N,6DB9-340F,Disable Blocking Both Players
+N,FF66-3DD4+DD66-3D04,Each Round Is 10 Seconds
+N,4F66-3DD4+DD66-3D04,Each Round Is 20 Seconds
+N,7F66-3DD4+DD66-3D04,Each Round Is 30 Seconds
+N,0F66-3DD4+DD66-3D04,Each Round Is 40 Seconds
+N,9F66-3DD4+DD66-3D04,Each Round Is 50 Seconds
+N,1F66-3DD4+DD66-3D04,Each Round Is 60 Seconds
+N,5F66-3DD4+DD66-3D04,Each Round Is 70 Seconds
+N,6F66-3DD4+DD66-3D04,Each Round Is 80 Seconds
+N,BF66-3DD4+DD66-3D04,Each Round Is 90 Seconds
+N,D466-3D04,Each Round Is 199 Seconds [Time Counts Down Twice]
+N,676A-47AF,Enable High Score Entry (After Any Loss)
+N,D2B8-14DD,Everyone Will Vibrate in a 2 Player Game
+N,7E002207,Fight as Goro (Very Glitchy - May Freeze or Cause Graphical Problems)
+N,7E002209,Fight as Reptile (Not Controllable, May Freeze)
+N,7E011200,Fight on the Character Select Screen
+N,0821-4914,Fireball Does More Damage [Only at Close Distance]
+N,082A-C144,Fireball Does More Damage [Only at Close Distance] (alt)
+N,EE31-4DDE,First Fight Code
+N,DFBE-3FA4,First Person That Gets Hit Loses [Against the CPU]
+N,DDBC-370F,First Strike of Any Kind Wins Round
+N,0823-3944,Flying Punch Do More Damage
+N,082C-1144,Flying Punch Does More Damage
+N,0826-4044,Flying Punch Does More Damage (alt)
+N,0827-3514,Flying Punch Does More Damage (alt 2)
+N,0827-313F,Flying Punch Does More Damage (alt 3)
+N,082D-C014,Flying Punch Does More Damage (alt 4)
+N,9C22-1514,Flying Thunderbolt Does More Damage
+N,7A2D-4147,Foot Sweep Do More Damage
+N,7A25-10C4,Foot Sweep Does More Damage
+N,7A28-49C4,Foot Sweep Does More Damage (alt)
+N,7A2D-3934,Foot Sweep Does More Damage (alt 2)
+N,7A2A-C53F,Foot Sweep Does More Damage (alt 3)
+N,7A20-C044,Foot Sweep Does More Damage (alt 4)
+N,6D67-3F0D,Get to Fight Reptile [If Have Do a Double Flawless
+N,DD39-37A7,Goro Acclaim Smash Character Modifier
+N,DDEC-1F6D,Goro After Profile Display Character Modifier
+N,5EB5-3F64,Have Several Minutes of Fatality Time
+N,7A22-30C4,Head Blow Do More Damage
+N,0621-1044,Head Blow Does More Damage
+N,7A2A-4144,Head Blow Does More Damage (alt)
+N,7A28-C534,Head Blow Does More Damage (alt 2)
+N,7A2E-C03F,Head Blow Does More Damage (alt 3)
+N,7A29-C0C4,Head Blow Does More Damage (alt 4)
+N,062E-39C4,High Kick Do More Damage
+N,0626-1514,High Kick Does More Damage
+N,062B-40C4,High Kick Does More Damage (alt)
+N,0624-30C4,High Kick Does More Damage (alt 2)
+N,9023-C01F,High Kick Does More Damage (alt 3)
+N,092F-C034,High Kick Does More Damage (alt 4)
+N,DD68-6DD0,High Pitched Voices!
+N,F328-3934,High Punch Do More Damage
+N,F320-1914,High Punch Does More Damage
+N,F32C-4944,High Punch Does More Damage (alt)
+N,F323-C034,High Punch Does More Damage (alt 2)
+N,F32F-393F,High Punch Does More Damage (alt 3)
+N,F324-C914,High Punch Does More Damage (alt 4)
+N,3DBF-3D0F+27BF-3D6F+F6BF-3DAF+74BF-3F0F,Hit Anywhere P1
+N,7E03F2FF,Hyper P1
+N,7E03F4FF,Hyper P2
+N,CF30-CFAF+6230-C40F+8B30-C46F,Infinite Energy
+N,7E04B9A1,Infinite Health P1
+N,7E04BBA1,Infinite Health P2
+N,7E0122FF,Infinite Time
+N,7E03E7A0,Infinite Time to Continue
+N,40C2-4FDF+40C2-446F+3DC2-476F+55C2-47AF+F5C3-4DDF+1DB9-34AF,Invincibility
+N,3C6F-3FAF,Invisible Players
+N,D6A0-C404,Johnny Cage - Press Y
+N,DEB8-14DD,Johnny Cage Is Blue
+N,D62D-44AF,Kano - Press B
+N,062A-3114,Knee Do More Damage
+N,0629-1934,Knee Does More Damage
+N,0622-4014,Knee Does More Damage (alt)
+N,062E-C914,Knee Does More Damage (alt 2)
+N,062E-C54F,Knee Does More Damage (alt 3)
+N,0629-C134,Knee Does More Damage (alt 4)
+N,0824-11C4,Knife Does More Damage [Only at Close Distance]
+N,5620-17A7,Leg Grab Does More Damage
+N,DD62-3464,Lets You Start Fighting Before It Says "Fight"
+N,0823-19C4,Lightning Does More Damage [Only at Close Distance]
+N,DD2D-146D,Liu Kang - Press Down
+N,2D2A-34DD,Liu Kang Will Fry His Enemy into a Skeleton When He Does His Special Flying Kick
+N,062E-3534,Low Kick Do More Damage
+N,062B-19C4,Low Kick Does More Damage
+N,042B-4134,Low Kick Does More Damage (alt)
+N,0624-3134,Low Kick Does More Damage (alt 2)
+N,9F23-C1CF,Low Kick Does More Damage (alt 3)
+N,042F-C544,Low Kick Does More Damage (alt 4)
+N,F32A-3044,Low Punch Do More Damage
+N,F320-15C4,Low Punch Does More Damage
+N,F32C-4514,Low Punch Does More Damage (alt)
+N,F323-C544,Low Punch Does More Damage (alt 2)
+N,F324-304F,Low Punch Does More Damage (alt 3)
+N,F327-C934,Low Punch Does More Damage (alt 4)
+N,822A-34DD,Lui Kang Shoots Fireball While Doing His Special Flying Kick
+N,EEB3-14DD,No Character Select Screen!
+N,7E192101,No Color Change When Frozen by Sub-Zero
+N,7E04B900,No Health P1
+N,7E04BB00,No Health P2
+N,E2BE-3FA4,P1 and CPU Start with More Energy
+N,EEC9-14DA,P2 Can Never Win a Round
+N,7E002207+9897C4A9+9897C507,Play as Goro (Very Glitchy, May Freeze or Cause Graphical Problem)
+N,7E002208,Play as Shang Tsung (Glitchy and Prone to Error)
+N,D6AD-3D04,Raiden - Press Y
+N,6DEB-1F07,Reptile Clues Before Every Match
+N,1D2F-4017,Roundhouse Kick Do More Damage
+N,1D27-1544,Roundhouse Kick Does More Damage
+N,1D26-4114,Roundhouse Kick Does More Damage (alt)
+N,1D22-C1C4,Roundhouse Kick Does More Damage (alt 2)
+N,1122-C14F,Roundhouse Kick Does More Damage (alt 3)
+N,9C2D-C1C4,Roundhouse Kick Does More Damage (alt 4)
+N,D227-47AD,Scorpion - Press Up, L or R
+N,F626-31C4,Scorpion's and Reptile's Harpoon Do More Damage
+N,66B8-14DD,See GoldenRod [Hidden Character] in MK 1!
+N,9C20-41C4,Shadow Kick Does More Damage
+N,7E01AE00,Shang Tsung Will Not Release Any Fighters When Defeated
+N,33B6-C4D7,Skip Every Other Opponent on the "Battle Plan"
+N,CE6B-4DAD,Skip Intro Screens
+N,CECF-462F+DD8A-36FF,Skip VS Screen
+N,0822-C13F,Sonic Rings Does More Damage [Only at Close Distance]
+N,DD2A-CDD4,Sonya - Press L or R
+N,9C28-C9C4,Special Flying Kick Does More Damage
+N,1129-4544,Split Punch Does More Damage
+N,D561-14DD,Start on Endurance 1 Match
+N,D661-14DD,Start on Endurance 2 Match
+N,DB61-14DD,Start on Endurance 3 Match
+N,DF61-14DD,Start on Match 2
+N,D461-14DD,Start on Match 3
+N,D761-14DD,Start on Match 4
+N,D061-14DD,Start on Match 5
+N,D961-14DD,Start on Match 6
+N,DC61-14DD,Start on Match with Goro
+N,D861-14DD,Start on Match with Shang Tsung
+N,D161-14DD,Start on Mirror Match
+N,D6AE-4DD7,Sub Zero - Press Y
+N,462C-3914,Sub-Zero's and Reptile's Deep Freeze Do Damage
+N,4525-3144,Sub-Zero's and Reptile's Slide Do More Damage
+N,EEC9-140A,Sudden Death Mode
+N,562C-35C4,Uppercut Do More Damage
+N,5625-1134,Uppercut Does More Damage
+N,5622-41C4,Uppercut Does More Damage (alt)
+N,562F-3044,Uppercut Does More Damage (alt 2)
+N,5624-311F,Uppercut Does More Damage (alt 3)
+N,5621-C944,Uppercut Does More Damage (alt 4)
+N,7E192102,You're in Frozen Form (As If Being Frozen by Subzero)

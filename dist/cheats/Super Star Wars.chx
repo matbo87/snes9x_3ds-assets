@@ -1,7 +1,107 @@
-N,7E0A7920,Infinite energy
-N,-7F61AA00,Enable chewie/han
-N,-7F61B200,Start with saber
-N,-7F163189,Keep gun powerups
-N,-7E2297D4,Infinite continues
-N,-7F705157,Infinite lives (1)
-N,-7F162753,Infinite lives (2)
+N,FB67-4FAF+FB60-4D6F,25 Jawas Needed to Pass Landspeeder Levels
+N,7467-4FAF+7460-4D6F,50 Jawas Needed to Pass Landspeeder Levels
+N,DDB9-CF67,All 3 Characters Selectable at the Beginning of the Game
+N,7E098504,Always Plasma Gun
+N,7E098503,Always Rapid Ion
+N,7E098502,Always Seeker Gun
+N,3B37-C764+DF37-C7A4+DD30-CDD4+3C30-CD04,Always Take the Minimal Amount of Damage
+N,DDB0-C767,Begin the Game with the Lightsaber
+N,3CA4-1404,Big Heart Pickups Worth More on All Difficulty Levels
+N,553A-1764,Blaster Power-Ups Remain After Dying
+N,DDBA-C707,Blasters Hit and Even Bounce Off Invisible Objects; Game May Freeze
+N,7E0A7F00,Boss 5 Dies with 1 Hit
+N,7E0A8100,Boss 9 Dies with 1 Hit
+N,7E0A7B00,Bosses 1, 2, 3, 4, 6, 7 & 8 Die with 1 Hit
+N,7E0110C0,Cheats on
+N,7E88-37A5,Chewie & Han Have Reverse Homing Missiles
+N,7088-37A5,Chewie & Han Start Equipped with Fast Homing Missiles
+N,DDBA-3D65,Chewie and Han Start with Big Life Capacity
+N,7E010C01,Debug Mode on
+N,7E0977FF,Detonator Lasts
+N,DDB4-4467,Enable Debug Menu Plus Invincibility and Player Coordinate Display
+N,DDB4-4DA7,Enable Debug Menu Plus Invincibility and Player Coordinate Display [Rev 1]
+N,DDBD-4FA7,Enable Stage Skip
+N,DDBD-4DD7,Enable Stage Skip [Rev 1]
+N,EEA8-34A7,Freak-O Color Changes
+N,40A1-47D4,Fuel Power-Ups Completely Refill the Landspeeder
+N,DD88-37A5,Han Solo & Chewbacca Begin with a Blaster
+N,D088-37A5,Han Solo & Chewbacca Begin with a Plasma Gun
+N,D788-37A5,Han Solo & Chewbacca Begin with a Rapid Ion Gun
+N,D488-37A5,Han Solo & Chewbacca Begin with a Seeker Gun
+N,7E08FF44,High Max. Health
+N,AD8B-1F67+DD8B-1FA7+DD8B-14D7+2D8B-1407+1D8B-1467+DD8C-1FD7,Hit Anywhere
+N,AD89-1F07+DD89-1F67+DD89-1FA7+2D89-14D7+1D89-1407+DD81-1DA7,Hit Anywhere [Rev 1]
+N,7E011463,Infinite Continues
+N,7E097806,Infinite Detonators
+N,7E087664,Infinite Fighter Life
+N,7E0A7944,Infinite Health
+N,7E087224,Infinite Jets
+N,7E087228,Infinite Jets on Speeder
+N,7E08FB03,Infinite Lives
+N,7E098801,Infinite Shields
+N,7E098701,Infinite Thermal Detonator
+N,7E096F0F,Infinite Time
+N,7E087863,Infinite Torpedoes
+N,7E0A79FF,Invincibility
+N,7E097900+E0979C03,Max Point Bonus
+N,7E096B09,Max Score - Hundred-Millions
+N,7E096709,Max Score - Hundred-Thousand
+N,7E096309,Max Score - Hundreds
+N,7E096909,Max Score - Millions
+N,7E095F09,Max Score - Ones
+N,7E096109,Max Score - Tens
+N,7E096509,Max Score - Thousands
+N,7E0870CD+7E0871FF,Max Total Bonus
+N,7E08FF44+7E0A7944,Max. Health
+N,7E150C04,Messed Up Graphics
+N,6DA5-4D04,No Fuel Max [For Fuel Power-Ups]
+N,DF67-4FAF+DF60-4D6F,Only 1 Jawa Needed to Pass Landspeeder Levels
+N,D967-4FAF+D960-4D6F,Only 5 Jawas Needed to Pass Landspeeder Levels
+N,DC67-4FAF+DC60-4D6F,Only 10 Jawas Needed to Pass Landspeeder Levels
+N,AFAC-34A7,Only Explosions, Clawed Creatures, and End Bosses Can Hurt You!
+N,7E088800+7E088600,Pass Deathstar Tower and TIE Shooting Instantly
+N,7E087201+7E087300+7E087400,Pass Deathstar Trench Run Fast
+N,7E086E00,Pass Jawa Shooting Instantly
+N,1D34-C704,Protection Against Most Damage
+N,7E087300,Quick End D. Star
+N,CEA7-1FD4+D03B-CF00,Small Heart Pickups Worth More Health Units on All Difficulty Levels
+N,D63B-CFA0,Small Hearts Restore 4 Times as Much Health as Usual [Brave Difficulty]
+N,DA3B-CF00,Small Hearts Restore 4 Times as Much Health as Usual [Easy Difficulty]
+N,D63B-C400,Small Hearts Restore 4 Times as Much Health as Usual [Jedi Difficulty]
+N,DF3B-CFA0,Small Hearts Restore Half as Much Health as Usual [Brave Difficulty]
+N,D43B-CF00,Small Hearts Restore Half as Much Health as Usual [Easy Difficulty]
+N,DF3B-C400,Small Hearts Restore Half as Much Health as Usual [Jedi Difficulty]
+N,D03B-CFA0,Small Hearts Restore Twice as Much Health as Usual [Brave Difficulty]
+N,D13B-CF00,Small Hearts Restore Twice as Much Health as Usual [Easy Difficulty]
+N,D03B-C400,Small Hearts Restore Twice as Much Health as Usual [Jedi Difficulty]
+N,CE38-C700+D935-CD00,Start and Continue with More Lives on All Difficulty Levels
+N,7E017E00,Start at Level
+N,FD35-C400,Start with 1/2 as Much Health as Usual [Brave Difficulty]
+N,F435-CFA0,Start with 1/2 as Much Health as Usual [Easy Difficulty]
+N,D335-C4A0,Start with 1/2 as Much Health as Usual [Jedi Difficulty]
+N,DF35-CDA0,Start with 2 Lives
+N,D93B-C760,Start with 5 Continues
+N,D935-CDA0,Start with 6 Lives
+N,D53B-C760,Start with 7 Continues
+N,D535-CDA0,Start with 8 Lives
+N,DC3B-C760,Start with 10 Continues
+N,DC35-CDA0,Start with 11 Lives
+N,DE3B-C760,Start with 15 Continues
+N,DE35-CDA0,Start with 16 Lives
+N,FB3B-C760,Start with 25 Continues
+N,FB35-CDA0,Start with 26 Lives
+N,743B-C760,Start with 50 Continues
+N,7435-CDA0,Start with 51 Lives
+N,173B-C760,Start with 99 Continues
+N,1735-CDA0,Start with 100 Lives
+N,0667-4D0F,Start with Double Fuel on Landspeeder Levels
+N,F467-4D0F,Start with Half Fuel on Landspeeder Levels
+N,CE32-C4A0+7D35-CFA0,Start with More Health Units on All Difficulty Levels
+N,DD3B-C760,Start with No Continues
+N,0D35-C400,Start with Twice as Much Health as Usual [Brave Difficulty]
+N,0635-CFA0,Start with Twice as Much Health as Usual [Easy Difficulty]
+N,7635-C4A0,Start with Twice as Much Health as Usual [Jedi Difficulty]
+N,0DA3-17DF,Temporary Invincibility After Being Hit Lasts Longer
+N,1DA3-176F+6D37-CF04,Untouchable
+N,7E098801+7E04DE04,Walk on Lava Unhurt
+N,1737-C704,You Are Invisible, but So Are the Enemies

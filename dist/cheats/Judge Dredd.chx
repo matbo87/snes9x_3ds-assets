@@ -1,31 +1,30 @@
-N,7E1AF709,Infinite lives
-N,7E1B11FF,Infinite health
-N,7E1AF399,Max score
-N,7E1AF499,Max score
-N,7E1AF599,Max score
-N,7E1AF699,Max score
-N,7E04A3FF,Primary complete
-N,7E04A5FF,Secondary complete
-N,7E1AFF99,Infinite ricochet
-N,7E1B0199,Infinite grenade
-N,7E1B0399,Inf.high explosive
-N,7E1B0599,Inf. incendiary
-N,7E1B0799,Infinite armor
-N,7E1B0999,Inf. heat seeker
-N,7E1B0B99,Inf. double whammy
-N,7E1B0D99,Infinite boing
-N,7E1B0F99,Infinite flare
+N,C2BE-4A4B,Almost Infinite Ammo
+N,C2A9-1627,Almost Infinite Energy
+N,DDA9-1CB7,Don't Flash After Getting Hit
+N,74A9-1CB7,Don't Flash as Long After Getting Hit
+N,EEA9-1CB7,Flash Longer After Getting Hit
+N,6D61-324D+7261-321D,Hit Anywhere
+N,7E1B0D99,Infinite Boing
+N,7E1B0B99,Infinite Double Whammie
+N,7E1B0F99,Infinite Flare
+N,7E1B11FF,Infinite Health
+N,7E1AA5F9,Infinite Hover Board/Hover Boots
+N,7E1B0599,Infinite Incindiary
+N,7E1B0002+F11F0432,Infinite Lives
+N,7E1AFF99,Infinite Richochet
+N,7E1B0999,Infinite Seeker
+N,7E1B0799,Infinte Armor Piercing
+N,7E1B0199,Infinte Grenades
+N,7E1B0399,Infinte High Explosive
 N,7E1A9101,Invincibility
-N,7E04C923,Warp to last level
-N,7E04B700,0 hits taken
-N,7E04B800,0 hits taken
-N,7E04AFFF,Max perps arrested
-N,7E04B0FF,Max perps arrested
-N,7E04B1FF,Max perps sentenc.
-N,7E04B2FF,Max perps sentenc.
-N,7E04B300,0 shots fired
-N,7E04B400,0 shots fired
-N,7E04B5FF,Max shots on targ.
-N,7E04B6FF,Max shots on targ.
-N,7E0483FF,Max accuracy
-N,7E0484FF,Max accuracy
+N,C22C-1B2D,Invincible After Getting Hit
+N,DF62-1A38,Start with 1 Life
+N,D962-1A38,Start with 5 Lives
+N,DB62-1A38,Start with 9 Lives
+N,A13A-48B7,Start with About 3/4 Energy After First Life
+N,A16D-C338,Start with About 3/4 Energy on Your First Life
+N,EE63-1318,Start with All Weapons and Almost Infinite Ammo
+N,6D3A-48B7,Start with Half Energy After First Life
+N,6D6D-C338,Start with Half Energy on Your First Life
+N,DE3A-48B7,Start with Very Little Energy After First Life
+N,DE6D-C338,Start with Very Little Energy on Your First Life

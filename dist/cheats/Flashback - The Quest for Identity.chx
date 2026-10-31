@@ -1,1 +1,32 @@
-N,7ECD46FF,Shield
+N,CB5D-8D08+DF5D-8D68+DD5D-8DA8,Always Recharge to 0 Shields
+N,CB5D-8D08+D45D-8D68+DD5D-8DA8,Always Recharge to 1 Shields
+N,CB5D-8D08+D75D-8D68+DD5D-8DA8,Always Recharge to 2 Shields
+N,CB5D-8D08+D05D-8D68+DD5D-8DA8,Always Recharge to 3 Shields
+N,CB5D-8D08+D15D-8D68+DD5D-8DA8,Always Recharge to 5 Shields
+N,CB5D-8D08+D65D-8D68+DD5D-8DA8,Always Recharge to 7 Shields
+N,CB5D-8D08+D85D-8D68+DD5D-8DA8,Always Recharge to 10 Shields
+N,CB5D-8D08+F95D-8D68+DD5D-8DA8,Always Recharge to 20 Shields
+N,CB5D-8D08+775D-8D68+DD5D-8DA8,Always Recharge to 50 Shields
+N,CB5D-8D08+195D-8D68+DD5D-8DA8,Always Recharge to 100 Shields
+N,8511-ED6C,Don't Die from Falling Too Far
+N,7ECD4604,Infinite Shields
+N,C2D7-8DAC,Invincibility
+N,7E029101,Invincible(Can Still Die from Big Falls)
+N,3C1F-EDAC,Never Lose a Shield When Shot [Switch Off to Kill Some Enemies]
+N,D4D4-5F78,Start with 1 Shield
+N,D7D4-5F78,Start with 2 Shields
+N,D0D4-5F78,Start with 3 Shields
+N,D1D4-5F78,Start with 5 Shields
+N,D8D4-5F78,Start with 10 Shields
+N,F9D4-5F78,Start with 20 Shields
+N,74F0-5F7B,Start with 50 Credits
+N,77D4-5F78,Start with 50 Shields
+N,10F0-5F7B,Start with 100 Credits
+N,1089-716F,Start with 100 Credits [Level 2]
+N,19D4-5F78,Start with 100 Shields
+N,ECF0-5F7B,Start with 250 Credits
+N,EC89-716F,Start with 250 Credits [Level 2]
+N,D4F0-5DEB,Start with 512 Credits
+N,D489-710F,Start with 512 Credits [Level 2]
+N,D0F0-5DEB,Start with 1024 Credits
+N,D089-710F,Start with 1024 Credits [Level 2]

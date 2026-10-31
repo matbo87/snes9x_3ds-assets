@@ -1,69 +1,97 @@
-N,7E091964,Infinite Stamina
-N,7F1F0CE7,Infinite Wood (1/2)
-N,7F1F0D03,Infinite Wood (2/2)
-N,7F1F10FF,Infinite Hay (1/2)
-N,7F1F1103,Infinite Hay (2/2)
-N,7F1F04FF,Infinite Money (1/3)
-N,7F1F05FF,Infinite Money (2/3)
-N,7F1F06FF,Infinite Money (3/3)
-N,7F1F073F,Max Money Received (1/3)
-N,7F1F0842,Max Money Received (2/3)
-N,7F1F090F,Max Money Received (3/3)
-N,7E096D05,1 Hit Wood/Rock Chop/Break
-N,7E0927FF,Grass/Turnip/Potato Seed (1/8)
-N,7E092802,Grass/Turnip/Potato Seed (2/8)
-N,7E092902,Grass/Turnip/Potato Seed (3/8)
-N,7E092A02,Grass/Turnip/Potato Seed (4/8)
-N,7E092B02,Grass/Turnip/Potato Seed (5/8)
-N,7E092C02,Grass/Turnip/Potato Seed (6/8)
-N,7E092D02,Grass/Turnip/Potato Seed (7/8)
-N,7E092E02,Grass/Turnip/Potato Seed (8/8)
-N,7E092614,Infinite Water In Watering Can
-N,7E0928FF,Infinite Corn Seeds
-N,7E0929FF,Infinite Tomato Seeds
-N,7E092C0A,Infinite Purchased Cow Fodder
-N,7E092D0A,Inf. Purchased Chicken Fodder
-N,7F1F1801,Have Horse
-N,7F1F4AE7,999 Corn Shipped (1/2)
-N,7F1F4B03,999 Corn Shipped (2/2)
-N,7F1F4CE7,999 Tomatoes Shipped (1/2)
-N,7F1F4D03,999 Tomatoes Shipped (2/2)
-N,7F1F4EE7,999 Turnips Shipped (1/2)
-N,7F1F4F03,999 Turnips Shipped (2/2)
-N,7F1F50E7,999 Potatoes Shipped (1/2)
-N,7F1F5103,999 Potatoes Shipped (2/2)
-N,7E09B5FF,Max Cow 1 Affection
-N,7F1F1FE7,Maria Love Is Maximum (1/2)
-N,7F1F2003,Maria Love Is Maximum (2/2)
-N,7F1F21E7,Ann's Love Is Maximum (1/2)
-N,7F1F2203,Ann's Love Is Maximum (2/2)
-N,7F1F23E7,Nina'a Love Is Maximum (1/2)
-N,7F1F2403,Nina'a Love Is Maximum (2/2)
-N,7F1F25E7,Maria's Love Is Maximum (1/2)
-N,7F1F2603,Maria's Love Is Maximum (2/2)
-N,7F1F27E7,Eve's Love Is Maximum (1/2)
-N,7F1F2803,Eve's Love Is Maximum (2/2)
-N,7F1F5664,Ranch Development
-N,7F1F33E7,Happiness Rate (1/2)
-N,7F1F3403,Happiness Rate (2/2)
-N,7F1F1901,Dom
+N,7E0917C8,200 Max Stamina
+N,7F1F4AE7+7F1F4B03,999 Total Corn Shipped
+N,7F1F50E7+7F1F5103,999 Total Potatoes Shipped
+N,7F1F4CE7+7F1F4D03,999 Total Tomatoes Shipped
+N,7F1F4EE7+7F1F4F03,999 Total Turnips Shipped
+N,7E00D201,Able to Work/Holding Something
+N,7E00D200,Able to Work/Holding Something (alt)
+N,DDEC-4462,Always Get 999 Ranch Master Rate at Ending
 N,7F1F1A01,Always Monday
-N,7E09300C,Cows Fed
+N,7F1F21E7+7F1F2203,Ann Love Is Max
+N,FF8A-070A,Buy Something and You Gold Goes to 654850
+N,FF8A-170A,Buy Something and You Gold Goes to 654850 (alt)
+N,C980-3460,Can Access All Items Temporarily
 N,7E09310C,Chickens Fed
-N,7E098C01,Rain
-N,7E098C00,No Rain
-N,7E098C02,No Snow
-N,7E098C03,No Hurricane
-N,7E099000,Weather Set To Sunny
-N,7E099001,Weather Set To Rain
-N,7E099002,Weather Set To Snow
-N,7F1F54E7,Master Rate (1/2)
-N,7F1F5503,Master Rate (2/2)
-N,03B11710,Have Walls
-N,7F1F360A,Max Power Berries Used
+N,7E096D05,Chop All Wood and Break All Rocks in One Hit with Any Hammer/Axe
+N,7E09300C,Cows Fed
+N,7F1F1201,Days 'Til Birth
+N,7F1F1901,Dom
+N,C22E-4DD0,Don't Lose Stamina
+N,7F1F25E7+7F1F2603,Ellen Love Is Max
+N,7F1F27E7+7F1F2803,Eva Love Is Max
+N,6DC5-3DAB,Fencing Doesn't Break When It Storms
+N,7F1F3600,Flowers in Garden
+N,6D83-170A,Get Max Gold Every Night
+N,DD8E-1DBF,Give a Girl 1 Gift for Max Happiness
+N,CB68-34A6+A668-37D6+3C68-3706+F568-37A6,Go to Bed to Get 200 Max Stamina
+N,CB68-34A6+A668-37D6+3C68-3706,Go to Bed to Get 200 Stamina
+N,DB6B-3F6B+DD6B-3FAB+FD6B-34DB,Go to Sleep to Enable the Egg Festival Prize
+N,FD69-47DB,Go to Sleep to Put a Bell Plant Next to the Stable
+N,7F1F33E7+7F1F3403,Happiness Rate
+N,7F1F10E7+7F1F1103,Have 999 Pieces of Feed
+N,7F1F0CE7+7F1F0D03,Have 999 Pieces of Wood
+N,7F1F01FF+7F1F02FF+7F1F03FF,Have All Equipment
 N,7F1F00FF,Have All Seed Types
-N,7F1F01FF,All Items Avaliable (1/3)
-N,7F1F02FF,All Items Avaliable (2/3)
-N,7F1F03FF,All Items Avaliable (3/3)
-N,7E0917C8,200 Maximum Stamina
+N,7F1F1801,Have Horse
+N,7F1F043F+7F1F0542+7F1F060F,Have Max Money
+N,7F1F073F+7F1F0842+7F1F090F,Have Max Money Gotten
+N,7F1F6400,House Size
 N,7E0918C8,Infinite 200 Stamina
+N,7E0928FF,Infinite Corn Seeds
+N,7F1F1C06,Infinite Day Time
+N,FF8E-0F0A,Infinite Gold
+N,FF8E-1F0A,Infinite Gold (alt)
+N,7E0927FF+7E092802+7E092902+7E092A02+7E092B02+7E092C02+7E092D02+7E092E02,Infinite Grass, Turnip, & Potato Seed
+N,7F1F10FF+7F1F1103,Infinite Hay
+N,7F1F04FF+7F1F05FF+7F1F06FF,Infinite Money
+N,7E092D0A,Infinite Purchased Chicken Fodder
+N,7E092C0A,Infinite Purchased Cow Fodder
+N,7E091964,Infinite Stamina
+N,7E0929FF,Infinite Tomato Seeds
+N,7E092614,Infinite Water in Watering Can
+N,7F1F1FE7+7F1F2003,Maria Love Is Max
+N,7F1F54E7+7F1F5503,Master Rate
+N,7E09B5FF,Max Cow 1 Affection
+N,7F1F360A,Max Power Berries Used
+N,7E091864,Never Get Tired
+N,EECD-3763,New Game with 2,550 Gold
+N,E0CD-3763+DFCD-37A3,New Game with 5,000 Gold
+N,A0CD-3763+DBCD-37A3,New Game with 25,000 Gold
+N,66CD-3763+F7CD-37A3,New Game with 50,000 Gold
+N,C6CD-3763+1FCD-37A3,New Game with 250,000 Gold
+N,74CD-3763,New Game with 500 Gold
+N,9DCD-3763+A7CD-37A3,New Game with 500,000 Gold
+N,EECD-3763+EECD-37A3,New Game with 655,350 Gold
+N,08CD-3763,New Game with 750 Gold
+N,DDCD-3763,New Game with No Gold
+N,7E098C01,Next Day Is Rainy
+N,7E098C00,Next Day Is Sunny
+N,7E098C06,Next Day Is the Flower Festival
+N,7F1F23E7+7F1F2403,Nina Love Is Max
+N,7E098C03,No Hurricane
+N,7E098C02,No Snow
+N,C980-3460+A46D-4F61+6D6D-4FA1+D96D-44D1,Pick Up an Item to Get More Items
+N,7F1F5664,Ranch Development
+N,DDCD-A763,Start a New Game with 0 Gold
+N,74CD-A763,Start a New Game with 500 Gold
+N,08CD-A763,Start a New Game with 750 Gold
+N,EECD-A763,Start a New Game with 2550 Gold
+N,E0CD-A763+DFCD-A7A3,Start a New Game with 5000 Gold
+N,A0CD-A763+DBCD-A7A3,Start a New Game with 25000 Gold
+N,66CD-A763+F7CD-A7A3,Start a New Game with 50000 Gold
+N,C6CD-A763+1FCD-A7A3,Start a New Game with 250000 Gold
+N,9DCD-A763+A7CD-A7A3,Start a New Game with 500000 Gold
+N,EECD-A763+EECD-A7A3,Start a New Game with 655350 Gold
+N,DD2D-37AA+F32F-3D0A,Town Always Performs Egg Festival
+N,DD2D-37AA+242F-3D0A,Town Always Performs Flower Festival
+N,DD2D-37AA+E32F-3D0A,Town Always Performs Harvest Festival
+N,FD8F-1FAA,Walk Through Walls
+N,FD8F-0FAA,Walk Through Walls and Other Objects
+N,7E099001,Weather Set to Rain
+N,7E099002,Weather Set to Snow
+N,7E099000,Weather Set to Sunny
+N,F989-C7AA,With 0 Feed, Take Some to Get 999 Pieces
+N,F987-CDDA,With 0 Wood, Take Some to Get 999 Pieces
+N,6D81-CDAA,With 1 or More Feed, Take Some to Get 999 Pieces
+N,6D87-CFDA,With 1 or More Wood, Take Some to Get 999 Pieces
+N,7EC1CAE8+7EC1CB03,Your First Cow Is Able to Produce Large Milk

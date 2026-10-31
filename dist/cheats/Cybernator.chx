@@ -1,7 +1,56 @@
-N,7E195901,No overheating
-N,7E0066FF,Super-powered gun
-N,7E006CFF,Super-powered pnch
-N,7E01FA09,Unlimited credits
-N,7E1DA209,Continue clock = 9
-N,7E14CB01,Invincibility
-N,7E196601,Keep rocket pod
+N,CD3F-1406,Energy Chip Worth More
+N,DD3F-1406,Energy Chip Worth Nothing
+N,C9B1-C7AB+DD66-4D0B+DD66-440B+DD6B-4FDB,Hit Anywhere
+N,7E01FA09,Infinite Continues
+N,C234-4FDD,Infinite Credits
+N,7E14CA20,Infinite Health
+N,7E005E28,Infinite Laser Power
+N,7E006028,Infinite Missile Power
+N,7E006428,Infinite Napalm Power
+N,7E006214,Infinite Punch Power
+N,7E005C28,Infinite Vulcan Power
+N,7E005C64,Infinite Vulcan Power (alt)
+N,6DB2-3FA6,Invincibility
+N,7E01F299+7E01F399+7E01F499+7E01F599+7E01F699,Max Score
+N,7E006809,Max. Laser Level
+N,7E007209,Max. Laser Power
+N,7E006A09,Max. Missile Level
+N,7E007409,Max. Missile Power
+N,7E006E09,Max. Napalm Level
+N,7E007809,Max. Napalm Power
+N,7E006C09,Max. Punch Level
+N,7E007609,Max. Punch Power
+N,7E006609,Max. Vulcan Level
+N,7E007009,Max. Vulcan Power
+N,7E1DA209,Never Get to 0 in on the Continue Menu
+N,7E195900,Never Overheat
+N,D465-4FD2,Only 2 P's Needed for Level 2 Napalm
+N,D465-4462,Only 2 P's Needed for Level 2 Punch
+N,D461-4D62,Only 2 P's Needed for Level 2 Vulcan
+N,D761-4462,Only 3 P's Needed for Level 3 Laser
+N,D765-4DD2,Only 3 P's Needed for Level 3 Missile
+N,D765-47D2,Only 3 P's Needed for Level 3 Punch
+N,D065-4F62,Only 4 P's Needed for Level 3 Napal
+N,D061-4FD2,Only 4 P's Needed for Level 3 Vulcan
+N,82C9-470C+82C7-4FDC,Protection Against Some Hazards
+N,D4BD-176F,Start on Level 3.1
+N,D7BD-176F,Start on Level 3.2
+N,D0BD-176F,Start on Level 3.3
+N,D9BD-176F,Start on Level 4.1
+N,D1BD-176F,Start on Level 4.2
+N,D5BD-176F,Start on Level 5.1
+N,D6BD-176F,Start on Level 5.2
+N,DBBD-176F,Start on Level 6.1
+N,FDBD-176F,Start on Level 7.3
+N,FFBD-176F,Start on Level 7.4
+N,DFB1-17AF,Start with 2 Credits
+N,D9B1-17AF,Start with 6 Credits
+N,DBB1-17AF,Start with 10 Credits
+N,62BF-17DF,Start with Homing Missiles
+N,62BF-17AF,Start with Lasers
+N,62B4-1D6F,Start with Napalm
+N,F4BD-176F,View the Failed Ending
+N,F7BD-176F,View the Successful Ending
+N,7E196006,Walk Through Enemies
+N,D4BF-1FDF,Weapons Start at Level 2
+N,D7BF-1FDF,Weapons Start at Level 3

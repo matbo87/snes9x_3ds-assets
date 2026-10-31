@@ -1,2 +1,33 @@
-N,7E011A10,Infinite HP
-N,7E018332,Cannot Be Hit
+N,7E01200E,All Spells
+N,C2D6-8FAB,Almost Invincible After Getting Hit
+N,7E013401,Aqua Gate Down
+N,6500-E4A6,Blink 1.5x Longer After Being Hit
+N,8000-E4A6,Blink 2x Longer After Being Hit
+N,EE00-E4A6,Blink 3x Longer After Being Hit
+N,DD6F-7D09+DD6F-7D69+A06F-7DA9,Boot into Debug Menu
+N,166F-7D09+E46F-7D69+A06F-7DA9,Boot into Sound Test
+N,DCF1-770B,Descend Much Slower
+N,FDF1-770B,Descend Slightly Slower
+N,DDF1-770B,Don't Fall at All (Switch Off to Touch the Ground Again)
+N,DFF1-770B,Fall Slowly
+N,7E011C00+7E012000,Full Magic
+N,7E044D01,Have Item Codes
+N,7E011A50+7E011E50,Infinite / Max Health
+N,7E011C0E+7E01200E,Infinite / Max Magic
+N,C29B-EF0F,Infinite Energy
+N,C24A-E468,Infinite Magic
+N,18C6-5FAB+DD79-8D08,Invincibility
+N,7E01835A,Invincibility After Being Hit
+N,E8F4-740B+EDF4-776B+DDF7-7FAB+F3F0-740B,Jump in Midair
+N,F6F0-7DAB,Jump Much Higher
+N,4DF0-7DAB,Jump Slightly Higher
+N,7E013101,Light Gate Down
+N,7E013501,Moon Gate Down
+N,7E042500,No Random Battles on World Map
+N,7E018335,Semi Phase Mode
+N,C2B4-7D8E,Small Potions Don't Restore Energy
+N,CB45-ED6D,Stacks of Cash
+N,7E013301,Star Gate Down
+N,7E013201,Sun Gate Down
+N,3B96-E70F+D496-E76F+DD96-E7AF,Take Less Damage
+N,3B96-E70F+DF96-E76F+DD96-E7AF,Take Much Less Damage

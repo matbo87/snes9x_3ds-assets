@@ -1,65 +1,87 @@
-N,7E0B69FF,Infinite Money
-N,7E09DAFF,Lots Of Exp
-N,7E0938E7,999 HP (1/2)
-N,7E093903,999 HP (2/2)
-N,DD96-E4A1,Walk Through Walls (1/2)
-N,DD9C-EF01,Walk Through Walls (2/2)
+N,7E0938E7+7E093903,999 HP
+N,7E1161E7+7E116203,Agi
+N,7E1179E7+7E117A03,Agi (alt)
+N,7E1183E7+7E118403,Agi (alt 2)
+N,7E1177E7+7E117803,Agi (alt 3)
+N,733F-922A+D7F5-9276,Agi 7
+N,6D0F-E4DA,Always Drop Item After Battle
+N,7E1123E7+7E112405,Atk
+N,7E1129E7+7E112A03,Atk (alt)
+N,7E1133E7+7E113403,Atk (alt 2)
+N,7E1127E7+7E112803,Atk (alt 3)
+N,7E1111E7+7E111203,Attack
+N,7E09DAFF,Big Exp Points
+N,7E1139E7+7E113A03,Def
+N,7E114BE7+7E114C03,Def (alt)
+N,7E1151E7+7E115203,Def (alt 2)
+N,7E115BE7+7E115C03,Def (alt 3)
+N,7E114FE7+7E115003,Def (alt 4)
+N,7E09FEFF,Exp Points
+N,7E0A0DFF,Exp Points (alt)
+N,7E09FBFF,Exp Points (alt 2)
+N,7E09F5FF,Exp. Points
 N,7E0CE264,Full PM Meter
-N,7E2B0EE7,Slot 1 Infinite HP (1/2)
-N,7E2B0F03,Slot 1 Infinite HP (2/2)
-N,7E2B10E7,Slot 2 Infinite HP (1/2)
-N,7E2B1103,Slot 2 Infinite HP (2/2)
-N,7E2B12E7,Slot 3 Infinite HP (1/2)
-N,7E2B1303,Slot 3 Infinite HP (2/2)
-N,7E2B14E7,Slot 4 Infinite HP (1/2)
-N,7E2B1503,Slot 4 Infinite HP (2/2)
-N,7E2B16E7,Slot 5 Infinite HP (1/2)
-N,7E2B1703,Slot 5 Infinite HP (2/2)
+N,7E0A6508+7E0B8D09,Have Eight Pairs Jump Shoes
+N,7E094AE7+7E094B03,HP
+N,7E0950E7+7E095103,HP (alt)
+N,7E095AE7+7E095B03,HP (alt 2)
+N,7E094EE7+7E094F03,HP (alt 3)
+N,7E0B69FF,Infinite Money
+N,7E1189E7+7E118A03,Mag Pow
+N,7E119BE7+7E119C03,Mag Pwr
+N,7E11A1E7+7E11A203,Mag Pwr (alt)
+N,7E11ABE7+7E11AC03,Mag Pwr (alt 2)
+N,7E119FE7+7E11A003,Mag Pwr (alt 3)
+N,7E099AFF,MP
+N,7E09AAFF,MP (alt)
+N,7E08E0FF,Pow
+N,7E08E5FF,Pow (alt)
+N,7E08DFFF,Pow (alt 2)
+N,7E08D4FF,Power
+N,7E08DDFF,Power (alt)
+N,7E2B0EE7+7E2B0F03,Slot 1 Infinite HP
 N,7E2BFEFF,Slot 1 Infinite MP
-N,7E2B22E7,Slot 1 Max Attack (1/2)
-N,7E2B2303,Slot 1 Max Attack (2/2)
-N,7E2B36E7,Slot 1 Max Defense (1/2)
-N,7E2B3703,Slot 1 Max Defense (2/2)
-N,7E2B4AE7,Slot 1 Max Agility (1/2)
-N,7E2B4B03,Slot 1 Max Agility (2/2)
-N,7E2B5EE7,Slot 1 Max Magic Atk (1/2)
-N,7E2B5F03,Slot 1 Max Magic Atk (2/2)
+N,7E2B4AE7+7E2B4B03,Slot 1 Max Agility
+N,7E2B22E7+7E2B2303,Slot 1 Max Attack
+N,7E2B36E7+7E2B3703,Slot 1 Max Defense
+N,7E2B5EE7+7E2B5F03,Slot 1 Max Magic Attack
+N,7E2B10E7+7E2B1103,Slot 2 Infinite HP
 N,7E0C00FF,Slot 2 Infinite MP
-N,7E2B24E7,Slot 2 Max Attack (1/2)
-N,732B2503,Slot 2 Max Attack (2/2)
-N,7E2B38E7,Slot 2 Max Defensen (1/2)
-N,7E2B3903,Slot 2 Max Defensen (2/2)
-N,7E2B4CE7,Slot 2 Max Agility (1/2)
-N,7E2B4D03,Slot 2 Max Agility (2/2)
-N,7E2B7EE7,Slot 2 Max Magic Atk (1/2)
-N,7E2B7F03,Slot 2 Max Magic Atk (2/2)
+N,7E2B4CE7+7E2B4D03,Slot 2 Max Agility
+N,7E2B24E7+732B2503,Slot 2 Max Attack
+N,7E2B38E7+7E2B3903,Slot 2 Max Defense
+N,7E2B7EE7+7E2B7F03,Slot 2 Max Magic Attack
+N,7E2B12E7+7E2B1303,Slot 3 Infinite HP
 N,7E2C02FF,Slot 3 Infinite MP
-N,7E2B26E7,Slot 3 Max Attack (1/2)
-N,7E2B2703,Slot 3 Max Attack (2/2)
-N,7E2B3AE7,Slot 3 Max Defense (1/2)
-N,7E2B3B03,Slot 3 Max Defense (2/2)
-N,7E2B4EE7,Slot 3 Max Agility (1/2)
-N,7E2B4F03,Slot 3 Max Agility (2/2)
-N,7E2B80E7,Slot 3 Max Magic Atk (1/2)
-N,7E2B8103,Slot 3 Max Magic Atk (2/2)
+N,7E2B4EE7+7E2B4F03,Slot 3 Max Agility
+N,7E2B26E7+7E2B2703,Slot 3 Max Attack
+N,7E2B3AE7+7E2B3B03,Slot 3 Max Defense
+N,7E2B80E7+7E2B8103,Slot 3 Max Magic Attack
+N,7E2B14E7+7E2B1503,Slot 4 Infinite HP
 N,7E2C04FF,Slot 4 Infinite MP
-N,7E2B28E7,Slot 4 Max Attack (1/2)
-N,7E2B2903,Slot 4 Max Attack (2/2)
-N,7E2B3CE7,Slot 4 Max Defense (1/2)
-N,7E2B3D03,Slot 4 Max Defense (2/2)
-N,7E2B50E7,Slot 4 Max Agility (1/2)
-N,7E2B5103,Slot 4 Max Agility (2/2)
-N,7E2B82E7,Slot 4 Max Magic Atk (1/2)
-N,7E2B8303,Slot 4 Max Magic Atk (2/2)
+N,7E2B50E7+7E2B5103,Slot 4 Max Agility
+N,7E2B28E7+7E2B2903,Slot 4 Max Attack
+N,7E2B3CE7+7E2B3D03,Slot 4 Max Defense
+N,7E2B82E7+7E2B8303,Slot 4 Max Magic Attack
+N,7E2B16E7+7E2B1703,Slot 5 Infinite HP
 N,7E2C06FF,Slot 5 Infinite MP
-N,7E2B2AE7,Slot 5 Max Attack (1/2)
-N,7E2B2B03,Slot 5 Max Attack (2/2)
-N,7E2B3EE7,Slot 5 Max Defense (1/2)
-N,7E2B3F03,Slot 5 Max Defense (2/2)
-N,7E2B52E7,Slot 5 Max Agility (1/2)
-N,7E2B5303,Slot 5 Max Agility (2/2)
-N,7E2B84E7,Slot 5 Max Magic Atk (1/2)
-N,7E2B8503,Slot 5 Max Magic Atk (2/2)
-N,7E0A6508,Eight Pairs Jump Shoes (1/2)
-N,7E0B8D09,Eight Pairs Jump Shoes (2/2)
-N,6D0F-E4DA,Always Item After Battle
+N,7E2B52E7+7E2B5303,Slot 5 Max Agility
+N,7E2B2AE7+7E2B2B03,Slot 5 Max Attack
+N,7E2B3EE7+7E2B3F03,Slot 5 Max Defense
+N,7E2B84E7+7E2B8503,Slot 5 Max Magic Attack
+N,7E08F4FF,Spd
+N,7E08F9FF,Spd (alt)
+N,7E08F3FF,Spd (alt 2)
+N,7E08E8FF,Speed
+N,7E08F1FF,Speed (alt)
+N,7E0908FF,Stam
+N,7E090DFF,Stam (alt)
+N,7E0907FF,Stam (alt 2)
+N,7E08FCFF,Stamina
+N,7E0905FF,Stamina (alt)
+N,DD96-E4A1+DD9C-EF01,Walk Through Walls
+N,7E091CFF,Wis
+N,7E0921FF,Wis (alt)
+N,7E091BFF,Wis (alt 2)
+N,7E0910FF,Wisdom
+N,7E0919FF,Wisdom (alt)

@@ -1,71 +1,178 @@
-N,7F0052FF,Infinite 255 Silver Points
-N,7F0053FF,Have All Cats
-N,7F005DFF,Have All PoYoZo's
-N,7F005EFF,Have All Clones
-N,7F013CC7,Have All Factory Dolls
-N,7F00A607,All Portals Open
-N,7E009A03,Infinite Speed Boosts
-N,7E00BA00,Instant. Enable Next Spd Boost
-N,7F01300F,Bike Race Score 1 = 9999 (1/2)
-N,7F013127,Bike Race Score 1 = 9999 (2/2)
-N,7F01320F,Bike Race Score 2 = 9999 (1/2)
-N,7F013327,Bike Race Score 2 = 9999 (2/2)
-N,7F01340F,Bike Race Score 3 = 9999 (1/2)
-N,7F013527,Bike Race Score 3 = 9999 (2/2)
-N,E58B-F7A5,1 Hit Kill Enemies
-N,5682-F8D4,Unlimited Item Use
-N,DDDA-8D74,Tonic Only Costs $1
-N,DDD2-84E4,Heal Only Costs $1
-N,DDD2-8784,Revive Only Costs $1
-N,DDD3-8D54,Shelter Only Costs $1
-N,DDD8-8D8F,Iron Blade Only Costs $1 (1/2)
-N,DDD8-8D5F,Iron Blade Only Costs $1 (2/2)
-N,DDD8-878F,Lode Sword Only Costs $1 (1/2)
-N,DDD8-875F,Lode Sword Only Costs $1 (2/2)
-N,DDDA-8FE4,Full Tonic Only Costs $1 (1/2)
-N,DDDA-8F84,Full Tonic Only Costs $1 (2/2)
-N,DDDA-8484,Ether Only Costs $32
-N,DDDA-8754,Mid Ether Only Costs $208
-N,A1EE-EFD9,Go To Lv 99 After 1 Battle
-N,22EC-ED60,All Techs/Magic After 1 Battle
-N,EE8E-7769,Most Items After 1 Battle
-N,24A0-5700,Almost Invincible To Atk/Mag.
-N,1A6F-E400,Automatically Win Battles
-N,F5A0-54A1,All Attacks Do 9999 Dmg
+N,EEB4-546B,"See into the Future" Code
+N,6CB5-5DD7,"Super Sprint Up Only"
+N,EE68-7D0C,"Two Effects" Code
+N,7E5EF30E,1st Party Member Always Has 999 HP.
+N,7E285680,3D Attack
+N,7E028F03,Activate Epoch but Chase After Pterodactyl
+N,7E028F02,Activate Pterodactyl but Chase After Epoch
+N,7E027C03,Activate Various Screens
+N,BB23-7765,All Attacks Do 0 Damage
 N,BE23-7765,All Attacks Do 1 Damage
-N,5527-EDD0,All Attacks Do Min. Dmg
-N,553D-5DD0,Non-Magic Atks Do Min. Dmg
-N,5537-8DD0,Magic Attacks Do High Damage
-N,A1E2-E4A9,Get More Gold After A Battle
-N,CBFA-EFD4,Unreleased Battle Theme (1/2)
-N,9FFA-EF04,Unreleased Battle Theme (2/2)
-N,B6C6-E76C,Organize = All Items (1/3)
-N,DDCB-E7DC,Organize = All Items (2/3)
-N,9CCB-E76C,Organize = All Items (3/3)
-N,6165-7FED,Marle Joins W/ Best Gear (1/4)
-N,1A65-747D,Marle Joins W/ Best Gear (2/4)
-N,FB65-745D,Marle Joins W/ Best Gear (3/4)
-N,BA65-748D,Marle Joins W/ Best Gear (4/4)
-N,616A-7FED,Lucca Joins W/ Best Gear (1/4)
-N,1A6A-747D,Lucca Joins W/ Best Gear (2/4)
-N,466A-745D,Lucca Joins W/ Best Gear (3/4)
-N,BA6A-748D,Lucca Joins W/ Best Gear (4/4)
-N,6164-7FED,Crono Starts W/ Best Gear (1/4)
-N,1264-747D,Crono Starts W/ Best Gear (2/4)
-N,9964-745D,Crono Starts W/ Best Gear (3/4)
-N,8864-748D,Crono Starts W/ Best Gear (4/4)
-N,7F023608,Win Drinking Contest
-N,7EB2DBE7,Get 999 Tech Points (1/2)
-N,7EB2DC03,Get 999 Tech Points (2/2)
-N,7E26CB01,Easy Level Up
-N,7E26CD01,Learns Tech Moves Quickly
+N,5527-EDD0,All Attacks Do Very Little Damage, Both for Your Party and the Enemies
+N,F5A0-54A1,All Attacks in Battle (Physical or Magic) Do 9999 Damage
+N,A1EE-EFD9,All Characters Go to Level 99 After One Battle!
+N,7F00A607,All Portals Open
+N,336A-ED09,Alter Stats and Other Things After a Battle
+N,3EBF-5767,Alternate Transport Destinations When Switching Areas
+N,CF1B-7F8D,Always Receive a Gold Earring After You Battle a Hetake
+N,A91B-7F8D,Always Receive a Mega Elixir After You Battle a Hetake!
+N,A21B-7F8D,Always Receive a Power Tab After You Battle a Hetake
+N,001B-7F8D,Always Receive Any Item You Want After Battling Hetakes!
+N,7F023608,Always Win the Soda Guzzling Contest
+N,B623-7765,Any and All Attacks Do 9999 Damage, Both Your Party and Monsters
+N,EE34-5D60,Any Character's Attack Does More Damage
+N,7E284F80,Arc Impulse
+N,CD3B-7765,Attacks Destroy All Enemies (And Some Bosses)
+N,B323-7465,Attacks Do 1 Damage, Dual and Triple Techs Do 2
+N,1A6F-E400,Automatically Win a Battle
+N,7F01300F+7F013127,Bike Race Score 1 Is 9999
+N,7F01320F+7F013327,Bike Race Score 2 Is 9999
+N,7F01340F+7F013527,Bike Race Score 3 Is 9999
 N,6D1C-770F,Can Open Sealed Chests
 N,6D10-77DF,Can Open Sealed Doors
-N,C41A-ED04,Save Your Game Anywhere
-N,EEB0-EFA4,Magus Vs. Magus!
-N,65EB-E4A9,Max Abilities Every Character
-N,0B60-7FA4,Walk Through Walls Code
-N,BC18-8F06,Walk Through Walls On Map!
-N,A2A4-E7BB,Walk In The Clouds On Zeal Map
-N,7EE60263,Battle Music Jukebox Code!
+N,6DE7-745D,Can View Enemy HP Without SightScope
+N,DC67-7765,Can't Use Techs in Battle
+N,CBFA-EFD4+9FFA-EF04,Change Battle Theme to Unreleased Version
+N,DDDC-5FAF,Change Monsters You Fight in Battle!
+N,00DC-5F6F,Change Monsters You Fight in Battle! (alt)
+N,1BCD-5FA7,Characters Not in Your Party Move Very Fast
+N,7F020C01,Chooses the Winner of the Racers at the Millennium Fair
+N,3C3C-7DD5,Chrono & Party Don't Lose Health from Enemy Attacks
+N,061E-4F2F,Chrono Starts with the Gold Rock
+N,EE6F-54AD,Conversations Repeat
+N,A523-7765,Critical Hits Do 0 Damage, Enemies Disappear Instead of Die
+N,6164-7FED+1264-747D+9964-745D+8864-748D,Crono Starts New Game with Rainbow, Prism Helm, Moon Armor, and Prism Specs.
+N,EEE3-7765,Damage Taken Decreases in the First Rounds of Battle
+N,6ED7-5F64,Death Peak 2300 a.D. - Clip #1
+N,7E284D80,Delta Force
+N,7E285280,Delta Storm
+N,DC1B-7D8D,Each Hetake You Defeat in Battle Will Give You 10 Exp Points (Instead of 3)
+N,741B-7D8D,Each Hetake You Defeat in Battle Will Give You 50 Exp Points (Instead of 3)
+N,EC1B-7D8D,Each Hetake You Defeat in Battle Will Give You 250 Exp Points (Instead of 3)
+N,AA39-7D05,Enemies and Your Party Are Invincible
+N,B323-7765,Enemies and Your Party Are Invincible in Battles
+N,2964-7765,Enemies Can't Use Techs/Magic/Special Attacks at All
+N,B423-7765,Enemies Die by Disappearing
+N,AAE7-7765,Enemies Die Like Bosses (Flash + Disappear)
+N,7838-7765,Enemies Die with One Hit/Party Is Healed After Battle
+N,AA34-7DD5,Enemies Disappear Instead of Die
+N,AF23-7765,Enemies Disappear When Killed with a Weapon
+N,EE23-7765,Enemies Do No Damage, Everything Else Does 1
+N,FF65-5F0F,Enemies Reappear After a Battle
+N,EE6D-7765,Enemies Will Look Like Your Party in Battle
+N,EEC4-7DD5,Enemies Won't Attack Unless Close
+N,1E65-747D,Enter Before Marle Joins and She Will Be Equipped with RavenArmor as Armor
+N,D365-745D,Enter Before Marle Joins and She Will Be Equipped with Shiva Edge as a Weapon
+N,B323-7405,Every Attack on Enemy or Companion = 9999 HP
+N,B323-74A5,Every Attack on Enemy or Companion, Hurts Crono by "0" HP
+N,FC23-7D65,Every Hit Kills Party or Monster
+N,DCF3-7765,Everyone (Party and Monsters) Are Invisible in Battle
+N,7E285080,Final Kick
+N,7E285180,Fire Zone
+N,E3D7-5FA4,Forest Ruins 1000 a.D. (Blue Pyramid Next to Medina) - Clip #2
+N,EEE8-E7D9,Gain More HP and MP After Winning a Battle
+N,7E285380,GatlingKick
+N,A1EE-EDD9,Get 999 HP, 99 MP and All Techs After a Battle
+N,7EB2DBE7+7EB2DC03,Get 999 Tech Points
+N,22EC-ED60,Get All Techs/Magic After One Battle, Including Double and Triple Techs!
+N,A1E4-E7A9,Get Lots of Gold After a Battle
+N,1065-5466,Get Magus on Your Menu Screen
+N,A1E2-E4A9,Get More Gold After a Battle
+N,3F65-EF06,Get Some Items Just by Going into the Items Screen
+N,9DB5-7765,Glide When Attacking, No Arm Movement in Techs
+N,7F0053FF,Have All Cats
+N,7F005EFF,Have All Clones
+N,7E283EFF+7E283FFF+7E2840FF+7E2841FF+7E2842FF+7E2843FF+7E2844FF+7E2845FF+7E2846FF+7E2847FF+7E2848FF+7E2849FF+7E284AFF+7E284BFF+7E284CFF,Have All Double Techs
+N,7F013CC7,Have All Factory Dolls
+N,7E283CFF,Have All of Ayla's Techs
+N,7E2837FF,Have All of Chrono's Techs
+N,7E283BFF,Have All of Frog's Techs
+N,7E2839FF,Have All of Lucca's Techs
+N,7E283DFF,Have All of Magus's Techs
+N,7E2838FF,Have All of Marle's Techs
+N,7E283AFF,Have All of Robo's Techs
+N,7F005DFF,Have All PoYoZo's
+N,7E284DFF+7E284EFF+7E284FFF+7E2850FF+7E2851FF+7E2852FF+7E2853FF+7E2854FF+7E2855FF+7E2856FF,Have All Triple Techs
+N,EDF3-7765,Have No Control of Your Party in Battle
+N,F2B0-54A6,Heal Party to a Certain or Above Normal HP on Menu Screen
+N,6623-7765,Immune to Most Attacks and Spells
+N,B023-7765,Immune to Some Attacks and Spells
+N,B625-7765,Increase the Evade Rate
+N,7F0052FF,Infinite 255 Silver Points
+N,7E2C5301+7E2C5401+7E2C5501,Infinite Gold
+N,826A-E70B,Infinite Item Use
+N,7E2C537F+7E2C5496+7E2C5598,Infinite Money
+N,7EAC53FF+7EAC54FF+7EAC55FF,Infinite Money and Loads of Money
+N,9DAB-7765,Infinite MP for 2nd Party Member
+N,9DA8-77D5,Infinite MP for 3rd Party Member
+N,6DA6-7765,Infinite MP for Ayla
+N,3DA6-7765,Infinite MP for Crono
+N,7DA6-7765,Infinite MP for Frog
+N,FDA6-7765,Infinite MP for Lead Member of Party
+N,9DA6-7765,Infinite MP for Lead Party Member
+N,2DAB-7765,Infinite MP for Magus
+N,5DA6-7765,Infinite MP for Marle
+N,1DAB-7765,Infinite MP for Robo
+N,7E110F63+7F005263,Infinite Silver Points
+N,7E009A03,Infinite Speed Boosts
+N,5682-F8D4,Infinite Use of Item
+N,7E00BA00,Instantly Enable Next Speed Boost
+N,A27E-8DA0,Instantly Run Away from Any Monster! (Revised)
+N,B424-7765,Invincibility in Battles
+N,24A0-5700,Invincible to Almost All Types of Monster Attacks/Magic
+N,3B65-54D8,Invisible Characters on Map Screen
+N,EEFE-7405,Invisible in a Fight
+N,E58B-F7A5,Kills Enemy in 1 Hit.
+N,7E284E80,Lifeline
+N,616A-7FED+1A6A-747D+466A-745D+BA6A-748D,Lucca Joins with Wondershot, Prism Gear and Hit Ring
+N,EE6C-7F5D+EE6C-745D,Lucca Starts Game with Higher HP and MP Than Usual
+N,5537-8DD0,Magic Attacks Do High Damage
+N,EEB0-EFA4,Magus vs. Magus! Code
+N,0023-77A5,Make Damage Repeat
+N,6165-7FED+1A65-747D+FB65-745D+BA65-748D,Marle Joins with Valkerye, Prism Gear and Hit Ring
+N,65EB-E4A9,Max-Out All Abilities Such as Power, Magic, Speed, Etc. for Every Character
+N,E1A5-7765,Monsters Change into Other Monsters During Combat
+N,33DD-7D6D,No Menus in Battle Mode
+N,553D-5DD0,Non-Magic Attacks Do Very Little Damage
+N,B325-7765,Only Techs Damage Enemies
+N,DCB3-7765,Party and Enemies Disappear in Battle
+N,AA34-7D65,Party Is Invincible in Battles
+N,9DB3-7765,Party Members Do Things Without You in Control
+N,7F67-5DD0,Play Dead to Win Battles Instantly
+N,5E2A-5F01,Random Effects After Winning a Battle
+N,AAD6-7DE0,Regular Enemies Die Like Bosses (Different Code)
+N,75D6-7DE0+B2D6-7F70+06D6-7450+4BD6-7780,Regular Enemies Go Out with a BANG!
+N,9BE7-77AB,Replace Gaspar on the Character Exchange Screen with - Algetty Villager
+N,9BE7-74AB,Replace Gaspar on the Character Exchange Screen with - Belthasar
+N,00E7-7FAB,Replace Gaspar on the Character Exchange Screen with - Melchior
+N,9BE7-77AB+9BE7-74AB,Replace Gaspar on the Character Exchange Screen with - Toma
+N,8DA8-7765,Robo's Techs Use All MP
+N,C43A-ED04,Save Anywhere
+N,C41A-ED04,Save Anywhere (Including Programmer's Ending and Lavos)
+N,FF34-5F0D,Some Enemies May Not Appear When the Fight Begins
+N,7E1A9501,Sparkle Marks the Portal You Came Out Of
 N,5683-7765,Speedbar Never Goes Down
+N,A06E-7D07,Start a Game on Level 0
+N,AAE1-76EA,Start a New Game and Chrono Will Be Either Frog, Magus, Etc.
+N,9FAD-D40D+D7AD-D46D+85AB-67A4,Start a New Game as Dalton
+N,EE6D-7F5D,Start with a Higher Max. HP
+N,636D-745D,Start with a Higher Max. MP
+N,AA34-7765,Take Zero Damage in Battles
+N,7EB2DB00,Tech. Points Earned from Battle
+N,6666-7765,Techs Are Not Listed on the Tech Screen but Still Work
+N,29BD-5F07,Teleport Code
+N,7E285480,Triple Raid
+N,7E285580,Twister
+N,B6C6-E76C+DDCB-E7DC+9CCB-E76C,Use 'Organize' to Get 90 of All Items
+N,366E-7765,Use a Tech, You Will Win the Battle and Will Get Level Ups and Items
+N,BC38-8F06,Walk Anywhere on the Map Screen
+N,A2A4-E7BB,Walk in the Clouds on the Zeal Map
+N,F6B0-77A7,Walk Through Walls
+N,0E6F-7767,Walk Through Walls (Up [Vertical] Direction Only)
+N,BC18-8F06,Walk Through Walls on Map!
+N,6D78-8FDB,Walk Through Walls Overworld
+N,0B60-7FA4,Walk Through Walls.
+N,22B4-546B,Watch the "Killed by Lavos" Ending
+N,3365-5D00,Win a Battle After Killing Only 1 Enemy
+N,1438-7765,You Are Invincible and If a Monster Hits You They All Die!
+N,8ED7-5FA4,Zenan Bridge 600 a.D. (Either Side) - Clip #3

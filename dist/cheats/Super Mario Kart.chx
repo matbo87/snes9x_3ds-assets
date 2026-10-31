@@ -1,1 +1,155 @@
-N,-7F056C12,sta-speed
+N,7E006002,"Choose Your Driver" Message Stop Go
+N,94C4-44D7,400 cc Driving
+N,3FC4-CDA4,1000 Speed No Dust
+N,DDC4-CDA4,Acceleration Freeze
+N,7E015003,Access Special Cup in 50cc
+N,FDB9-C701+DDB6-C7D1,All Jump Items
+N,9980-44DD,All Karts Except Yours Do Not Move
+N,67EB-CDA4,All Racers Appear as Ghosts
+N,CBCF-476F+FDCF-47AF+DDC4-4DDF,All Turn Like Toad and Koopa Troopa
+N,5063-346F+AD63-34AF,Always 1st Place
+N,7E0D71C0,Always Have Item
+N,7E1D0003,Always Have Special Cup (In Time Trial 1P Mode)
+N,AFC4-CDA4,Always in Last Place
+N,C6C4-CDA4,Always Jump Backward Instead of Forward
+N,03EB-CDA4,Always Keep Coins
+N,DD89-37D9,Always on Item Block
+N,4CC4-CDA4,Always See the Front of the Kart
+N,60EB-CDA4,Automatic Smallness
+N,F9C4-CDA4,Baby Carriage Cart
+N,E7E7-4464,Bananas Move
+N,DDEF-1D97+D4EF-1D27+F9EF-1FB7+F9EF-1F27,Beat 50cc Mushroom Cup to Get Gold Cup on All Courses, and 150cc Courses
+N,5DE9-67A4,Better Steering
+N,33B6-4FDD,Bowser
+N,DF65-47DF,Bowser Turns into Yoshi Many Times
+N,31C4-CDA4,Can't Rank Out
+N,EFEB-CDA4,Cannot Pick Up Coins, ? Marks
+N,00B6-44DD,Change Donkey Kong Jr. into Red Yoshi
+N,0DB6-446D,Change Koopa to Mario
+N,0DB6-4F6D,Change Princess to Mario
+N,0DB6-476D,Change Yoshi to Mario
+N,33B6-44DD,Character "Morph" Codes
+N,6DB3-3769,Characters Go Through Each Other
+N,D5C4-CDA4,Computer Doesn't Show Up on Map
+N,6EEB-CDA4,Computer Karts Are Invisible
+N,6DC1-1DD7,Computer Karts Don't Move
+N,AA4E-7DE5,Conditions Don't Wear Off
+N,D4E1-4F0D,CPU Thrown Items Are Red Shells
+N,6DCD-44DF,CPU Turning
+N,C2BC-C7A9+D0BC-C4A9,Debug Options
+N,4DEB-CDA4,Drive Anywhere on Track
+N,7E102004,Drive Over Walls
+N,C8EB-CDA4,Drive Sideways
+N,4FEB-CDA4,Drive Through Walls
+N,C966-44DD,Drive Through Walls and Obstacles (Drive Everywhere)
+N,C965-44DD,Drive Without Obstacles (Only for P1)
+N,CBEB-CDA4,Driver Cannot Move
+N,C4EB-CDA4,Drunk Drivers
+N,EE63-CDA4,Expert Code
+N,DE86-44DD,Faster and Slow Opponents
+N,3F31-CDA4,Faster Kart
+N,3FEB-CDA4,Feather Jumping Repeatedly (Game Usually Freezes)
+N,4BEB-CDA4,Float Super High
+N,E338-CDA4,Fly After Using Mushroom or Running Over Turbo Arrow
+N,7E006503,Freeze Border at Cup Select
+N,DF81-37D9,Get Item Instantly
+N,CDEF-CDA4,Green Shells Bounce Very Fast
+N,DFCF-47DF,Hard to Drive Only for Mario and Toad Drivers
+N,41EB-CDA4,High Jumps
+N,1A6E-CDA4,Hit the "X" Button to Drive in Reverse
+N,FDEB-67A7+2CAE-CDA4+4BEB-CDA4+3DEB-CDA4,Hopping Code
+N,45C4-CDA4,Hyper Mega Jump Code
+N,7E090B05,Idiot Drivers
+N,7E0E0063,Infinite Coins
+N,7E015404,Infinite Continues
+N,8B8F-4F69,Infinite Item When You Get One
+N,C7EB-CDA4,Infinite Retries in GP Mode
+N,33EB-CDA4,Instant Top Speed, Instant Braking
+N,1A3E-CDA4,Invincibility
+N,E33E-CDA4,Invincibility (alt)
+N,41A3-CDA4,Invisible
+N,AD88-3D60+CB88-3DD0,Item Select
+N,6DB0-4F61,Items Can't Hurt Anyone
+N,3C3E-14D4+893E-1404+A73E-1464+FD3E-14A4+0A3D-CFD4+E73D-CF04+B43D-CF64+CBBE-CDAD+D4BE-CFDD+DDBE-CF0D+62BE-CF6D+1CBE-CFAD+D3BE-C4DD+CBBE-C40D+0EBE-C46D+DDBE-C4AD+62BE-C7DD+1ABE-C70D+D3BE-C76D+CBBE-C7AD+4ABD-3DDD+DFBD-3D0D+0ABD-3D6D+77BD-3DAD+3CBD-3FDD,Joker CPU Star Code
+N,C6C4-C4D4,Kart Doesn't Slow Down on Track
+N,3EEB-CDA4,Karts Shoot Off Screen
+N,33B6-446D,Koopa Troopa
+N,47EB-CDA4,Lakita Kidnaps You
+N,33B6-4DDD,Mario
+N,80BA-93F5,Mud and Other Land Doesn't Effect Driving
+N,80BA-93F5+E9EB-CDA4,Mud and Other Land Features Have No Effect on Karts
+N,1A3E-CDA4+5E38-4DD4+C4EB-CDA4+34EB-CDA4+E9EB-CDA4,Multi-Cam Mario Code
+N,B285-47DF,Mushrooms Don't Work (Extra Challenging)
+N,3DC4-CDA4,Mushrooms Make You Jump
+N,B5C4-CDA4,Never Lose Speed
+N,EEEB-CDA4,Never Slow Down/Land in Water
+N,FA65-CDA4,No Background Music in Lap 5
+N,20EB-CDA4,No Coins
+N,45EB-CDA4,No Jumps
+N,34EB-CDA4,No Slow Down in Turns
+N,DFC2-47DF,Nobody Can Start
+N,36EB-CDA4,Non-Bumpable
+N,77EC-4DD4,Objects Remain on Track
+N,5E38-4DD4,Obtain Any Item Without Landing on a '?' Mark
+N,F7C4-CDA4,Odd Drivers
+N,3DEB-CDA4,Other Karts Spin Out
+N,2338-CDA4,Pass Through Obstacles After Mushroom or Turbo Arrow and Invisible
+N,7338-CDA4,Pass Through Obstacles After Using Mushroom or Running Over Turbo Arrow
+N,2EC4-CDA4,Perfect Sliding
+N,1FEB-CDA4,Pipes Shoot Out of Your Car
+N,D0E2-C7B4,Play Special Cup
+N,16EC-1F6D+7CEC-1FAD+06EC-14DD+D93F-1D04,Player Can Use CPU Items
+N,DD3E-17D4,Players Always Have CPU Star
+N,2DB9-C761+DDB6-C7D1,Players Only Auto Jump Items
+N,7E10E340,Pocket P1 (All Modes)
+N,7E11E340,Pocket P2 (All Modes)
+N,7E12E340,Pocket P3
+N,7E13E340,Pocket P4
+N,7E14E340,Pocket P5
+N,7E15E340,Pocket P6
+N,7E16E340,Pocket P7
+N,7E17E340,Pocket P8
+N,F4EB-CDA4,Poor CPU Driving
+N,7E1D2C08,Press a for Special Cup
+N,33B6-4F6D,Princess
+N,E18E-BBD2,Princess Is Invisible
+N,CD64-4DDF,Race with Red Tinted Background
+N,2CEB-CDA4,Racers Get Stuck
+N,7E10A002,Ramps/Bumps Do Nothing
+N,0EEB-CDA4,Random Effects on Impact
+N,89BC-CDD1+89E9-44A4,Red Shells Will Keep Attacking
+N,DFC6-44DD,Reset Timer at 00'00''
+N,19EB-CDA4,Ride in Air
+N,22B6-47DD,Same Color Koopa
+N,16B6-47DD,Same Color Mario
+N,14B6-44DD,Same Color Princess
+N,10B6-4FDD,Same Color Yoshi
+N,F1C4-CDA4,Sensitive Steering
+N,32C4-CDA4,Sliding Code
+N,6286-4F6D,Slow Motion Code
+N,7E1D2903,Special Cup Enabled (1P Time Trial & 2P Match Race)
+N,25C4-CDA4,Speed = 1CC
+N,37EB-CDA4,Spin Out If You Go on Snow, Grass, Etc.
+N,87EB-CDA4,Spinning Kart
+N,0EBB-4D04,Star Makes CPU Sound
+N,C9C6-44DD,Stop Time Counter
+N,DF80-44DD,Stop Your Opponents
+N,2282-44DD,Stupid Opponents!
+N,ED4C-DE7E,Super Boost
+N,BABD-CDA4,Terrible Muffler
+N,EE3D-EE57+9886-EEB2,These Codes Can Cause Slight Increase in Various Karts
+N,1DEB-CDA4,Throw Up Pipes
+N,3AC6-44DD,Time Never Gets Past 1 Minute
+N,00AE-44BA,Track Distortion (Bowser's Castle 1 Only)
+N,DF61-47DF,Turbo on Each Control Pad Button
+N,65C4-CDA4,Turn Around to Get One Star
+N,DF6F-47DF,Tuti-Fruti Track
+N,3786-44DD,Ultra Fast Opponents
+N,DFCE-47DF,With This Code You Can "Pause" the Game Without Buggy Effects
+N,85C4-CDA4,Yellow Track
+N,33B6-476D,Yoshi
+N,DF6B-47DF,Yoshi's Twin
+N,95C4-CDA4,Your Cart Can Pass Through Walls
+N,DFC9-47DF,Your Cart Can't Start
+N,DFAB-47DF,Your Cart Can't Turn, but You Can Drive Normally
+N,DFA5-47DF,Your Cart Turns Invisible

@@ -1,2 +1,7 @@
-N,7E18EB63,Unlimited ships
-N,7E13C101,auto-clear area
+N,4A8A-DFD1,Infinite Energy
+N,7E13C101,Instantly Clear Zone
+N,7E18EDFF+7E18EEFF,Invincibility
+N,D76A-D7D5,Restore Energy More Quickly
+N,DD6A-D7D5,Restore Energy More Slowly
+N,DDC4-DFD1,Start with 1 Life
+N,D5C4-DFD1,Start with 8 Lives

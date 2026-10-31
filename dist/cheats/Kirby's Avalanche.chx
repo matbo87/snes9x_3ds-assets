@@ -1,3 +1,43 @@
-N,7E074A00,Cpu score = 0
-N,7E071200,Cpu can't drop
-N,7E07091E,Ultimate avalanche
+N,80A8-C4CD,Boulder Warnings Don't Appear
+N,7E0752FF,CPU Constantly Gets Rocks
+N,A3A2-CD4D+94A2-CD1D+D5A2-CDCD,CPU Gets All Boulders
+N,CBB7-4D4D+3CB7-4DCD+CBB7-4F1D+3CB7-4F3D,Disable the "Next" Box
+N,7E071200+7E073700,Enemies Can't Drop Dark Beans on You
+N,CB60-C737+D169-CD47+D969-CD17,Only a Boulder and Blue Blobs Fall
+N,CB60-C737+D169-CD47+D769-CD17,Only a Boulder and Green Blobs Fall
+N,CB60-C737+D169-CD47+D069-CD17,Only a Boulder and Purple Blobs Fall
+N,CB60-C737+D169-CD47+DD69-CD17,Only a Boulder and Red Blobs Fall
+N,CB60-C737+D169-CD47+DF69-CD17,Only a Boulder and Yellow Blobs Fall
+N,CB60-C737+D969-CD47+D769-CD17,Only Blue and Green Blobs Fall
+N,CB60-C737+D969-CD47+D069-CD17,Only Blue and Purple Blobs Fall
+N,CB60-C737+D969-CD47+DD69-CD17,Only Blue and Red Blobs Fall
+N,CB60-C737+D969-CD47+DF69-CD17,Only Blue and Yellow Blobs Fall
+N,CB60-C737+D969-CD47+D969-CD17,Only Blue Blobs Fall
+N,CB60-C737+D969-CD47+D169-CD17,Only Blue Blobs with a Boulder Fall
+N,CB60-C737+D169-CD47+D169-CD17,Only Boulders Fall
+N,CB60-C737+D769-CD47+D969-CD17,Only Green and Blue Blobs Fall
+N,CB60-C737+D769-CD47+D069-CD17,Only Green and Purple Blobs Fall
+N,CB60-C737+D769-CD47+DD69-CD17,Only Green and Red Blobs Fall
+N,CB60-C737+D769-CD47+DF69-CD17,Only Green and Yellow Blobs Fall
+N,CB60-C737+D769-CD47+D769-CD17,Only Green Blobs Fall
+N,CB60-C737+D769-CD47+D169-CD17,Only Green Blobs with a Boulder Fall
+N,CB60-C737+D069-CD47+D969-CD17,Only Purple and Blue Blobs Fall
+N,CB60-C737+D069-CD47+D769-CD17,Only Purple and Green Blobs Fall
+N,CB60-C737+D069-CD47+DD69-CD17,Only Purple and Red Blobs Fall
+N,CB60-C737+D069-CD47+DF69-CD17,Only Purple and Yellow Blobs Fall
+N,CB60-C737+D069-CD47+D069-CD17,Only Purple Blobs Fall
+N,CB60-C737+D069-CD47+D169-CD17,Only Purple Blobs with a Boulder Fall
+N,CB60-C737+DD69-CD47+D969-CD17,Only Red and Blue Blobs Fall
+N,CB60-C737+DD69-CD47+D769-CD17,Only Red and Green Blobs Fall
+N,CB60-C737+DD69-CD47+D069-CD17,Only Red and Purple Blobs Fall
+N,CB60-C737+DD69-CD47+DF69-CD17,Only Red and Yellow Blobs Fall
+N,CB60-C737+DD69-CD47+DD69-CD17,Only Red Blobs Fall
+N,CB60-C737+DD69-CD47+D169-CD17,Only Red Blobs with a Boulder Fall
+N,CB60-C737+DF69-CD47+D969-CD17,Only Yellow and Blue Blobs Fall
+N,CB60-C737+DF69-CD47+D769-CD17,Only Yellow and Green Blobs Fall
+N,CB60-C737+DF69-CD47+D069-CD17,Only Yellow and Purple Blobs Fall
+N,CB60-C737+DF69-CD47+DD69-CD17,Only Yellow and Red Blobs Fall
+N,CB60-C737+DF69-CD47+DF69-CD17,Only Yellow Blobs Fall
+N,CB60-C737+DF69-CD47+D169-CD17,Only Yellow Blobs with a Boulder Fall
+N,7E071200,P1 Never Gets Rocks
+N,7E019401,Unlock All Special Custom Mode Options

@@ -1,3 +1,247 @@
-N,7E0C2BB0,Unlimited life p1
-N,00CC7E86,Duelist mode
-N,00DEE250,Blood mode
+N,7E0D9001,1 Button for Special Move 1
+N,7E0D9901,1 Button for Special Move 2
+N,DF81-A704,1 Draw Ends Fight in VS. Battle
+N,7E1A6800,1 Match to See Easy Ending [Both Players]
+N,7E1A6701+7E1A6801,1 Match to See Ending (Both Players)
+N,7E1A681E,1 Match to See Hard Ending [Both Players]
+N,7E1A6801,1 Match to See Normal Ending [Both Players]
+N,FD63-6D2A,10 Seconds in 1st Bonus Round
+N,FD62-672A,10 Seconds per Battle
+N,4D63-6D2A,20 Seconds in 1st Bonus Round
+N,4D62-672A,20 Seconds per Battle
+N,7D63-6D2A,30 Seconds in 1st Bonus Round
+N,7D62-672A,30 Seconds per Battle
+N,0D62-672A,40 Seconds per Battle
+N,9D63-6D2A,50 Seconds in 1st Bonus Round
+N,9D62-672A,50 Seconds per Battle
+N,1D63-6D2A,60 Seconds in 1st Bonus Round
+N,1D62-672A,60 Seconds per Battle
+N,5D63-6D2A,70 Seconds in 1st Bonus Round
+N,5D62-672A,70 Seconds per Battle
+N,6D63-6D2A,80 Seconds in 1st Bonus Round
+N,6D62-672A,80 Seconds per Battle
+N,BD63-6D2A,90 Seconds in 1st Bonus Round
+N,BD62-672A,90 Seconds per Battle Instead of 99
+N,BB63-6D2A,99 Seconds in 1st Bonus Round Instead of 40
+N,7E0CD108+7E0ED108,Add to Original Boss Code to Play M.Bison vs. M.Bison
+N,6DCF-D764+FFCF-D7A4,Advances You to the Next Level (Switch Off the Code Before M. Bison Beats You!)
+N,D539-7464+D539-74A7,After Losing Your Energy, You Can Still Fight
+N,01A6-6F67,All Buttons Are Punches [Only Works While on the Ground]
+N,1B63-57A5,All Dragon Punches Are Weak
+N,4A6C-6D69,All of the World Warriors Can Bounce Off the Wall
+N,7E0E4A18+7E0E4C18,All P1 Hits/Projectiles Burn
+N,7E0E4A22+7E0E4C22,All P1 Hits/Projectiles Burn [Blue]
+N,7E0E4A1A+7E0E4C1A,All P1 Hits/Projectiles Shock
+N,7E0E4A14+7E0E4C14,All P1 Projectiles Are Normal
+N,7E0CB200,All P1 Special Moves Work in Midair
+N,7E0C4A18+7E0C4C18,All P2 Hits/Projectiles Burn
+N,7E0C4A22+7E0C4C22,All P2 Hits/Projectiles Burn [Blue]
+N,7E0C4A1A+7E0C4C1A,All P2 Hits/Projectiles Shock
+N,7E0C4A14+7E0C4C14,All P2 Projectiles Are Normal
+N,7E0EB200,All P2 Special Moves Work in Midair
+N,DF3E-8FAD,All Special Moves Are Weak
+N,DD61-6DA9,Allows Both Players to Perform Special Moves in Midair
+N,77AF-07A7,Almost Invisible Street Fighters!
+N,CBA0-AF64+DBA0-AFA4,Always Fight Balrog
+N,CBA0-AF64+DFA0-AFA4,Always Fight Blanka
+N,CBA0-AF64+D0A0-AFA4,Always Fight Chun-Li
+N,CBA0-AF64+D1A0-AFA4,Always Fight Dhalsim
+N,CBA0-AF64+D4A0-AFA4,Always Fight Guile
+N,CBA0-AF64+DDA0-AFA4,Always Fight Honda
+N,CBA0-AF64+D7A0-AFA4,Always Fight Ken
+N,DDA4-A404+6DA4-A764,Always Fight on Bonus Stage 1
+N,DDA7-AF04+DDA7-A4A4,Always Fight on Bonus Stage 2
+N,CBA0-AF64+EEA0-AFA4,Always Fight Ryu
+N,CBA0-AF64+D6A0-AFA4,Always Fight Sagat
+N,CBA0-AF64+DCA0-AFA4,Always Fight Vega
+N,762C-57DF,Always Fight with Ryu
+N,CBA0-AF64+D9A0-AFA4,Always Fight Zangief
+N,EEAC-AFD4,Always Get Double Knockout
+N,EE84-DDD1,Another No Charge Code (Easier to Use)
+N,DDAA-0767,Any Character Performing a Special Move Becomes Invisible
+N,5B31-746F+5B31-74AF,Any Combo Is Worth a Lot of Points
+N,57BC-57DF,Any Game Option Is a Tournament Mode
+N,5FBC-57DF,Any Game Option Is a vs Mode in a Combination with
+N,13BC-57DF,Any Game Option Is a vs Mode, with One Round Match
+N,7E0C43FF,Auto Block Some Mid and Low Attacks [P1]
+N,7E0E43FF,Auto Block Some Mid and Low Attacks [P2]
+N,3AA6-AD64,Balrog
+N,A7A6-AD64,Blanka
+N,6734-7AFF,Block Hits Sound Like Fierce Punch
+N,DFAF-0767,Both Players Are Invisible
+N,7E0BF220,Both Players Can Be the Same Character
+N,96AC-AFD4,Both Players Start with 1/2 Energy [1/2 Damage]
+N,4AAC-AFD4,Both Players Start with 1/4 Energy [3/4 Damage]
+N,60AC-AFD4,Both Players Start with 3/4 Energy [1/4 Damage]
+N,DDAC-AFD4,Both Players Start with No Energy [1 Hit and You're Dead]
+N,DF3C-8FAD,Broke Defense Code [?]
+N,C420-4D9E,Can't Throw Fierce Fireballs
+N,CCAF-0767,Characters Are Upside-Down and at the Top of the Screen
+N,A3A6-AD64,Chun Li
+N,EEB2-DFA1,Common, Everyday Throw More Potent Than the Dreaded SPD
+N,8E6D-DD64,Computer Is Invisible
+N,DD6E-6760,Computer Is Less Aggressive on Level 7
+N,00A6-AFD4,Computer Randomly Picks a 1P Character After Each ...
+N,7E0C0D40,Cool Colors for M. Bison and Turbo Colors for Chun Li
+N,EE61-A469,CPU Repeats Your Last Move When You Land
+N,ACA6-AD64,Dhalsim
+N,976C-0F0C,Disables All Projectile Attacks
+N,61A0-6767,Disables Special Moves
+N,1077-7F61,Dizziness Doesn't Last
+N,1A87-7F61,Dizziness Lasts Forever
+N,C9BE-0DA9,Dizziness Lasts Longer
+N,EDBE-0F09,Dizziness Wears Off Very Quickly
+N,DAB8-A761,Do Special Moves by Just Pressing Buttons (May Make Fireballs Lower)
+N,73A5-DF60,Dragon Punch Does Not Go as High
+N,2AA5-DF60,Dragon Punch Goes Higher
+N,ADA6-AD64,E. Honda
+N,DD84-DD01,Easier Special Moves for Honda, Blanka, Guile and Chun Li
+N,DD82-6DD9+DD84-DD01+D62D-6465+6D82-A409+6D83-AF69,Easier Special Moves[See Notes]
+N,89AA-DD60,Easier to Connect on a DP
+N,7E0D9600,Easy Dragon Punches After First
+N,BC67-6760,Easy Flash Kick
+N,7E0D9608,Easy Flash Kicks
+N,BF67-6760,Easy Sonic Boom
+N,1D11-32E2,Easy Sonic Booms
+N,7E0C2030,Electric Roll for Blanka P1
+N,7F7F6432,Enable Same Character in vs. Mode Option
+N,EC20-4D9E,Faster Fireballs [Fierce Punch]
+N,DBA9-1DBA,Faster H.Kick [Fierce Kick]
+N,EE21-576D,Faster Turbo Than Sir Dave's Code and There Is More Surprises
+N,1DB8-ADF3,Fireballs Are Higher Off the Ground
+N,DDB8-ADF3,Fireballs Are Lower to the Ground
+N,123F-7464+123F-74A7,Fireballs of Any Kind Will Hit Immediately
+N,FB37-8FAD+6D37-84DD,Foot Sweeps Don't Trow [?]
+N,EFA2-1DBA,Freeze P2 or CPU
+N,7E0C8901,Get Dizzy from Every Knockdown [P1]
+N,7E0E8901,Get Dizzy from Every Knockdown [P2]
+N,B321-6D04,Greatly Increases the Damage Power of Your Blows
+N,32A6-AD64,Guile
+N,EBBA-AD93,Hard Fireballs, Sonic Booms and Yoga Fires Are Faster
+N,EEBA-AD93,Hard Fireballs, Sonic Booms and Yoga Fires Are Slower
+N,EDBA-AD93,Hard Fireballs, Sonic Booms and Yoga Fires Are Super Fast
+N,D8B1-D7F3+E9B5-DDB3,Hard Sumo Head Butts and Rolling Attacks Are Faster
+N,DDB1-D7F3+EEB5-DDB3,Hard Sumo Head Butts and Rolling Attacks Are Slower
+N,F5B1-D7F3+32B5-DDB3,Hard Sumo Head Butts and Rolling Attacks Are Super Fast
+N,3CA4-DD67+FEA4-DFD7,High Throw and Grab Damage
+N,3D29-A4A7+DD29-A7D7+D329-A707+8D29-A767,Hit Anywhere P1
+N,B229-A7A7,Hit Enemy No Matter Where You [Or They] Are!
+N,DF39-8FAF,Hit Your Opponent at a Distance
+N,7E0CF0D4,Hyper Fighting Colors for Chun Li and Really Cool M. Bison Colors
+N,7E0ED000,If You Are P1 You Continue Playing Until You Win Your 2 Matches, P2 Never Wins
+N,7E0CD000,If You Are P2 You Continue Playing Until You Win Your 2 Matches, P1 Never Wins
+N,7E0C2BB0,Infinite Energy for P1
+N,7E0E2BB0,Infinite Energy for P2
+N,7E1AC899,Infinite Time
+N,6D27-6704+DF27-6764+4039-670D,Invincibility
+N,CB61-07A4,Invisible Fireballs, Sonic Booms, Yoga Fires and Yoga Flames
+N,10A4-6D67,Jab and Short Buttons Become a One-Two Attack
+N,89AD-6767,Jab Makes Your Fighter Drop in from the Top
+N,B9A5-AF04,Ken
+N,CD8E-0F09,Ken, Ryu and Guile Throw from Anywhere
+N,0082-6D69,Ken, Ryu or Dhalsim Moves Need No Button Press
+N,67A4-DF00,Ken/Ryu Invisible While Recovering from a Fireball
+N,EBB8-A793,Light Fireballs, Sonic Booms and Yoga Fires Are Faster
+N,EEB8-A793,Light Fireballs, Sonic Booms and Yoga Fires Are Slower
+N,EDB8-A793,Light Fireballs, Sonic Booms and Yoga Fires Are Super Fast
+N,DBB1-D4F3+EBB1-D7B3,Light Sumo Head Butts and Rolling Attacks Are Faster
+N,DDB1-D4F3+EEB1-D7B3,Light Sumo Head Butts and Rolling Attacks Are Slower
+N,F9B1-D4F3+EDB1-D7B3,Light Sumo Head Butts and Rolling Attacks Are Super Fast
+N,A0A6-AD64,M. Bison
+N,D023-6764,Makes Blocking a HK Worthless
+N,4C65-D7D6,Makes Multiple DPs Easier
+N,EBB8-A723,Medium Fireballs, Sonic Booms and Yoga Fires Are Faster
+N,EEB8-A723,Medium Fireballs, Sonic Booms and Yoga Fires Are Slower
+N,EDB8-A723,Medium Fireballs, Sonic Booms and Yoga Fires Are Super Fast
+N,DCB1-D4B3+E5B5-DDF3,Medium Sumo Head Butts and Rolling Attacks Are Faster
+N,DDB1-D4B3+EEB5-DDF3,Medium Sumo Head Butts and Rolling Attacks Are Slower
+N,F1B1-D4B3+33B5-DDF3,Medium Sumo Head Butts and Rolling Attacks Are Super Fast
+N,01A4-6707,Midair
+N,DDBE-0F69,Minimizes the Dizzy Time
+N,3CA4-DD67+EEA4-DFD7,Minimum Throw and Grab Damage
+N,893E-04DF,Most Punches and Kicks Do No Damage
+N,6DA4-6707,Most Special Moves Disabled
+N,0126-0767,Multiple Air Counter-Attacks
+N,D780-AD64,Must Win 4 Rounds
+N,B0A5-6767,No Charge for Special Moves
+N,5087-DFD1,No Charging Special Moves
+N,7E0C2601,No Delay When Ryu/Ken/Dhalsim Use a Fireball [P1]
+N,7E0E2601,No Delay When Ryu/Ken/Dhalsim Use a Fireball [P2]
+N,1868-0D6C,No Fireballs, Sonic Booms or Yoga Fires, Makes Yoga Flame Invisible
+N,7E0D9200,No Horizontal Charging & Instant Fire Balls
+N,7E00BE13,No HUD
+N,7E00BE10,No HUD/BG Sprites
+N,7E00BE11,No HUD/Certain BG Sprites
+N,DFA0-DDA0+ADA0-DFD0,No Pause After Throwing a Fireball
+N,7E0C59FF,No Push Back or Delay When Hit [P1]
+N,7E0E59FF,No Push Back or Delay When Hit [P2]
+N,7E0C543C,Once Dizzy, Always Dizzy [P1]
+N,7E0E543C,Once Dizzy, Always Dizzy [P2]
+N,DF10-7467+DF10-74A7,One Hit of Any Kind Defeats Opponent
+N,EEBE-0F09,Opponent Never Recovers from Dizzy
+N,7E0C5001,P1 Can Wall Jump in Midair
+N,7E0D1E13,P1 Can't Be Hit [Can Still Be Grabbed]
+N,DF60-8F0D,P1 Can't Move [Not Computer]
+N,7E0D9001+7E0D9401+7E0D9802+7E0D9904,P1 Easy Special Moves
+N,DD91-576D,P1 Has Turbofire (Just Like a Turbo Controller)
+N,EEAF-0F67,P1 Is Untouchable Most of the Time / Enables Juggling
+N,7E0CD002,P1 Only Needs 1 Win to Go Through to the Next Round
+N,DDAC-AF64,P1 Starts with No Energy [1 Hit and He's Dead]
+N,7E0E3A00+7E0E3B00+7E0E3C00,P1 Throws Disabled
+N,7E0ED10B,P1 to Play Any Enemy All the Way Through the Game (Including the Final Bosses)
+N,10A4-0767+F0AE-6D04,P2 Becomes the Boss of the Stage [Don't Pick Ken]
+N,7E0E5001,P2 Can Wall Jump in Midair
+N,7E0F1E13,P2 Can't Be Hit [Can Still Be Grabbed]
+N,7E0F9001+7E0F9401+7E0F9802+7E0F9904,P2 Easy Special Moves
+N,7E0ED002,P2 Only Needs 1 Win to Go Through to the Next Round
+N,2FBC-57DF,P2 Start in 1P Game
+N,7E0E4535,P2 Takes on Colours of Their Opponent
+N,7E0C3A00+7E0C3B00+7E0C3C00,P2 Throws Disabled
+N,7E0CD10B,P2 to Play Any Enemy All the Way Through the Game (Including the Final Bosses)
+N,C4A4-6767,Perform Special Moves in the Air
+N,1911-3BA2,Permastars
+N,4DC6-6493,Play the Champion Edition Mode Without the Controller Sequence
+N,503E-04DF,Player Dies After Getting Hit by 2 Blows
+N,EEAF-0767,Player on the Right Side (P2's Starting Position) Always Faces Right
+N,1C65-DF00,Players Move Faster
+N,EEB2-DFD1,Powers Up Throws So Much That Only One Is Necessary to Win the Fight
+N,B9A0-AF04,Practice Against Bison
+N,E3A9-0767,Projectile Color Changes Each Round
+N,DDE3-DF01,Projectiles Always Go Right
+N,A36E-0766,Projectiles Are Invisible
+N,EFA9-1DBA,Reverse H.Kick [Fierce Kick]
+N,DF97-479E,Reverse Jab Fireballs
+N,C2CC-A7DF,Round Number Does Not Advance [Can't Fight to a Draw]
+N,A9A6-AD64,Ryu
+N,C163-D4CD+C163-D74D,Ryu/Ken Do a Dragon-Hurricane-Kick with Strong DP
+N,AEA6-AD64,Sagat
+N,4DCF-D7A4,See Character's Ending After First Battle
+N,DF87-8FAF,See the CPU Fighting Instead of You
+N,7E0C1701,Set Max. Speed for Fighter [P1]
+N,7E0E1701,Set Max. Speed for Fighter [P2]
+N,77A0-07A7,Shadow People
+N,6D8C-D4A4,Skip VS Screen
+N,7E01B942,Slow Fireballs
+N,EE27-479E,Slow Fireballs [Jab Punch]
+N,DD20-6407,Slows Ken/Ryu's Fireball Down (This Effect Starts on the Second FB)
+N,0B2B-6767,Slows Ken/Ryu's Fireball Down (This Effect Starts on the Second FB) #2
+N,D965-DF00,Some Special Moves Are Faster
+N,7E0C6001,Speeds the Whole Game Up to About Double Speed
+N,09AE-DD60,Teleporting Dragon Punch
+N,D524-07D7,The Computer Cannot Block Low Attacks
+N,FCA0-DF00,There Is No Recovery Time Taken by K/R
+N,EEB2-DF61,Throws Do No Damage
+N,7E0C35B0,Throws P1 High into the Air
+N,7E0E35B0,Throws P2 High into the Air
+N,0B21-6767,To Cause Your Blows to Make the "Hit" Sound Even When the Moves Are Blocked
+N,A367-6765,Ultimate Dizzy
+N,EF20-4D9E,Ultra Fast Fireballs [Fierce Punch]
+N,EF63-644C,Vega
+N,C163-D4CD,Vertical HK with DP
+N,C163-D74D,Vertical HK with DP (alt)
+N,C163-D7CD,Vertical HK with DP (alt 2)
+N,00A5-DD60,Very High DP
+N,DF80-AD64,Win 1 Bout to Win the Match Instead of 2 Out of 3
+N,41A4-DF00,You Do a Block When You Shoot a Fireball (Fireball Is Invisible)
+N,0F23-AD64,Your Blows Do Various Amounts of Damage
+N,8BA6-AD64,Zangief

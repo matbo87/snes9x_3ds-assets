@@ -1,3 +1,169 @@
-N,7E40B7FF,Unlimited Budget Money (1/2)
-N,7E40B8FF,Unlimited Budget Money (2/2)
-N,7E200A40,Fast Passage Of Time
+N,7E209B0F+7E209C27,01 St. John Infinite Food
+N,7E209F0F+7E20A027,01 St. John Infinite Money
+N,7E209D0F+7E209E27,01 St. John Infinite Powder
+N,7E20A90F+7E20AA27,02 Penobscot Bay Infinite Food
+N,7E20AD0F+7E20AE27,02 Penobscot Bay Infinite Money
+N,7E20AB0F+7E20AC27,02 Penobscot Bay Infinite Powder
+N,7E20B70F+7E20B827,03 Waterville Infinite Food
+N,7E20BB0F+7E20BC27,03 Waterville Infinite Money
+N,7E20B90F+7E20BA27,03 Waterville Infinite Powder
+N,7E20C50F+7E20C627,04 Fort Western Infinite Food
+N,7E20C90F+7E20CA27,04 Fort Western Infinite Money
+N,7E20C70F+7E20C827,04 Fort Western Infinite Powder
+N,7E20D30F+7E20D427,5 Boston Infinite Food
+N,7E20D70F+7E20D827,5 Boston Infinite Money
+N,7E20D50F+7E20D627,5 Boston Infinite Powder
+N,7E20E10F+7E20E227,6 Springfield Infinite Food
+N,7E20E50F+7E20E627,6 Springfield Infinite Money
+N,7E20E30F+7E20E427,6 Springfield Infinite Powder
+N,7E20EF0F+7E20F027,07 Quebec Infinite Food
+N,7E20F30F+7E20F427,07 Quebec Infinite Money
+N,7E20F10F+7E20F227,07 Quebec Infinite Powder
+N,7E20FD0F+7E20FE27,08 Three Rivers Infinite Food
+N,7E21010F+7E210227,08 Three Rivers Infinite Money
+N,7E20FF0F+7E210027,08 Three Rivers Infinite Powder
+N,7E210B0F+7E210C27,09 Montreal Infinite Food
+N,7E210F0F+7E210027,09 Montreal Infinite Money
+N,7E210D0F+7E210E27,09 Montreal Infinite Powder
+N,7E21190F+7E211A27,10 Berlin Infinite Food
+N,7E211D0F+7E211E27,10 Berlin Infinite Money
+N,7E211B0F+7E211C27,10 Berlin Infinite Powder
+N,7E21270F+7E212827,11 Portsmouth Infinite Food
+N,7E212B0F+7E212C27,11 Portsmouth Infinite Money
+N,7E21290F+7E212A27,11 Portsmouth Infinite Powder
+N,7E21350F+7E213627,12 Norwich Infinite Food
+N,7E21390F+7E213A27,12 Norwich Infinite Money
+N,7E21370F+7E213827,12 Norwich Infinite Powder
+N,7E21430F+7E214427,13 Ticonderoga Infinite Food
+N,7E21470F+7E214827,13 Ticonderoga Infinite Money
+N,7E21450F+7E214627,13 Ticonderoga Infinite Powder
+N,7E21510F+7E215227,14 Bennington Infinite Food
+N,7E21550F+7E215627,14 Bennington Infinite Money
+N,7E21530F+7E215427,14 Bennington Infinite Powder
+N,7E215F0F+7E216027,15 Albany Infinite Food
+N,7E21630F+7E216427,15 Albany Infinite Money
+N,7E21610F+7E216227,15 Albany Infinite Powder
+N,7E216D0F+7E216E27,16 Fort Stanwix Infinite Food
+N,7E21710F+7E217227,16 Fort Stanwix Infinite Money
+N,7E216F0F+7E217027,16 Fort Stanwix Infinite Powder
+N,7E217B0F+7E217C27,17 Fort Niagara Infinite Food
+N,7E217F0F+7E218027,17 Fort Niagara Infinite Money
+N,7E217D0F+7E217E27,17 Fort Niagara Infinite Powder
+N,7E21890F+7E218A27,18 White Plains Infinite Food
+N,7E218D0F+7E218E27,18 White Plains Infinite Money
+N,7E218B0F+7E218C27,18 White Plains Infinite Powder
+N,7E21970F+7E219827,19 Long Island Infinite Food
+N,7E219B0F+7E219C27,19 Long Island Infinite Money
+N,7E21990F+7E219A27,19 Long Island Infinite Powder
+N,7E21A50F+7E21A627,20 Newport Infinite Food
+N,7E21A90F+7E21AA27,20 Newport Infinite Money
+N,7E21A70F+7E21A827,20 Newport Infinite Powder
+N,7E21B30F+7E21B427,21 New London Infinite Food
+N,7E21B70F+7E21B827,21 New London Infinite Money
+N,7E21B50F+7E21B627,21 New London Infinite Powder
+N,7E21C10F+7E21C227,22 Hartford Infinite Food
+N,7E21C50F+7E21C627,22 Hartford Infinite Money
+N,7E21C30F+7E21C427,22 Hartford Infinite Powder
+N,7E21CF0F+7E21D027,23 Monmouth Infinite Food
+N,7E21D30F+7E21D427,23 Monmouth Infinite Money
+N,7E21D10F+7E21D227,23 Monmouth Infinite Powder
+N,7E21DD0F+7E21DE27,24 Trenton Infinite Food
+N,7E21E10F+7E21E227,24 Trenton Infinite Money
+N,7E21DF0F+7E21E027,24 Trenton Infinite Powder
+N,7E21EB0F+7E21EC27,25 Wyoming Infinite Food
+N,7E21EF0F+7E21F027,25 Wyoming Infinite Money
+N,7E21ED0F+7E21EE27,25 Wyoming Infinite Powder
+N,7E21F90F+7E21FA27,26 Venango Infinite Food
+N,7E21FD0F+7E21FE27,26 Venango Infinite Money
+N,7E21FB0F+7E21FC27,26 Venango Infinite Powder
+N,7E22070F+7E220827,27 Philadelphia Infinite Food
+N,7E220B0F+7E220C27,27 Philadelphia Infinite Money
+N,7E22090F+7E220A27,27 Philadelphia Infinite Powder
+N,7E22150F+7E221627,28 Susquehanna Infinite Food
+N,7E22190F+7E221A27,28 Susquehanna Infinite Money
+N,7E22170F+7E221827,28 Susquehanna Infinite Powder
+N,7E22230F+7E222427,29 Pittsburgh Infinite Food
+N,7E22270F+7E222827,29 Pittsburgh Infinite Money
+N,7E22250F+7E222627,29 Pittsburgh Infinite Powder
+N,7E22310F+7E223227,30 New Castle Infinite Food
+N,7E22350F+7E223627,30 New Castle Infinite Money
+N,7E22330F+7E223427,30 New Castle Infinite Powder
+N,7E223F0F+7E224027,31 Head of Elk Infinite Food
+N,7E22430F+7E224427,31 Head of Elk Infinite Money
+N,7E22410F+7E224227,31 Head of Elk Infinite Powder
+N,7E224D0F+7E224E27,32 Baltimore Infinite Food
+N,7E22510F+7E225227,32 Baltimore Infinite Money
+N,7E224F0F+7E225027,32 Baltimore Infinite Powder
+N,7E225B0F+7E225C27,33 Alexandria Infinite Food
+N,7E225F0F+7E226027,33 Alexandria Infinite Money
+N,7E225D0F+7E225E27,33 Alexandria Infinite Powder
+N,7E22690F+7E226A27,34 Winchester Infinite Food
+N,7E226D0F+7E226E27,34 Winchester Infinite Money
+N,7E226B0F+7E226C27,34 Winchester Infinite Powder
+N,7E22770F+7E227827,35 Norfolk Infinite Food
+N,7E227B0F+7E227C27,35 Norfolk Infinite Money
+N,7E22790F+7E227A27,35 Norfolk Infinite Powder
+N,7E22850F+7E228627,36 Richmond Infinite Food
+N,7E22890F+7E228A27,36 Richmond Infinite Money
+N,7E22870F+7E228827,36 Richmond Infinite Powder
+N,7E22930F+7E229427,37 Roanoke Infinite Food
+N,7E22970F+7E229827,37 Roanoke Infinite Money
+N,7E22950F+7E229627,37 Roanoke Infinite Powder
+N,7E22A10F+7E22A227,38 Warrenton Infinite Food
+N,7E22A50F+7E22A627,38 Warrenton Infinite Money
+N,7E22A30F+7E22A427,38 Warrenton Infinite Powder
+N,7E22AF0F+7E22B027,39 Guilford Infinite Food
+N,7E22B30F+7E22B427,39 Guilford Infinite Money
+N,7E22B10F+7E22B227,39 Guilford Infinite Powder
+N,7E22BD0F+7E22BE27,40 New Bern Infinite Food
+N,7E22C10F+7E22C227,40 New Bern Infinite Money
+N,7E22BF0F+7E22C027,40 New Bern Infinite Powder
+N,7E22CB0F+7E22CC27,41 Wilmington Infinite Food
+N,7E22CF0F+7E22D027,41 Wilmington Infinite Money
+N,7E22CD0F+7E22CE27,41 Wilmington Infinite Powder
+N,7E22D90F+7E22DA27,42 Charlotte Infinite Food
+N,7E22DD0F+7E22DE27,42 Charlotte Infinite Money
+N,7E22DB0F+7E22DC27,42 Charlotte Infinite Powder
+N,7E22E70F+7E22E827,43 Georgetown Infinite Food
+N,7E22EB0F+7E22EC27,43 Georgetown Infinite Money
+N,7E22E90F+7E22EA27,43 Georgetown Infinite Powder
+N,7E22F50F+7E22F627,44 Camdem Infinite Food
+N,7E22F90F+7E22FA27,44 Camdem Infinite Money
+N,7E22F70F+7E22F827,44 Camdem Infinite Powder
+N,7E23030F+7E230427,45 Ninety-Six Infinite Food
+N,7E23070F+7E230827,45 Ninety-Six Infinite Money
+N,7E23050F+7E230627,45 Ninety-Six Infinite Powder
+N,7E23110F+7E231227,46 Charles Town Infinite Food
+N,7E23150F+7E231627,46 Charles Town Infinite Money
+N,7E23130F+7E231427,46 Charles Town Infinite Powder
+N,7E231F0F+7E232027,47 Atlanta Infinite Food
+N,7E23230F+7E232427,47 Atlanta Infinite Money
+N,7E23210F+7E232227,47 Atlanta Infinite Powder
+N,7E232D0F+7E232E27,48 Augusta Infinite Food
+N,7E23310F+7E233227,48 Augusta Infinite Money
+N,7E232F0F+7E233027,48 Augusta Infinite Powder
+N,7E233B0F+7E233C27,49 Savannah Infinite Food
+N,7E233F0F+7E234027,49 Savannah Infinite Money
+N,7E233D0F+7E233E27,49 Savannah Infinite Powder
+N,7E23490F+7E234A27,50 Columbus Infinite Food
+N,7E234D0F+7E234E27,50 Columbus Infinite Money
+N,7E234B0F+7E234C27,50 Columbus Infinite Powder
+N,7E23570F+7E235827,51 St. Augustine Infinite Food
+N,7E235B0F+7E235C27,51 St. Augustine Infinite Money
+N,7E23590F+7E235A27,51 St. Augustine Infinite Powder
+N,7E23650F+7E236627,52 Apalachee Infinite Food
+N,7E23690F+7E236A27,52 Apalachee Infinite Money
+N,7E23670F+7E236827,52 Apalachee Infinite Powder
+N,7E23730F+7E237427,53 Mobile Infinite Food
+N,7E23770F+7E237827,53 Mobile Infinite Money
+N,7E23750F+7E237627,53 Mobile Infinite Powder
+N,7E462F09,Attacking Unit #1 Infinite Movement
+N,7E463E09,Attacking Unit #2 Infinite Movement
+N,7E464D09,Attacking Unit #3 Infinite Movement
+N,7E465C09,Attacking Unit #4 Infinite Movement
+N,7E466B09,Attacking Unit #5 Infinite Movement
+N,7E467A09,Attacking Unit #6 Infinite Movement
+N,7E468909,Attacking Unit #7 Infinite Movement
+N,7E469809,Attacking Unit #8 Infinite Movement
+N,7E200A40,Fast Passage of Time
+N,7E40B7FF+7E40B8FF,Infinite Budget Money

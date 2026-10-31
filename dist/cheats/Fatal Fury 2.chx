@@ -1,3 +1,23 @@
-N,7E100300,unlimited special
-N,7E100560,lifebar
-N,7E0F0001,code
+N,EED5-EFCB,Bogus Jump (P1)
+N,C250-7FA7,Computer Can't Win a Round (Except Last Round)
+N,ADF9-7464+6DF9-74A4+F4F9-77D4+43F9-7764+40FB-7464,Hit Anywhere P1
+N,6D7D-54AD,Infinite Energy (P1)
+N,7E10056F,Infinite Health P1
+N,DD7E-7FDD,Infinite Time
+N,7E008799,Infinite Timer
+N,7E120500,No Health P2
+N,DB85-E46F+CB85-E40F+DD85-E4AF,P1 Is Axel Hawk
+N,CB85-E40F+D685-E46F+DD85-E4AF,P1 Is Billy Kane
+N,CB85-E40F+DD85-E4AF+DC85-E46F,P1 Is Lawrence B
+N,D885-E46F+CB85-E40F+DD85-E4AF,P1 Is Wolfgang Krauser
+N,DB82-E46F+CB82-E40F+DD82-E4AF,P2 Is Axel Hawk
+N,CB82-E40F+D682-E46F+DD82-E4AF,P2 Is Billy Kane
+N,DC82-E46F+CB82-E40F+DD82-E4AF,P2 Is Lawrence B
+N,D882-E46F+CB82-E40F+DD82-E4AF,P2 Is Wolfgang Krauser
+N,C2DD-EDDF,Skip Intro Screens
+N,7D78-770D,Start with 1/2 Energy
+N,FDD5-EFCB,Super Jump (P1)
+N,10A0-84D4,Time Is 00 for Bonus Stages
+N,D47E-7FDD,Timer Is 2x Fast
+N,D77E-7FDD,Timer Is 3x Fast
+N,7E100002,Win One Round to Win the Match P1

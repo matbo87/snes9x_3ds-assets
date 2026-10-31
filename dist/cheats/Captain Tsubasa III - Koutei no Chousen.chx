@@ -1,33 +1,26 @@
-N,7E3542E7,Infinite Energy 11
-N,7E354303,Infinite Energy 11
-N,7E3522E7,Infinite Energy 10
-N,7E352303,Infinite Energy 10
-N,7E3502E7,Infinite Energy 9
-N,7E350303,Infinite Energy 9
-N,7E34E2E7,Infinite Energy 8
-N,7E34E303,Infinite Energy 8
-N,7E34C2E7,Infinite Energy 7
-N,7E34C303,Infinite Energy 7
-N,7E34A2E7,Infinite Energy 6
-N,7E34A303,Infinite Energy 6
-N,7E3482E7,Infinite Energy 5
-N,7E348303,Infinite Energy 5
-N,7E3462E7,Infinite Energy 4
-N,7E346303,Infinite Energy 4
-N,7E3442E7,Infinite Energy 3
-N,7E344303,Infinite Energy 3
-N,7E3422E7,Infinite Energy 2
-N,7E342303,Infinite Energy 2
-N,7E3402E7,Infinite Energy Gk
-N,7E340303,Infinite Energy Gk
-N,7E354563,Super Level 11
-N,7E352563,Super Level 10
-N,7E350563,Super Level 9
-N,7E34E563,Super Level 8
-N,7E34C563,Super Level 7
-N,7E34A563,Super Level 6
-N,7E348563,Super Level 5
-N,7E346563,Super Level 4
-N,7E344563,Super Level 3
+N,7E3402B0+7E340304,Infinite Energy for [1]
+N,7E3422B0+7E342304,Infinite Energy for [2]
+N,7E3442B0+7E344304,Infinite Energy for [3]
+N,7E3462B0+7E346304,Infinite Energy for [4]
+N,7E3482B0+7E348304,Infinite Energy for [5]
+N,7E34A2B0+7E34A304,Infinite Energy for [6]
+N,7E34C2B0+7E34C304,Infinite Energy for [7]
+N,7E34E2B0+7E34E304,Infinite Energy for [8]
+N,7E3502B0+7E350304,Infinite Energy for [9]
+N,7E3522B0+7E352304,Infinite Energy for [10]
+N,7E3542B0+7E354304,Infinite Energy for [11]
+N,7E047800,Instant Game Time Finish
+N,4D3A-676B+AD3A-67AB+EB32-6DDB+CBEA-0DDC+17EA-0D0C+62EA-0D6C+D2EA-0DAC+D0EA-0FDC+1DEA-0F0C,Max Score (Player)
+N,7E040E00,Opponent Score Always 0
+N,7E040D63,Player Team Score Always 99
 N,7E342563,Super Level 2
+N,7E344563,Super Level 3
+N,7E346563,Super Level 4
+N,7E348563,Super Level 5
+N,7E34A563,Super Level 6
+N,7E34C563,Super Level 7
+N,7E34E563,Super Level 8
+N,7E350563,Super Level 9
+N,7E352563,Super Level 10
+N,7E354563,Super Level 11
 N,7E340563,Super Level Gk

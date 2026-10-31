@@ -1,51 +1,53 @@
-N,7E0BC01C,Infinite Health
-N,7E004E63,Money
-N,7EE9D7FF,Greenhouse Key
-N,7EE9D8FF,Green Key
-N,7EE9D9FF,Skull Key
-N,7EE9DAFF,Stone Twig Key
-N,7EE9DBFF,Jewelled Key
-N,7EE9DCFF,Stone Key
-N,7EE9DDFF,Spider Key
-N,7EE9DEFF,Iron Key
-N,7EE9DFFF,Dragon Belch Cookies (1/2)
-N,7EE9E3FF,Dragon Belch Cookies (2/2)
-N,7EE9E0FF,Black Beetle Cookies (1/2)
-N,7EE9E4FF,Black Beetle Cookies (2/2)
-N,7EE9E1FF,Crusty Cookies (1/2)
-N,7EE9E5FF,Crusty Cookies (2/2)
-N,7EE9E2FF,Crumble Cookies (1/2)
-N,7EE9E6FF,Crumble Cookies (2/2)
-N,7EE9E7FF,Red Potion
-N,7EE9E8FF,Portal Potion
-N,7EE9E9FF,Slimming Potion
-N,7EE9EAFF,Plant Food
-N,7EE9EFFF,Clyde's Cookie Compendium
+N,7E108710,1 Hit and Invincibility
+N,7EE9FCFF,Amulet of True Sight
 N,7EE9F0FF,Big Book of Bisquits
-N,7EE9F1FF,Max's Munch Manual
-N,7EE9F2FF,Journal
-N,7EE9F3FF,Pumpkin
-N,7EE9F4FF,Headless Teddy
-N,7EE9F5FF,Sack Of Gold
-N,7EE9F6FF,Candle
-N,7EE9F7FF,Bone Spoon
-N,7EE9F8FF,Skull Rattle
-N,7EE9F9FF,Book of Flying
-N,7EE9FAFF,Black Rose
-N,7EE9FBFF,Musical Box
-N,7EE9FCFF,Amulet Of True Sight
-N,7EE9FDFF,Shockwave
-N,7EE9FEFF,Spider's Eye
-N,7EE9FFFF,Magnet
-N,7EEA00FF,Strange Black Cube
-N,7EEA01FF,Stone Button
-N,7EEA02FF,Large Vine
-N,7EEA03FF,Firefly
-N,7EEA04FF,Lurch's Bowling Ball
+N,7EE9E0FF+7EE9E4FF,Black Beetle Cookies
 N,7EEA05FF,Black Egg
+N,7EE9FAFF,Black Rose
+N,7EE9F7FF,Bone Spoon
+N,7EE9F9FF,Book of Flying
+N,7EE9F6FF,Candle
+N,7EE9EFFF,Clyde's Cookie Compendium
+N,7EE9E2FF+7EE9E6FF,Crumble Cookies
+N,7EE9E1FF+7EE9E5FF,Crusty Cookies
+N,7EE9DFFF+7EE9E3FF,Dragon Belch Cookies
+N,406D-3DAD+3364-3FDD+DD64-34AD,Enter Debug Menu During Gameplay by Pressing Start
+N,7EEA03FF,Firefly
 N,7EEA06FF,Gold Coin
-N,FFBD-C767,Invincible From Enemies
-N,3C8F-C40D,Invincible From Everything
-N,FA62-3F0D,New Game With Full Skull Meter
-N,EE6C-320D,New Game With All Items
+N,7EE9D8FF,Green Key
+N,7EE9D7FF,Greenhouse Key
+N,7EE9F4FF,Headless Teddy
+N,DD2C-C7AF,Infinite Blue Marbles
 N,8E2A-1D6D,Infinite Cookies
+N,7E0BC01C,Infinite Health
+N,DD22-CF0F,Infinite Magic Seeds
+N,DD24-3D0F,Infinite Small Rocks
+N,DD2E-C4AF,Infinite Swamp Slime
+N,FFBD-C767,Invincible from Enemies
+N,3C8F-C40D,Invincible from Everything
+N,7EE9DEFF,Iron Key
+N,7EE9DBFF,Jewelled Key
+N,7EE9F2FF,Journal
+N,7EEA02FF,Large Vine
+N,7EEA04FF,Lurch's Bowling Ball
+N,7EE9FFFF,Magnet
+N,7EE9F1FF,Max's Munch Manual
+N,7E004E63,Money
+N,7EE9FBFF,Musical Box
+N,7EE9EAFF,Plant Food
+N,7EE9E8FF,Portal Potion
+N,7EE9F3FF,Pumpkin
+N,7EE9E7FF,Red Potion
+N,7EE9F5FF,Sack of Gold
+N,7EE9FDFF,Shockwave
+N,7EE9D9FF,Skull Key
+N,7EE9F8FF,Skull Rattle
+N,7EE9E9FF,Slimming Potion
+N,7EE9DDFF,Spider Key
+N,7EE9FEFF,Spider's Eye
+N,EE6C-320D,Start a New Game with All Items in Inventory
+N,FA62-3F0D,Start New Game with Full Skull Meter
+N,7EEA01FF,Stone Button
+N,7EE9DCFF,Stone Key
+N,7EE9DAFF,Stone Twig Key
+N,6DB3-34AF,Walk Through Walls

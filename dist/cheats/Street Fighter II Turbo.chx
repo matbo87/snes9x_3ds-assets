@@ -1,5 +1,231 @@
-N,7E18F399,Time
-N,7E0530B0,Life Player 1-1
-N,7E0636B0,Life Player 1-2
-N,7E0730B0,Life Player 2-1
-N,7E0836B0,Life Player 2-2
+N,7E189C01,1 Match to See Easy Ending [Both Players]
+N,7E189B01+7E189C01,1 Match to See Ending (Both Players)
+N,7E189C1E,1 Match to See Hard Ending [Both Players]
+N,4DAE-1DDD,1st Bonus Round Is 20 Seconds
+N,1DAE-1DDD,1st Bonus Round Is 60 Seconds
+N,6DAE-1DDD,1st Bonus Round Is 80 Seconds
+N,BBAE-1DDD,1st Bonus Round Is 99 Seconds Instead of 40
+N,DD38-570D,1st Hit of Any Kind Defeats Opponent
+N,DD18-570D,1st Hit of Any Kind Defeats Opponent (alt)
+N,F034-7405,1st Throws Do More Damage [If You Have Enough Energy], Others Do Less Damage
+N,4DAE-1D6D,2nd Bonus Round Is 20 Seconds
+N,1DAE-1D6D,2nd Bonus Round Is 60 Seconds
+N,6DAE-1D6D,2nd Bonus Round Is 80 Seconds
+N,BBAE-1D6D,2nd Bonus Round Is 99 Seconds
+N,DFA4-77A7,After Round Says Time, CPU Never Counts Your Score
+N,55B2-77D1,After You Win, You Will Look Like You Were Hit in the Face and Bounce
+N,7E074A18+7E074C18,All P1 Hits/Projectiles Burn
+N,7E054A22+7E054C22,All P1 Hits/Projectiles Burn [Blue]
+N,7E074A1A+7E074C1A,All P1 Hits/Projectiles Shock
+N,7E074A14+7E074C14,All P1 Projectiles Are Normal
+N,7E054A18+7E054C18,All P2 Hits/Projectiles Burn
+N,7E054A1A+7E054C1A,All P2 Hits/Projectiles Shock
+N,7E054A14+7E054C14,All P2 Projectiles Are Normal
+N,ADFC-E40D+F9FC-E46D,Allows You to Select Up to 10 Stars Instead of 4 for Turbo Mode
+N,EEA9-77A7,Almost Perfect No Stats or Energy Code (It Hides in the Background)
+N,EEAC-AFD4,Always Get Double Knockout
+N,C2B9-7705,Another Death Code
+N,55B2-E7A0,Any Hit, Even When Blocked, Knocks You to the Floor
+N,D869-7DD1,Balrog's First Dash Punch Goes Faster
+N,DF69-7DD1,Balrog's First Dash Punch Goes Slower
+N,DC32-CF0D,Balrog's First Turn Punch Goes Faster
+N,D432-CF0D,Balrog's First Turn Punch Goes Slower and a Little Backward
+N,DC3B-14DD,Blanka's Hard Rolling Attack Goes Faster
+N,DF3B-14DD,Blanka's Hard Rolling Attack Goes Slower
+N,DF3C-1D0D,Blanka's Hard Vertical Rolling Attack Doesn't Go as Far
+N,DA3C-1D0D,Blanka's Hard Vertical Rolling Attack Goes Out Farther
+N,DC3B-1FDD,Blanka's Light Rolling Attack Goes Faster
+N,DF3B-1FDD,Blanka's Light Rolling Attack Goes Slower
+N,DF3B-170D,Blanka's Light Vertical Rolling Attack Doesn't Go as Far
+N,DA3B-170D,Blanka's Light Vertical Rolling Attack Goes Out Farther
+N,DC3B-1F6D,Blanka's Medium Rolling Attack Goes Faster
+N,DF3B-1F6D,Blanka's Medium Rolling Attack Goes Slower
+N,DF3B-17AD,Blanka's Medium Vertical Rolling Attack Doesn't Go as Far
+N,DA3B-17AD,Blanka's Medium Vertical Rolling Attack Goes Out Farther
+N,2A25-7D67,Both Players Invisible and Stuck in Their Own Corners (But Can Strike)
+N,48B1-7FD4,Champion Edition CPU vs CPU
+N,0359-87D5,Champion Edition M. Bison's Scissor Kick Charges as Fast as in Super SF2
+N,D26C-EDA1+D26F-7D05+62BE-E7A0,Champion Edition Vega's Throws Do the Same Damage as Most Other Throws
+N,DC38-1F6D,Chun Li's Hard Whirlwind Kick Goes Farther
+N,DF38-1D6D,Chun Li's Light Whirlwind Kick Doesn't Go as Far
+N,DC38-1D6D,Chun Li's Light Whirlwind Kick Goes Farther
+N,DF38-1FDD,Chun Li's Medium Whirlwind Kick Doesn't Go as Far
+N,DC38-1FDD,Chun Li's Medium Whirlwind Kick Goes Farther
+N,55B6-5D61,CPU Does Strange Things on Difficulty 8 (Best FX with Dhalsim)
+N,556C-E7A0,CPU Is Invisible
+N,D25A-57A1,Dhalsim's Throws Do the Same Damage as Most Other Characters' Throws
+N,7E1C8320,Disable Special Moves for Human Players in Game Start Mode
+N,7934-7401,Do Tricks in Midair
+N,DE35-1FAD,E. Honda's Hard Sumo Head Butts Are Faster
+N,DF35-1FAD,E. Honda's Hard Sumo Head Butts Are Slower
+N,F436-1DDD,E. Honda's Hard Sumo Smashes Are Faster
+N,DE35-1DAD,E. Honda's Light Sumo Head Butts Are Faster
+N,DF35-1DAD,E. Honda's Light Sumo Head Butts Are Slower
+N,F435-17DD,E. Honda's Light Sumo Smashes Are Faster
+N,DE35-1F0D,E. Honda's Medium Sumo Head Butts Are Faster
+N,DF35-1F0D,E. Honda's Medium Sumo Head Butts Are Slower
+N,F435-176D,E. Honda's Medium Sumo Smashes Are Faster
+N,DD7E-74A0+D671-E460+D65C-ED00+6D7E-8DA0,Easier Special Moves[See Notes]
+N,DD56-8FD7,Enable (Unofficial) Turbo Champion (Normal) Mode
+N,7E1C8720,Enable Extra Turbo Speeds
+N,7E1C8501,Enable Special Moves Menu in VS Mode
+N,7E1C8732,Enable Ten Star Turbo Mode Option
+N,A1A1-77A7,Energy Meter ALWAYS Goes to the Right When Hit (It's Also Doubled)
+N,EEA4-77A7,Everlasting Winning or Losing Pose
+N,EE21-576D,Faster Turbo Than Sir Dave's Code and There Is More Surprises
+N,C9B8-77A5,Fireballs Go Nowhere
+N,D550-57A1,Fix Incorrect Damage Value (Too High) Assigned to Dhalsim's Yoga Noogie Grab
+N,65C7-E40A+65C7-E70A+6BC0-ED0A+EFC0-EDAA+65C0-EF0A+2DC0-EF6A+EEC0-EFAA,Fix Turbo M. Bison's Light Psycho Crusher Chip Damage
+N,7E052F3F,Freeze P1
+N,7E18F228,Freeze Timer
+N,7E05B301,Get Dizzy from Every Knockdown (P1)
+N,7E07B301,Get Dizzy from Every Knockdown (P2)
+N,4536-D46D,Give Ryu Electric Fireballs (Turn Off When at M.Bison)
+N,A3AE-6D04,Go to VS Mode and Whatever Stage You Go to, You Will Play Against Him!
+N,D039-14AD,Hard Hurricane Kicks Go Faster and Farther [To the Right Only]
+N,3E31-37AD,Hard Projectiles Go Faster [Except Tiger Shots]
+N,EE31-37AD,Hard Projectiles Go Slower [Except Tiger Shots]
+N,D675-8462,Hard Special Moves Become Disabled
+N,DD75-8460,Hard Special Moves Become Light
+N,D475-8461,Hard Special Moves Become Medium
+N,3D98-8704+DD98-8764+D598-87A4+8D9A-8DD4,Hit Anywhere P1
+N,6726-6FD4,Hit Enemy Anywhere!
+N,EE2F-7D67,Hit from Almost Anywhere
+N,7E051701,Hyper Mode P1
+N,7E071701,Hyper Mode P2
+N,7E053063,Infinite Health P1
+N,7E05307F,Infinite Health, P1
+N,DDA5-7F04,Infinite Time
+N,DD05-7F04,Infinite Time (alt)
+N,7E18F399,Infinite Time (1P Mode Only)
+N,6D93-54DF+DF93-540F+CB99-5767+DD99-57A7+DB91-5DD7+4091-5D07+3C91-5DA7,Invincibility
+N,8E62-87A9,Invisible Players
+N,8ED2-87A9,Invisible Players (alt)
+N,D52D-CDAF,Ken Jumps Backward Farther
+N,E52E-14AF,Ken Jumps Forward Farther
+N,DF30-17AD,Ken's Hard Dragon Punch Doesn't Go as Far
+N,D330-17AD,Ken's Hard Dragon Punch Goes Farther
+N,D630-14AD,Ken's Light Dragon Punch Goes Farther
+N,DF30-170D,Ken's Medium Dragon Punch Doesn't Go as Far
+N,D830-170D,Ken's Medium Dragon Punch Goes Farther
+N,3E31-34AD,Light Projectiles Go Faster [Except Tiger Shots]
+N,EE31-34AD,Light Projectiles Go Slower [Except Tiger Shots]
+N,DC39-C40D,M. Bison's Hard Psycho Crusher Goes Faster
+N,DF39-C40D,M. Bison's Hard Psycho Crusher Goes Slower
+N,DC31-CD6D,M. Bison's Hard Scissor Kick Goes Faster [Not in Normal Mode]
+N,DF31-CD6D,M. Bison's Hard Scissor Kick Goes Slower [Not in Normal Mode]
+N,DC39-CF0D,M. Bison's Light Psycho Crusher Goes Faster
+N,DF39-CF0D,M. Bison's Light Psycho Crusher Goes Slower
+N,DC39-C76D,M. Bison's Light Scissor Kick Goes Faster [Not in Normal Mode]
+N,DF39-C76D,M. Bison's Light Scissor Kick Goes Slower [Not in Normal Mode]
+N,DC39-CFAD,M. Bison's Medium Psycho Crusher Goes Faster
+N,DF39-CFAD,M. Bison's Medium Psycho Crusher Goes Slower
+N,DC31-CDDD,M. Bison's Medium Scissor Kick Goes Faster [Not in Normal Mode]
+N,DF31-CDDD,M. Bison's Medium Scissor Kick Goes Slower [Not in Normal Mode]
+N,7E06E599+7E06E499+7E06E399+7E06E299,Max Bonus Score
+N,7E06C299+7E06C399+7E06C499+7E06C599,Max Score P1
+N,7E08C299+7E08C399+7E08C499+7E08C599,Max Score P2
+N,7E1C8800,Max Turbo
+N,3E31-370D,Medium Projectiles Go Faster [Except Tiger Shots]
+N,EE31-370D,Medium Projectiles Go Slower [Except Tiger Shots]
+N,891F-84AD,Most Attacks Do No Damage [Throws Still Work]
+N,C933-7DA9,Most Special Moves Go Nowhere
+N,D071-E460,No Charging Required for Special Moves [Except Balrog's Turn Punch Power]
+N,7E052401,No Delay When Ryu/Ken/Dhalsim Use a Fireball (P1)
+N,7E072401,No Delay When Ryu/Ken/Dhalsim Use a Fireball (P2)
+N,7E073000,No Health P2
+N,7E00BF13,No HUD/
+N,7E00BF10,No HUD/BG Sprites
+N,7E00BF11,No HUD/Certain BG Sprites
+N,7E0594FF,No Push Back or Delay When Hit (P1)
+N,7E0794FF,No Push Back or Delay When Hit (P2)
+N,7E058D1E,Once Dizzy, Always Dizzy (P1)
+N,7E078D1E,Once Dizzy, Always Dizzy (P2)
+N,FF62-84D9,Only Player on Right Is Visible
+N,CDA7-6F04,P1 Can Influence P2 Moves!
+N,7E05EA00,P1 Can Perform Special Moves in Midair
+N,7E058C01,P1 Can Wall Jump in Midair
+N,7E063816,P1 Can't Be Hit [Can Still Be Grabbed]
+N,DD91-576D,P1 Has Turbofire (Just Like a Turbo Controller)
+N,7E0530B0+7E052FB0,P1 Infinite Health
+N,CB9D-776D+8D9D-77AD+629F-7DDD+7D9F-7D0D+D99F-7D6D,P1 Infinite HP
+N,CB9F-74DD+8D9F-740D+629F-746D+7D9F-74AD+D99F-77DD,P1 Infinite HP [Rev 1]
+N,7E05B300,P1 Never Dizzies
+N,7E053000+7E052F00,P1 No Health
+N,7E073A00+7E073B00+7E073C00,P1 Throws Disabled
+N,B9D5-54A1+6208-EDA7+7508-EFD7+D108-EF07+6D12-57DD,P1 Untouchable
+N,7E05A800,P1 Vega Never Loses His Claw
+N,7E07EA00,P2 Can Perform Special Moves in Midair
+N,7E078C01,P2 Can Wall Jump in Midair
+N,7E083816,P2 Can't Be Hit [Can Still Be Grabbed]
+N,7E0730B0+7E072FB0,P2 Infinite Health
+N,CAB1-7564,P2 Is There (As If You Had Pressed Start on Controller 2)
+N,7E07B300,P2 Never Dizzies
+N,7E073000+7E072F00,P2 No Health
+N,7E1F3D0A,P2 Press B for Skills Menu [VS Stage Select]
+N,7E053A00+7E053B00+7E053C00,P2 Throws Disabled
+N,7E07A800,P2 Vega Never Loses His Claw
+N,7E05FEA0+7E05FEA0+7E18FF39,Perform Special Moves in Midair
+N,9480-AD64,Play 23 Rounds Against 1 World Warrior
+N,DD3F-EFAD,Players Can Walk Through Each Other
+N,D526-1DAF,Ryu Jumps Backward Farther
+N,E525-14AF,Ryu Jumps Forward Farther
+N,6D94-84D9,Ryu's Dragon Punch Goes as Far as Ken's Dragon Punch
+N,DF30-1DAD,Ryu's Hard Dragon Punch Doesn't Go as Far
+N,D630-1DAD,Ryu's Hard Dragon Punch Goes Farther
+N,D637-17AD,Ryu's Light Dragon Punch Goes Farther
+N,DF30-1D0D,Ryu's Medium Dragon Punch Doesn't Go as Far
+N,D630-1D0D,Ryu's Medium Dragon Punch Goes Farther
+N,D838-CF0D,Sagat's Hard Tiger Knee Goes Farther
+N,D838-CFAD,Sagat's Hard Tiger Knee Goes Left
+N,D63B-C70D,Sagat's Hard Tiger Uppercut Goes Farther
+N,D439-340D,Sagat's High Tiger Shots Fire No Projectile
+N,D83C-CF0D,Sagat's Light Tiger Knee Goes Farther
+N,D63B-C40D,Sagat's Light Tiger Uppercut Goes Farther
+N,D439-34AD,Sagat's Low Tiger Shots Are Disabled
+N,D83C-C70D,Sagat's Medium Tiger Knee Goes Farther
+N,D63B-C4AD,Sagat's Medium Tiger Uppercut Goes Farther
+N,0C68-5409+3F68-5469,Sagat's Tiger Uppercut Goes as Far as Ken's Dragon Punch
+N,7E184820,Select Same Fighter [Both Players]
+N,C2D4-8FAF+DDD7-E70F+DDFF-8F0D+C2D0-8DDF+C2D0-846F,Skip Intro Screens
+N,6D02-540D,Skip VS Screen
+N,DDF1-7D60,Some Special Moves Can Be Performed in the Air [Don't Do Vega's Wall Leap]
+N,9691-E76D,Start with 1/2 Energy
+N,9621-E76D,Start with 1/2 Energy (alt)
+N,4A91-E76D,Start with 1/4 Energy
+N,4A21-E76D,Start with 1/4 Energy (alt)
+N,6091-E76D,Start with 3/4 Energy
+N,6021-E76D,Start with 3/4 Energy (alt)
+N,FDA3-176D,Start with 10 Seconds
+N,7DA3-176D,Start with 30 Seconds
+N,9DA3-176D,Start with 50 Seconds
+N,5DA3-176D,Start with 70 Seconds
+N,BDA3-176D,Start with 90 Seconds Instead of 99
+N,C734-7405,Throws Do No Damage
+N,3BA2-8F6F,Timer Code #1
+N,63A0-7FD4,Timer Doesn't Countdown
+N,D330-1DAD,Try a Fierce Dragon with Ryu
+N,DDF1-7D60+D071-E460+C734-7405,Turbo Code
+N,77B1-7FD4,Turbo Edition CPU vs CPU
+N,BB15-84D9,Turbo Guile's Flash Kick Recovers as Fast as Champion Edition Guile's Flash Kick
+N,DD54-EF05,Turbo M. Bison Has Champion Edition M. Bison's (Better) Psycho Crusher
+N,DD52-E7D5,Turbo M. Bison Has Champion Edition M. Bison's Faster/farther Scissor Kick Speed
+N,9259-8F05,Turbo M. Bison's Scissor Kick Charges as Fast as in Champion Edition
+N,0359-8F05,Turbo M. Bison's Scissor Kick Charges as Fast as in Super SF2
+N,DD5A-E465,Turbo M. Bison's Scissor Kick Starts and Recovers as Fast as in Champion Edition
+N,7A69-7F65,Turbo Vega's Rolling Crystal Flash Charges as Fast as in Champion Edition
+N,0169-7F65,Turbo Vega's Rolling Crystal Flash Charges as Fast as in Super SF2
+N,D26C-E461+D26F-7FA5+62BD-7F69,Turbo Vega's Throws Do the Same Damage as Most Other Characters' Throws
+N,6D6A-5705,Vega Goes to an Imaginary Cage Before Diving When Not on His Stage
+N,DD6A-5765,Vega Goes to the Wall Instead of the Cage Before Diving on His Stage
+N,C9F4-EDD1,Vega Never Loses His Claw
+N,DAFF-E701,Vega's Claw Takes 4 More Hits Before Falling Off
+N,D769-54A5+0D69-5465,Vega's Rolling Crystal Flash Is Slightly Faster/farther
+N,DFB2-7761,When You Win, You Imitate Him!
+N,10B2-7761,When You Win, You Look Away in Disgust
+N,7E18F8F0,Win One Round and Go Straight to M Bison
+N,DFA4-5DAF,Winner of 2nd Round Wins the Battle
+N,DF04-5DAF,Winner of 2nd Round Wins the Battle (alt)
+N,DDB9-776E,Yet Another Death Code
+N,4CBB-E460,You Make Special Move Sounds When You Do Some Normal Attacks
+N,D25E-7760+D251-5DD0,Zangief's Deadly Driver and Leg Throws Do the Same Damage as Most Other Throws

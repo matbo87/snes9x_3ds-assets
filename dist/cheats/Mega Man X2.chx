@@ -1,3 +1,156 @@
-N,7E0A6702,2nd Xbuster Shot
-N,7E09FFFF,Megaman Health
-N,7E1FB309,Lives
+N,7E0A5706,1 Button Shoryuken
+N,FDE0-01F0,Agile (X-Hunter Base Stage 3) Starts with 1/2 Energy
+N,D6E0-01F0,Agile (X-Hunter Base Stage 3) Starts with 1/4 Energy
+N,0DE0-01F0,Agile (X-Hunter Base Stage 3) Starts with 2x Energy
+N,F6E0-01F0,Agile (X-Hunter Base Stage 3) Starts with 3/4 Energy
+N,FD80-6497,Agile, Serges & Violen Start with 1/2 Energy
+N,D680-6497,Agile, Serges & Violen Start with 1/4 Energy
+N,0D80-6497,Agile, Serges & Violen Start with 2x Energy
+N,F680-6497,Agile, Serges & Violen Start with 3/4 Energy
+N,7E0DBF01+7E0D3F01+7E0DFF01+7E0D7F01,All Bosses and Most Enemies Die with One Shot
+N,F02F-6469,Big Energy Pellets Fill Your Energy Bar to Full After Pick-Up
+N,FDA1-6F2A,Bubble Crab Starts with 1/2 Energy
+N,D6A1-6F2A,Bubble Crab Starts with 1/4 Energy
+N,0DA1-6F2A,Bubble Crab Starts with 2x Energy
+N,F6A1-6F2A,Bubble Crab Starts with 3/4 Energy
+N,7E1FBD5C,Bubble S.
+N,7E1FBDFF,Bubble S. (alt)
+N,D084-DDC7,Burst Fire
+N,DDAC-074F,Can Do Dragon Punch Anytime; Even in Midair and Multiple Times
+N,7E0A5500,Can Fire More Charged Shots
+N,7E0A0D00,Can Fire More Weak Shots
+N,D9E3-6F0D,Continue a Password Game with 5 Lives
+N,DBE3-6F0D,Continue a Password Game with 9 Lives
+N,D9B9-07D7,Continue with 5 Lives
+N,DBB9-07D7,Continue with 9 Lives
+N,7E0A3006,Continuously Fire a Charged Shot
+N,7E0A3004,Continuously Fire a Half-Charged Shot
+N,7E1FBB5C,Crystal H.
+N,7E1FBBFF,Crystal H. (alt)
+N,FD84-0D92,Crystal Snail Starts with 1/2 Energy
+N,D684-0D92,Crystal Snail Starts with 1/4 Energy
+N,0D84-0D92,Crystal Snail Starts with 2x Energy
+N,F684-0D92,Crystal Snail Starts with 3/4 Energy
+N,9EB3-D714,Dash Longer
+N,CB3D-DFCD+DF3D-DF3D,Enemies Always Drop Items
+N,6D2D-AF14,Enemies/Enemy Armor Killed with 1 Hit
+N,C228-07A9+C22A-07D9,Energy Capsules Don't Refill Sub T
+N,CEB3-D714,Fall Slowly
+N,7E09EB01,Fast Animations
+N,7E1FAE00,Final Base Level
+N,FDA9-DFBD,Flame Stag Starts with 1/2 Energy
+N,D6A9-DFBD,Flame Stag Starts with 1/4 Energy
+N,0DA9-DFBD,Flame Stag Starts with 2x Energy
+N,F6A9-DFBD,Flame Stag Starts with 3/4 Energy
+N,7E1FCBFF,G. Crush
+N,CBAE-DFDF+EEAE-DF0F+62AE-DF6F,Get All Equipment When You Enter the Start Menu
+N,7E1FD04F,Have All Armor Upgrades
+N,7E1FD0FF,Have All Equipment
+N,7E1FD120,Have Max Life Containers
+N,7E1FD000,Have No Armor Upgrades
+N,7E1FB180,Have Shouryuken
+N,7E1FB6FF,Have Sub-Tank 1, Full
+N,7E1FB7FF,Have Sub-Tank 2, Full
+N,7E1FB8FF,Have Sub-Tank 3, Full
+N,7E1FB9FF,Have Sub-Tank 4, Full
+N,7E1FD780,Have Zero's Head
+N,7E1FD680+7E1FD780+7E1FD880,Have Zero's Head, Body, and Legs
+N,7E1FD680,Have Zero's Legs
+N,4028-A73F+C222-6734+D4E7-DDFB,Hit Anywhere
+N,7E1FCDFF,I. Tracker
+N,7E1FB309,Infinite 9 Lives
+N,7E0A3478,Infinite Air Dash
+N,7E0A3501,Infinite Air Dashing
+N,7E0A2A16,Infinite Dash
+N,7E0A2A18,Infinite Dash (alt)
+N,7E0D121E,Infinite Flying for Ride Armor
+N,7E1FCB5C,Infinite G.Crush
+N,7E09FF20,Infinite Health
+N,7E09FFFF,Infinite Health (alt)
+N,C2BC-07A4,Infinite Lives
+N,828A-DFC4+828E-D414,Infinite Special Weapons (Even Without Power-Ups)
+N,828A-DFC4,Infinite Special Weapons (Without Power-Ups Only)
+N,C2AE-6D6D,Infinite Sub T
+N,D6B0-DD4F,Invincibility
+N,6D20-074F,Invincibility Against Spikes
+N,40BE-DD44+26BE-D4C4+8BBE-D434,Jump in Midair
+N,7E0D3F01,Kill Boss 1 Hit 1
+N,7E0DBF01,Kill Boss 1 Hit 2
+N,7E0D7F01,Kill Boss 1 Hit 3
+N,7E1FCD5C,L. Tracer
+N,D185-DD17,Level 1 Charge Fires 2nd Level 3 Shot
+N,D685-DD17,Level 1 Charge Fires Level 2 Shot
+N,D18C-DD37,Level 2 Charge Fires 2nd Level 3 Shot
+N,D48C-DD37,Level 2 Charge Fires Level 1 Shot
+N,9CB4-6744,Longer Invincibility After Being Hit
+N,FDC5-DF97,Magna Centipede Starts with 1/2 Energy
+N,D6C5-DF97,Magna Centipede Starts with 1/4 Energy
+N,0DC5-DF97,Magna Centipede Starts with 2x Energy
+N,F6C5-DF97,Magna Centipede Starts with 3/4 Energy
+N,7E1FAE04,Magna Centipede's Stage Is the Final Stage
+N,7E1FC75C,Magnet M.
+N,7E1FC7FF,Magnet M. (alt)
+N,7E1FD124,Maxed Health Bar
+N,DBC5-6DB8,Mega Jump
+N,FDC6-AF63,Morph Moth Starts with 1/2 Energy
+N,0DC6-AF63,Morph Moth Starts with 2x Energy
+N,F6C6-AF63,Morph Moth Starts with 3/4 Energy
+N,C28D-DF09,Moving Walls Don't Move
+N,BA23-0FC4,No Damage from Enemies
+N,FD3D-0434,Overdrive Ostrich Starts with 1/2 Energy
+N,D63D-0434,Overdrive Ostrich Starts with 1/4 Energy
+N,0D3D-0434,Overdrive Ostrich Starts with 2x Energy
+N,F63D-0434,Overdrive Ostrich Starts with 3/4 Energy
+N,7E1FC9FF,S. Burner
+N,7E1FC5FF,S. Chain
+N,7E1FC3FF,S. Slicer
+N,7E1FC1FF,S. Wheel
+N,7E1FC95C,S.Burner
+N,7E1FC55C,S.Chain
+N,7E1FC35C,S.Slicer
+N,7E1FC15C,S.Wheel
+N,FDA0-07A8,Serges (X-Hunter Base Stage 2) Starts with 1/2 Energy
+N,D6A0-07A8,Serges (X-Hunter Base Stage 2) Starts with 1/4 Energy
+N,0DA0-07A8,Serges (X-Hunter Base Stage 2) Starts with 2x Energy
+N,F6A0-07A8,Serges (X-Hunter Base Stage 2) Starts with 3/4 Energy
+N,7E0A6702,Shoot Super Shots
+N,FD36-0836,Sigma Starts with 1/2 Energy
+N,D636-0836,Sigma Starts with 1/4 Energy
+N,0D36-0836,Sigma Starts with 2x Energy
+N,F636-0836,Sigma Starts with 3/4 Energy
+N,4D27-0C36,Sigma Virus Starts with 1/2 Energy
+N,FD27-0C36,Sigma Virus Starts with 1/4 Energy
+N,7D27-0C36,Sigma Virus Starts with 3/4 Energy
+N,7E1FBF5C,Silk S.
+N,7E1FBFFF,Silk S. (alt)
+N,F028-D7A1,Small Energy Pellets Fill Your Energy Bar to Full After Pick-Up
+N,CBB6-6DDF+63B6-6D0F+DDB6-6D6F+62B6-6DAF+81B6-6FDF,Start with 1 Energy Tank
+N,D327-6DDF+0327-6FDF+D327-640F+D326-646F,Start with 1/2 Weapon Energy & 1/2 Max Weapon Energy
+N,D527-6DDF+0527-6FDF+D527-640F+D526-646F,Start with 1/4 Weapon Energy & 1/4 Max Weapon Energy
+N,F927-6DDF+9927-6FDF+F927-640F+F926-646F,Start with 3/4 Weapon Energy & 3/4 Max Weapon Energy
+N,D9B1-640F,Start with 5 Lives
+N,DBB1-640F,Start with 9 Lives
+N,63B2-640F,Start with All Equipment
+N,F0B1-676F,Start with Max Health Bar
+N,6528-0DA9,Sub T Refills Only to 1/2
+N,6028-0DA9,Sub T Refills Only to 1/4
+N,6C28-0DA9,Sub T Refills Only to 3/4
+N,D5C5-6DB8,Super Jump
+N,6D2E-A744,Survive Spikes
+N,3B23-0FC4+D423-0F34+3C23-0444,Take Less Damage
+N,3B23-0FC4+DF23-0F34+3C23-0444,Take Much Less Damage
+N,D8C5-6DB8,Ultra Mega Jump
+N,7E0A0808,Untouchable
+N,7DA1-A434+C9AA-6D47,Walk Through Walls
+N,FD88-ADD2,Wheel Gator Starts with 1/2 Energy
+N,D688-ADD2,Wheel Gator Starts with 1/4 Energy
+N,0D88-ADD2,Wheel Gator Starts with 2x Energy
+N,F688-ADD2,Wheel Gator Starts with 3/4 Energy
+N,FDB9-DFF7,Wire Sponge Starts with 1/2 Energy
+N,D6B9-DFF7,Wire Sponge Starts with 1/4 Energy
+N,0DB9-DFF7,Wire Sponge Starts with 2x Energy
+N,F6B9-DFF7,Wire Sponge Starts with 3/4 Energy
+N,FD88-D835,Zero Starts with 1/2 Energy
+N,D688-D835,Zero Starts with 1/4 Energy
+N,0D88-D835,Zero Starts with 2x Energy
+N,F688-D835,Zero Starts with 3/4 Energy

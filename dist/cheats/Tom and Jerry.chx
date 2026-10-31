@@ -1,4 +1,13 @@
-N,7E157A63,Unlimited Time
-N,7E155E63,Unlimited Ammo
-N,7E124204,Invincibility
-N,7E14FC09,Unlimited Lives
+N,7E155863+7E155C63,99 Cheese Bits
+N,7E155E63,Infinite Ammo
+N,7E124204,Infinite Hearts
+N,7E14FC09,Infinite Lives
+N,7E157A63,Infinite Time
+N,7E14C833,Invincibility
+N,BA36-1DD5,Jump as High as You Want
+N,DF31-14D5,Jump to Fall Down Current Standing Platform
+N,7E0D7F00,Rise into the Sky
+N,7E0CCBFF+7E0CCAFE,Rise into the Sky (alt)
+N,DD35-1765,Slow Descent
+N,3336-1405,Ultra Jump
+N,5B36-1405+DD35-1765,Ultra Jump with Slow Descent

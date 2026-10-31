@@ -1,13 +1,140 @@
-N,6D38-6F61,Skip Normal Enemy Battles
-N,CB62-0FD8,One Hit Kills
-N,00C0194E,198 Cures After One Is Used
-N,00C019BE,Infinite Cure Potions
-N,00C019FE,Use A Cure, Get A Cure
-N,00C02900,Cure Potion Restores Life Fully
-N,0285AB3C,Infinite MP
-N,02904FA5,Infinite Bombs (In Battle)
-N,0290BBA5,Infinite Ninja Stars
+N,6D63-04A8,1-Action Battles
+N,B36A-04AC+6D6A-076C,1-Round Battlefields
+N,7E0E9F63,99 Items in Row 1 Slot 1 [Usually Cure Potions]
+N,7E0EA163,99 Items in Row 1 Slot 2 [Usually Heal Potions]
+N,7E0EA363,99 Items in Row 1 Slot 3 [Usually Seeds]
+N,03AF-D40D,198 Cures After One Is Used
+N,7E10140F+7E101527,9999 HP
+N,7E10160F+7E101727,9999 Max HP
+N,7E10960F+7E109727,9999 Max HP (alt)
+N,7E1032FF+7E1033FF,All Weapons
+N,7E369900,Amount Added to Attack
+N,7E369A00,Amount Added to Defense
+N,7E369D00,Amount Added to Evade
+N,7E369C00,Amount Added to Magic
+N,7E369B00,Amount Added to Speed
+N,EE23-D464,Attack Multiple Enemies
+N,C1B9-D7A6,Bombs Are More Powerful
+N,C0B9-D7A6,Bombs Take Off More HP Than What It Shows
+N,EE2E-D464,Can't Attack During Battle
+N,EE26-DD0F,Change Your Character Name
+N,0285-DDDD+0B3C-D190,Cool Attacks
+N,7A6D-04AB,Cool Attacks (alt)
+N,DDA4-D40D,Cure Potion Restores Life Points to Max
+N,EDA4-DF0D,Cure Potions Are Bombs
+N,7E112180,Enemy 1 Gone
+N,7E11A180,Enemy 2 Gone
+N,7E122180,Enemy 3 Gone
+N,00C0-DDDD+29A0-D190,Every Cure Potion Restores Health to Max
+N,7E0EA7FF,Get the Sand, River, Fire and Sky Coins
+N,7E0E847F+7E0E8596+7E0E8698,Gives You 9,999,999 GP
+N,7E0EA5FF+7E0EA6FF,Gives You the Second and Third Row of Items in Your Items Menu
+N,7E10940F+7E109527,Have 99 Usable Weapons [Regardless of Type]
+N,7E1035FF+7E1036FF+7E1037FF,Have All Armor
+N,7E1038FF,Have All Black&White Magic
+N,7E10B8FF,Have All Black&White Magic (alt)
+N,7E36A0FF,Have All Elemental Defenses
+N,7E36A1FF,Have All Special Defenses
+N,7E1038FF+7E1039FF,Have All Spells
+N,7E1039FF,Have All Wizard Magic
+N,7E10B9FF,Have All Wizard Magic (alt)
+N,7E103123,Have Axe Level 1
+N,7E103124,Have Axe Level 2
+N,7E103125,Have Axe Level 3
+N,7E103129,Have Bombs Level 1
+N,7E10312A,Have Bombs Level 2
+N,7E10312B,Have Bombs Level 3
+N,7E10312D,Have Bow & Arrows
+N,7E103126,Have Claw Level 1
+N,7E103127,Have Claw Level 2
+N,7E103128,Have Claw Level 3
+N,7E10B062,Have Infinite Weapon
+N,7E10117F+7E101296+7E101398,Have Max Experience
+N,7E101029,Have Max Level
+N,7E104D7F,Have Max Permanant Defense
+N,7E10CD7F,Have Max Permanant Defense (alt)
+N,7E104F7F,Have Max Permanant Magic
+N,7E10CF7F,Have Max Permanant Magic (alt)
+N,7E104E7F,Have Max Permanant Speed
+N,7E10CE7F,Have Max Permanant Speed (alt)
+N,7E104C7F,Have Max Permanant Strength
+N,7E10CC7F,Have Max Permanant Strength (alt)
+N,7E10312C,Have Morning Star
+N,7E0EA6FE+7E0EA77F,Have Most Items
+N,7E103120,Have Sword Level 1
+N,7E103121,Have Sword Level 2
+N,7E103122,Have Sword Level 3
+N,7E10312E,Have Throwing Stars
+N,7E0E9E10+7E0E9F62,Infinite 98 Cure Potions
+N,7E0EA010+7E0EA162,Infinite 98 Heal Potions
+N,7E0EA410+7E0EA562,Infinite 98 Refreshers
+N,7E0EA210+7E0EA362,Infinite 98 Seeds
+N,7E101963,Infinite 99 Black MP
+N,7E109963,Infinite 99 Black MP (alt)
+N,7E0E9E10+7E0E9F63,Infinite 99 Cure Potions
+N,7E0EA010+7E0EA163,Infinite 99 Heal Potions
+N,7E0EA410+7E0EA563,Infinite 99 Refreshers
+N,7E0EA210+7E0EA363,Infinite 99 Seeds
+N,7E101863,Infinite 99 White MP
+N,7E109863,Infinite 99 White MP (alt)
+N,7E101A63,Infinite 99 Wizard MP
+N,7E109A63,Infinite 99 Wizard MP (alt)
+N,7E103063,Infinite Bombs
+N,C9B0-D7A6,Infinite Bombs [Only in Battle]
+N,83AF-D40D,Infinite Cure Potions
+N,7E0E8697,Infinite High GP
+N,7A6C-04AB,Infinite HP
+N,7E1094FF+7E1095FF+7E1096FF+7E1097FF,Infinite HP Partner
+N,C96B-64AB,Infinite MP
+N,C9B8-D4A6,Infinite Ninja Stars
+N,7E0EA413,Infinite Refreshers [If You Don't Have Any]
 N,7E1948FF,Jump Through Walls
-N,7E1011FF,Fast Exp Gain (1/3)
-N,7E1012FF,Fast Exp Gain (2/3)
-N,7E1013FF,Fast Exp Gain (3/3)
+N,7E04FB00,Level
+N,AA22-D40D,Level Up After Battle Black Out
+N,7E101C63,Max Black MP 99
+N,7E109C63,Max Black MP 99 (alt)
+N,7E101B63,Max White MP 99
+N,7E109B63,Max White MP 99 (alt)
+N,7E101D63,Max Wizard MP 99
+N,7E109D63,Max Wizard MP 99 (alt)
+N,EEA4-D407,Never Die
+N,CB62-0FD8,One Hit Kills
+N,7E1035FF+7E1036FF,P.1 All Armor
+N,7E1037FF,P.1 Cupid Locket
+N,7E369A79,P.1 MAX. Perm. Defense
+N,7E369D7F,P.1 MAX. Perm. Evade
+N,7E369C76,P.1 MAX. Perm. Magic
+N,7E369B7B,P.1 MAX. Perm. Speed
+N,7E36997F,P.1 MAX. Permanent Attack
+N,7E10B123,Partner Has Axe Level 1
+N,7E10B124,Partner Has Axe Level 2
+N,7E10B125,Partner Has Axe Level 3
+N,7E10B129,Partner Has Bombs Level 1
+N,7E10B12A,Partner Has Bombs Level 2
+N,7E10B12B,Partner Has Bombs Level 3
+N,7E10B12D,Partner Has Bow & Arrows
+N,7E10B126,Partner Has Claw Level 1
+N,7E10B127,Partner Has Claw Level 2
+N,7E10B128,Partner Has Claw Level 3
+N,7E10B12C,Partner Has Morning Star
+N,7E10B120,Partner Has Sword Level 1
+N,7E10B121,Partner Has Sword Level 2
+N,7E10B122,Partner Has Sword Level 3
+N,7E10B12E,Partner Has Throwing Star
+N,7E101508,Protagonist Always Has Around 2000 HP
+N,7E1011FF+7E1012FF+7E1013FF,Quck EXP Gain
+N,6D2A-DD8D,Quick Level Gain
+N,7E10B063,Second Always Has 99 of Numbered Weapons (Typically Throwing Stars or Arrows)
+N,7E109508,Second Always Has Around 2000 HP
+N,EE29-DDDD,Shortened Battle Text
+N,EE20-DF0F,Skip EXP. and Gold After Battle
+N,6D38-6F01,Skip Normal Enemy Battles
+N,6D38-6F61,Skip Normal Enemy Battles [Rev 1]
+N,6D2A-3D8D,Start New Games with 'Life Indicate' Set to Figure
+N,4523-4D5D+EE23-4D8D+5D23-4DED+B623-4F5D+7723-4F8D+EE23-447D,Start with Weapons, Some Armor, and Spells
+N,7A6F-04AB,Try It
+N,EEAF-D40D,Use a Cure Potion When You Have 2 Characters and It Gives You 48,000 HP
+N,E3AF-D40D,Use a Cure, Get a Cure
+N,6D32-6701+F832-6761,Walk Through Walls
+N,7E1014BE+7E1015BE,You Always Have This Much Current HP
+N,7E101600+7E101700,You Always Have This Much Max HP

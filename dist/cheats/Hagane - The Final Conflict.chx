@@ -1,8 +1,22 @@
-N,7E051406,Invincible
-N,7E051509,Infinite lives
-N,7E051263,Inf. hand grenade
-N,7E051163,Infinite kunai
-N,7E051609,Infinite ninjutsu
-N,7E007B99,Game clock frozen
-N,7E007C09,Game clock frozen
-N,7E053201,Hard mode on
+N,6D6F-8D0F,Freeze Timer
+N,C268-8FAD,Get 256 Health Points
+N,DD76-ED67+DD76-E407+DD7B-EDD7+DD7B-EFA7,Hit Anywhere
+N,7E051264,Infinite Bombs
+N,7E051164,Infinite Daggers
+N,7E051404,Infinite Health
+N,7E051509,Infinite Lives
+N,7E05160A,Infinite Special Attack
+N,3C68-EDD4,Infinite Special Attacks
+N,7E007B99+7E007C09,Infinite Time
+N,7E090324,Invincibility
+N,1D0B-576D,Invincibility vs. Enemies
+N,E29D-8DD4,Jump Higher
+N,7E051306,Max Energy
+N,DD0D-770D,One Hit Kills Enemies
+N,3C03-57DD,One Hit Kills You
+N,CB6A-5D0D+DF6A-5D6D,Stage Select
+N,DB63-57DD,Start with 9 Lives
+N,DB6E-5DDD,Start with 9 Special Attack Points
+N,D963-5FDD,Start with Max Health Points
+N,7E05152F,Start with More Lives
+N,7E0516FF,Start with More Smart Bombs

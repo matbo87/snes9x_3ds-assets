@@ -1,1 +1,36 @@
-N,7E016410,stage select
+N,DF62-A7D4,1 Life [Pocky]
+N,DF62-A704,1 Life [Rocky]
+N,D162-A7D4,6 Lives [Pocky]
+N,D162-A704,6 Lives [Rocky]
+N,DB62-A7D4,9 Lives [Pocky]
+N,DB62-A704,9 Lives [Rocky]
+N,DB3A-DD69,9 Lives Stolen from Pocky
+N,DBAA-AD60,9 Lives Stolen from Rocky
+N,D43F-6FF4,Blue Ball Acts as Red Ball [Pocky]
+N,D43B-6F27,Blue Ball Acts as Red Ball [Rocky]
+N,7E016410,Enable Level Select
+N,7E0F129A,Freeze Time
+N,6DEB-072D+01EC-0DFD,Hit Anywhere
+N,7E006808,Infinite Energy
+N,C933-A794,Infinite Energy [Pocky]
+N,C93E-A797,Infinite Energy [Rocky]
+N,7E006908,Infinite Energy P2
+N,7E006A03,Infinite Lives
+N,DDA7-AD65,Infinite Lives [Pocky]
+N,DD35-0761,Infinite Lives [Rocky]
+N,7E006B03,Infinite Lives P2
+N,7E00E402,Infinite Shield
+N,7E006602,Infinite Special
+N,7E0F1299,Infinite Time
+N,2D85-67A9+6985-6709,Invincibility
+N,7E00C010,Max Energy P1
+N,7E00C110,Max Energy P2
+N,6D3B-0DFF,One Hit Kills
+N,DF3D-6424,Red Ball Acts as Blue Ball [Pocky]
+N,DF36-67B7,Red Ball Acts as Blue Ball [Rocky]
+N,CB2D-DFDF,Stop Timer
+N,C4A4-6767,Walk Through Walls
+N,CD65-DF00,Walk Through Walls (alt)
+N,4032-A4F4,Weapons Don't Deplete When Hit (Pocky)
+N,4033-AFF7,Weapons Don't Deplete When Hit (Pocky) (alt)
+N,4032-A4F4+4033-AFF7,Weapons Don't Deplete When Hit [Pocky]

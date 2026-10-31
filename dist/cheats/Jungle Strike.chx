@@ -1,22 +1,40 @@
-N,7F1134FF,Infinite hellfire
-N,7F1136FF,Infinite hydra
-N,7F11380F,Infinite cannons
-N,7F113927,Infinite cannons
-N,7F415C0F,Invincibility
-N,7F415D27,Invincibility
-N,7F1132FF,Infinite fuel
-N,7E0D36FF,Infinite lives
-N,7F114AFF,Infinite mines
-N,7F114CFF,Infinite hydra
-N,7F114E0F,Infinite cannons
-N,7F114F27,Infinite cannons
-N,7F4B540F,Invincibility
-N,7F4B5527,Invincibility
-N,7F1148FF,Infinite fuel
-N,7F1160FF,Infinite mines
-N,7F1162FF,Infinite hydra
-N,7F116488,Infinite cannons
-N,7F116513,Infinite cannons
-N,7F42440F,Invincibility
-N,7F424527,Invincibility
-N,7F115EFF,Infinite fuel
+N,7F1122D0+7F112307,Armor Repair Gives 2000
+N,7F1122C4+7F112309,Armor Repair Gives 2500
+N,7F1122B8+7F11230B,Armor Repair Gives 3000
+N,7E0D2C01,Campaign Select
+N,6DBD-4607,Choose Any Copilot
+N,7F432C0F+7F432D27,Comanche - Infinite Armor (Campaign 7)
+N,7F415C0F+7F415D27,Comanche - Infinite Armor (Except Campaign 7)
+N,7F1132E7+7F113303,Comanche - Infinite Fuel
+N,7F11380F+7F113927,Comanche - Infinite Guns
+N,7F113409,Comanche - Infinite Hellfires
+N,7F113663,Comanche - Infinite Hydras
+N,7F112400+7F112500,Comanche - Infinite Load
+N,7F4B540F+7F4B5527,Hovercraft - Infinite Armor
+N,7F1148E7+7F114903,Hovercraft - Infinite Fuel
+N,7F114E0F+7F114F27,Hovercraft - Infinite Guns
+N,7F114C63,Hovercraft - Infinite Hydras
+N,7F113A00+7F113B00,Hovercraft - Infinite Load
+N,7F114A09,Hovercraft - Infinite Mines
+N,C2A5-476F,Infinite Ammo
+N,6DBA-34D4+4DBE-3464+FFBE-34A4+B2BE-3764,Infinite Armor
+N,8BB3-3F64,Infinite Fuel
+N,7E08B263,Infinite Lives
+N,7F42440F+7F424527,Motorcycle - Infinite Armor
+N,7F115EE7+7F115F03,Motorcycle - Infinite Fuel
+N,7F11640F+7F116527,Motorcycle - Infinite Guns
+N,7F116263,Motorcycle - Infinite Hydras
+N,7F115000+7F115100,Motorcycle - Infinite Load
+N,7F116009,Motorcycle - Infinite Mines
+N,DD86-C761,Start with 0 Hellfires
+N,7485-C7D1,Start with Less Fuel
+N,DD8B-C4A1,Start with Less Gun Ammo
+N,FB8B-CFD1,Start with Less Hydras
+N,7485-C701,Start with Mega Fuel
+N,748B-C4A1,Start with Mega Gun Ammo
+N,B186-C7A1,Start with Mega Hellfires
+N,748B-CF01,Start with Mega Hydras
+N,F18B-C4A1,Start with More Gun Ammo
+N,B186-C761,Start with More Hellfires
+N,EE8B-CFD1,Start with More Hydras
+N,7F41D00F+7F41D127,Stealth Fighter - Infinite Armor

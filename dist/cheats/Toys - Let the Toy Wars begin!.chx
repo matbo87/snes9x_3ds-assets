@@ -1,15 +1,24 @@
+N,DC69-CF47,Fewer Toys Gained from Carousel
+N,DC85-4D34,Fewer Toys Gained from Floor Boxes
+N,7E187A11,Infinite Balls
+N,7E187411,Infinite Cars
+N,7E188811,Infinite Chefs
+N,7E187211,Infinite Cops
+N,7E187611,Infinite Ducks
+N,7E188C11,Infinite Eleph.
+N,7E188A11,Infinite FB Players
+N,7E168C06,Infinite Lives
+N,7E188411,Infinite Pie Tins
+N,7E188211,Infinite Pies
+N,7E188E11,Infinite Plane RD
+N,7E187E11,Infinite Tomatoes
+N,7E187811,Infinite Tops
+N,7E188011,Infinite Water B.
 N,7E168E06,Invincibility
-N,7E188011,Unlimited Water B.
-N,7E187811,Unlimited Tops
-N,7E187611,Unlimited Ducks
-N,7E188C11,Unlimited Eleph.
-N,7E187411,Unlimited Cars
-N,7E187A11,Unlimited Balls
-N,7E188811,Unlimited Chefs
-N,7E187E11,Unlimited Tomatoes
-N,7E188411,Unlimited Pie Tins
-N,7E188211,Unlimited Pies
-N,7E188A11,Unlimited Fb Plyrs
-N,7E187211,Unlimited Cops
-N,7E188E11,Unlimited Plane Rd
-N,7E168C06,Unlimited Lives
+N,1E69-CF47,Lots More Toys Gained from Carousel
+N,7985-4D34+EEB5-440F,Lots More Toys Gained from Floor Boxes
+N,7969-CF47,More Toys Gained from Carousel
+N,1EB5-4D34+EEB5-440F,More Toys Gained from Floor Boxes
+N,C2B6-3F5C+C2A4-3F8C,Protection Against Most Hazards
+N,DF2D-37AC,Start with 1 Life
+N,DB2D-37AC,Start with 9 Lives

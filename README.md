@@ -26,7 +26,7 @@ Per-game asset coverage: [`ASSET_OVERVIEW.md`](ASSET_OVERVIEW.md)
 | Boxart styles | 1000 each | **US:** `thumbnails/boxart_us-style.cache`; [`277 entries`](src/fallback/boxart_us-style.cache.txt) use the 1G1R cover (Europe > Japan).<br>**Japan:** `thumbnails/boxart_japan-style.cache`; [`305 entries`](src/fallback/boxart_japan-style.cache.txt) use the 1G1R cover (USA > Europe).<br>**PAL:** `thumbnails/boxart_pal-style.cache` and `backgrounds/second_screen_cover_art`; [`160 entries`](src/fallback/boxart_pal-style.cache.txt) use the 1G1R cover (USA > Japan). |
 | Console (EU/JP) | 840 | Used for `backgrounds/second_screen_console/eu_jp`<br>Missing titles: [`src/missing/console_eu_jp.txt`](src/missing/console_eu_jp.txt) |
 | Console (USA) | 723 | Used for `backgrounds/second_screen_console/us`<br>Missing titles: [`src/missing/console_us.txt`](src/missing/console_us.txt) |
-| Cheats | 861 | Used for `cheats` (`.chx` format)<br>Missing titles: [`src/missing/cheats.txt`](src/missing/cheats.txt) |
+| Cheats | 882 | Used for `cheats` (`.chx` format)<br>Missing titles: [`src/missing/cheats.txt`](src/missing/cheats.txt) |
 
 ### Regional scope
 - USA + PAL total set: **785 / 785** -> [`src/file-list_USA.txt`](src/file-list_USA.txt), [`src/file-list_Europe.txt`](src/file-list_Europe.txt)
@@ -96,8 +96,6 @@ Example:
 This lets one file match multiple ROM variants (for example USA/EU revisions).
 
 ## Add your own cheat files
-Both `.cht` and `.chx` are supported. `.chx` is easier to edit manually.
-
 chx format (one line per cheat):
 
 ```text
@@ -105,15 +103,13 @@ chx format (one line per cheat):
 ```
 
 - `[Y/N]`: enabled (`Y`) or disabled (`N`)
-- `[CheatCode]`: Game Genie (example: `F38B-6DA4`) or Pro Action Replay (example: `7E00DC04`)
+- `[CheatCode]`: Game Genie (example: `F38B-6DA4`) or Pro Action Replay (example: `7E00DC04`). Join multiple codes for one cheat with `+` (example: `7E1E6314+7E1E6514`).
 - `[Name]`: short cheat label shown in the emulator
 
 Cheat filenames should also use the trimmed basename.
 
 - `Donkey Kong Country.chx` matches `Donkey Kong Country (USA) (V1.2) [!].sfc`
 - `Donkey Kong Country (USA) (V1.2) [!].chx` will **not** match
-
-If both `.cht` and `.chx` exist for the same game, `.chx` is used.
 
 ## Licensing
 The repository [`LICENSE`](LICENSE) (MIT) applies to repository-authored code
@@ -125,6 +121,5 @@ Third-party images/cheats keep their original source terms. See
 ## Credits
 - [nailbomb-rb](https://github.com/nailbomb-rp) for [pal-snes-covers](https://github.com/nailbomb-rp/pal-snes-covers)
 - [ScreenScraper](https://screenscraper.fr) and [LaunchBox Games Database](https://gamesdb.launchbox-app.com/) for title, gameplay, cart and additional boxart images
-- HarkOn for the [CHX collection](https://gbatemp.net/threads/chx-file-collection-for-the-snes9x_3ds.591137/)
-- dohclude for the [legacy CHT cheat collection](https://gbatemp.net/threads/cheats-for-snes9x-gx.149024/)
-- [libretro-database](https://github.com/libretro/libretro-database/tree/master/cht/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System) for additional cheat sources
+- [libretro-database](https://github.com/libretro/libretro-database/tree/master/cht/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System) for cheats
+- [GameHacking.org](https://gamehacking.org/system/snes/) for additional cheats

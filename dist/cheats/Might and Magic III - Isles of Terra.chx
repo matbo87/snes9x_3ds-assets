@@ -1,23 +1,51 @@
-N,7E1A25FF,Fire Defense Active
-N,7E1A27FF,Electricity Defense Active
-N,7E1A2BFF,Poison Defense Active
-N,7E1A29FF,Cold Defense Active
-N,7E1A2F01,Walk On Water Spell Active
-N,7E1A2D01,Levitate Spell Active
-N,7E1A1401,Wizard Eye Active
-N,7E1A2301,Light Spell Active
 N,D574-CDE6,255 Armor Class
-N,E674-CDE6,Better Items For Sale
-N,BA6E-D704,Start W/ $40,000 Gold
-N,E36E-D704,Start W/ $65,000 Gold
-N,E06D-04A4,Start With 500 Gems
-N,D16D-07D4,Start With 1630 Gems
-N,D26D-07D4,Start With 3422 Gems
-N,A66F-0464,Start W/ 10 Days Worth Of Food
-N,D46F-04A4,Start W/ 34 Days Worth Of Food
-N,D56F-04A4,Strt W/ 105 Days Worth Of Food
-N,7E1A43E8,Always Have 65000 Golds (1/2)
-N,7E1A44FD,Always Have 65000 Golds (2/2)
-N,7E1A47E8,Always Have 65000 Gems (1/2)
-N,7E1A48FD,Always Have 65000 Gems (2/2)
-N,7E1A335A,Unlimited Foods
+N,7E1A47E8+7E1A48FD,Always Have 65000 Gems
+N,7E1A43E8+7E1A44FD,Always Have 65000 Golds
+N,E674-CDE6,Better Items for Sale
+N,7E1A29FF,Cold Defense Always Active
+N,71E5-07BD,Crag Hack Starts with 54 Might (Instead of 18)
+N,80E5-07BD,Crag Hack Starts with 180 Might (Instead of 18)
+N,7D3A-AFB7,Dark Shade Starts with 48 Might (Instead of 16)
+N,CD3A-AFB7,Dark Shade Starts with 160 Might (Instead of 16)
+N,7E1A27FF,Electricity Defense Always Active
+N,7E1A25FF,Fire Defense Always Active
+N,7E1A335A,Infinite Foods
+N,7F898363,Infinite HP for Crag
+N,7F876F63,Infinite HP for Dark
+N,7F855B63,Infinite HP for Kasto
+N,7F8B9763,Infinite HP for Maxim
+N,7F887963,Infinite HP for Resur
+N,7F834763,Infinite HP for Sir C
+N,7F898563,Infinite SP for Crag
+N,7F877163,Infinite SP for Dark
+N,7F855D63,Infinite SP for Kasto
+N,7F8B9963,Infinite SP for Maxim
+N,7F887B63,Infinite SP for Resur
+N,7F834963,Infinite SP for Sir C
+N,F63D-67B7,Kastore Starts with 24 Might (Instead of 8)
+N,9D3D-67B7,Kastore Starts with 80 Might (Instead of 8)
+N,7E1A2D01,Levitate Spell Always Active
+N,7E1A2301,Light Spell Always Active
+N,77E7-AFBD,Maximus Starts with 51 Might (Instead of 17)
+N,CCE7-AFBD,Maximus Starts with 170 Might (Instead of 17)
+N,7E1A2BFF,Poison Defense Always Active
+N,45EC-DDBD,Resurectra Starts with 39 Might (Instead of 13)
+N,64EC-DDBD,Resurectra Starts with 130 Might (Instead of 13)
+N,DB3E-D7B7,Sir Canegm Starts Equipped with the Katana (Instead of the Cutlass)
+N,4B3E-D727,Sir Canegm Starts Equipped with the Plate Armor (Instead of the Scale Armor)
+N,D63C-D4B7,Sir Canegm Starts with 8 Spell Points (Instead of 2)
+N,F33C-D4B7,Sir Canegm Starts with 30 Spell Points (Instead of 2)
+N,403C-D4F7,Sir Canegm Starts with 36 HP (Instead of 12)
+N,7739-DFB7,Sir Canegm Starts with 51 Might (Instead of 17)
+N,563C-D4F7,Sir Canegm Starts with 120 HP (Instead of 12)
+N,CC39-DFB7,Sir Canegm Starts with 170 Might (Instead of 17)
+N,A66F-0464,Start with 10 Days Worth of Food (Instead of 5 Days)
+N,D46F-04A4,Start with 34 Days Worth of Food (Instead of 5 Days)
+N,D56F-04A4,Start with 105 Days Worth of Food (Instead of 5 Days)
+N,E06D-04A4,Start with 500 Gems (Instead of 350)
+N,D16D-07D4,Start with 1630 Gems (Instead of 350)
+N,D26D-07D4,Start with 3422 Gems (Instead of 350)
+N,BA6E-D704,Start with About $40,000 Gold (Instead of $25,000)
+N,E36E-D704,Start with About $65,000 Gold (Instead of $25,000)
+N,7E1A2F01,Walk on Water Spell Always Active
+N,7E1A1401,Wizard Eye Always Active

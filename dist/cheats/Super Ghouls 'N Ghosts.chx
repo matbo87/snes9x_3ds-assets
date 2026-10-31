@@ -1,3 +1,43 @@
-N,7E02A402,f lives
-N,00656D69,v~
-N,61007E14,ys gold
+N,7E04580F,Arthur Can Jump High (Not the Same as Continuous Jump)
+N,7E045302,Arthur Runs Fast
+N,858E-0F63+868E-0703,Enable Level Select
+N,FE86-0D01,Faster Timer
+N,B363-D4A6+BA22-DDA9,Fire Weapons Faster
+N,DD68-D768,Get Lives Instead of 200 Point Items
+N,1DEF-0708+C2E5-D708+C2EA-A40C,Hit Anywhere
+N,7E044A01+7E046366+7E0464EE,Infinite Armor
+N,C2EC-0F08+C22B-AFD9+C22E-AD09+622A-D460+C228-DFA5+D4C8-A7D1+D42B-D461,Infinite Armor/Invincibility & Armor Modifier
+N,C2EC-0F08+C22B-AFD9+C22E-AD09+622A-D460+C228-DFA5,Infinite Armor/Invincibility & Armor Modifier (alt)
+N,7E14BC00,Infinite Double Jumps
+N,7E044A01+7E14BA01,Infinite Energy (You Won't Lose Your Armor)
+N,7E02A402,Infinite Lives
+N,7E02A403,Infinite Lives (alt)
+N,6DE7-A468,Infinite Shield Hits
+N,7E02A901,Infinite Time
+N,DD23-D4A0,Invincibility
+N,DD21-0FD0,Invincibility (alt)
+N,7E046AAA,Invincible Without Armour
+N,7E14BB00+7E14BC00,Moon Jump
+N,DF65-DFA8+CBBD-AF98,Most Zombies Carry a Basket
+N,DF65-DFA8,Most Zombies Carry a Basket (alt)
+N,7E044A01,Never Lose Armor
+N,C2EC-0F08,No Damage from Enemies
+N,DAE8-04D8,Ready Go Invincible, No Problem
+N,EE2D-07A0,Retain Invincibility
+N,7E029509,Set 900,000 Points
+N,9386-0D01,Slower Timer
+N,CBBD-AF9F+FCBD-AF2F,Stage Select (Use DD-D6)
+N,DDC6-0405+D0C6-04A5,Start Each Life with Gold Armor
+N,CB24-0DA1,Start Each Life with Selected Weapon
+N,DFC0-A401,Start with 1 Continue
+N,DBC0-A401,Start with 9 Continues
+N,DBC3-0465,Start with 9 Minutes on Timer
+N,7E046AAA+7E14B201+7E14B804+7E14BA04+7E14DD04+7E10EE01,Start with Gold Armor, Be Invincible, Always Have Upgraded Weapons, and Always Use Charge Magic
+N,D0C8-A7D1+D02B-D461,Start with Golden Armor
+N,CBC3-D4D5+DDC3-D405+3CC3-D465,Start with Selected Weapon
+N,CBC3-D4D5+FCC3-D465+DDC3-D405,Starting Weapon Modifier
+N,CBC3-D4D5+FCC3-D465,Starting Weapon Modifier (alt)
+N,7E027602,Totally Invincible
+N,C9BB-A460,Very Few Zombies Appear
+N,A32B-D7A0,Walk Through the Air
+N,DD29-0F01+6D22-AF0C+6DB4-04D6,Walk Through Walls

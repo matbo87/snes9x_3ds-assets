@@ -1,9 +1,7 @@
-N,7E0098FF,Infinite Lives
-N,7E1C6C01,Always Have 1
-N,7E1C6C02,Always Have 2
-N,7E1C6C03,Always Have 3
-N,7E1C6C04,Always Have 4
-N,7E1C6C05,Always Have 5
-N,7E1C6C06,Always Have 6
-N,7E1C6C07,Always Have 7
-N,7E1C6804,4 Options
+N,7E0A5600+7E0A6C01+7E1C8E01,Always Have Super Bomb
+N,7E1C6804,Have 4 Options
+N,7E1C6602,Have Bombs
+N,7E1C6A04,Have Dual Shield
+N,7E1C6406,High Speed
+N,7E009805,Infinite Lives
+N,7E0C1E01,Invincibility

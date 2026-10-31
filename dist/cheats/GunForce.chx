@@ -1,5 +1,11 @@
-N,7E002809,Unlimited time
-N,7E005104,Unlimited lives
-N,7E901863,Unlimited weapon 1
-N,7E005304,Unlimited credits
-N,7E002A09,No countdown! :]
+N,7E0057FF,Always Have Rapid Fire
+N,7E901501,Always Have Weapon
+N,DDBB-04AF+DDBC-0D0F+DDB8-070F+DDB8-0F6F+C2B7-AFD4,Hit Anywhere
+N,7E9018E7+7E901903,Infinite Ammo
+N,7E005309,Infinite Continues (P1)
+N,7E005409,Infinite Continues (P2)
+N,7E005109,Infinite Lives (P1)
+N,7E005209,Infinite Lives (P2)
+N,7E002809+7E002909,Infinite Time
+N,C936-0F07,Infinite Time [Switch Off Until You're in-Game]
+N,7E0055B1,Invincibility

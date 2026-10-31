@@ -1,4 +1,19 @@
-N,7E013406,Infinite grenades
-N,7E01A303,Infinite lives
-N,7E1E8405,Infinite continues
-N,7E012006,Infinite energy
+N,C2B9-37DF,Can't Collect Any More Grenades
+N,C2B6-440F,Hearts Don't Restore Energy
+N,7E013409,Infinite Bombs
+N,3CAB-CE82,Infinite Continues
+N,7E012007,Infinite Energy
+N,C2B6-370F,Infinite Grenades
+N,7E01A309,Infinite Lives
+N,7E012302,Invincibility
+N,EBAB-370D+EEAB-376D+69AB-37AD+E3AC-3DDD,Moon Jump
+N,DFCC-1E83,Start with 2 Lives
+N,D9C7-CF0F,Start with 5 Grenades
+N,D0CC-1E83,Start with 5 Lives
+N,DBC7-CF0F,Start with 9 Grenades
+N,DBCC-1E83,Start with 10 Lives
+N,DEC7-CF0F,Start with 15 Grenades
+N,D7C1-3707,Start with About 1/2x Energy
+N,DEC1-3701,Start with More Energy-Ignore Energy Meter
+N,D1C8-13E3,Start with No Continues
+N,DFC1-3707,Start with Very Little Energy

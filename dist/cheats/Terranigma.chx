@@ -1,63 +1,62 @@
-N,7E065DFF,Max HP
-N,7E0662FF,Total Invincibility (1/2)
-N,0FE065DF,Total Invincibility (2/2)
-N,7E0691FF,Lv-Up Fast (Use In Dungeons)
-N,7E0697FF,Max Gems
-N,7E065FFF,535 Str/Def & 255 Luck (1/4)
-N,7E0660FF,535 Str/Def & 255 Luck (2/4)
-N,7E0663FF,535 Str/Def & 255 Luck (3/4)
-N,7E0666FF,535 Str/Def & 255 Luck (4/4)
-N,7E065E7D,Minimum Of 32000 HP
-N,7E06587D,Minimum Of 32000 Max HP
-N,7E066D00,No Abnormalities
+N,7E065F63,99 Defense
+N,7E066663,99 Luck
+N,7E066263,99 Strength
+N,2E31-DF5A+ED31-DF8A+6531-DFEA,255 Health
+N,7E065FFF+7E0660FF+7E0663FF+7E0666FF,535 Strength/535 Defense/255 Luck
+N,7E065DE7+7E065E03,999 Current HP
+N,7E0657E7+7E065803,999 Max HP
+N,7E069CFF+7E069D7F,32767 Max HP
+N,7E060006+7E060100,Access Debug Room
+N,F387-5771,Ark's Defense Is Increased from 3 to 30 While at Level 2
+N,4680-5FE1,Ark's Defense Is Increased from 4 to 40 While at Level 3
+N,7489-5D81,Ark's Defense Is Increased from 5 to 50 While at Level 4
+N,7489-5751,Ark's Defense Is Increased from 5 to 50 While at Level 5
+N,7A81-5471,Ark's Defense Is Increased from 6 to 60 While at Level 6
+N,0185-5DE1,Ark's Defense Is Increased from 7 to 70 While at Level 7
+N,0185-5781,Ark's Defense Is Increased from 7 to 70 While at Level 8
+N,1787-5471,Ark's Life/HP Is Increased from 33 to 99 While at Level 2
+N,5680-5DE1,Ark's Life/HP Is Increased from 39 to 120 While at Level 3
+N,6A80-5781,Ark's Life/HP Is Increased from 47 to 140 While at Level 4
+N,B889-5451,Ark's Life/HP Is Increased from 52 to 155 While at Level 5
+N,CE81-5F71,Ark's Life/HP Is Increased from 59 to 175 While at Level 6
+N,A781-57E1,Ark's Life/HP Is Increased from 65 to 195 While at Level 7
+N,2A85-5481,Ark's Life/HP Is Increased from 72 to 220 While at Level 8
+N,4687-5481,Ark's Strength Is Increased from 4 to 40 While at Level 2
+N,4680-5F51,Ark's Strength Is Increased from 4 to 40 While at Level 3
+N,7489-5D71,Ark's Strength Is Increased from 5 to 50 While at Level 4
+N,7A89-54E1,Ark's Strength Is Increased from 6 to 60 While at Level 5
+N,7A81-5F81,Ark's Strength Is Increased from 6 to 60 While at Level 6
+N,0185-5D51,Ark's Strength Is Increased from 7 to 70 While at Level 7
+N,9D85-5771,Ark's Strength Is Increased from 8 to 80 While at Level 8
+N,7E0692FF,Big Experience
 N,7E066C00,Can Always Move
-N,7F202045,God Mode
-N,7E0690FF,Max Exp (1/4)
-N,7E06910F,Max Exp (2/4)
-N,7E0692A5,Max Exp (3/4)
-N,7E0693D4,Max Exp (4/4)
-N,7E069499,Max Gold (1/3)
-N,7E069599,Max Gold (2/3)
-N,7E069609,Max Gold (3/3)
-N,7E07ED99,Infinite Magirock (1/2)
-N,7E07EE09,Infinite Magirock (2/2)
-N,7F808001,Have 8 Of All Magic (1/20)
-N,7F808108,Have 8 Of All Magic (2/20)
-N,7F808202,Have 8 Of All Magic (3/20)
-N,7F808308,Have 8 Of All Magic (4/20)
-N,7F808403,Have 8 Of All Magic (5/20)
-N,7F808508,Have 8 Of All Magic (6/20)
-N,7F808604,Have 8 Of All Magic (7/20)
-N,7F808708,Have 8 Of All Magic (8/20)
-N,7F808805,Have 8 Of All Magic (9/20)
-N,7F808908,Have 8 Of All Magic (10/20)
-N,7F808A06,Have 8 Of All Magic (11/20)
-N,7F808B08,Have 8 Of All Magic (12/20)
-N,7F808C07,Have 8 Of All Magic (13/20)
-N,7F808D08,Have 8 Of All Magic (14/20)
-N,7F808E08,Have 8 Of All Magic (15/20)
-N,7F808F08,Have 8 Of All Magic (16/20)
-N,7F809009,Have 8 Of All Magic (17/20)
-N,7F809108,Have 8 Of All Magic (18/20)
-N,7F80920A,Have 8 Of All Magic (19/20)
-N,7F809308,Have 8 Of All Magic (20/20)
-N,7F80940B,Have 8 Of All Medals (1/10)
-N,7F809508,Have 8 Of All Medals (2/10)
-N,7F80960C,Have 8 Of All Medals (3/10)
-N,7F809708,Have 8 Of All Medals (4/10)
-N,7F80980D,Have 8 Of All Medals (5/10)
-N,7F809908,Have 8 Of All Medals (6/10)
-N,7F809A0E,Have 8 Of All Medals (7/10)
-N,7F809B08,Have 8 Of All Medals (8/10)
-N,7F809C0F,Have 8 Of All Medals (9/10)
-N,7F809D08,Have 8 Of All Medals (10/10)
-N,7E0600:06,Access Debug Room (1/2)
-N,7E0601:00,Access Debug Room (2/2)
-N,2135-D78A,Extra Magic Rock (1/3)
-N,0D35-D7EA,Extra Magic Rock (2/3)
-N,6536-DD7A,Extra Magic Rock (3/3)
-N,EEDB-BA7B,Max Exp (1/3)
-N,EEDB-BA5B,Max Exp (2/3)
-N,EEDB-BA8B,Max Exp (3/3)
-N,D9B3-CDE9,Use Ring/Pin To Get 5 (1/2)
-N,DFB3-CF59,Use Ring/Pin To Get 5 (2/2)
+N,2135-D78A+0D35-D7EA+6536-DD7A,Extra Magic Rock
+N,DD32-4FB9,Get Cash from Anywhere
+N,7F202045,God Mode (Through No Enemy Collisions)
+N,7F808001+7F808108+7F808202+7F808308+7F808403+7F808508+7F808604+7F808708+7F808805+7F808908+7F808A06+7F808B08+7F808C07+7F808D08+7F808E08+7F808F08+7F809009+7F809108+7F80920A+7F809308,Have 8 of All Magic
+N,7F80940B+7F809508+7F80960C+7F809708+7F80980D+7F809908+7F809A0E+7F809B08+7F809C0F+7F809D08,Have 8 of All Medallions
+N,7E06A2FF,Have 255 Base Defense
+N,7E069EFF,Have 255 Base Luck
+N,7E06A0FF,Have 255 Base Strength
+N,7E07ED99+7E07EE09,Have 999 Magistones
+N,7F8060BC+7F806101+7F8062BD+7F806301+7F8064BE+7F806501+7F8066BF+7F806701,Have All Special Armor
+N,7F80367A+7F803701+7F80387B+7F803901+7F803A7C+7F803B01+7F803C7D+7F803D01+7F803E7E+7F803F01,Have All Special Items
+N,7E069499+7E069599+7E069609,Have Max Gold
+N,6D21-1F29+DD25-3FF0,Hit Anywhere
+N,C23B-47B0,Infinite HP
+N,6D23-3DB0,Invincibility
+N,7E100EA4+7E100C84,Kind of Like a 'Walk Through Walls' Code
+N,7E0691FF,Level Up Fast (Use Only in Areas with Dungeons)
+N,7E0690FF+7E0691FF+7E0692FF,Max Exp
+N,7E0690FF+7E06910F+7E0692A5+7E0693D4,Max Experience
+N,7E0697FF,Max Gems
+N,7E065DFF,Max HP
+N,7E065E7D,Minimum of 32000 HP
+N,7E06587D,Minimum of 32000 MAX HP
+N,7E066D00,No Abnormalities
+N,DFE2-A407+CBBA-A7F2,Region NTSC
+N,D2B0-3F2A+3FC2-37C7+EDC2-3717+4C23-3F47,Talk to Person in the Entrance of the Elder's House for Debug Menu
+N,7E0662FF+0FE065DF,Total Invincibility
+N,6D2D-4DB9,Untouchable
+N,D9B3-CDE9+DFB3-CF59,Use Up a Ring/Pin to Get 5 of Them
+N,3C29-1FAD+6226-170D,Walk Through Walls

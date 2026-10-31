@@ -1,4 +1,48 @@
-N,7E1C9D0A,Unl. trning points
-N,7E1C9D00,0 trning points
-N,7E061003,Unl.super punches
-N,7E068C09,Unlimited time
+N,DD62-CD09,Blocking Disabled P1
+N,DD66-3FA5,Blocking Disabled P2
+N,D487-C4D4,Both Fighters Start with 2 Super Punches
+N,D787-C4D4,Both Fighters Start with 3 Super Punches
+N,DD87-C4D4,Both Fighters Start with No Super Punches
+N,6DEE-CFCE,Create a Stronger Left Hook Body (Ignore Punch Meter Graphics)
+N,6DEE-C44E,Create a Stronger Left Hook Head (Ignore Punch Meter Graphics)
+N,6DEE-CF4E,Create a Stronger Left Jab (Ignore Punch Meter Graphics)
+N,6DEE-C4CE,Create a Stronger Left Uppercut (Ignore Punch Meter Graphics)
+N,6DEE-C74E,Create a Stronger Right Cross Body (Ignore Punch Meter Graphics)
+N,6DEE-C7CE,Create a Stronger Right Cross Head (Ignore Punch Meter Graphics)
+N,6DED-3D4E,Create a Stronger Right Uppercut
+N,DF8D-CDA7,Each Round Is 1 Minute
+N,D48D-CDA7,Each Round Is 2 Minutes
+N,D08D-CDA7,Each Round Is 4 Minutes (Ignore Game Timer)
+N,D98D-CDA7,Each Round Is 5 Minutes (Ignore Game Timer)
+N,D18D-CDA7,Each Round Is 6 Minutes (Ignore Game Timer)
+N,7E05AF0F,Full Stamina
+N,F6BD-4400+1DBD-4460,Hit Anywhere P1
+N,F669-3DA9+1D69-3FD9,Hit Anywhere P2
+N,7E0A740F,Infinite Health P1
+N,7E061003,Infinite Power Punches P1
+N,DD2B-17D9+C229-C4D9,Infinite Strength Beads
+N,C26D-3F05,Infinite Super Punches for P1
+N,C260-C4A9,Infinite Super Punches for P2 or Computer
+N,7E0141FF,Infinite Super Punches Top / Far Player
+N,C2BA-A7A7,Infinite Time per Round [Must Get Knockout]
+N,6D6A-C4A9,Invincibility P1
+N,6D66-3D05,Invincibility P2
+N,7E1CF150,Max Chin
+N,7E1CF770,Max Left Hook Body
+N,7E1CF970,Max Left Hook Head
+N,7E1CF570,Max Left Jab
+N,7E1CFB70,Max Left Uppercut
+N,7E1CED50,Max Power
+N,7E1CFD70,Max Right Cross Body
+N,7E1CFF70,Max Right Cross Head
+N,7E1CEF50,Max Stamina
+N,7E0A23FF,P1 Is Not Visibly Affected by Punches
+N,7E005401,P2 (Top Player) Keeps His Distance from P1 (Bottom Player)
+N,7E060E00,P2 Has No Power Punches
+N,7E05AD00,P2 Has No Stamina
+N,7E0E5208,Referee Can't Count to 10 When P1 Is Knocked Down
+N,7E0EEA08,Referee Can't Count to 10 When P1 Is Knocked Down (alt)
+N,7E0E530A,Referee Counts to 10 Instantly When P2 Is Knocked Down
+N,7E0EEB0A,Referee Counts to 10 Instantly When P2 Is Knocked Down (alt)
+N,338F-C7A4,Start on Round 5
+N,A38F-C7A4,Start on Round 12

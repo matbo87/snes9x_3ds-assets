@@ -1,4 +1,87 @@
-N,7E1CFF36+7E1D0000,Secret Player Modifier; Player 1
-N,7E1D0100+7E1D0200,Secret Player Modifier; Player 2
-N,7E1D0300+7E1D0400,Secret Player Modifier; Player 3
-N,7E1D0500+7E1D0600,Secret Player Modifier; Player 4
+N,D6E5-C718,"Juice" Mode [Rev 1]
+N,D6E9-CD18,All Players Always "on Fire" [Rev 1]
+N,D6E2-CFC8,All Players Always on Fire
+N,D6E3-C748,All Players Have Infinite Turbo
+N,D6E1-CF38,All Players Have Infinite Turbo [Rev 1]
+N,D8E8-C718,All Players Have Super Dunk Ability
+N,D8E7-C448,All Players Have Super Dunk Ability [Rev 1]
+N,D8E6-C7C8,All Players Have Super Interception Ability
+N,D8ED-C418,All Players Have Super Interception Ability [Rev 1]
+N,3CC1-D7C6+3CC1-D736,Bypass Problem Screen
+N,7E0AC601,Display Shot% Powerup
+N,A12A-4401+2B2A-4461,Dunk and Layup from Anywhere P1
+N,3423-4F01+2B23-4F61,Dunk and Layup from Anywhere P1 [Rev 1]
+N,4D24-CDAB+2524-CFDB,Dunk and Layup from Anywhere P2
+N,7A27-C7AB+2520-CDDB,Dunk and Layup from Anywhere P2 [Rev 1]
+N,EE38-67AF,Headless Players
+N,BBC6-A7AF,Home's Baskets Worth 1
+N,34C6-A7AF,Home's Baskets Worth 2
+N,30C6-A7AF,Home's Baskets Worth 3
+N,39C6-A7AF,Home's Baskets Worth 4
+N,35C6-A7AF,Home's Baskets Worth 5
+N,36C6-A7AF,Home's Baskets Worth 6
+N,3CC6-A7AF,Home's Baskets Worth 7
+N,3AC6-A7AF,Home's Baskets Worth 8
+N,7E0CCD02+7E0CCF04,Infinite Shot Clock
+N,7E07F8A2,Infinite Turbo Player #1
+N,7E08F722,Infinite Turbo Player #2
+N,7E0AF422,Infinite Turbo Player #3
+N,7E09F5A2,Infinite Turbo Player #4
+N,D6ED-3DC8,Juice Mode
+N,7E0AF001,Juice Mode Powerup
+N,D4BD-3038,Need 2 Baskets to Be on Fire
+N,D0BD-3038,Need 4 Baskets to Be "on Fire"
+N,D9BD-3038,Need 5 Baskets to Be "on Fire"
+N,D1BD-3038,Need 6 Baskets to Be "on Fire"
+N,D5BD-3038,Need 7 Baskets to Be "on Fire"
+N,D6BD-3038,Need 8 Baskets to Be "on Fire"
+N,DBBD-3038,Need 9 Baskets to Be "on Fire"
+N,DCBD-3038,Need 10 Baskets to Be "on Fire"
+N,7E0A9601,P1 Always on-Fire
+N,7E078A20,P1 Infinite Turbo
+N,7E0A9602,P2 Always on-Fire
+N,7E087220,P2 Infinite Turbo
+N,7E0A9603,P3 Always on-Fire
+N,7E095A20,P3 Infinite Turbo
+N,7E0A9604,P4 Always on-Fire
+N,7E0A4220,P4 Infinite Turbo
+N,D6EC-CF38,Shot Success Percentages Displayed for Non-Dunk Shots
+N,D6E4-CDC8,Shot Success Percentages Displayed for Non-Dunk Shots [Rev 1]
+N,CE64-D7AD,Skip Intro Screens
+N,6DBF-494C+6DB4-401C,Team 1 Never Misses a Shot
+N,6DBC-313C+6DB8-314C,Team 2 Never Misses a Shot
+N,7E07CA00,Team 2 Never Scores
+N,DDE6-3B2A,Turbo Bar Never Goes Up [Until Next Quarter]
+N,DDE1-3C2A,Turbo Bar Never Goes Up [Until Next Quarter] [Rev 1]
+N,6FE6-3B2A,Turbo Bar Restores Extremely Fast
+N,6FE1-3C2A,Turbo Bar Restores Extremely Fast [Rev 1]
+N,0DE6-3B2A,Turbo Bar Restores Faster
+N,0DE1-3C2A,Turbo Bar Restores Faster [Rev 1]
+N,9DE6-3B2A,Turbo Bar Restores Much Faster
+N,9DE1-3C2A,Turbo Bar Restores Much Faster [Rev 1]
+N,F9E6-3B2A,Turbo Bar Restores Much Slower
+N,F9E1-3C2A,Turbo Bar Restores Much Slower [Rev 1]
+N,F2E6-3B2A,Turbo Bar Restores Slower
+N,F2E1-3C2A,Turbo Bar Restores Slower [Rev 1]
+N,D3E6-3B2A,Turbo Bar Restores Very Slowly
+N,D3E1-3C2A,Turbo Bar Restores Very Slowly [Rev 1]
+N,42E5-3CFA,Turbo Drains Faster
+N,42E9-38FA,Turbo Drains Faster [Rev 1]
+N,44E5-3CFA,Turbo Drains Slightly Faster
+N,44E9-38FA,Turbo Drains Slightly Faster [Rev 1]
+N,FDE5-3CFA,Turbo Drains Slightly Slower
+N,FDE9-38FA,Turbo Drains Slightly Slower [Rev 1]
+N,D6E5-3CFA,Turbo Drains Slower
+N,D6E9-38FA,Turbo Drains Slower [Rev 1]
+N,76E5-3CFA,Turbo Drains Very Fast
+N,76E9-38FA,Turbo Drains Very Fast [Rev 1]
+N,D0E5-3CFA,Turbo Drains Very Slowly
+N,D0E9-38FA,Turbo Drains Very Slowly [Rev 1]
+N,BBCC-0F6F,Visitor's Baskets Worth 1
+N,34CC-0F6F,Visitor's Baskets Worth 2
+N,30CC-0F6F,Visitor's Baskets Worth 3
+N,39CC-0F6F,Visitor's Baskets Worth 4
+N,35CC-0F6F,Visitor's Baskets Worth 5
+N,36CC-0F6F,Visitor's Baskets Worth 6
+N,3CCC-0F6F,Visitor's Baskets Worth 7
+N,3ACC-0F6F,Visitor's Baskets Worth 8

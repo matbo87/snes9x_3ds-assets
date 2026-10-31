@@ -1,14 +1,99 @@
-N,7E4A9AFF,Quick Level Up (1/3)
-N,7E4A9BFF,Quick Level Up (2/3)
-N,7E4A9CFF,Quick Level Up (3/3)
-N,7E4B62FF,Quick Level Up (1/3)
-N,7E4B63FF,Quick Level Up (2/3)
-N,7E4B64FF,Quick Level Up (3/3)
-N,7E4C2AFF,Quick Level Up (1/3)
-N,7E4C2BFF,Quick Level Up (2/3)
-N,7E4C2CFF,Quick Level Up (3/3)
-N,7E4746FF,Infinite Money (1/3)
-N,7E4747FF,Infinite Money (2/3)
-N,7E4748FF,Infinite Money (3/3)
-N,7E40EEFF,Level Up Everyone (1/2)
-N,7E40EFFF,Level Up Everyone (2/2)
+N,7E4D020F+7E4D0327,999 ATTK
+N,7E4D040F+7E4D0527,999 Def
+N,7E475C63,Antidotes
+N,7E476063,Awaking Water
+N,7E477863,Blue Gems
+N,7E476863,Bomb Seeds
+N,544E-7FD6,Can Skip Barrel Puzzle
+N,7E476263,Crab Shells
+N,7E514E00,Cursor Memory Setting
+N,7E475E63,Eastern Wines
+N,CE2C-540D+7B2C-546D,Enemies Start with 10 HP
+N,CE2C-540D,Enemies Start with 100 HP
+N,7E478663,Forceit Cores
+N,7E476C63,Freeze Bombs
+N,CEF7-8F9F+A8F7-84FF,Get 65535 EXP from Each Battle
+N,7E477663,Green Gems
+N,7E478863,Gurika Cards
+N,7E475263,Herbs
+N,7E475663,High Potions
+N,7E4A8E0F+7E4A8F27,Infinite HP (Slot 1)
+N,7E4B560F+7E4B5727,Infinite HP (Slot 2)
+N,7E4C1E0F+7E4C1F27,Infinite HP (Slot 3)
+N,7E4A8EE7+7E4A8F03+7E4A90E7+7E4A9103,Infinite Life for 1st Character in Party (999/999)
+N,7E4746FF+7E4747FF+7E4748FF,Infinite Money
+N,7E4A920F+7E4A9327,Infinite MP (Slot 1)
+N,7E4B5A0F+7E4B5B27,Infinite MP (Slot 2)
+N,7E4C220F+7E4C2327,Infinite MP (Slot 3)
+N,7E476463,Jelly Fishes
+N,7E477E63,Letters
+N,7E40EEFF+7E40EFFF,Level Up Everyone
+N,7E4AA063,Max Agility (Slot 1)
+N,7E4B6863,Max Agility (Slot 2)
+N,7E4C3063,Max Agility (Slot 3)
+N,7E4CF863,Max Agility (Slot 4)
+N,7E4AAA63,Max Atk (Slot 1)
+N,7E4B7263,Max Atk (Slot 2)
+N,7E4C3A63,Max Atk (Slot 3)
+N,7E4AA263,Max Const (Slot 1)
+N,7E4B6A63,Max Const (Slot 2)
+N,7E4C3263,Max Const (Slot 3)
+N,7E4CFA63,Max Const (Slot 4)
+N,7E4AAC63,Max Def (Slot 1)
+N,7E4B7463,Max Def (Slot 2)
+N,7E4C3C63,Max Def (Slot 3)
+N,7E4AB063,Max Evade (Slot 1)
+N,7E4B7863,Max Evade (Slot 2)
+N,7E4D0863,Max Evade (Slot 4)
+N,7E4AB263,Max Hit (Slot 1)
+N,7E4B7A63,Max Hit (Slot 2)
+N,7E4D0A63,Max Hit (Slot 4)
+N,7E4A900F+7E4A9127,Max HP (Slot 1)
+N,7E4B580F+7E4B5927,Max HP (Slot 2)
+N,7E4C200F+7E4C2127,Max HP (Slot 3)
+N,7E4AA463,Max Int (Slot 1)
+N,7E4B6C63,Max Int (Slot 2)
+N,7E4C3463,Max Int (Slot 3)
+N,7E4CFC63,Max Int (Slot 4)
+N,7E4AA863,Max Luck (Slot 1)
+N,7E4B7063,Max Luck (Slot 2)
+N,7E4C3863,Max Luck (Slot 3)
+N,7E4D0063,Max Luck (Slot 4)
+N,7E4AAE63,Max Magic (Slot 1)
+N,7E4B7663,Max Magic (Slot 2)
+N,7E4C3E63,Max Magic (Slot 3)
+N,7E4D0663,Max Magic (Slot 4)
+N,7E4B5C0F+7E4B5D27,Max MP
+N,7E4A9E63,Max Power (Slot 1)
+N,7E4B6663,Max Power (Slot 2)
+N,7E4C2E63,Max Power (Slot 3)
+N,7E4CF663,Max Power (Slot 4)
+N,7E4AA663,Max Spirit (Slot 1)
+N,7E4B6E63,Max Spirit (Slot 2)
+N,7E4C3663,Max Spirit (Slot 3)
+N,7E4CFE63,Max Spirit (Slot 4)
+N,7E478063,Medallions
+N,7E514A00,Message Text Speed Setting
+N,7E477263,Moonstones
+N,6D7B-77D6,No Random Battles
+N,7E475A63,Pancreas
+N,7E475463,Potions
+N,7E4A9AFF+7E4A9BFF+7E4A9CFF,Quick Level UP (Slot 1)
+N,7E4B62FF+7E4B63FF+7E4B64FF,Quick Level UP (Slot 2)
+N,7E4C2AFF+7E4C2BFF+7E4C2CFF,Quick Level UP (Slot 3)
+N,7E477A63,Red Gems
+N,7E069801,Relax Other Characters Sprite Control
+N,7E475863,Relaxing Herbs
+N,7E477C63,Rings
+N,7E477463,Rosaries
+N,7E51CA00+7E51CB00,Save Anywhere
+N,7E476A63,Selacons
+N,DD4F-8FD4,Sell 1 Item for Max Money
+N,7E478A63,Shiriana Scarfs
+N,7E476663,Sleeping Powders
+N,7E478463,Spirit Nucleus
+N,7E514C00,Stereo/Mono
+N,7E478263,Sulins's Keys
+N,7E477063,Sun Stones
+N,7E476E63,Trolls Gates
+N,DD4F-54DC,Walk Through Walls

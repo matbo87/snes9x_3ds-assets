@@ -1,83 +1,65 @@
-N,7E0C1600,Sion Weapon Mod
-N,7E0C0847,999 HP Char Slot 1 (1/2)
-N,7E0C0971,999 HP Char Slot 1 (2/2)
-N,7E0C0A47,999 Max HP Char Slot 1 (1/2)
-N,7E0C0B71,999 Max HP Char Slot 1 (2/2)
-N,7E0C0CFF,255 MP Character Slot 1
-N,7E0C0DFF,255 Max MP Character Slot 1
-N,CB13-5D0D,Inventory = 6 Of All Items (1/4)
-N,D113-5D6D,Inventory = 6 Of All Items (2/4)
-N,B213-5FAD,Inventory = 6 Of All Items (3/4)
-N,D613-540D,Inventory = 6 Of All Items (4/4)
-N,381A-57DD,Inventory = Item List (1/5)
-N,2912-5FDD,Inventory = Item List (2/5)
-N,B212-546D,Inventory = Item List (3/5)
-N,F912-54AD,Inventory = Item List (4/5)
-N,D612-57DD,Inventory = Item List (5/5)
-N,DDF2-5467,Items Sell For 999999 Ragu
-N,DD3C-EF6C,Gain Several Lv After Btl
-N,8210-ED64,Infinite Items Usage In Menu
+N,7E0C8CFF,255 Current MP (Slot 1)
+N,7E0D0CFF,255 Current MP (Slot 2)
+N,7E0D8CFF,255 Current MP (Slot 3)
+N,7E0C0CFF,255 Current MP, Character Slot 1
+N,7E0C8DFF,255 Max MP (Slot 1)
+N,7E0D0DFF,255 Max MP (Slot 2)
+N,7E0D8DFF,255 Max MP (Slot 3)
+N,7E0C0DFF,255 Max MP, Character Slot 1
+N,7E0C08E7+7E0C0903,999 Current HP (Slot 1)
+N,7E0C88E7+7E0C8903,999 Current HP (Slot 2)
+N,7E0D08E7+7E0D0903,999 Current HP (Slot 3)
+N,7E0D88E7+7E0D8903,999 Current HP (Slot 4)
+N,7E0C0847+7E0C0971,999 Current HP, Character Slot 1
+N,7E0C0AE7+7E0C0B03,999 Max HP (Slot 1)
+N,7E0C8AE7+7E0C8B03,999 Max HP (Slot 2)
+N,7E0D0AE7+7E0D0B03,999 Max HP (Slot 3)
+N,7E0D8AE7+7E0D8B03,999 Max HP (Slot 4)
+N,7E0C0A47+7E0C0B71,999 Max HP, Character Slot 1
+N,7E075D80+7E075F80,Always Sprinting
+N,1086-87D6,Enemies Start with 0 HP
+N,7E0C1A44,First Character's Accessory
+N,7E0C1844,First Character's Armour
+N,7E0C0601+7E0C0700,First Character's Experience Left to 1
+N,7E0C1944,First Character's Helmet
+N,7E0C1785,First Character's Shield
+N,7E0C1690,First Character's Weapon
+N,7E0C1063,First Stat Is Maxed
+N,7E0C9063,First Stat Is Maxed (alt)
+N,7E0D9A44,Fourth Character's Accessory
+N,7E0D9844,Fourth Character's Armour
+N,7E0D8601+7E0D8700,Fourth Character's Experience Left to 1
+N,7E0D9944,Fourth Character's Helmet
+N,7E0D9744,Fourth Character's Shield
+N,7E0D9644,Fourth Character's Weapon
+N,7E0C1363,Fourth Stat Is Maxed
+N,7E0C9363,Fourth Stat Is Maxed (alt)
+N,DD3C-EF6C,Gain Several Levels After Battle
+N,8210-ED64,Infinite 'Items' Menu Usage
+N,820F-546F+8201-5D0D,Infinite Item Usage in Battle
+N,7E091B3F+7E091C42+7E091D0F+7E091E00,Infinite Ragu
+N,7E091B0F+7E091C42+7E091D3F,Max Out Party Gold
+N,7E0C1763,Maximizes Last Two Stats
+N,7E0C9763,Maximizes Last Two Stats (alt)
 N,DDED-7DD5,No Random Battles
-N,820F-546F,Inf. Item Usage In Btl (1/2)
-N,8201-5D0D,Inf. Item Usage In Btl (2/2)
-N,1086-87D6,Enemies Start With 0 HP
+N,7E0C9A44,Second Character's Accessory
+N,7E0C9844,Second Character's Armour
+N,7E0C8601+7E0C8700,Second Character's Experience Left to 1
+N,7E0C9944,Second Character's Helmet
+N,7E0C9744,Second Character's Shield
+N,7E0C9644,Second Character's Weapon
+N,7E0C1163,Second Stat Is Maxed
+N,7E0C9163,Second Stat Is Maxed (alt)
+N,DDF2-5467,Sell an Item in a Shop for 999999 Ragu
+N,7E0D1A44,Third Character's Accessory
+N,7E0D1844,Third Character's Armour
+N,7E0D0601+7E0D0700,Third Character's Experience Left to 1
+N,7E0D1944,Third Character's Helmet
+N,7E0D1744,Third Character's Shield
+N,7E0D1644,Third Character's Weapon
+N,7E0C1263,Third Stat Is Maxed
+N,7E0C9263,Third Stat Is Maxed (alt)
+N,D41A-57AD+FA12-5DDD+0F12-5D0D+DB12-5D6D,View Inventory to Enable Usable Warps
+N,CB13-5D0D+D113-5D6D+B213-5FAD+D613-540D,View the Inventory Option for 6 of All Items
+N,381A-57DD+2912-5FDD+B212-546D+F912-54AD+D612-57DD,View the Inventory Option for Completed Item Usage List
 N,6DD4-E7A5,Walk Through Walls
-N,D41A-57AD,Inventory = Usable Warps (1/4)
-N,FA12-5DDD,Inventory = Usable Warps (2/4)
-N,0F12-5D0D,Inventory = Usable Warps (3/4)
-N,DB12-5D6D,Inventory = Usable Warps (4/4)
-N,7E0C8AE7,999 Max HP (1/2)
-N,7E0C8B03,999 Max HP (2/2)
-N,7E0C88E7,999 Current HP (1/2)
-N,7E0C8903,999 Current HP (2/2)
-N,7E0C8DFF,255 Max MP
-N,7E0C8CFF,255 Current MP
-N,7E0C0AE7,999 Max HP (1/2)
-N,7E0C0B03,999 Max HP (2/2)
-N,7E0C08E7,999 Current HP (1/2)
-N,7E0C0903,999 Current HP (2/2)
-N,7E0C0DFF,255 Max MP
-N,7E0C0CFF,255 Current MP
-N,7E0D8AE7,999 Max HP (1/2)
-N,7E0D8B03,999 Max HP (2/2)
-N,7E0D88E7,999 Current HP (1/2)
-N,7E0D8903,999 Current HP (2/2)
-N,7E0D8DFF,255 Max MP
-N,7E0D8CFF,255 Current MP
-N,7E0D0AE7,999 Max HP (1/2)
-N,7E0D0B03,999 Max HP (2/2)
-N,7E0D08E7,999 Current HP (1/2)
-N,7E0D0903,999 Current HP (2/2)
-N,7E0D0DFF,255 Max MP
-N,7E0D0CFF,255 Current MP
-N,7E091B0F,Max Out Party Gold (1/3)
-N,7E091C42,Max Out Party Gold (2/3)
-N,7E091D3F,Max Out Party Gold (3/3)
-N,7E0C0601,1st Char's Exp Left To 1 (1/2)
-N,7E0C0700,1st Char's Exp Left To 1 (2/2)
-N,7E0C8601,2nd Char's Exp Left To 1 (1/2)
-N,7E0C8700,2nd Char's Exp Left To 1 (2/2)
-N,7E0D0601,3rd Char's Exp Left To 1 (1/2)
-N,7E0D0700,3rd Char's Exp Left To 1 (2/2)
-N,7E0D8601,4th Char's Exp Left To 1 (1/2)
-N,7E0D8700,4th Char's Exp Left To 1 (2/2)
-N,7E091B3F,Infinite Ragu (1/4)
-N,7E091C42,Infinite Ragu (2/4)
-N,7E091D0F,Infinite Ragu (3/4)
-N,7E091E00,Infinite Ragu (4/4)
-N,7E075D80,Always Sprinting (1/2)
-N,7E075F80,Always Sprinting (2/2)
-N,7E0C08E7,Infinite HP (Char 1) (1/2)
-N,7E0C0903,Infinite HP (Char 1) (2/2)
-N,7E0C1063,1st Stat Is Maxed
-N,7E0C1163,2nd Stat Is Maxed
-N,7E0C1263,3rd Stat Is Maxed
-N,7E0C1363,4th Stat Is Maxed
-N,7E0C1763,Max Last Two Stats
-N,7E0C88E7,Infinite HP (Char 2) (1/2)
-N,7E0C8903,Infinite HP (Char 2) (2/2)
-N,7E0C9063,1st Stat Is Maxed
-N,7E0C9163,2nd Stat Is Maxed
-N,7E0C9263,3rd Stat Is Maxed
-N,7E0C9363,4th Stat Is Maxed
-N,7E0C9763,Max Last Two Stats

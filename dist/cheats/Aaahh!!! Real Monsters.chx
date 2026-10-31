@@ -1,14 +1,34 @@
-N,7E29F254,Infinite Time (Seconds)
-N,7E29F309,Infinite Time (Minutes)
-N,7E0A50FF,Infinite Health P1
-N,7E0B4000,No Health P2
-N,009FD680,P1 Less Energy (Not Vs CPU)
-N,00A82E80,P2 Less Energy (Not Vs CPU)
-N,01C81760,Slower Timer
-N,01C96303,3 Points To The Next Power Level
-N,11C81F17,Faster Timer
-N,F5AF-D5A1,Faster Timer
-N,1DAF-DFA1,Slower Timer
-N,6DB2-AF67,P1 Starts With Less Energy
-N,6DC4-D764,P2 Starts With Less Energy
-N,D7A1-0DA1,3 Points To Next Power Level
+N,D7CE-6F6D,1-ups Worth 3
+N,D9CE-6F6D,1-ups Worth 5
+N,DDCE-6F6D,1-ups Worth Nothing
+N,7E13C809,9 Lives
+N,7E1EEC0A,9 Special Attacks
+N,7E13E69A,99 Fish Skeletons
+N,7E1C3001,Can't Jump
+N,7E073C01,Fat Monster Always Jumping
+N,4DC8-0FAF,Get 20 for Each Trash Bag
+N,88C8-0FAF,Get 100 for Each Trash Bag
+N,DDC8-0FAF,Get Nothing for Each Trash Bag
+N,82AA-0F04,Infinite Book
+N,C282-04A7,Infinite Energy
+N,C28E-DD67,Infinite Fish
+N,DD8E-4DD7,Infinite Garbage
+N,7E087A0D,Infinite Health
+N,7E0B7A0D,Infinite Health (alt)
+N,DDC0-3FDF,Infinite Lives
+N,C2C0-AF0F,Infinite Lives (alt)
+N,DDAA-1464,Infinite Scares
+N,7E0B24FF,Invincibility
+N,7E1419A1,Messed Up Graphics
+N,D4CA-AF0D,Monster Books Are Worth 2
+N,FDCA-AF0D,Monster Books Are Worth 10
+N,DDCA-AF0D,Monster Books Are Worth Nothing
+N,D4CB-A7DD,Most Health Power-Ups Worth More
+N,DDCB-A7DD,Most Health Power-Ups Worth Nothing
+N,DD69-37BF,Start with 0 Special Scares
+N,DFC7-17FC,Start with 1 Life
+N,DBC7-17FC,Start with 10 Lives
+N,FD69-37BF,Start with 10 Special Scares
+N,4D69-37BF,Start with 20 Special Scares
+N,0BC7-17FC,Start with 50 Lives
+N,7E073A01,Stick Monster Always Jumping

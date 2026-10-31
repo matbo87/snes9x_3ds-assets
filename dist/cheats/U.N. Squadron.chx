@@ -1,4 +1,25 @@
-N,7E00F303,continues
-N,7E00F63F,enable all
-N,7E00F701,no damage
-N,7E100808,lifebar
+N,DD88-6DDF,Can Buy Any Available Weapon
+N,DD85-0DDF,Can Buy Any Plane
+N,C931-07BF,Can Shoot Without Stopping
+N,7E00F63F,Enable All
+N,343F-ADDD+4D3F-AD0D+3435-A4AD+4D35-A7DD+1830-A79F,Hit Anywhere
+N,7E00F303,Infinite Continues
+N,7E00DD31,Infinite Conventional Bombs
+N,7E100809+7E103000+7E004800+7E005000,Infinite Health
+N,7E00F409,Infinite Lives
+N,7E00DD02,Infinite Mega Crush Weapons
+N,A98E-07D4,Infinite Money
+N,2238-A72F,Infinite Shots for All Weapons
+N,7E00DD14,Infinite Thunder Laser
+N,DD37-D76F+6D34-07FF,Invincibility
+N,DD37-D76F,Invincibility (alt)
+N,CB34-6FBD+6934-64FD+6D34-672D,Invincibility (alt 2)
+N,DDE5-A794,Max. Power/Level on Pickup
+N,7E00F701,No Damage
+N,7E00D901,P1 Loads of Money
+N,BD80-0DAD,Start with $9,000
+N,DF89-040D,Start with 1 Life and 1 Continue
+N,D989-040D,Start with 5 Lives and 5 Continues
+N,DB89-040D,Start with 9 Lives and 9 Continues
+N,BB80-04AD,Start with Max Cash
+N,DD80-0DAD,Start with No Money

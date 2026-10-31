@@ -1,53 +1,100 @@
-N,7E0BD805,Invincible
-N,7E0BFA18,Infinite Dash
-N,7E0BD808,Walk Through Enemies (On)
-N,7E0BD800,Walk Through Enemies (Off)
-N,7E0BCFFF,Infinite Health
-N,7E0C0C2C,Air Walker
-N,7E1F9A20,Max Health
-N,7E1F8009,Infinity Lives
 N,7E0E8F01,1 Shot Kills Everything
-N,7E1F83FF,Have Full Subtank 1
-N,7E1F84FF,Have Full Subtank 2
-N,7E1F85FF,Have Full Subtank 3
-N,7E1F86FF,Have Full Subtank 4
+N,7E0C0C2C,Air Walker
 N,7E1F990F,All Armor Upgrades
-N,7E0C0301,All Charge Shots Are Level 3
-N,69858194,Weapons
-N,7E0C1311,Infinite Energy
-N,7E0BBB01,Hyper Mega Man
-N,7E0BDD00,Shoot More Shots At A Time
+N,7E1F94FF,B. Cutter
+N,F039-1F6B,Big Energy Pellets Fill Your Energy Bar to Full After Pickup
+N,D08A-1FBC,Bogus Jump
+N,7E1F8A64,C. Sting
+N,7E0C2500,Can Fire More Charged Shots
+N,7E0C3500,Can Fire More Hadoukens
+N,7E0BDD00,Can Fire More Weak Shots
+N,D9EA-CD0D,Continue a Password Game with 5 Lives
+N,D9EC-C4AD,Continue a Password Game with 5 Lives [Rev 1]
+N,DBEA-CD0D,Continue a Password Game with 9 Lives
+N,DBEC-C4AD,Continue a Password Game with 9 Lives [Rev 1]
+N,D9BC-1407,Continue with 5 Lives
+N,D9BB-1DA7,Continue with 5 Lives [Rev 1]
+N,DBBC-1407,Continue with 9 Lives
+N,DBBB-1DA7,Continue with 9 Lives [Rev 1]
+N,DDB0-4FA1,Disable Weapon Charging
+N,7E1F92FF,E. Spark
+N,DDC2-4F60,Enable Hadoken
+N,C4C6-379D+DFC6-37BD,Enemies Always Drop Items
+N,C4CB-3DBD+DFCB-3D2D,Enemies Always Drop Items [Rev 1]
+N,7E1F8EFF,F. Wave
+N,7E0BBB01,Fast Animations
+N,D43C-4409,Get 9 Lives After Picking Up 1 Freeguy
+N,CBA3-4DA4+EEA3-4FD4+62A3-4F04,Get All Equipment When You Enter the Start Menu
+N,CBAA-4704+EEAA-4764+62AA-47A4,Get All Equipment When You Enter the Start Menu [Rev 1]
+N,7E1F88FF,H. Torpedo
+N,7E1F99FF,Have All Equipment
 N,7E1F7385,Have Hadoken
+N,7E0C0301,Have Max Level Shots
+N,7E1F9A20,Have Max Life Containers
+N,7E1F83FF,Have Sub-Tank 1, Full
+N,7E1F84FF,Have Sub-Tank 2, Full
+N,7E1F85FF,Have Sub-Tank 3, Full
+N,7E1F86FF,Have Sub-Tank 4, Full
+N,40B1-34F4,Hit Anywhere
+N,7E1F9664,I. Shotgun
+N,7E1F945C,Infinite B. Cutter [Rev 1]
+N,7E1F8A5C,Infinite C. Sting [Rev 1]
+N,7E0BFA18,Infinite Dash
+N,7E1F925C,Infinite E. Spark [Rev 1]
+N,7E0BCF10,Infinite Energy
+N,7E0C1311,Infinite Energy (alt)
+N,7E1F8E5C,Infinite Fire W. [Rev 1]
 N,7E0C2706,Infinite Hadoken
-N,80C8E3A9,Start Menu = All Equipm. (1/3)
-N,80C8E4FF,Start Menu = All Equipm. (2/3)
-N,80C8E58D,Start Menu = All Equipm. (3/3)
-N,DDBE-446F,Start With 1 Life
-N,D0BE-446F,Start With 5 Lives
-N,D1BE-446F,Start With 7 Lives
-N,DBBE-446F,Start With 10 Lives
-N,C2B9-3404,Infinite Lives
-N,D6BE-47AF,Start With Less Energy
-N,4DBE-47AF,Start With More Energy
-N,C2B9-1FF7,Infinite Energy
-N,6DB5-CD97,Kill Most Enemies In 1 Shot
-N,23BD-3F07,All Defeated (Except Sigma)
-N,C9B3-4769,Infinite Weapons Energy
+N,7E1F885C,Infinite Homing T. [Rev 1]
+N,7E1F8009,Infinite Lives
+N,7E1F8C5C,Infinite R. Shield [Rev 1]
+N,CDB3-4769,Infinite R. Shield Energy
+N,7E122801,Infinite Repeat Shot (All Weapons)
+N,7E1F965C,Infinite S. Ice [Rev 1]
+N,7E1F905C,Infinite Storm T. [Rev 1]
+N,C9BE-44D9,Infinite Weapons [Rev 1]
+N,C9B3-4769,Infinite Weapons Once You Have Them
+N,DBB6-4D61,Instant Level 3 Shot When Y Is Being Held
+N,7E0BD805,Invincibility
+N,6DB3-4724,Invincibility Against Spikes
+N,4065-1F09+E465-17A9+B966-1DD9,Jump in Midair
+N,4065-17A9+EA66-1409+B966-1469,Jump in Midair [Rev 1]
+N,9C6C-C4A9,Longer Invincibility After Being Hit
+N,9C68-CF09,Longer Invincibility After Being Hit [Rev 1]
+N,DD8A-1FBC,Low Jump
+N,DDC3-4DD0,May Do Hadouken Anytime; Even in Midair and Multiple Times [Rev 1]
+N,DB8A-1FBC,Mega-Jump
+N,6DB5-CD97,Most Enemies Are Defeated with One Shot
+N,6DB5-CFB7,One Hit Kill [Rev 1]
+N,7E1F8C64,R. Shield
+N,7E00CB00+7E00CC00+7E00CD00,RGB Background
 N,DE8A-1FBC,Rocket Jump
-N,CDB3-4769,Unlimited R. Shield Energy
-N,DFBE-47AF,Little Energy
-N,DFB5-CD97,Bad Guys Have Infinite Energy
-N,DFB1-CD97,New Sounds
-N,XXBC-4F01,The Ultimate Code!!!
-N,DBB6-4D61,Instant Shot Charge 
-N,D7B6-4D61,Simultanious Big & Small Shots
-N,DAB6-4D61,Holding Y Freezes Screen
-N,F039-1F6B,Big E. Pellets Heal Fully
-N,F039-176B,Small E. Pellets Heal Fully
-N,D43C-4409,1 Life Up = 9 Life Up
-N,F0BE-47AF,Start NG W/ Max Health
-N,63B1-146F,Start With All Equipment
-N,DDC3-4DD0,Do Hadouken Anytime
-N,CBA3-4DA4,Start Menu = All Equipm. (1/3)
-N,EEA3-4FD4,Start Menu = All Equipm. (2/3)
-N,62A3-4F04,Start Menu = All Equipm. (3/3)
+N,7E1F90FF,S. Tornado
+N,D7B6-4D61,Shoot Big Shots, Small Shots, and Very Small Shots Simultaniously
+N,F039-176B,Small Energy Pellets Fill Your Energy Bar to Full After Pickup
+N,F0BE-47AF,Start New Game with Max Health Bar
+N,00BF-3F07,Start Up Code #1
+N,2EBF-3F07,Start Up Codes #2
+N,CBBF-1D0F+63BF-1D6F+DDBF-1DAF+62BF-1FDF+67BF-1F0F,Start with 1 Energy Tank
+N,DDBE-446F,Start with 1 Life
+N,D0BE-446F,Start with 5 Lives
+N,D9BE-446F,Start with 5 Lives [Rev 1]
+N,D1BE-446F,Start with 7 Lives
+N,DBBE-446F,Start with 9 Lives
+N,63B1-146F,Start with All Equipment (Helmet, Armor, Charge Level 3, Dash)
+N,23BD-3F07,Start with All Weapons and All Enemies Defeated [Except Sigma]
+N,D6BE-47AF,Start with Less Energy
+N,4DBE-47AF,Start with More Energy
+N,D58A-1FBC,Super Jump
+N,3BB9-1D97+D4B9-1DB7+3CB9-1D27,Take Less Damage
+N,3BB9-1FB7+D4B9-1F27+3CB9-14F7,Take Less Damage [Rev 1]
+N,3BB9-1D97+DFB9-1DB7+3CB9-1D27,Take Much Less Damage
+N,3BB9-1FB7+DFB9-1F27+3CB9-14F7,Take Much Less Damage [Rev 1]
+N,DDBC-4F01,The Ultimate Code!!!
+N,EE8A-1FBC,Tiny Jump
+N,5E8A-1FBC,Ultra Jump
+N,7E0BD808,Walk Through Enemies (Take No Damage)
+N,7E0BD800,Walk Through Enemies Off (Use When You Can't Enter Boss Doors, Etc.)
+N,BDBC-472D+C9B4-3DFD,Walk Through Walls
+N,3CBE-3FFD+69BF-44BF+C23F-1F0D+C22F-446C,Walk Through Walls (alt)
+N,C9BD-4769,When Moving and Shooting, Get Different Animations

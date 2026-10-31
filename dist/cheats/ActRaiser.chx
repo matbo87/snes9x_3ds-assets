@@ -1,5 +1,90 @@
-N,7E001D08,Infinite Health
+N,7E02F82F,255 Magic Points
+N,7F9F007F,Aitos Can Grow
+N,7E026700,Aitos Offering 1
+N,7E026800,Aitos Offering 2
+N,B38B-07D3,All Monster Lairs Always Empty
+N,2264-6FD4,Almost Invincible in Action Sequences
+N,7E028600,Angel HP
+N,7E0B0900,Angel Invincibility
+N,7E0B0911,Angel Invincible
+N,7E0AFB00,Angel Power
+N,7E028200,Angel SP
+N,7E033602,Auto Select (Professional Mode)
+N,7E001D00,Avatar HP
+N,7E08C600,Avatar Invincibility
+N,7E08D100,Avatar Invincibility 2
+N,7E002100,Avatar MP
+N,7E00E400,Avatar Sword Wave
+N,7F9EFC7F,Bloodpool Can Grow
+N,7E025500,Bloodpool Offering 1
+N,7E025600,Bloodpool Offering 2
+N,7E08C949,Crazy Walk
+N,4D65-DF0F+9F65-DF6F+6F65-DFAF+D861-070D,Debug Mode
+N,EE81-6DD8,Die with One Hit
+N,2267-6DD4,Eliminate Any Enemy with a Touch
+N,4063-6F64+4063-6D04+4062-6F64+6D6A-64D4+6D68-6464,Enemies Continually Hit Anywhere
+N,7E02AC00,Equipped Magic
+N,FD86-D4A8,Faster Timer
+N,7F9EFA7F,Fillmore Can Grow
+N,7E024C00,Fillmore Offering 1
+N,7E024D00,Fillmore Offering 2
+N,7E001C08,Gives You 9 Lives in the Battle Scenes [Switch Off at the End to Continue]
+N,7E02AC04,Have Call for Power as Selected Magic
+N,7E02AC03,Have Energy Balls as Selected Magic
+N,7E02AC01,Have Fireball as Selected Magic
+N,69C4-AF6C+62C4-A7DC+CBC4-A46C,Have Magic Spell & 24 MP in Professional Mode
+N,7E02AC02,Have Star Rain as Selected Magic
+N,7E00E480,Have Sword Shot
+N,7E001D18,Infinite Body HP
+N,F781-6DD8,Infinite Energy
+N,7E001D0B,Infinite Energy in Battle Scenes
+N,7E028608,Infinite Energy in Sim Mode
+N,7E001D22,Infinite Health
+N,7E001D0D,Infinite Health (Not Invincible)
+N,7E001D08,Infinite Health in Action Mode
 N,7E001C09,Infinite Lives
-N,7E00E600,Infinite Time (1/2)
-N,7E00E703,Infinite Time (2/2)
-N,7E0BCC00,Bosses 1-Hit Deaths
+N,7E002105,Infinite Magic
+N,7E00210A,Infinite Magic Points
+N,C9BD-6467,Infinite MP
+N,7E0282FF,Infinite SP
+N,CEA5-6DA3,Infinite Spell Points
+N,7E00E702,Infinite Time
+N,7E00E709,Infinite Time (alt)
+N,7E00E600+7E00E703,Infinite Time (alt 2)
+N,7E00E699,Infinite Time (alt 3)
+N,7E00E686+7E00E702,Infinite Time in Battle (Turn Off After Each Boss)
+N,7E08C61E,Invincibility
+N,3C64-DFD4+CB64-DF04+D664-6F64,Invincibility (alt)
+N,7E08C602,Invincible in Action Mode(Can Walk Through Enemies and on Spikes)
+N,7E08BC01,Jump to Rise into Sky
+N,7F9EFE7F,Kasandora Can Grow
+N,7E025E00,Kasandora Offering 1
+N,7E025F00,Kasandora Offering 2
+N,B36D-ADD4,Kill Bosses with 2 Hits, Enemies with 1 Hit
+N,7F9F027F,Marahna Can Grow
+N,7E027000,Marahna Offering 1
+N,7E027100,Marahna Offering 2
+N,7E001C98,Max. 99 Lives
+N,7E001E18,Max. Body HP
+N,7F96D000+7F96D200+7F96D400+7F96D600,Monster Lairs Empty in Aitos
+N,7F96C000+7F96C200+7F96C400+7F96C600,Monster Lairs Empty in Bloodpool
+N,7F96B800+7F96BA00+7F96BC00+7F96BE00,Monster Lairs Empty in Fillmore
+N,7F96C800+7F96CA00+7F96CC00+7F96CE00,Monster Lairs Empty in Kasandora
+N,7F96D800+7F96DA00+7F96DC00+7F96DE00,Monster Lairs Empty in Marahna
+N,7F96E000+7F96E200+7F96E400+7F96E600,Monster Lairs Empty in Northwall
+N,7F9F047F,Northwall Can Grow
+N,7E027900,Northwall Offering 1
+N,7E027A00,Northwall Offering 2
+N,7E0BCC00,One Hit Kills Bosses
+N,9D86-D4A8,Slower Timer
+N,D081-6DD8,Start with 1/2 Energy [1st Game Only]
+N,CC62-DF6B,Start with 86 Lives in Action Sequences
+N,EC85-6D68,Start with 250 Spell Points in RPG Sequences
+N,FF81-6DD8,Start with More Energy
+N,DD8B-D4D8,Stop Timer
+N,7E0218FF,Super Population Growth
+N,2260-6DD4,Sword Is Useless
+N,7E00E600,Time Left in Level
+N,DD60-07A2,Towns Always Able to Grow
+N,DD60-DD0D,Unlock Action Mode
+N,DD67-D7AD,Unlock Professional Mode

@@ -1,10 +1,27 @@
-N,7E021801,Invincibility
-N,7E029200,no weapon usage
-N,7E10EC05,start on stage 6
-N,7E02CE3F,Unl. "angry mode"
-N,7E023F09,Unlimited lives
-N,7E10F509,Unl. continues
-N,7E135C09,Continue clock = 9
-N,7E0558FF,1 hit kills foes
-N,7E0488FF,1 hit kills foes 2
-N,7E03B8FF,1 hit kills foes 3
+N,7E024F03,Always "Angry" (P1)
+N,7E031F03,Always "Angry" (P2)
+N,DD6A-AD61,Full Energy from All Food
+N,6DB6-69EA+F9B6-617A,Hit Anywhere
+N,7E10F505,Infinite Continues
+N,C965-DDDC,Infinite Energy
+N,7E0217FF,Infinite Health (P1)
+N,7E02E7FF,Infinite Health (P2)
+N,C96C-0DAC,Infinite Lives
+N,7E023F09,Infinite Lives (P1)
+N,7E030F09,Infinite Lives (P2)
+N,7E022470,Infinite Points (P1)
+N,7E02F470,Infinite Points (P2)
+N,C2BF-D0EB,Invincibility
+N,7E0208FF,Invincible (P1)
+N,7E02D8FF,Invincible (P2)
+N,7E048700+7E055700+7E024F00+7E03B700,Lower All Enemy Health
+N,DD62-A7A6,No Score Lost When Special Attack Is Used
+N,CBBD-A9EA+5EBD-A17A+3CBD-A15A+CBBE-A1EA+5EBE-A57A+3CBE-A55A,One Hit Kill
+N,7E012020,Stage Select
+N,DFB0-DF07,Start with 1 Continue
+N,DDB7-D4A7,Start with 1 Life
+N,D5B7-D4A7,Start with 8 Lives
+N,DBB0-DF07,Start with 9 Continues
+N,FEC4-0D6F+FE64-646C+FE63-04A7+FE68-A7A1,Start with Less Energy
+N,EE64-646C+EE63-04A7+EE68-A7A1,Start with More Energy
+N,EE63-04A7+EEC4-0D6F+EE68-A7A1+EE64-646C,Start with More Energy (alt)

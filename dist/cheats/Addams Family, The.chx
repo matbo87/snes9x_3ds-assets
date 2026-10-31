@@ -1,3 +1,45 @@
-N,00CF6B00,Infinite lives
-N,00CF3AEA,Invincibility
-N,00A41325,Each $ worth 25
+N,7E00EEFF,Always Have Fencing Sword
+N,7E00EFFF,Always Have Golf Ball
+N,7E00EF01,Always Throw Balls
+N,7EE9ECFF+7E012E64,Blue Marbles
+N,7E00F600,Bosses Die in One Hit
+N,DD87-0FA7,Double Jump
+N,D9CF-DDAF,Each $ Worth 5
+N,FDCF-DDAF,Each $ Worth 10
+N,49CF-DDAF,Each $ Worth 25
+N,BBB8-6F09,Fast
+N,7E00C305,Full Hearts
+N,6DAC-6FDD,Have Flying Hat
+N,7E00EE01,Have Foil (Sword)
+N,7E0064FF,Have Spinning Hat
+N,C9A7-A4A7,Infinite Energy
+N,7E00C303,Infinite Health
+N,7E00AC99,Infinite Lives
+N,7E00C302+00816501,Invincibility
+N,7E00C600,Invincibility (alt)
+N,7E00C5FF,Invincible ("Starman" Effect)
+N,7E00C6FF,Invincible (Invisible Effect)
+N,3CAD-A4D4,Invisible Gomez
+N,7E00AC09,Lives Mod
+N,7EE9EDFF+7E013064,Magic Seeds
+N,7E00AB99,Max Money
+N,7E0084FF,Right Turbo
+N,7E00A999,Score More Points
+N,7EE9EBFF+7E012C64,Small Rocks
+N,DF61-0F0D+DF61-0F6D,Start with 1 Heart Instead of 2
+N,DF61-0F6D+D761-0F0D,Start with 1 Heart Instead of 2 (alt)
+N,DFB8-6F04,Start with 1 Life Instead of 5
+N,D761-0F0D+D761-0F6D,Start with 3 Hearts
+N,D761-0F6D+D061-0F0D,Start with 3 Hearts (alt)
+N,D7B8-6F04,Start with 3 Lives
+N,D061-0F0D+D061-0F6D,Start with 4 Hearts
+N,D061-0F6D+D961-0F0D,Start with 4 Hearts (alt)
+N,D961-0F0D+D961-0F6D,Start with 5 Hearts
+N,D961-0F6D+60BA-6704,Start with 5 Hearts (alt)
+N,DBB8-6F04,Start with 9 Lives
+N,4DB8-6F04,Start with 20 Lives
+N,9DB8-6F04,Start with 50 Lives
+N,BBB8-6F04,Start with 99 Lives
+N,3CAD-A46D+60BA-6704,Start with and Keep Fezi-Copter Flying Abilities
+N,3CAD-A46D,Start with and Keep Fezi-Copter Flying Abilities (alt)
+N,7EE9EEFF+7E013264,Swamp Slime

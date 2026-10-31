@@ -1,43 +1,50 @@
-N,7E02EB00,Infinite Health
-N,7E02A30,Infinite Lives
-N,7E028B20,Infinite Ammo (1/3)
-N,7E029520,Infinite Ammo (2/3)
-N,7E029F20,Infinite Ammo (3/3)
-N,7E00F0EF,Generator On
+N,7E54005A+7E540101,Bridge - Infront of Building (Entrance to Jurassic Park)
+N,7E54045A+7E540501,Bridge - Left Side of Building
+N,7E54085A+7E540901,Bridge - Right Side of Building (Across the River)
+N,EDEA-4767,Cattle Prod Energy Recharges to 1/2 Full When Inside
+N,FD82-CFAD,Cattle Prod Energy Recharges to About 1/2 Full When Outside
+N,D682-CFAD,Cattle Prod Energy Recharges to About 1/4 Full When Outside
+N,F682-CFAD,Cattle Prod Energy Recharges to About 3/4 Full When Outside
 N,7E026EFF,Computer Booted Up
-N,7E02FEB0,Infinite Health
-N,80AF99AD,Inf. 1st Weapons Outside
-N,80B053BD,Inf. 2nd Weapons Outside
-N,80B27EAD,Infi. Cattle Prod E. Outside
-N,8180CDAD,Infinite Lives
-N,8192A304,Continue 1st Time 5 Lives
-N,8192B8AD,Infi. Continues With 4 Lives
-N,81D7EA01,Start With 1 Egg Needed
-N,A1AB84AD,Inf. 2nd Weapons Inside
-N,A1BCD6AD,Inf. Cattle Prod E. Inside
-N,A1AF2AEA,Inf. 1st Weapons Inside (1/2)
-N,A1AFC0EA,Inf. 1st Weapons Inside (2/2)
-N,7E0296:01,Have Bolas Snare
-N,7E028C:01,Have Shotgun Shells
-N,7E0E0F:00,Have All 18 Eggs (1/2)
-N,7E0E10:00,Have All 18 Eggs (2/2)
-N,7E026B:01,Generator Already Turned-On
-N,7E0287:08,Motion Sensors On
-N,7E0206:09,Max Points (1/4)
-N,7E0205:09,Max Points (2/4)
-N,7E0204:09,Max Points (3/4)
-N,7E0203:09,Max Points (4/4)
-N,7E2069:01,Battery Charged (Night Vision)
-N,7E0265:01,Have Level 1 Security Card
-N,7E0267:01,Have Level 2 Security Card
-N,C26A-4700,Infinite Lives
-N,C285-C76D,Inf. Cattle Prod E. Outside
-N,C2CB-3407,Inf. 1st Weapons Outside
-N,8289-4DAD,Inf. 2nd Weapons Outside
-N,C282-4B65,Inf. Cattle Prod E.Inside
-N,3CC4-3C65,Inf. 1st Weapons Inside (1/2)
-N,3CCA-36D5,Inf. 1st Weapons Inside (2/2)
-N,C2C6-3BD1,Inf. 2nd Weapons Inside
-N,C2B8-C4D0,Inf. Continues With 4 Lives
-N,D0BC-CDA0,Continue 1st Time With 5 Lives
-N,DF23-3469,Start With 1 Egg Needed
+N,D0BC-CDA0,Continue 1st Time with 5 Lives
+N,D0BC-C7D0,Continue with 5 Lives After 1st Continue
+N,7E026001,Dennis Nedry
+N,7E4B9B00,Die in 1 Hit
+N,7E025B01,Donald Gennaro
+N,7E025901,Dr. Allen Grant
+N,7E025501,Dr. Ellie Sattler
+N,7E026101,Dr. Henry Wu
+N,7E026301,Dr. Ian Malcolm
+N,7E53F49D+7E53F501,Gate 1 Always Opened
+N,7E53F89D+7E53F901,Gate 2 Always Opened
+N,7E53FC9D+7E53FD01,Gate 3 Always Opened
+N,7E026B01,Generator Already Turned-On
+N,7E00F0EF,Generator on
+N,7E0E0F00+7E0E1000,Have All 18 Eggs
+N,7E029601,Have Bolas Snare
+N,7E026501,Have Level 1 Security Card
+N,7E026701,Have Level 2 Security Card
+N,7E025E01,Have Ray Arnold I.D. Cards
+N,7E025701,Have Robert Muldoon I.D. Cards
+N,7E028C01,Have Shotgun Shells
+N,3CC4-3C65+3CCA-36D5,Infinite 1st Weapons When Inside
+N,C2CB-3407,Infinite 1st Weapons When Outside
+N,C2C6-3BD1,Infinite 2nd Weapons When Inside [Except Gas Grenade]
+N,8289-4DAD,Infinite 2nd Weapons When Outside [Except Gas Grenade]
+N,7E028B20+7E029520+7E029F20,Infinite Ammo for All Weapons
+N,C282-4B65,Infinite Cattle Prod Energy When Inside
+N,C285-C76D,Infinite Cattle Prod Energy When Outside
+N,C2B8-C4D0,Infinite Continues with 4 Lives
+N,7E02EB00,Infinite Health
+N,7E02A300,Infinite Lives
+N,7E025301,John Hammond
+N,7E6ED515,Long Weird Jump
+N,7E020609+7E020509+7E020409+7E020309,Max Points
+N,7E028708,Motion Sensors on
+N,7E206901,Night Vision Goggle Battery Always Charged
+N,DF23-3469,Start with 1 Egg Needed
+N,DF2E-3DD9,Start with 2 Lives
+N,D72E-3DD9,Start with 4 Lives
+N,7E6AEB00,Super Jump
+N,6DC5-4464+6DC6-4F04,Walk Through Walls
+N,6DC6-4764+6DCD-1DD4,Walk Through Walls [Rev 1]

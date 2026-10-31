@@ -1,14 +1,40 @@
-N,7E064239,Infinite Health P1
-N,7E064439,Infinite Health P2
-N,7E021E01,Infinite Time Out Of Rings P1
-N,7E022001,Infinite Time Out Of Rings P2
-N,7E064200,Lose Energy Quickly P1
-N,7E064400,Lose Energy Quickly P2
-N,7E022400,Can't Be Pinned P1
-N,7E022600,Can't Be Pinned P2
-N,BEED-1DDD,Running Attacks Don't Hurt
-N,6BED-1DDD,Fall Down Hurt If You Press Y
-N,6EED-1DDD,Quake Kills Anyone Who Moves
 N,2EED-1DDD,All Wrestlers Stop
 N,3EED-1DDD,All Wrestlers Stop #2
 N,8EED-1DDD,All Wrestlers Stop #3
+N,6EED-1DDD,An Earthquake Kills Anyone Who Moves (Until You Turn Off the Game Genie)
+N,7E022400,Can't Be Pinned P1
+N,7E022600,Can't Be Pinned P2
+N,BEED-1DDD,Can't Hurt Opponent with Running Attacks
+N,7E00B201,CPU Doesn't Always Kick Out of Pins / Easy Grapple Win
+N,7E00CE01,CPU Stands Still Most of the Time
+N,7E077101,Dark Arena
+N,7E00B001,Discolored Graphics (Greenish)
+N,7E000801,Easier Grapple Wins
+N,7E092C01,Enable 2-Punch KO Cheat
+N,7E00CC01,Extremely Hard to Beat the CPU in a Grapple
+N,6BED-1DDD,Fall Down Hurt If You Press Y
+N,7E00F801,Game / Theme Music Plays Constantly During Character Select
+N,7E0871FF,Grapple Meter Always Flashes Green in a Royal Rumble
+N,7E01C701,Grapple Meter Is Green & Pink
+N,7E064239,Infinite Health P1
+N,7E064439,Infinite Health P2
+N,7E021E01,Infinite Time Out of Ring P1
+N,7E022001,Infinite Time Out of Ring P2
+N,7E064200,Lose Energy Quickly P1
+N,7E064400,Lose Energy Quickly P2
+N,7E00B801,Match Ends Instantly
+N,7E001501,Messes the Referee's Count Up
+N,7E01B801,No Grapple Meter
+N,7E022701,No Out of Ring Count for P1
+N,7E022901,No Out of Ring Count for P2
+N,7E009801,No SFX & No Music
+N,7E001602,Only Two People Allowed in the Ring at a Time
+N,7E00C800,P1 Is Immune to Strike Attacks / Can't Pick Up Steel Chair
+N,7E06DEFF+7E06DF02+7E06E000,P1 Max Grapple Meter
+N,5EED-1DDD,Partners and Opponents Stay Outside on the Floor (Most of the Time)
+N,7E00DC01,Pinfalls Are Disabled
+N,7E00C601,Ref Is Always "Up"
+N,7E07B101,Rematch Option Is Always Available
+N,7E00E401,Royal Rumble Rules Are Always on
+N,7E00FA01,Theme Music Doesn't Play During Character Selection Screen
+N,7E00F801+7E00FA01,Wrestler's Theme Plays Instantly Once You See His Picture

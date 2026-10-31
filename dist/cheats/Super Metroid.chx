@@ -1,21 +1,189 @@
-N,7E09C6FA,missle
-N,7E09CA63,s missle
-N,7E09A2FF,suit
-N,7E09A3FF,suit
-N,7E09A60B,suit
-N,7E09A710,suit
-N,7E09CE63,p bomb
-N,7E0A7780,Hyper Beam!!
-N,7E0B3F04,Always hyper run
-N,7E0A6E02,Always hyper run
-N,7E094650,Escape Time
-N,7E0ACC01,Always Power Jump
-N,-7E57E600,Select start point
-N,-7E575080,Select start point
-N,7E100D00,metroids health
-N,7E09C2FF,Health
-N,7E09C300,Health
-N,7E09D690,Reserve Energy
-N,7E09D701,Reserve Energy
-N,7E09C478,Tanks
-N,7E09C505,Tanks
+N,7E09E000,0 Hours Played
+N,D9D7-FE6D,5 Max Super Bombs
+N,D9D7-F36D,5 Max Super Missiles
+N,DCD7-F26D,10 Max Missiles
+N,DCD7-FE6D,10 Max Super Bombs
+N,DCD7-F36D,10 Max Super Missiles
+N,FBD7-F26D,25 Max Missiles
+N,FBD7-FE6D,25 Max Super Bombs
+N,FBD7-F36D,25 Max Super Missiles
+N,74D7-F26D,50 Max Missiles
+N,74D7-FE6D,50 Max Super Bombs
+N,74D7-F36D,50 Max Super Missiles
+N,08D7-F26D,75 Max Missiles
+N,10D7-F26D,100 Max Missiles
+N,52D7-F26D,125 Max Missiles
+N,B1D7-F26D,150 Max Missiles
+N,CED7-F26D,175 Max Missiles
+N,A6D7-F26D,200 Max Missiles
+N,1AB5-3567,A Spinning Jump to the Left or Right Is Super Fast
+N,A237-1001,A Spinning Jump Will Cause Samus to Stay Spinning Forever
+N,E7DF-FAAD+E7DF-FA0D,Add All Boots, Bomb, Grapple, X-ray
+N,D0DF-FA6D,Add Ball
+N,D9DF-FA6D,Add Ball and Varia Suit
+N,D5DF-FA6D,Add Ball, Varia Suit, Spring Ball
+N,45DF-FA6D,Add Ball, Varia Suit, Spring Ball, Gravity Suit
+N,4EDF-FA6D,Add Ball, Varia Suit, Spring Ball, Screw Attack, Gravity Suit
+N,FDDF-FAAD,Add Bomb
+N,FFDF-FAAD,Add Bomb and Hi-Jump Boots
+N,77DF-FAAD,Add Bomb, All Boots
+N,7FDF-FAAD,Add Bomb, Hi-Jump Boots and Speed Boots
+N,FDDF-F2AD,Add Charge Beam
+N,6DDF-FAAD+6DDF-FA0D,Add X-ray
+N,BDDF-FAAD+BDDF-FA0D,Add X-ray and Bomb
+N,ADDF-FAAD+ADDF-FA0D,Add X-ray and Grapple
+N,2DDF-FAAD+2DDF-FA0D,Add X-ray, Grapple, Bomb
+N,6DB9-409F+6DBF-412F,All Doors Open
+N,DC34-C5D4,All Hazards Are Harmless
+N,4039-C504,Allow Space Station Inventory Access
+N,C288-C5A7,Almost Infinite Missiles
+N,3CA4-450D,Almost Infinite Super Bombs
+N,C28A-C9D7,Almost Infinite Super Missiles
+N,CB38-C498+D438-C4B8+DD38-C428,Always Drop Item Modifier
+N,7E0B3F04+7E0A6E02,Always Hyper Run
+N,6D8F-14FF,Avoid Sinking in Maridia Sand
+N,7E19140F,Backgrounds Move Faster(The Ones That Already Move, That Is.)
+N,7E005100,Brightness Control
+N,EED9-930D,Brinstar Is Already Mapped Out
+N,7ED909FF,Brinstar Mapped
+N,7ED820C1+7ED8211F,Can Access Tourian from Sunken Statues Room
+N,DEB1-356D,Charge Space Jump While Running in Place
+N,EED9-93DD,Crateria Is Already Mapped Out
+N,7ED908FF,Crateria Mapped
+N,C223-45AD,Diagonal Super Jump Flies Horizontally
+N,C223-45DD,Diagonal Super Jump Flies Straight Up
+N,F036-C964,Disable Low Health Alarm
+N,DFDB-1104,Disable SFX
+N,CBA8-444F+EEA8-441F+EEA8-44CF,Disable Water
+N,C26E-41DD+1A39-4007+62B1-49A7,Disable Water Physics
+N,6DB5-47AB+6DB3-47AB+CB6C-176F,Display Entire Map
+N,43B8-416D,Do a Spinning Jump to the Left or Right and Samus Will Stay Spinning in the Air
+N,C22E-450D,Don't Lose Power from the Diagonal Super Jump
+N,C224-110D,Don't Lose Power from the Horizontal Super Jump
+N,38A4-450D,Drop One Power Bomb and You Will Gain Hundreds!
+N,BACE-15D7+DDB7-46A4,Easier Bomb Jumping
+N,68B7-C5D7+68BD-C967+DDB9-15D7,Easier Wall Jump
+N,6DCC-4BDF+6DC3-4B6D+FCC3-4BAD+18CB-3C1F+D18F-3601+1825-1B4D,Enemies Die When You Get Close to Them
+N,6DCC-4BDF+6DBF-3BA4+40BF-3CD4+18BB-46F2+D18F-3601+1825-1B4D+1826-38D6,Enemies Die When You Get Close to Them (alt)
+N,8D88-C5A7,Firing Missiles Uses Super Missiles; at 0 Super Missiles You Gain Hundreds
+N,6D8F-14FF+DDBF-4504,Full Movement Speed in Maridia Sand
+N,402B-3DB7+402E-3FF7,Get All Items in Current Room
+N,5122-1100,Get Hyper Beam After Using X-Ray Scope
+N,D7DF-F26D,Get Ice and Wave Beams
+N,D5DF-F26D,Get Ice, Wave, and Spazer Beam
+N,DEDF-F26D,Get Ice, Wave, Spazer, and Plasma Beams
+N,7E09D164,Get Super Bombs at the Same You Get Normal Bombs at Start of Game
+N,DFDF-F26D,Get Wave Beam
+N,7E09A3C0,Grapple and X-Ray
+N,7E09A5FF,Have All Boots and Bombs
+N,7E09A8FF,Have All Guns Minus the Charge Beam
+N,7E09A4FF,Have All Suits and Misc Items
+N,7E09A310+7E09A510,Have Bomb
+N,7E09A9FF,Have Charge Beam
+N,7E09A710+7E09A910,Have Charge Beam (alt)
+N,7E09C801,Have Missiles
+N,7E09A216+7E09A416,Have Morph Ball, Bomb, and Spring
+N,7E09A204+7E09A404,Have Morphing Ball
+N,7E09D001,Have Power Bomb
+N,7E09A604+7E09A804,Have Spazer
+N,7E09A616+7E09A816,Have Spazer and Ice
+N,6DCC-4BDF+6DC8-4CDF,Have Speed Booster Effect
+N,7E0ACC01,Have Super Charge at All Times
+N,7E09CC01,Have Super Missiles
+N,6DB1-3C6F+40C8-18DD+6DC2-1BDD,Hit Anywhere (Projectiles)
+N,DFBC-C067+DDBC-C567,Huge Jump Ability
+N,7E18A801,Immune to Enemy Attacks
+N,7E09CE63,Infinite 99 Super Bombs
+N,7E09C6E7+7E09C703,Infinite 999 Rockets
+N,7E09C263,Infinite Energy
+N,7E09C2DB+7E09C305,Infinite Life
+N,7E0A2300,Infinite Midair Spin Jumping
+N,A18E-C967,Infinite Missile and Super Missile Code
+N,7E09CE50,Infinite Power Bomb
+N,7E09CA50,Infinite Super Missiles
+N,7E094500+7E094600+7E094701,Infinite Time to Escape Ship
+N,7E05B6FF+7E18A8FF,Invincibility
+N,1DB4-16A4,Invincibility Projectiles
+N,6DB1-4194+6D62-C0B7+6D6B-C927,Invincibility Spikes
+N,7E0ACE2D,Invisible(Well, Almost!) When Speed Boosting/super Jumping.
+N,6DB8-39BF+6D3D-C5DF,Jump in Midair
+N,C933-C9A7+6333-C1D7+DC33-C107+BD33-C167+D033-C1A7+4433-C5D7+8A33-C507+B633-C567+BD33-C5A7,Jump in Midair - Button a
+N,C933-C9A7+6E33-C1D7+DC33-C107+BD33-C167+D033-C1A7+4433-C5D7+8A33-C507+B633-C567+BD33-C5A7,Jump in Midair - Button B
+N,DDB0-C9FF,Jump Through Ceilings
+N,7E0A6E0F,Kill Most Enemies on Contact
+N,74EA-D426,Large Energy Pick-Ups Will Restore 50 Energy Points (Instead of 20)
+N,17EA-D426,Large Energy Pick-Ups Will Restore 99 Energy Points (Instead of 20)
+N,7E0CD200,Lay Bombs Faster (Normal Bombs Only)
+N,EED9-9EDD,Maridia Is Already Mapped Out
+N,7ED90CFF,Maridia Mapped
+N,7E09D063,Max 99 Super Bombs
+N,7E09CC63,Max 99 Super Rockets
+N,7E09C8E7+7E09C903,Max 999 Rockets
+N,7E09C4DB+7E09C505,Max Life
+N,EED7-F2AD,Max Missile Number Is Extremely High
+N,EED7-FEAD,Max Super Bomb Number Is Extremely High
+N,EED7-F3AD,Max Super Missile Number Is Extremely High
+N,403F-38DE+6D34-3BAE,Metroids Can Be Killed Without Freezing Them
+N,DCE3-D496,Missile Pick-Ups Are Worth 10 Missiles (Instead of 2)
+N,74E3-D496,Missile Pick-Ups Are Worth 50 Missiles (Instead of 2)
+N,C281-C5A7,Missiles Shoot Very Fast
+N,7E0B2D44+7E0B2E01,Moon Jump
+N,7E0ABC0F,Never-Ending Super Jump (Turn Off to Land)
+N,C225-3005,No Energy Loss from Enemies
+N,016E-3D67,No Music.
+N,EED9-936D,Norfair Is Already Mapped Out
+N,7ED90AFF,Norfair Mapped
+N,40C1-CC0F+40C1-4CA4,One Hit Kills
+N,9869-406D,One Legged Jump, Samus Jumps on One Leg
+N,7E03850F,Only One Samus Follows When Speed Boosting.
+N,D9E2-D4B6,Power Bomb Pick-Ups Are Worth 5 Power Bombs (Instead of Only 1)
+N,FBE2-D4B6,Power Bomb Pick-Ups Are Worth 25 Power Bombs (Instead of Only 1)
+N,4135-C1D4,Press Start to Beat the Game
+N,6FB6-CFAD,Red Superbomb Explosion
+N,D7CA-3D31+B2CE-3F11,Remove Hazards and Water
+N,7E09D690+7E09D701,Reserve Energy
+N,336B-146F,Reveals the Entire Map in All Areas and Makes It Pink
+N,6DC3-C82B,Ridley Instantly Retreats
+N,09BC-350F,Run Much Faster
+N,8F25-3005,Samus Dies in One Hit
+N,F4BC-C067,Samus Has a Higher Jump, but It's Difficult to Do the Space Jump with It on
+N,55BC-C567,See Around the Borders of the Screen
+N,12BC-44A7,See Backgrounds with X-Ray Scope
+N,DE6D-4FDD,Select Any Area When Loading a Saved Game
+N,DDCF-4461+6DCC-47A1,Select Area When Loading a Game [Press Right on Map Screen to Select]
+N,DDD0-FE6D,Set Hours Played to 0 [For Better Ending]
+N,7E0ACE0F,Shadow Samus When Speed Boosting.
+N,DD38-C4A8,Skip Intro and Start on Planet Zebes When Starting a New Game
+N,9463-C76C+BE63-C7AC+6DBE-C44A+6DBF-373A,Skip Intro Screens
+N,FBE8-D7F6,Small Energy Pick-Ups Will Restore 25 Energy Points (Instead of 5)
+N,17E8-D7F6,Small Energy Pick-Ups Will Restore 99 Energy Points (Instead of 5)
+N,56B0-450F,Spin Jump Keeps Samus Spinning in the Air (Variant)
+N,FB83-6400,Start a New Game with 25 Power Bombs
+N,FB83-6DD0,Start a New Game with 25 Super Missiles
+N,7483-6400,Start a New Game with 50 Power Bombs
+N,7483-6DD0,Start a New Game with 50 Super Missiles
+N,1783-6400,Start a New Game with 99 Power Bombs
+N,1783-6DD0,Start a New Game with 99 Super Missiles
+N,DF8A-67A0,Start a New Game with About 3 Energy Tanks
+N,D98A-67A0,Start a New Game with About 13 Energy Tanks
+N,E7D7-FAAD+DFD7-FA6D,Start with About 500 Energy Tanks
+N,88D7-FAAD+D4D7-FA6D,Start with About 700 Energy Tanks
+N,35D7-FAAD+D7D7-FA6D,Start with About 1000 Energy Tanks
+N,CED7-FAAD+D0D7-FA6D,Start with About 1200 Energy Tanks
+N,28D7-FAAD+D9D7-FA6D,Start with About 1500 Energy Tanks
+N,62C5-14A6,Start with Hyper Gun in Inventory
+N,C22A-456D,Super Jumps Don't Drain Energy
+N,D9EE-D4F6,Super Missile Pick-Ups Are Worth 5 Super Missiles (Instead of Only 1)
+N,FBEE-D4F6,Super Missile Pick-Ups Are Worth 25 Super Missiles (Instead of Only 1)
+N,CE6B-1FAF+D76B-146F,Switching Areas Fills Map
+N,EED9-9E0D,Tourian Is Already Mapped Out
+N,7ED90DFF,Tourian Mapped
+N,7E18A84C,Untouchable (Except for Acid and When Bosses Grab You)
+N,DFBC-C067,Very Slow Fall While in the Air
+N,DE65-174D,View All Hidden Blocks with X-ray Scope
+N,6DB4-39BF,Walk Through Walls
+N,DDB1-30DD,Walk Through Walls (alt)
+N,CEB7-CF6D,White X-Ray Beam (See Hidden Paths Easier)
+N,EED9-93AD,Wrecked Ship Is Already Mapped Out
+N,7ED90BFF,Wrecked Ship Mapped
+N,0F27-C1D0,X-Ray Beam Lasts Forever When Used, but Samus Can Still Turn Left and Right

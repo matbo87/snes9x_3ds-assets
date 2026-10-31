@@ -1,3 +1,33 @@
-N,7E071864,Energy
-N,7E00BC09,Change
-N,7E071A01,Enemy
+N,7E071A01+7E071C01+7E072001+7E071E01+7E072801+7E072201+7E072401+7E072601+7E072A01,1 Hit Most Robot Enemies
+N,F3BE-144B,2x Energy from Gamma Capsules
+N,D0B1-4FD0,4x Damage from Hulk's Head-Butt
+N,D0B7-44D0,4x Damage from Hulk's Upper Cut
+N,7E00BC09+7E071A01,Change Enemy Health
+N,8260-1465+C2E9-44DF,Don't Take Damage from Most Enemies
+N,C260-4746,Energy Doesn't Go Down When Hulked-Out
+N,DDB8-171B,Gamma Capsules Act as Mega-Gamma Capsules
+N,D0BC-173B,Get 4 Shots from Gun
+N,DBBC-173B,Get 9 Shots from Gun
+N,4DB0-1F4B,Get 20 Seconds from Time Icon
+N,F0BC-173B,Get 20 Shots from Gun
+N,0DB0-1F4B,Get 40 Seconds from Time Icon
+N,6DBF-17CB,Get Items from Anywhere
+N,3DB2-4700+DDB2-4760+DDB2-47A0+2DB3-4DD0+0AB3-4D00,Hit Anywhere
+N,7E07F186,Infinite Energy
+N,7E071863,Infinite Health
+N,7E00C009,Infinite Lives
+N,C96D-CDC6,Infinite Transformation Capsules Once Picked Up
+N,4DB5-4716+A3B5-47C6+66B5-4736,Jump in Midair
+N,DCB1-4FD0,MEGA Damage from Hulk's Head Butt
+N,DCB7-44D0,MEGA Damage from Hulk's Uppercut
+N,FB25-34A7+FB34-47AD,Mega-Jump [Sometimes]
+N,DDBF-47D0,One Hit Kills
+N,DDB2-1F0F,Start on Level 2
+N,4DB2-1F0F,Start on Level 3
+N,0DB2-1F0F,Start on Level 4
+N,6DB2-1F0F,Start on Level 5
+N,DFBD-CD6F,Start with 1 Life
+N,D1BD-CD6F,Start with 6 Lives
+N,DBBD-CD6F,Start with 9 Lives
+N,DA25-34A7+DA34-47AD,Super Jump [Sometimes]
+N,DDEF-4D0F+DD60-C4D5+DD69-C465,Untouchable

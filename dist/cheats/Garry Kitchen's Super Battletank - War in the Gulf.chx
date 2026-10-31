@@ -1,8 +1,19 @@
-N,7E006700,Invincible 
-N,7E049E42,120 MM Cannon
-N,7E04A001,Laser Missile
-N,7E04A101,Smoke
-N,7E04A296,Machine Gun
-N,7E05C4FF,Fuel
+N,7E049E42,120 MM Cannon [Rev 1]
+N,7E05C4FF,Fuel [Rev 1]
+N,7E049E03,Infinite Missiles
 N,4ABD-DDA4,Infinite Weapon Ammo
-N,C9AC-0D67,0 Dmg From Most Enemies/Mines
+N,7E04A001,Laser Missile [Rev 1]
+N,FB22-D7D4,Less Cannon Ammo on Each Mission
+N,482E-D4D4,Less Machine Gun Ammo on Stages 1 Through 4
+N,7E002501,Level 1 [Rev 1]
+N,7E04A296,Machine Gun [Rev 1]
+N,1022-D7D4,More Cannon Ammo on Each Mission
+N,D923-DF04,More Laser Shells on Each Mission
+N,EE2E-D4D4,More Machine Gun Ammo on Stages 1 Through 4
+N,D923-D7A4,More Smoke Screens on Each Mission
+N,DD23-DF04,No Laser Shells on Each Mission
+N,DD23-D7A4,No Smoke Screens on Each Mission
+N,7E006700,No Tank Damage [Rev 1]
+N,7E04A101,Smoke [Rev 1]
+N,7E002500,Starts You from Level X+2 (e.g. Enter 4 to Start from Level 6) [Rev 1]
+N,C9AC-0D67,Take No Damage from Most Enemies or Mines

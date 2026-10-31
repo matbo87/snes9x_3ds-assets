@@ -1,7 +1,6 @@
-N,7E1DE463,Missles
-N,7E1DE563,Rockets
-N,7E1DF663,Cannon
-N,7E121A63,Blasts
-N,7E120E0A,Lives
-N,7E039A3D,invincible
-N,7E118B32,invincible2
+N,7E121A63,Infinite Blasts
+N,7E1DE663,Infinite Cannon
+N,7E120E0A,Infinite Lives
+N,7E1DE463,Infinite Missiles
+N,7E1DE563,Infinite Rockets
+N,7E039A3D+7E118B32,Invincibility

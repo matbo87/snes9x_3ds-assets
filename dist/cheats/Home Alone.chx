@@ -1,7 +1,47 @@
-N,7E073703,Invincibility
-N,7E073F63,Unl.slingshot ammo
-N,7E074508,Pizza always full
-N,7E073D00,Level clear
-N,7E073663,Unlimited lives
-N,7E074063,Unl. baseballs
-N,7E074163,Unlimited gun ammo
+N,DF66-04A7,Extra Life with 1 Pizza Slice Instead of 8
+N,D466-04A7,Extra Life with 2 Pizza Slices
+N,D766-04A7,Extra Life with 3 Pizza Slices
+N,D066-04A7,Extra Life with 4 Pizza Slices
+N,D966-04A7,Extra Life with 5 Pizza Slices
+N,D166-04A7,Extra Life with 6 Pizza Slices
+N,D566-04A7,Extra Life with 7 Pizza Slices
+N,DD2A-A76F,Infinite Baseballs, Slingshot Ammo and Rifle Bullets
+N,DD21-DFD4,Infinite Lives
+N,C220-D464,Infinite Power
+N,DCA1-ADD4+FDA1-AD04,Jump in Midair
+N,DF23-A764,Need 1 Item [Instead of 24] to Complete Level 1
+N,DF23-A7A4,Need 1 Item [Instead of 30] to Complete Level 2
+N,DF2E-ADD4,Need 1 Item [Instead of 35] to Complete Level 3
+N,DF2E-AD04,Need 1 Item [Instead of 35] to Complete Level 4
+N,D923-A764,Need 5 Items to Complete Level 1
+N,D923-A7A4,Need 5 Items to Complete Level 2
+N,D92E-ADD4,Need 5 Items to Complete Level 3
+N,D92E-AD04,Need 5 Items to Complete Level 4
+N,FD23-A764,Need 10 Items to Complete Level 1
+N,FD23-A7A4,Need 10 Items to Complete Level 2
+N,FD2E-ADD4,Need 10 Items to Complete Level 3
+N,FD2E-AD04,Need 10 Items to Complete Level 4
+N,F923-A764,Need 15 Items to Complete Level 1
+N,F923-A7A4,Need 15 Items to Complete Level 2
+N,F92E-ADD4,Need 15 Items to Complete Level 3
+N,F92E-AD04,Need 15 Items to Complete Level 4
+N,4D23-A764,Need 20 Items to Complete Level 1
+N,4D23-A7A4,Need 20 Items to Complete Level 2
+N,4D2E-ADD4,Need 20 Items to Complete Level 3
+N,4D2E-AD04,Need 20 Items to Complete Level 4
+N,4923-A7A4,Need 25 Items to Complete Level 2
+N,492E-ADD4,Need 25 Items to Complete Level 3
+N,492E-AD04,Need 25 Items to Complete Level 4
+N,3DB1-07D5,Power Boost on Jumps
+N,DF69-DFAD+AB69-D40D+D769-D46D,Start on Level 2
+N,D469-DFAD+AB69-D40D+D769-D46D,Start on Level 3
+N,D769-DFAD+AB69-D40D+D769-D46D,Start on Level 4
+N,DF2B-AFD4,Start with 1 Life Instead of 3
+N,D42B-AFD4,Start with 2 Lives
+N,D92B-AFD4,Start with 5 Lives
+N,DB2B-AFD4,Start with 9 Lives
+N,492B-AFD4,Start with 25 Lives
+N,9D2B-AFD4,Start with 50 Lives
+N,BB2B-AFD4,Start with 99 Lives
+N,ADB1-07D5,Super Power Boost on Jumps
+N,6226-046F+6D26-070F,Untouchable

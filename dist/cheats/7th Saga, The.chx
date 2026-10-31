@@ -1,1 +1,84 @@
-N,7E0DD7FF,to lv 80+
+N,C0E279FF,255 Power
+N,C0E27914,Alien Has 20 Power
+N,C0E27C14,Alien Has 20 Speed
+N,C0E2771E,Alien Has 30 MP
+N,C0E27532,Alien Has 50 HP
+N,C0E27564,Alien Has 100 HP
+N,C0E275C8,Alien Has 200 HP
+N,C0E2AF14,Demon Has 20 Power
+N,C0E2B214,Demon Has 20 Speed
+N,C0E2AD1E,Demon Has 30 MP
+N,C0E2AB32,Demon Has 50 HP
+N,C0E2AB64,Demon Has 100 HP
+N,C0E2ABC8,Demon Has 200 HP
+N,C0E2ABFF,Demon Starts with 255 HP
+N,C0E2ADFF,Demon Starts with 255 MP
+N,C0E2AFFF,Demon Starts with 255 Power
+N,C0E2B2FF,Demon Starts with 255 Speed
+N,C0E2B969,Demon Starts with Sword of Anger
+N,C0E2B96D,Demon Starts with Sword of Despair
+N,C0E2B96F,Demon Starts with Sword of Fire
+N,C0E25514,Dwarf Has 20 Power
+N,C0E25814,Dwarf Has 20 Speed
+N,C0E2531E,Dwarf Has 30 MP
+N,C0E25132,Dwarf Has 50 HP
+N,C0E25164,Dwarf Has 100 HP
+N,C0E251C8,Dwarf Has 200 HP
+N,C0E25F6C,Dwarf Starts with Sword of Courage
+N,C0E25F6F,Dwarf Starts with Sword of Fire
+N,C0E25F6A,Dwarf Starts with Sword of Nature
+N,C0E26714,Elf Has 20 Power
+N,C0E26A14,Elf Has 20 Speed
+N,C0E2651E,Elf Has 30 MP
+N,C0E26332,Elf Has 50 HP
+N,C0E26364,Elf Has 100 HP
+N,C0E263C8,Elf Has 200 HP
+N,C0E2718E,Elf Starts with Petrified Staff
+N,C0E27191,Elf Starts with Staff of Brilliance
+N,7E1E9F40,Enemy 1 Automatically Dead
+N,7E1F1F40,Enemy 2 Automatically Dead
+N,7E1F9F40,Enemy 3 Automatically Dead
+N,70801C20,GP Max
+N,C0E28B00,Gp Max (alt)
+N,C0E28B95,Gp Max (alt 2)
+N,C0E28BFF,Gp Max (alt 3)
+N,C0E24314,Human Fighter Has 20 Power
+N,C0E24614,Human Fighter Has 20 Speed
+N,C0E2411E+C0E241FF,Human Fighter Has 30 MP
+N,C0E23F32,Human Fighter Has 50 HP
+N,C0E23F64,Human Fighter Has 100 HP
+N,C0E23FC8+C0E23FFF,Human Fighter Has 200 HP
+N,C0E23FFF,Human Fighter Has 255 HP
+N,C0E240FF,Human Fighter Starts with 65,535 HP
+N,C0E242FF,Human Fighter Starts with 65,535 MP
+N,C0E244FF,Human Fighter Starts with 255 Guard
+N,C0E245FF,Human Fighter Starts with 255 Magic
+N,C0E243FF,Human Fighter Starts with 255 Power
+N,C0E246FF,Human Fighter Starts with 255 Speed
+N,C0E24D69,Human Fighter Starts with Sword of Anger
+N,C0E24D6C,Human Fighter Starts with Sword of Courage
+N,C0E24D6F,Human Fighter Starts with Sword of Fire
+N,C0E29D14,Human Mage Has 20 Power
+N,C0E2A014,Human Mage Has 20 Speed
+N,C0E29B1E,Human Mage Has 30 MP
+N,C0E29932,Human Mage Has 50 HP
+N,C0E29964,Human Mage Has 100 HP
+N,C0E299C8,Human Mage Has 200 HP
+N,C0E2A78E,Human Mage Starts with Petrified Staff
+N,C0E2A78F,Human Mage Starts with Rod of Tide
+N,7E1DC4E7+7E1DC503,Infinite HP
+N,7E1DC8E7+7E1DC903,Infinite MP
+N,7E1DD5FF+7E1DD6FF+7E1DD7FF,Lots of Exp. (Fight One Battle and Get Up to Level 80)
+N,7E1DDAFF,Max Money
+N,7E048000,No Enemies
+N,C0920C01,Start with 62,708 Gold
+N,C0920BF4,Start with 65,524 Gold
+N,C0920B2C+C0920C01,Start with 297 Gold
+N,C0920BD0+C0920C07+C0920BF4,Start with 2000 Gold
+N,C0E28B14,Tetujin Has 20 Power
+N,C0E28E14,Tetujin Has 20 Speed
+N,C0E2891E,Tetujin Has 30 MP
+N,C0E28732,Tetujin Has 50 HP
+N,C0E28764,Tetujin Has 100 HP
+N,C0E287C8,Tetujin Has 200 HP
+N,C0E287FF,Tetujin Has 255 HP

@@ -1,6 +1,31 @@
-N,00C15BAD,Protectfrmmosthits
-N,00A1E3AD,Protectfrmheadhits
-N,00A9EAAD,Infinitedynamites
-N,01C27600,Infinitelives
-N,00C51950,Applerestoresfull
-N,00C52D50,Burgerrestoresfull
+N,9DAF-040F,Apple Restores Energy Fully
+N,DDAF-040F,Apple Worth Nothing
+N,46B5-A407,Continue with 1/2 Energy
+N,F0B5-A407,Continue with 1/4 Energy
+N,7AB5-A407,Continue with 3/4 Energy
+N,9DA4-070F,Hamburger Restores Energy Fully
+N,DDA4-070F,Hamburger Worth Nothing
+N,6DA6-076D+47A6-07AD,Hit Anywhere
+N,C2AC-A4A4,Infinite Credits
+N,C2C3-0464,Infinite Dynamite Punches
+N,7E0F9FFF+7E1A03FF,Infinite Health P1
+N,DDA5-6F60,Infinite Lives
+N,C2A5-64D0,Infinite Lives (alt)
+N,2DC2-07A7,Invincibility
+N,6D32-64DD,One Hit Kill
+N,7E160800+7E160A00+7E160C00,One Hit Kills Enemies and Bosses
+N,C2A9-04AD,Protection Against Most Enemy Hits
+N,C2C3-0DAD,Protection Against Repeated Hits on the Head When an Enemy Is Holding You
+N,33BC-0F0F,Start on Stage 2
+N,CBBC-0D6F+3CBC-0FDF+62BC-0F0F+D4BC-0DAF,Start on Stage 3
+N,CBBC-0D6F+3CBC-0FDF+62BC-0F0F+D7BC-0DAF,Start on Stage 4
+N,CBBC-0D6F+3CBC-0FDF+62BC-0F0F+D0BC-0DAF,Start on Stage 5
+N,DDAD-ADDF,Start with 0 Dynamite Punches
+N,46B9-0DD7,Start with 1/2 Energy
+N,F0B9-0DD7,Start with 1/4 Energy
+N,7AB9-0DD7,Start with 3/4 Energy
+N,D9AD-ADDF,Start with 5 Dynamite Punches
+N,D5AD-ADDF,Start with 7 Dynamite Punches
+N,DBAD-ADDF,Start with 9 Dynamite Punches
+N,D76B-D46D,Start with 11 Lives
+N,C2A9-0F6F,Super Glove Worth Nothing

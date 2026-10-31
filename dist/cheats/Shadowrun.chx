@@ -1,57 +1,87 @@
-N,7E3C11FC,Infinite 31 Karma (1/2)
-N,7E3C12FF,Infinite 31 Karma (2/2)
-N,7E33DE1E,Infinite 30 Health (1/2)
-N,7E33DFFF,Infinite 30 Health (2/2)
-N,7E3C0D:FF,Infinite Nuyen (1/3)
-N,7E3C0E:FF,Infinite Nuyen (2/3)
-N,7E3C0F:FF,Infinite Nuyen (3/3)
-N,7E3C96:C8,Infinite Magic
-N,7E33FDE1,Infinite Energy
-N,7E33DE:C8,Infinite Max Health (1/2)
-N,7E3C00:C8,Infinite Max Health (2/2)
-N,8085B37E,Get Level 15 Weapons Skill
-N,80880FAF,No Karma Loss Shooting People
-N,808B53BF,Don't Subtract Spell Points
-N,8098A902,Start W/ 2 Str & Cha
-N,8098A904,Start W/ 4 Str & Cha
-N,8098A905,Start W/ 5 Str & Cha
-N,8098A906,Start W/ 6 Str & Cha
-N,8098A90F,Start W/ 15 Str & Cha
-N,8098B332,Start W/ 50 Stamina
-N,8098B364,Start W/ 100 Stamina
-N,8098F302,Start W/ Comp./Firearm At Lv 2
-N,8098F303,Start W/ Comp./Firearm At Lv 3
-N,8098F304,Start W/ Comp./Firearm At Lv 4
-N,8098F305,Start W/ Comp./Firearm At Lv 5
-N,8098F306,Start W/ Comp./Firearm At Lv 6
-N,8098F30F,Start W/ Com./Firearm At Lv 15
-N,80F010AF,Spells/Skills Cost 0 Karma
-N,80F16414,1 Body Point Adds 20 Stamina
-N,80F1641E,1 Body Point Adds 30 Stamina
-N,80CCF780,Everything Is Free (1/2)
-N,80CCF811,Everything Is Free (2/2)
-N,D4BE-4DA4,Start W/ Comp./Firearm At Lv 2
-N,D7BE-4DA4,Start W/ Comp./Firearm At Lv 3
-N,D0BE-4DA4,Start W/ Comp./Firearm At Lv 4
-N,D9BE-4DA4,Start W/ Comp./Firearm At Lv 5
-N,D1BE-4DA4,Start W/ Comp./Firearm At Lv 6
-N,6DAE-4FA7,Everything Is Free (1/2)
-N,FFAE-44D7,Everything Is Free (2/2)
-N,CEEF-4DDD,Spells/Skills Cost 0 Karma
-N,CE6D-47A4,Don't Subtract Spell Points
-N,D4BC-4404,Start W/ 2 Str & Cha
-N,D0BC-4404,Start W/ 4 Str & Cha
-N,D9BC-4404,Start W/ 5 Str & Cha
-N,D1BC-4404,Start W/ 6 Str & Cha
-N,DEA8-4DA7,Max Money On Pick Up 
-N,69A6-1F07,Earn 944 Karma (1/2)
-N,6BA6-1F67,Earn 944 Karma (2/2)
+N,7E3C3028,40 Armor Rating
+N,7E3C4C28,40 Firepower - Mercenary #1
+N,7E3C7428,40 Firepower - Mercenary #2
+N,7E3C5428,40 Firepower - Mercenary #3
+N,7E3C3428,40 Firepower for All Guns
+N,DFBC-17AF+F4B8-1D0F+7AB8-1D6F+6EB8-1DDF+53B8-1DAF,Add 32 Karma [If Karma Is Less Than 32]
+N,D4BC-17AF+F4B8-1D0F+7AB8-1D6F+6EB8-1DDF+53B8-1DAF,Add 64 Karma [If Karma Is Less Than 32]
+N,DFBC-17AF+DEB8-1D0F+7AB8-1D6F+6EB8-1DDF+53B8-1DAF,Add 65,000 Nuyen [If Less Than 65,000]
+N,D7BC-17AF+F4B8-1D0F+7AB8-1D6F+6EB8-1DDF+53B8-1DAF,Add 96 Karma [If Karma Is Less Than 32]
+N,D1BC-17AF+F4B8-1D0F+7AB8-1D6F+6EB8-1DDF+53B8-1DAF,Add 192 Karma [If Karma Is Less Than 32]
+N,D4BC-17AF+DEB8-1D0F+7AB8-1D6F+6EB8-1DDF+53B8-1DAF,Add About 131,000 Nuyen [If Less Than 65,000]
+N,D6BC-17AF+DEB8-1D0F+7AB8-1D6F+6EB8-1DDF+53B8-1DAF,Add About 524,000 Nuyen [If Less Than 65,000]
+N,7E3C19FA,Always Have Boosted Reflexes
 N,D069-3D64,Can Always Cast Magic
-N,CB3D-4FD4,Skill Menu = Skills Lv 6 (1/4)
-N,D13D-4F04,Skill Menu = Skills Lv 6 (2/4)
-N,B53D-4FA4,Skill Menu = Skills Lv 6 (3/4)
-N,EB3D-44D4,Skill Menu = Skills Lv 6 (4/4)
-N,CB31-C4AF,Magic Menu = Magic Lv 6 (1/4)
-N,D131-C7DF,Magic Menu = Magic Lv 6 (2/4)
-N,B531-C76F,Magic Menu = Magic Lv 6 (3/4)
-N,EB31-C7AF,Magic Menu = Magic Lv 6 (4/4)
+N,CE6D-47A4,Don't Subtract Karma for Shooting People [Ignore Message Saying You Lost Karma]
+N,CEEF-4DDD,Don't Subtract Karma for Spells/skills [Must Have Enough to Advance]
+N,8E69-3DA4,Don't Subtract Spell Points (All Casters)
+N,6DAE-4FA7+FFAE-44D7,Everything Is Free
+N,6DAE-4FA7,Everything Is Free (alt)
+N,69A6-1F07+6BA6-1F67,Get Around 944 Karma When You Earn Any
+N,5368-1DAF,Get Level 15 Weapons Skill
+N,F0E1-1FDD,Going Up 1 Body Point Adds 20 Stamina Instead of 10
+N,F3E1-1FDD,Going Up 1 Body Point Adds 30 Stamina Instead of 10
+N,7E33FDE1,Infinite Energy
+N,7E33DE1E+7E33DFFF,Infinite Health (Frozen at 30)
+N,7E1770C8,Infinite Health in the Matrix
+N,7E3C11FC+7E3C12FF,Infinite Karma (Frozen at 31)
+N,7E3C96C8,Infinite Magic
+N,7E3C0DFF+7E3C0EFF+7E3C0FFF,Infinite Nuyen (Money)
+N,7E33DEC8+7E3C00C8,Infinite/Max Health
+N,7E13490A,Jake Has All the Spells
+N,EEB8-4DA4,Jake Starts with 255 Max. HP
+N,EEBC-4404,Jake Starts with 255 Strength and 255 Charisma
+N,DD6A-CD0F,Kill Enemies in 1 Hit
+N,D1BC-17AF+D7B8-1D0F+7AB8-1D6F+6EB8-1DDF+53B8-1DAF,Learn Armed Combat Skill, Level 6
+N,D1BC-17AF+DCB8-1D0F+7AB8-1D6F+6EB8-1DDF+53B8-1DAF,Learn Armor Spell, Level 6
+N,D1BC-17AF+D0B8-1D0F+7AB8-1D6F+6EB8-1DDF+53B8-1DAF,Learn Computer Skill, Level 6
+N,D9BC-17AF+DFB8-1D0F+7AB8-1D6F+6EB8-1DDF+53B8-1DAF,Learn Firearms Skill, Level 5
+N,DCBC-17AF+DFB8-1D0F+7AB8-1D6F+6EB8-1DDF+53B8-1DAF,Learn Firearms Skill, Level 10
+N,DEBC-17AF+DFB8-1D0F+7AB8-1D6F+6EB8-1DDF+53B8-1DAF,Learn Firearms Skill, Level 15
+N,D1BC-17AF+DAB8-1D0F+7AB8-1D6F+6EB8-1DDF+53B8-1DAF,Learn Freeze Spell, Level 6
+N,D1BC-17AF+D6B8-1D0F+7AB8-1D6F+6EB8-1DDF+53B8-1DAF,Learn Heal Spell, Level 6
+N,D1BC-17AF+DBB8-1D0F+7AB8-1D6F+6EB8-1DDF+53B8-1DAF,Learn Invisibility Spell, Level 6
+N,D1BC-17AF+D9B8-1D0F+7AB8-1D6F+6EB8-1DDF+53B8-1DAF,Learn Leadership Skill, Level 6
+N,D1BC-17AF+D1B8-1D0F+7AB8-1D6F+6EB8-1DDF+53B8-1DAF,Learn Negotiation Skill, Level 6
+N,D1BC-17AF+D5B8-1D0F+7AB8-1D6F+6EB8-1DDF+53B8-1DAF,Learn Powerball Spell, Level 6
+N,D1BC-17AF+D8B8-1D0F+7AB8-1D6F+6EB8-1DDF+53B8-1DAF,Learn Summon Spirit Spell, Level 6
+N,D1BC-17AF+D4B8-1D0F+7AB8-1D6F+6EB8-1DDF+53B8-1DAF,Learn Unarmed Combat Skill, Level 6
+N,7E3C3020,Max Armor
+N,7E2DF828,Mercenary #1 Will Never Leave
+N,7E2DFC14,Mercenary #2 Will Never Leave
+N,7E2DFE1E,Mercenary #3 Will Never Leave
+N,DEA8-4DA7,Pick Up Money for Max Money
+N,D1BC-17AF+EEB8-1D0F+78B8-1D6F+6EB8-1DDF+53B8-1DAF,Set Charisma to 6
+N,9DBC-17AF+FFB8-1D0F+7AB8-1D6F+6EB8-1DDF+53B8-1DAF,Set Karma to 10 [If Karma Is Less Than 32]
+N,CDBC-17AF+FFB8-1D0F+7AB8-1D6F+6EB8-1DDF+53B8-1DAF,Set Karma to 20 [If Karma Is Less Than 32]
+N,EEBC-17AF+FFB8-1D0F+7AB8-1D6F+6EB8-1DDF+53B8-1DAF,Set Karma to 31 [If Karma Is Less Than 32]
+N,DCBC-17AF+EAB8-1D0F+78B8-1D6F+6EB8-1DDF+53B8-1DAF,Set Magic Total Possible to 10 [And Spell Points to 100]
+N,F0BC-17AF+EAB8-1D0F+78B8-1D6F+6EB8-1DDF+53B8-1DAF,Set Magic Total Possible to 20 [And Spell Points to 200]
+N,FBBC-17AF+EAB8-1D0F+78B8-1D6F+6EB8-1DDF+53B8-1DAF,Set Magic Total Possible to 25 [And Spell Points to 250]
+N,10BC-17AF+DDB8-1D0F+7AB8-1D6F+6EB8-1DDF+53B8-1DAF,Set Stamina to 100
+N,A6BC-17AF+DDB8-1D0F+7AB8-1D6F+6EB8-1DDF+53B8-1DAF,Set Stamina to 200
+N,D1BC-17AF+E2B8-1D0F+78B8-1D6F+6EB8-1DDF+53B8-1DAF,Set Strength to 6
+N,D4BC-4404,Start with 2 Strength and Charisma
+N,D0BC-4404,Start with 4 Strength and Charisma
+N,D9BC-4404,Start with 5 Strength and Charisma
+N,D1BC-4404,Start with 6 Strength and Charisma
+N,74B8-4DA4,Start with 50 Stamina
+N,10B8-4DA4,Start with 100 Stamina
+N,41B6-44A4,Start with a Berette Pistol and 1 Mesh Armor
+N,D3B6-44A4,Start with a HK.277 Assault Rifle and 3 Bullet Proof Vest
+N,F1B6-44A4,Start with a Uzi and 1 Mesh Armor
+N,D1B6-44A4,Start with a UZI SMG III and 1 Mesh Jacket
+N,F3B6-44A4,Start with a Warkhawk H. Pistol and 1 Mesh Armor
+N,DEBE-4DA4,Start with Computer and Firearms Skill Level 15
+N,D4BE-4DA4,Start with Computer, Firearms Skills at Level 2
+N,D7BE-4DA4,Start with Computer, Firearms Skills at Level 3
+N,D0BE-4DA4,Start with Computer, Firearms Skills at Level 4
+N,D9BE-4DA4,Start with Computer, Firearms Skills at Level 5
+N,D1BE-4DA4,Start with Computer, Firearms Skills at Level 6
+N,23B8-4404,Start with Spells and Skills at Level 222
+N,2EB8-4404,Start with Spells and Skills at Level 223
+N,E3B8-4404,Start with Spells and Skills at Level 254
+N,DEBC-4404,Start with Strength and Charisma at Level 15
+N,CB31-C4AF+D131-C7DF+B531-C76F+EB31-C7AF,View Magic from Menu to Get All Magic at Level 6
+N,CB3D-4FD4+D13D-4F04+B53D-4FA4+EB3D-44D4,View Skills from Menu to Get All Skills at Level 6
+N,6D6D-C709,Walk Through Walls

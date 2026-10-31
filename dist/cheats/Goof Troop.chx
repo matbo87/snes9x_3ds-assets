@@ -1,33 +1,22 @@
-N,80A10A01,Start With 1 Life
-N,80A10A06,Start With 6 Lives
-N,80A10A09,Start With 9 Lives
-N,828B16A5,Infinite Lives
-N,83C4BE02,2 Hearts From Cherries
-N,83C4BF01,1 Heart From Bananas
-N,83C4BF04,4 Hearts From Bananas
-N,82AF4702,2 Hearts Give You A Life (1/2)
-N,82AF509E,2 Hearts Give You A Life (2/2)
-N,82AF4704,4 Hearts Give You A Life (1/2)
-N,82AF509E,4 Hearts Give You A Life (2/2)
-N,838DFD02,Max Quick Move (1/2)
-N,838E0DFD,Max Quick Move (2/2)
-N,838E1D02,Goofy Quick Move (1/2)
-N,838E2DFD,Goofy Quick Move (2/2)
+N,DFA8-47A2,1 Heart from Bananas
+N,D5A8-47A2,1up from Bananas P1
+N,D5A8-4762,1up from Cherries for P1
+N,D4A8-4762,2 Hearts from Cherries
+N,D4C0-3FA8+B3C9-3DD8,2 Hearts Give You a Life
+N,D0A8-47A2,4 Hearts from Bananas
+N,D0C0-3FA8+B3C9-3DD8,4 Hearts Give You a Life
 N,7E014202,Always Have Hookshot
-N,7E01000A,Invincible
-N,D0C0-3FA8,4 Hearts Give You A Life (1/2)
-N,B3C9-3DD8,4 Hearts Give You A Life (2/2)
-N,D4C0-3FA8,2 Hearts Give You A Life (1/2)
-N,B3C9-3DD8,2 Hearts Give You A Life (2/2)
-N,D4A8-4762,2 Hearts From Cherries
-N,D0A8-47A2,4 Hearts From Bananas
-N,DFA8-47A2,1 Heart From Bananas
-N,C96F-3F6C,Infinite Lives
-N,DBCD-146D,Start With 9 Lives
-N,D1CD-146D,Start With 6 Lives
-N,DFCD-146D,Start With 1 Life
-N,D46F-C70E,Goofy Quick Move (1/2)
-N,E264-C70E,Goofy Quick Move (2/2)
-N,D46E-170E,Max Quick Move (1/2)
-N,E26D-C70E,Max Quick Move (2/2)
+N,DDCD-CF06+DDCF-CD06,Get Items from Anywhere
+N,D46F-C70E+E264-C70E,Goofy Has Quicker Left-Right Movement
+N,DD2F-176F+DD23-3FDF,Hit Anywhere
+N,692F-14A7,Infinite Energy
 N,692F-1FA7,Infinite Health
+N,C96F-3F6C,Infinite Lives
+N,7E01000A,Invincibility
+N,3CB6-4FDB,Invincible (Blinking)
+N,D46E-170E+E26D-C70E,Max Has Quicker Left-Right Movement
+N,CEB1-34DF+F4BD-4FD4,Skip Intro Screens
+N,DFCD-146D,Start with 1 Life
+N,D1CD-146D,Start with 6 Lives
+N,DBCD-146D,Start with 9 Lives
+N,6D66-CF06+6D61-146B,Walk Through Walls

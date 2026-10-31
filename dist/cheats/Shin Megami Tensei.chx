@@ -1,8 +1,95 @@
-N,7E076001,Inf. Stat Upgrade Points
-N,7E04053F,999,999 Yen (1/3)
-N,7E040642,999,999 Yen (2/3)
-N,7E04070F,999,999 Yen (3/3)
-N,7E04099F,99,999 Magnatite (1/3)
-N,7E040A86,99,999 Magnatite (2/3)
-N,7E040B01,99,999 Magnatite (3/3)
-N,7E0B3B00,City Map - Yen/Makka/Magnatite
+N,7E101C00,Always Have Chaotic Alignment
+N,7E101CFF,Always Have Lawful Alignment
+N,7E101C80,Always Have Neutral Alignment
+N,7E100300,Always Have No Status Effects (Slot 1)
+N,7E106300,Always Have No Status Effects (Slot 2)
+N,7E10C300,Always Have No Status Effects (Slot 3)
+N,7E112300,Always Have No Status Effects (Slot 4)
+N,7E118300,Always Have No Status Effects (Slot 5)
+N,7E11E300,Always Have No Status Effects (Slot 6)
+N,7E124300,Always Have No Status Effects (Slot 7)
+N,7E12A300,Always Have No Status Effects (Slot 8)
+N,7E130300,Always Have No Status Effects (Slot 9)
+N,DCBC-A78E,Buy or Sell an Item to Get Max Money
+N,7E0588FF+7E0589FF,Core Shield Always Active
+N,7E162E00+7E162F00,Enemy 1 Has No Life
+N,7E168E00+7E168F00,Enemy 2 Has No Life
+N,7E16EE00+7E16EF00,Enemy 3 Has No Life
+N,7E174E00+7E174F00,Enemy 4 Has No Life
+N,7E17AE00+7E17AF00,Enemy 5 Has No Life
+N,7E180E00+7E180F00,Enemy 6 Has No Life
+N,7E186E00+7E186F00,Enemy 7 Has No Life
+N,7E18CE00+7E18CF00,Enemy 8 Has No Life
+N,24C3-CF03,Have 210 Points on the Character Setup Screens (New Game Only)
+N,7E07F3FF+7E07F4FF,Have All Terminal Points
+N,C4C3-CF03,Have Enough Pts. to Max Out Characters
+N,7E101228,Have Max Intelligence (Slot 1)
+N,7E107228,Have Max Intelligence (Slot 2)
+N,7E10D228,Have Max Intelligence (Slot 3)
+N,7E113228,Have Max Intelligence (Slot 4)
+N,7E119228,Have Max Intelligence (Slot 5)
+N,7E11F228,Have Max Intelligence (Slot 6)
+N,7E125228,Have Max Intelligence (Slot 7)
+N,7E12B228,Have Max Intelligence (Slot 8)
+N,7E131228,Have Max Intelligence (Slot 9)
+N,7E101A28,Have Max Luck (Slot 1)
+N,7E107A28,Have Max Luck (Slot 2)
+N,7E10DA28,Have Max Luck (Slot 3)
+N,7E113A28,Have Max Luck (Slot 4)
+N,7E119A28,Have Max Luck (Slot 5)
+N,7E11FA28,Have Max Luck (Slot 6)
+N,7E125A28,Have Max Luck (Slot 7)
+N,7E12BA28,Have Max Luck (Slot 8)
+N,7E131A28,Have Max Luck (Slot 9)
+N,7E101428,Have Max Mag (Slot 1)
+N,7E107428,Have Max Mag (Slot 2)
+N,7E10D428,Have Max Mag (Slot 3)
+N,7E113428,Have Max Mag (Slot 4)
+N,7E119428,Have Max Mag (Slot 5)
+N,7E11F428,Have Max Mag (Slot 6)
+N,7E125428,Have Max Mag (Slot 7)
+N,7E12B428,Have Max Mag (Slot 8)
+N,7E131428,Have Max Mag (Slot 9)
+N,7E101828,Have Max Speed (Slot 1)
+N,7E107828,Have Max Speed (Slot 2)
+N,7E10D828,Have Max Speed (Slot 3)
+N,7E113828,Have Max Speed (Slot 4)
+N,7E119828,Have Max Speed (Slot 5)
+N,7E11F828,Have Max Speed (Slot 6)
+N,7E125828,Have Max Speed (Slot 7)
+N,7E12B828,Have Max Speed (Slot 8)
+N,7E131828,Have Max Speed (Slot 9)
+N,7E101628,Have Max Stamina (Slot 1)
+N,7E107628,Have Max Stamina (Slot 2)
+N,7E10D628,Have Max Stamina (Slot 3)
+N,7E113628,Have Max Stamina (Slot 4)
+N,7E119628,Have Max Stamina (Slot 5)
+N,7E11F628,Have Max Stamina (Slot 6)
+N,7E125628,Have Max Stamina (Slot 7)
+N,7E12B628,Have Max Stamina (Slot 8)
+N,7E131628,Have Max Stamina (Slot 9)
+N,7E101028,Have Max Strength (Slot 1)
+N,7E107028,Have Max Strength (Slot 2)
+N,7E10D028,Have Max Strength (Slot 3)
+N,7E113028,Have Max Strength (Slot 4)
+N,7E119028,Have Max Strength (Slot 5)
+N,7E11F028,Have Max Strength (Slot 6)
+N,7E125028,Have Max Strength (Slot 7)
+N,7E12B028,Have Max Strength (Slot 8)
+N,7E131028,Have Max Strength (Slot 9)
+N,7E103000+7E103100,Hero's Max HP
+N,7E102E00+7E102F00,Heros Variable HP
+N,DD6B-D7D5,Ignore Distributable Points
+N,7E040F00,Infinite Mapper Steps
+N,7E04099F+7E040A86+7E040B01,Infinite Max Magnetite
+N,7E04059F+7E040686+7E040701,Infinite Max Money
+N,BAA9-0467,Magnetite Isn't Drained While Demons Are Summoned
+N,7E0780BE,Make Item Slot 1 a Different Item
+N,7E040080,Mapper on
+N,D9A8-6DD9,Max Level, Experience Points in 1 Battle
+N,7E0B3200,No Random Battles (Overworld)
+N,18B0-6DAF,No Random Battles(3D Mode)
+N,7E045100+7E0ED5FF+7E0ED746+7E0ED887+7E0ED91A,No Random Battles(Building)
+N,FEED-6FDD,Temporarily Show Full Map in Automapper
+N,6DBD-DD67,Walk Through Walls(3D Mode)
+N,D9AB-ADA9,Win a Battle with Low Magnetite to Get Max Magnetite

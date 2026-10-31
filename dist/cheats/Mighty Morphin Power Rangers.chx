@@ -1,4 +1,75 @@
-N,00B2C008,9 lives
-N,00B2D8C0,Full energy
-N,00C1B009,9 continues
-N,00C1C003,Lots of points
+N,7E04F401,Always Have Bomb After Morphing
+N,D46C-0DBF,Billy Moves Faster
+N,EE62-04BF,Black Ranger Moves Faster, but the Wrong Way
+N,EE6A-049F,Blue Ranger Moves Faster
+N,7E0CC201+7E0CC410,Can't Be Hit
+N,4084-D794+6D8A-0724+F282-0DF4,Collect Items Anywhere
+N,E467-04BF,Distorted Graphics
+N,7E000E26,Enable Sound Test
+N,62C4-A72D,Enemies Attack Only If You Do
+N,C06A-6DF4,Everybody Moves Much Faster
+N,ED6B-0DBF,Fast Moonwalking Billy
+N,ED6B-04BF,Fast Moonwalking Jason
+N,ED6C-049F,Fast Moonwalking Kimberly
+N,ED68-04BF,Fast Moonwalking Trini
+N,ED68-0DBF,Fast Moonwalking Zach
+N,4084-DD24,Hit Anywhere
+N,8AB7-0FF7,Infinite Bombs
+N,C2B7-0FF7,Infinite Bombs on Pick-Up
+N,C286-6DF4,Infinite Energy
+N,C2A6-07F4,Infinite Health Mega-Zord
+N,7E04CC71,Infinite Life [Boss]
+N,7E04C071,Infinite Life [Mega-Zord]
+N,7E0F4209,Infinite Lives
+N,7E04C671,Infinite Power [Boss]
+N,7E04C271,Infinite Power [Mega-Zord]
+N,C280-AD2F,Invincibility
+N,6DAF-A49F,Invincibility Mega-Zord
+N,D46B-04BF,Jason Moves Faster
+N,8AAC-0F6D+8ABB-67DA,Keep Bombs After Stage Complete
+N,AD6C-049F,Kimberley Moves Faster
+N,EE8A-6DDD,Lots of Lives
+N,EE6A-ADF7,Low Jump
+N,EC6A-ADF7,Mega-Jump
+N,EE6C-0DBF,Moonwalking Billy
+N,EE6B-04BF,Moonwalking Jason
+N,EE6C-049F,Moonwalking Kimberly
+N,EE68-04BF,Moonwalking Trini
+N,EE68-0DBF,Moonwalking Zach
+N,AD64-6465,More Energy from Capsule
+N,C0C7-6DF4,Never Land
+N,DD6A-ADF7,No Jump
+N,6D86-D7F4+6D8F-0727,One Hit Kill
+N,6D28-64D6+DD2A-6466,One Hit Kill Mega-Zord
+N,7E1A3600+7E1A3A00+7E1A3E00+7E1A4200+7E1A4600+7E1A4A00+7E1A4E00+7E1A5200+7E1A5600,One Hit Kills
+N,7E09A800,Options Menu - Sound Mode
+N,AD62-0D9F,Pink Ranger Moves Faster
+N,D46A-0D9F,Red Ranger Moves Faster
+N,DD6B-0DBF,Slow Billy
+N,DD6B-04BF,Slow Jason
+N,DD6C-049F,Slow Kimberly
+N,DD68-04BF,Slow Trini
+N,DD68-0DBF,Slow Zach
+N,D782-C40D,Star Game with Even More Health
+N,EE82-C4DD,Star Game with More Health
+N,AD82-64DD,Start Game with Full Energy
+N,DD8A-6DDD,Start with 1 Life
+N,D98A-6DDD,Start with 6 Lives
+N,D68A-6DDD,Start with 9 Lives
+N,ED6A-ADF7,Super High Jump
+N,CD6B-0DBF,Teleport Moonwalking Billy
+N,CD6B-04BF,Teleport Moonwalking Jason
+N,CD6C-049F,Teleport Moonwalking Kim
+N,CD68-04BF,Teleport Moonwalking Trini
+N,CD68-0DBF,Teleport Moonwalking Zach
+N,006B-0DBF,Teleport Walking Billy
+N,006B-04BF,Teleport Walking Jason
+N,006C-049F,Teleport Walking Kimberly
+N,0068-04BF,Teleport Walking Trini
+N,0068-0DBF,Teleport Walking Zach
+N,D468-04BF,Trini Moves Faster
+N,628D-6494,Untouchable
+N,6D60-AF24+6D63-6724+D86E-6DF4+6DCA-0FF4+6DCC-0424+6D39-049D+6D35-042D,Walk Through Walls
+N,7E01EE00,Walk Underwater
+N,EE62-0DBF,Yellow Ranger Moves Faster
+N,D468-0DBF,Zach Moves Faster

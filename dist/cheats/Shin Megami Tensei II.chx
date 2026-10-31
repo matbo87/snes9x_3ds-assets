@@ -1,34 +1,22 @@
-N,7E0E1EFF,All Terminal Teleports (1/2)
-N,7E0E1FFF,All Terminal Teleports (2/2)
-N,7E104E80,Char 1 Always 'Neutral'
-N,6D8A-AECE,No Random Battles
-N,C2B3-6DD6,Inf. Magnetite W/ Summons
-N,CBB1-6B19,Reorder = 7X Items (1/3)
-N,D5B1-6BC9,Reorder = 7X Items (2/3)
-N,3CB1-6B39,Reorder = 7X Items (3/3)
-N,3CAD-04DA,Infinite Item Usage
-N,DD64-04DB,Exit Automap = Mapper Spell
-N,DDB7-DF0B,Mapper Doesn't Wear Of
-N,DDB3-02CA,Max Magnetite After 1 Battle
-N,DDBB-0E4A,Max Cash After 1 Battle
-N,CB20-DFDA,Items Sell High Cash (1/3)
-N,D320-DF0A,Items Sell High Cash (2/3)
-N,DD20-DF6A,Items Sell High Cash (3/3)
+N,DDAF-D4DF,Alignment Based Equipment Always Equippable
+N,7E104E80,Character 1 Always 'Neutral' Aligned
 N,6D64-D70B,Deactivate Auto-Move Floors
-N,DDAF-D4DF,All Align. Based Equip. Usable
-N,6DAA-D7D3,Always Get Gem From Magic Box
-N,DD68-DDDB,Walk Through Walls (3D Mode)
-N,DDA7-A727,Any Password Opens Doors
-N,8B69-6EC2,Enemies Start With 0 HP
-N,35C7-DD6D,Stat Screen = 999 Max HP (1/4)
-N,D7C7-DDAD,Stat Screen = 999 Max HP (2/4)
-N,BBC7-D7AD,Stat Screen = 999 Max HP (3/4)
-N,F4C0-DDDD,Stat Screen = 999 Max HP (4/4)
-N,E385-6D2D,Rag Store Slt/Deslt Gem (1/2)
-N,DD85-64BD,Rag Store Slt/Deslt Gem (2/2)
-N,2DB7-0CC9,Devil Analyze = Full List (1/5)
-N,FCB7-0849,Devil Analyze = Full List (2/5)
-N,BEB7-0819,Devil Analyze = Full List (3/5)
-N,75B7-0839,Devil Analyze = Full List (4/5)
-N,53B0-0649,Devil Analyze = Full List (5/5)
+N,7E0E1EFF+7E0E1FFF,Enable All Terminal Teleports
+N,8B69-6EC2,Enemies Start with 0 HP
+N,CBB1-6B19+D5B1-6BC9+3CB1-6B39,Enter the 'Reorder' Menu to Get 7 of All Items Currently in Inventory
+N,DD64-04DB,Exit Automap to Enable Mapper Spell
+N,E385-6D2D+DD85-64BD,In Rag's Store, Select and Deselect Gems to Increase the Number You Have
 N,7E1010FF,Infinite Health Character 1
+N,3CAD-04DA,Infinite Item Usage
+N,6DAA-D7D3,Magic Boxes Contain Gems When Not Full Moon
+N,C2B3-6DD6,Magnetite Not Drained While Creatures Are Summoned
+N,DDB7-DF0B,Mapper Doesn't Wear Off at New Moon
+N,6D8A-AECE,No Random Battles(Overworld and 3D)
+N,2DB7-0CC9+FCB7-0849+BEB7-0819+75B7-0839+53B0-0649,Open the 'Devil Analyze' Menu for Full List
+N,DDA7-A727,Password Doors Open to Any Password
+N,CB20-DFDA+D320-DF0A+DD20-DF6A,Sell an Item for High Cash
+N,DDAD-AF6B+6DAA-6F6C,Temporarily Show Full Auto-Map
+N,35C7-DD6D+D7C7-DDAD+BBC7-D7AD+F4C0-DDDD,View Someone's Status Screen to Give Them 999 Max HP
+N,DD68-DDDB,Walk Through Walls(3D Mode)
+N,DDBB-0E4A,Win 1 Battle for Max Cash
+N,DDB3-02CA,Win 1 Battle for Max Magnetite

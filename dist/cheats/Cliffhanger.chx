@@ -1,5 +1,37 @@
-N,7E061F09,Unlimited lives
-N,7E063901,Always have knife
-N,7E063D63,Unl. gun ammo
-N,7E0A5E01,Always have gun
-N,7E0CC000,Enemies can't hit
+N,7E063902,Always Have Gun
+N,7E0A5E01,Always Have Gun (alt)
+N,7E063901,Always Have Knife
+N,7E0BA200,Avalanche Doesn't Follow
+N,7E064401,Can Always Advance
+N,7E064300,Can Always Proceed
+N,BAE0-3D61,Don't Have to Fight Enemies for Screen to Scroll
+N,7E0BF400+7E0C5400+7E0CB400,Enemies Can Always Be Hurt
+N,7E0CC000,Enemies Can't Hit
+N,7E0BED01,Enemy 1 Dies When Knocked Down
+N,7E0BF802,Enemy 1 Doesn't Attack
+N,7E0BDA01,Enemy 1 Gets Knocked Down with 1 Hit
+N,7E0BD001,Enemy 1 Keeps Taking Damage Automatically
+N,7E0C4D01,Enemy 2 Dies When Knocked Down
+N,7E0C5802,Enemy 2 Doesn't Attack
+N,7E0C3A01,Enemy 2 Gets Knocked Down with 1 Hit
+N,7E0C3001,Enemy 2 Keeps Taking Damage Automatically
+N,7E0CAD01,Enemy 3 Dies When Knocked Down
+N,7E0CB802,Enemy 3 Doesn't Attack
+N,7E0C9A01,Enemy 3 Gets Knocked Down with 1 Hit
+N,7E0C9001,Enemy 3 Keeps Taking Damage Automatically
+N,7E063D56,Gun Ammo Mod
+N,DD8F-CF60,Hit Anywhere
+N,C2CD-34A5,Infinite Ammo
+N,7E063D63,Infinite Gun Ammo
+N,C28E-44A9,Infinite Health
+N,DDC2-CDA5,Infinite Knives to Throw When You Collect One
+N,7E061F09,Infinite Lives
+N,7E05EB09,Infinite Time to Continue
+N,7E063B02,Invincibility
+N,7E063C01,Invincibility (alt)
+N,7E061D70,Max Health
+N,CBBC-3F6B+DFBC-3FAB,One Hit Kill
+N,336F-1D69,Start Each Life w/knife Until First Continue
+N,7E062F0F,Start with 15 Lives (Options)
+N,1882-4D69,Stop Snow Avalanche
+N,7E063B27+7E0A2082,Totally Invincible

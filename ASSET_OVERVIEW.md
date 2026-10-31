@@ -11,12 +11,12 @@ Titles not listed here may still be covered: regional releases under a different
 name resolve to their canonical entry via
 [`src/mappings.txt`](src/mappings.txt) (e.g. `Final Fantasy VI (Japan)` -> `Final Fantasy III (USA)`).
 
-- Complete: **528 / 1000**
-- With at least one gap: **472**
+- Complete: **531 / 1000**
+- With at least one gap: **469**
 
 - Console (EU/JP): **840 / 1000**
 - Console (USA): **723 / 1000**
-- Cheats: **861 / 1000**
+- Cheats: **882 / 1000**
 
 | Game | Complete | Console (EU/JP) | Console (USA) | Cheats |
 | --- | :---: | :---: | :---: | :---: |
@@ -46,7 +46,7 @@ name resolve to their canonical entry via
 | Aerobiz (USA) | ✅ | ✅ | ✅ | ✅ |
 | Aerobiz Supersonic (USA) | ✅ | ✅ | ✅ | ✅ |
 | Air Cavalry (USA) | ✅ | ✅ | ✅ | ✅ |
-| Al Unser Jr.'s Road to the Top (USA) | ✅ | ✅ | ✅ | ✅ |
+| Al Unser Jr.'s Road to the Top (USA) | ❌ | ✅ | ✅ | ❌ |
 | Aladdin (USA) | ✅ | ✅ | ✅ | ✅ |
 | Albert Odyssey (Japan) (Rev 1) | ❌ | ✅ | ❌ | ✅ |
 | Albert Odyssey 2 - Jashin no Taidou (Japan) | ❌ | ✅ | ❌ | ✅ |
@@ -85,7 +85,7 @@ name resolve to their canonical entry via
 | Battle Cars (USA) | ❌ | ❌ | ✅ | ✅ |
 | Battle Clash (USA) | ✅ | ✅ | ✅ | ✅ |
 | Battle Dodge Ball II (Japan) | ❌ | ✅ | ❌ | ✅ |
-| Battle Grand Prix (USA) | ❌ | ❌ | ✅ | ❌ |
+| Battle Grand Prix (USA) | ❌ | ❌ | ✅ | ✅ |
 | Battle Master - Kyuukyoku no Senshi-tachi (Japan) | ❌ | ✅ | ❌ | ✅ |
 | Battle Tycoon - Flash Hiders SFX (Japan) (Rev 1) | ❌ | ✅ | ❌ | ✅ |
 | Battletoads in Battlemaniacs (USA) | ✅ | ✅ | ✅ | ✅ |
@@ -104,13 +104,13 @@ name resolve to their canonical entry via
 | Bishoujo Senshi Sailor Moon - Another Story (Japan) | ❌ | ✅ | ❌ | ✅ |
 | Bishoujo Senshi Sailor Moon R (Japan) | ❌ | ✅ | ❌ | ✅ |
 | Bishoujo Senshi Sailor Moon S - Jougai Rantou! Shuyaku Soudatsusen (Japan) | ❌ | ✅ | ❌ | ✅ |
-| Bishoujo Senshi Sailor Moon SuperS - Zenin Sanka!! Shuyaku Soudatsusen (Japan) | ❌ | ✅ | ❌ | ✅ |
+| Bishoujo Senshi Sailor Moon SuperS - Zenin Sanka!! Shuyaku Soudatsusen (Japan) | ❌ | ✅ | ❌ | ❌ |
 | BlaZeon - The Bio-Cyborg Challenge (USA) | ✅ | ✅ | ✅ | ✅ |
 | Blackthorne (USA) | ✅ | ✅ | ✅ | ✅ |
 | Blues Brothers, The (USA) | ✅ | ✅ | ✅ | ✅ |
 | Bonkers (USA) | ✅ | ✅ | ✅ | ✅ |
 | Boogerman - A Pick and Flick Adventure (USA) | ✅ | ✅ | ✅ | ✅ |
-| Bounty Sword (Japan) | ❌ | ✅ | ❌ | ❌ |
+| Bounty Sword (Japan) | ❌ | ✅ | ❌ | ✅ |
 | Boxing Legends of the Ring (USA) | ✅ | ✅ | ✅ | ✅ |
 | Brain Lord (USA) | ❌ | ❌ | ✅ | ✅ |
 | Brainies, The (USA) | ✅ | ✅ | ✅ | ✅ |
@@ -138,7 +138,7 @@ name resolve to their canonical entry via
 | Cannon Fodder (Europe) | ❌ | ✅ | ❌ | ✅ |
 | Cannondale Cup (USA) | ❌ | ❌ | ✅ | ✅ |
 | Capcom's MVP Football (USA) | ❌ | ❌ | ✅ | ✅ |
-| Capcom's Soccer Shootout (USA) | ✅ | ✅ | ✅ | ✅ |
+| Capcom's Soccer Shootout (USA) | ❌ | ✅ | ✅ | ❌ |
 | Captain America and the Avengers (USA) | ✅ | ✅ | ✅ | ✅ |
 | Captain Commando (USA) | ✅ | ✅ | ✅ | ✅ |
 | Captain Novolin (USA) (En,Fr,Es) | ❌ | ❌ | ✅ | ✅ |
@@ -150,10 +150,10 @@ name resolve to their canonical entry via
 | Carrier Aces (USA) | ✅ | ✅ | ✅ | ✅ |
 | Casper (USA) | ✅ | ✅ | ✅ | ✅ |
 | Castlevania - Dracula X (USA) | ✅ | ✅ | ✅ | ✅ |
-| Champions - World Class Soccer (USA) (En,Fr,De,Es) | ✅ | ✅ | ✅ | ✅ |
-| Championship Pool (USA) | ❌ | ✅ | ✅ | ❌ |
+| Champions - World Class Soccer (USA) (En,Fr,De,Es) | ❌ | ✅ | ✅ | ❌ |
+| Championship Pool (USA) | ✅ | ✅ | ✅ | ✅ |
 | Championship Soccer '94 (USA) (En,Fr,De,It) | ❌ | ✅ | ✅ | ❌ |
-| Chaos Seed - Fuusui Kairouki (Japan) | ❌ | ✅ | ❌ | ❌ |
+| Chaos Seed - Fuusui Kairouki (Japan) | ❌ | ✅ | ❌ | ✅ |
 | Chessmaster, The (USA) | ✅ | ✅ | ✅ | ✅ |
 | Chester Cheetah - Too Cool to Fool (USA) | ❌ | ❌ | ✅ | ✅ |
 | Chester Cheetah - Wild Wild Quest (USA) | ❌ | ❌ | ✅ | ✅ |
@@ -192,7 +192,7 @@ name resolve to their canonical entry via
 | Daikaijuu Monogatari II (Japan) | ❌ | ✅ | ❌ | ❌ |
 | Darius Twin (USA) | ✅ | ✅ | ✅ | ✅ |
 | Dark Half (Japan) | ❌ | ✅ | ❌ | ✅ |
-| Dark Kingdom (Japan) | ❌ | ✅ | ❌ | ❌ |
+| Dark Kingdom (Japan) | ❌ | ✅ | ❌ | ✅ |
 | Dark Law - Meaning of Death (Japan) | ❌ | ✅ | ❌ | ✅ |
 | David Crane's Amazing Tennis (USA) | ✅ | ✅ | ✅ | ✅ |
 | Daze Before Christmas (Europe) | ❌ | ✅ | ❌ | ✅ |
@@ -201,7 +201,7 @@ name resolve to their canonical entry via
 | Demon's Crest (USA) | ✅ | ✅ | ✅ | ✅ |
 | Dennis the Menace (USA) | ✅ | ✅ | ✅ | ✅ |
 | Desert Strike - Return to the Gulf (USA) | ✅ | ✅ | ✅ | ✅ |
-| Dig & Spike Volleyball (USA) | ❌ | ❌ | ✅ | ❌ |
+| Dig & Spike Volleyball (USA) | ❌ | ❌ | ✅ | ✅ |
 | Dino Dini's Soccer! (Europe) (En,Fr,De) | ❌ | ✅ | ❌ | ❌ |
 | DinoCity (USA) | ✅ | ✅ | ✅ | ✅ |
 | Dirt Racer (Europe) (En,Fr,De) | ❌ | ✅ | ❌ | ✅ |
@@ -237,7 +237,7 @@ name resolve to their canonical entry via
 | E.V.O. - Search for Eden (USA) | ✅ | ✅ | ✅ | ✅ |
 | ESPN Baseball Tonight (USA) | ❌ | ✅ | ✅ | ❌ |
 | ESPN National Hockey Night (USA) | ❌ | ❌ | ✅ | ✅ |
-| ESPN Speedworld (USA) | ❌ | ❌ | ✅ | ❌ |
+| ESPN Speedworld (USA) | ❌ | ❌ | ✅ | ✅ |
 | ESPN Sunday Night NFL (USA) | ❌ | ❌ | ✅ | ❌ |
 | Earth Defense Force (USA) | ✅ | ✅ | ✅ | ✅ |
 | EarthBound (USA) | ✅ | ✅ | ✅ | ✅ |
@@ -249,19 +249,19 @@ name resolve to their canonical entry via
 | Elite Soccer (USA) | ✅ | ✅ | ✅ | ✅ |
 | Emerald Dragon (Japan) | ❌ | ✅ | ❌ | ✅ |
 | Emmitt Smith Football (USA) | ❌ | ❌ | ✅ | ✅ |
-| Energy Breaker (Japan) | ❌ | ✅ | ❌ | ❌ |
+| Energy Breaker (Japan) | ❌ | ✅ | ❌ | ✅ |
 | Equinox (USA) | ✅ | ✅ | ✅ | ✅ |
 | Extra Innings (USA) | ✅ | ✅ | ✅ | ✅ |
 | F-Zero (USA) | ✅ | ✅ | ✅ | ✅ |
-| F1 Pole Position (USA) | ❌ | ✅ | ✅ | ❌ |
-| F1 Pole Position 2 (Europe) | ❌ | ✅ | ❌ | ❌ |
+| F1 Pole Position (USA) | ✅ | ✅ | ✅ | ✅ |
+| F1 Pole Position 2 (Europe) | ❌ | ✅ | ❌ | ✅ |
 | F1 ROC - Race of Champions (USA) | ✅ | ✅ | ✅ | ✅ |
 | F1 World Championship Edition (Europe) | ❌ | ✅ | ❌ | ❌ |
 | F1-ROC II - Race of Champions (USA) | ✅ | ✅ | ✅ | ✅ |
 | FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,It,Sv) (A8FP) | ❌ | ✅ | ❌ | ❌ |
 | FIFA International Soccer (USA) | ✅ | ✅ | ✅ | ✅ |
 | FIFA Soccer 96 (USA) (En,Fr,De,Es,It,Sv) | ❌ | ✅ | ✅ | ❌ |
-| FIFA Soccer 97 (USA) (En,Fr,De,Es,It,Sv) | ✅ | ✅ | ✅ | ✅ |
+| FIFA Soccer 97 (USA) (En,Fr,De,Es,It,Sv) | ❌ | ✅ | ✅ | ❌ |
 | Faceball 2000 (USA) | ❌ | ❌ | ✅ | ✅ |
 | Famicom Bunko - Hajimari no Mori (Japan) (NP) | ❌ | ✅ | ❌ | ❌ |
 | Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo (Japan) (Rev 1) (NP) | ❌ | ✅ | ❌ | ❌ |
@@ -323,7 +323,7 @@ name resolve to their canonical entry via
 | Go Go Ackman (Japan) | ❌ | ✅ | ❌ | ✅ |
 | Go Go Ackman 2 (Japan) | ❌ | ✅ | ❌ | ✅ |
 | Go Go Ackman 3 (Japan) | ❌ | ✅ | ❌ | ✅ |
-| Goal! (USA) | ✅ | ✅ | ✅ | ✅ |
+| Goal! (USA) | ❌ | ✅ | ✅ | ❌ |
 | Gods (USA) | ✅ | ✅ | ✅ | ✅ |
 | Gojira - Kaijuu Daikessen (Japan) (Rev 1) | ❌ | ✅ | ❌ | ✅ |
 | Gokujou Parodius (Japan) | ❌ | ✅ | ❌ | ✅ |
@@ -338,7 +338,7 @@ name resolve to their canonical entry via
 | Great Battle IV, The (Japan) | ❌ | ✅ | ❌ | ✅ |
 | Great Battle V, The (Japan) | ❌ | ✅ | ❌ | ✅ |
 | Great Circus Mystery Starring Mickey & Minnie, The (USA) | ✅ | ✅ | ✅ | ✅ |
-| Great Waldo Search, The (USA) | ❌ | ❌ | ✅ | ❌ |
+| Great Waldo Search, The (USA) | ❌ | ❌ | ✅ | ✅ |
 | GunForce (USA) | ✅ | ✅ | ✅ | ✅ |
 | HAL's Hole in One Golf (USA) | ✅ | ✅ | ✅ | ✅ |
 | Hagane - The Final Conflict (USA) | ✅ | ✅ | ✅ | ✅ |
@@ -348,11 +348,11 @@ name resolve to their canonical entry via
 | Harley's Humongous Adventure (USA) | ✅ | ✅ | ✅ | ✅ |
 | Harvest Moon (USA) | ✅ | ✅ | ✅ | ✅ |
 | Head-On Soccer (USA) | ❌ | ✅ | ✅ | ❌ |
-| Hebereke's Popoitto (Europe) | ❌ | ✅ | ❌ | ❌ |
-| Hebereke's Popoon (Europe) | ❌ | ✅ | ❌ | ❌ |
+| Hebereke's Popoitto (Europe) | ❌ | ✅ | ❌ | ✅ |
+| Hebereke's Popoon (Europe) | ❌ | ✅ | ❌ | ✅ |
 | Heracles no Eikou III - Kamigami no Chinmoku (Japan) | ❌ | ✅ | ❌ | ✅ |
 | Heracles no Eikou IV - Kamigami kara no Okurimono (Japan) | ❌ | ✅ | ❌ | ✅ |
-| Hiouden - Mamono-tachi to no Chikai (Japan) | ❌ | ✅ | ❌ | ❌ |
+| Hiouden - Mamono-tachi to no Chikai (Japan) | ❌ | ✅ | ❌ | ✅ |
 | Hit the Ice - VHL - The Official Video Hockey League (USA) | ❌ | ❌ | ✅ | ❌ |
 | Hokuto no Ken 7 - Seiken Retsuden Denshousha e no Michi (Japan) | ❌ | ✅ | ❌ | ✅ |
 | Holy Umbrella - Dondera no Mubou!! (Japan) | ❌ | ✅ | ❌ | ✅ |
@@ -365,7 +365,7 @@ name resolve to their canonical entry via
 | Hunt for Red October, The (USA) | ✅ | ✅ | ✅ | ✅ |
 | Hurricanes (USA) | ✅ | ✅ | ✅ | ✅ |
 | Hyper Iria (Japan) | ❌ | ✅ | ❌ | ✅ |
-| Hyper V-Ball (USA) | ❌ | ✅ | ✅ | ❌ |
+| Hyper V-Ball (USA) | ✅ | ✅ | ✅ | ✅ |
 | HyperZone (USA) | ✅ | ✅ | ✅ | ✅ |
 | Ignition Factor, The (USA) | ✅ | ✅ | ✅ | ✅ |
 | Ihatovo Monogatari (Japan) | ❌ | ✅ | ❌ | ❌ |
@@ -391,15 +391,15 @@ name resolve to their canonical entry via
 | James Bond Jr (USA) | ✅ | ✅ | ✅ | ✅ |
 | Jelly Boy (Europe) | ❌ | ✅ | ❌ | ✅ |
 | Jeopardy! (USA) | ❌ | ❌ | ✅ | ✅ |
-| Jeopardy! - Deluxe Edition (USA) | ❌ | ❌ | ✅ | ❌ |
-| Jeopardy! - Sports Edition (USA) | ❌ | ❌ | ✅ | ❌ |
+| Jeopardy! - Deluxe Edition (USA) | ❌ | ❌ | ✅ | ✅ |
+| Jeopardy! - Sports Edition (USA) | ❌ | ❌ | ✅ | ✅ |
 | Jetsons, The - Invasion of the Planet Pirates (USA) | ❌ | ❌ | ✅ | ✅ |
 | Jikkyou Oshaberi Parodius (Japan) | ❌ | ✅ | ❌ | ✅ |
 | Jim Lee's WildC.A.T.S - Covert-Action-Teams (USA) | ❌ | ❌ | ✅ | ✅ |
 | Jim Power - The Lost Dimension in 3D (USA) | ✅ | ✅ | ✅ | ✅ |
-| Jimmy Connors Pro Tennis Tour (USA) | ✅ | ✅ | ✅ | ✅ |
+| Jimmy Connors Pro Tennis Tour (USA) | ❌ | ✅ | ✅ | ❌ |
 | Jimmy Houston's Bass Tournament U.S.A. (USA) | ❌ | ✅ | ✅ | ❌ |
-| JoJo no Kimyou na Bouken (Japan) | ❌ | ✅ | ❌ | ❌ |
+| JoJo no Kimyou na Bouken (Japan) | ❌ | ✅ | ❌ | ✅ |
 | Joe & Mac (USA) | ✅ | ✅ | ✅ | ✅ |
 | Joe & Mac 2 - Lost in the Tropics (USA) | ✅ | ✅ | ✅ | ✅ |
 | John Madden Football '93 (USA) (Rev 1) | ✅ | ✅ | ✅ | ✅ |
@@ -462,7 +462,7 @@ name resolve to their canonical entry via
 | Liberty or Death (USA) | ✅ | ✅ | ✅ | ✅ |
 | Lion King, The (USA) | ✅ | ✅ | ✅ | ✅ |
 | Little Magic (Japan) | ❌ | ✅ | ❌ | ✅ |
-| Little Master - Nijiiro no Maseki (Japan) | ❌ | ✅ | ❌ | ❌ |
+| Little Master - Nijiiro no Maseki (Japan) | ❌ | ✅ | ❌ | ✅ |
 | Live A Live (Japan) | ❌ | ✅ | ❌ | ✅ |
 | Lock On (USA) | ✅ | ✅ | ✅ | ✅ |
 | Lodoss-tou Senki (Japan) | ❌ | ✅ | ❌ | ✅ |
@@ -489,7 +489,7 @@ name resolve to their canonical entry via
 | Magical Quest Starring Mickey Mouse, The (USA) (Rev 1) | ✅ | ✅ | ✅ | ✅ |
 | Magical Taruruuto-kun - Magic Adventure (Japan) | ❌ | ✅ | ❌ | ✅ |
 | Magna Braban - Henreki no Yuusha (Japan) | ❌ | ✅ | ❌ | ✅ |
-| Majin Tensei (Japan) (Rev 2) | ❌ | ✅ | ❌ | ❌ |
+| Majin Tensei (Japan) (Rev 2) | ❌ | ✅ | ❌ | ✅ |
 | Majin Tensei II - Spiral Nemesis (Japan) | ❌ | ✅ | ❌ | ✅ |
 | Majuu Ou (Japan) | ❌ | ✅ | ❌ | ✅ |
 | Makeruna! Makendou 2 - Kimero! Youkai Souridaijin (Japan) | ❌ | ✅ | ❌ | ✅ |
@@ -505,10 +505,10 @@ name resolve to their canonical entry via
 | Mark Davis' The Fishing Master (USA) | ❌ | ❌ | ✅ | ❌ |
 | Marko's Magic Football (Europe) (En,Fr,De,Es) | ❌ | ✅ | ❌ | ✅ |
 | Marvel Super Heroes in War of the Gems (USA) | ✅ | ✅ | ✅ | ✅ |
-| Marvelous - Mouhitotsu no Takara-jima (Japan) | ❌ | ✅ | ❌ | ❌ |
+| Marvelous - Mouhitotsu no Takara-jima (Japan) | ❌ | ✅ | ❌ | ✅ |
 | Mary Shelley's Frankenstein (USA) | ❌ | ❌ | ✅ | ✅ |
 | Mask, The (USA) | ✅ | ✅ | ✅ | ✅ |
-| Math Blaster - Episode 1 (USA) | ❌ | ❌ | ✅ | ❌ |
+| Math Blaster - Episode 1 (USA) | ❌ | ❌ | ✅ | ✅ |
 | Maui Mallard in Cold Shadow (USA) | ✅ | ✅ | ✅ | ✅ |
 | Mecarobot Golf (USA) | ✅ | ✅ | ✅ | ✅ |
 | MechWarrior (USA) | ✅ | ✅ | ✅ | ✅ |
@@ -564,9 +564,9 @@ name resolve to their canonical entry via
 | NBA Live 98 (USA) | ❌ | ❌ | ✅ | ✅ |
 | NBA Showdown (USA) | ❌ | ❌ | ✅ | ✅ |
 | NCAA Basketball (USA) (Rev 1) | ✅ | ✅ | ✅ | ✅ |
-| NCAA Final Four Basketball (USA) | ❌ | ❌ | ✅ | ✅ |
+| NCAA Final Four Basketball (USA) | ❌ | ❌ | ✅ | ❌ |
 | NCAA Football (USA) | ❌ | ❌ | ✅ | ✅ |
-| NFL Football (USA) | ✅ | ✅ | ✅ | ✅ |
+| NFL Football (USA) | ❌ | ✅ | ✅ | ❌ |
 | NFL Quarterback Club (USA) | ✅ | ✅ | ✅ | ✅ |
 | NFL Quarterback Club 96 (USA) | ✅ | ✅ | ✅ | ✅ |
 | NHL '94 (USA) | ✅ | ✅ | ✅ | ✅ |
@@ -592,7 +592,7 @@ name resolve to their canonical entry via
 | Nosferatu (USA) | ✅ | ✅ | ✅ | ✅ |
 | Obitus (USA) | ❌ | ❌ | ✅ | ✅ |
 | Ogre Battle - The March of the Black Queen (USA) | ✅ | ✅ | ✅ | ✅ |
-| Olympic Summer Games (USA) | ❌ | ✅ | ✅ | ❌ |
+| Olympic Summer Games (USA) | ✅ | ✅ | ✅ | ✅ |
 | On the Ball (USA) | ✅ | ✅ | ✅ | ✅ |
 | Operation Europe - Path to Victory 1939-45 (USA) | ❌ | ❌ | ✅ | ❌ |
 | Operation Logic Bomb - The Ultimate Search & Destroy (USA) | ✅ | ✅ | ✅ | ✅ |
@@ -605,13 +605,13 @@ name resolve to their canonical entry via
 | Outlander (USA) | ✅ | ✅ | ✅ | ✅ |
 | P.T.O. - Pacific Theater of Operations (USA) | ❌ | ❌ | ✅ | ❌ |
 | P.T.O. II - Pacific Theater of Operations (USA) | ❌ | ❌ | ✅ | ✅ |
-| PGA European Tour (USA) | ❌ | ✅ | ✅ | ❌ |
-| PGA Tour 96 (USA) (Rev 1) | ❌ | ✅ | ✅ | ❌ |
+| PGA European Tour (USA) | ✅ | ✅ | ✅ | ✅ |
+| PGA Tour 96 (USA) (Rev 1) | ✅ | ✅ | ✅ | ✅ |
 | PGA Tour Golf (USA) (Rev 1) | ✅ | ✅ | ✅ | ✅ |
 | Pac-Attack (USA) | ✅ | ✅ | ✅ | ✅ |
 | Pac-In-Time (USA) | ✅ | ✅ | ✅ | ✅ |
 | Pac-Man 2 - The New Adventures (USA) | ✅ | ✅ | ✅ | ✅ |
-| Packy & Marlon (USA) (En,Fr,Es) | ❌ | ❌ | ✅ | ❌ |
+| Packy & Marlon (USA) (En,Fr,Es) | ❌ | ❌ | ✅ | ✅ |
 | Pagemaster, The (USA) | ✅ | ✅ | ✅ | ✅ |
 | Paladin's Quest (USA) | ✅ | ✅ | ✅ | ✅ |
 | Paperboy 2 (USA) | ✅ | ✅ | ✅ | ✅ |
@@ -650,7 +650,7 @@ name resolve to their canonical entry via
 | Prince of Persia 2 (USA) | ✅ | ✅ | ✅ | ✅ |
 | Princess Maker - Legend of Another World (Japan) | ❌ | ✅ | ❌ | ❌ |
 | Pro Quarterback (USA) | ❌ | ❌ | ✅ | ❌ |
-| Pro Sport Hockey (USA) | ✅ | ✅ | ✅ | ✅ |
+| Pro Sport Hockey (USA) | ❌ | ✅ | ✅ | ❌ |
 | Psycho Dream (Japan) | ❌ | ✅ | ❌ | ✅ |
 | Push-Over (USA) | ✅ | ✅ | ✅ | ✅ |
 | Putty Squad (Europe) | ❌ | ✅ | ❌ | ✅ |
@@ -713,7 +713,7 @@ name resolve to their canonical entry via
 | Secret of Mana (USA) | ✅ | ✅ | ✅ | ✅ |
 | Seifuku Densetsu - Pretty Fighter (Japan) | ❌ | ✅ | ❌ | ✅ |
 | Shadowrun (USA) | ✅ | ✅ | ✅ | ✅ |
-| Shanghai II - Dragon's Eye (USA) | ❌ | ✅ | ✅ | ❌ |
+| Shanghai II - Dragon's Eye (USA) | ✅ | ✅ | ✅ | ✅ |
 | Shaq-Fu (USA) | ✅ | ✅ | ✅ | ✅ |
 | Shien's Revenge (USA) | ✅ | ✅ | ✅ | ✅ |
 | Shin Kidou Senki Gundam W - Endless Duel (Japan) | ❌ | ✅ | ❌ | ✅ |
@@ -765,7 +765,7 @@ name resolve to their canonical entry via
 | Star Trek - Starfleet Academy - Starship Bridge Simulator (USA) | ✅ | ✅ | ✅ | ✅ |
 | Star Trek - The Next Generation - Future's Past (USA) | ✅ | ✅ | ✅ | ✅ |
 | Stargate (USA) | ✅ | ✅ | ✅ | ✅ |
-| Steel Talons (USA) | ❌ | ❌ | ✅ | ❌ |
+| Steel Talons (USA) | ❌ | ❌ | ✅ | ✅ |
 | Sterling Sharpe - End 2 End (USA) | ❌ | ❌ | ✅ | ❌ |
 | Stone Protectors (USA) | ❌ | ❌ | ✅ | ✅ |
 | Street Combat (USA) | ✅ | ✅ | ✅ | ✅ |
@@ -798,7 +798,7 @@ name resolve to their canonical entry via
 | Super Bomberman - Panic Bomber W (Japan) | ❌ | ✅ | ❌ | ❌ |
 | Super Bomberman 2 (USA) | ✅ | ✅ | ✅ | ✅ |
 | Super Bomberman 3 (Europe) | ❌ | ✅ | ❌ | ✅ |
-| Super Bomberman 4 (Japan) | ❌ | ✅ | ❌ | ❌ |
+| Super Bomberman 4 (Japan) | ❌ | ✅ | ❌ | ✅ |
 | Super Bomberman 5 (Japan) | ❌ | ✅ | ❌ | ✅ |
 | Super Bombliss (Japan) (En) | ❌ | ✅ | ❌ | ✅ |
 | Super Bonk (USA) | ✅ | ✅ | ✅ | ✅ |
@@ -818,7 +818,7 @@ name resolve to their canonical entry via
 | Super Formation Soccer 95 - della Serie A (Japan) | ❌ | ✅ | ❌ | ❌ |
 | Super Genjin 2 (Japan) | ❌ | ✅ | ❌ | ✅ |
 | Super Ghouls 'N Ghosts (USA) | ✅ | ✅ | ✅ | ✅ |
-| Super Goal! 2 (USA) | ❌ | ❌ | ✅ | ✅ |
+| Super Goal! 2 (USA) | ❌ | ❌ | ✅ | ❌ |
 | Super Godzilla (USA) | ✅ | ✅ | ✅ | ✅ |
 | Super High Impact (USA) | ❌ | ❌ | ✅ | ❌ |
 | Super Ice Hockey (Europe) | ❌ | ✅ | ❌ | ❌ |
@@ -861,7 +861,7 @@ name resolve to their canonical entry via
 | Super Strike Eagle (USA) | ✅ | ✅ | ✅ | ✅ |
 | Super Tekkyuu Fight! (Japan) | ❌ | ✅ | ❌ | ✅ |
 | Super Tennis (USA) | ✅ | ✅ | ✅ | ✅ |
-| Super Tetris 2 + Bombliss Genteiban (Japan) (En) | ❌ | ✅ | ❌ | ❌ |
+| Super Tetris 2 + Bombliss Genteiban (Japan) (En) | ❌ | ✅ | ❌ | ✅ |
 | Super Tetris 3 (Japan) (En) | ❌ | ✅ | ❌ | ✅ |
 | Super Troll Islands (USA) | ✅ | ✅ | ✅ | ✅ |
 | Super Turrican (USA) | ✅ | ✅ | ✅ | ✅ |
@@ -870,7 +870,7 @@ name resolve to their canonical entry via
 | Super Variable Geo (Japan) | ❌ | ✅ | ❌ | ✅ |
 | Super Widget (USA) | ✅ | ✅ | ✅ | ✅ |
 | Sutte Hakkun (Japan) | ❌ | ✅ | ❌ | ✅ |
-| Suzuka 8 Hours (USA) | ❌ | ✅ | ✅ | ❌ |
+| Suzuka 8 Hours (USA) | ✅ | ✅ | ✅ | ✅ |
 | Sword World SFC (Japan) | ❌ | ✅ | ❌ | ❌ |
 | Syndicate (USA) | ✅ | ✅ | ✅ | ✅ |
 | Syvalion (Europe) | ❌ | ✅ | ❌ | ✅ |
@@ -883,7 +883,7 @@ name resolve to their canonical entry via
 | Tecmo Secret of the Stars (USA) | ✅ | ✅ | ✅ | ✅ |
 | Tecmo Super Baseball (USA) | ❌ | ❌ | ✅ | ✅ |
 | Tecmo Super Bowl (USA) | ❌ | ❌ | ✅ | ✅ |
-| Tecmo Super Bowl II - Special Edition (USA) | ❌ | ❌ | ✅ | ✅ |
+| Tecmo Super Bowl II - Special Edition (USA) | ❌ | ❌ | ✅ | ❌ |
 | Tecmo Super Bowl III - Final Edition (USA) | ❌ | ❌ | ✅ | ✅ |
 | Tecmo Super NBA Basketball (USA) (SNS-NA) | ✅ | ✅ | ✅ | ✅ |
 | Teenage Mutant Ninja Turtles - Tournament Fighters (USA) | ✅ | ✅ | ✅ | ✅ |
@@ -914,7 +914,7 @@ name resolve to their canonical entry via
 | Tiny Toon Adventures - Wacky Sports Challenge (USA) | ✅ | ✅ | ✅ | ✅ |
 | Todd McFarlane's Spawn - The Video Game (USA) | ✅ | ✅ | ✅ | ✅ |
 | Tom and Jerry (USA) | ✅ | ✅ | ✅ | ✅ |
-| Tommy Moe's Winter Extreme - Skiing and Snowboarding (USA) | ❌ | ✅ | ✅ | ❌ |
+| Tommy Moe's Winter Extreme - Skiing and Snowboarding (USA) | ✅ | ✅ | ✅ | ✅ |
 | Tony Meola's Sidekicks Soccer (USA) | ❌ | ✅ | ✅ | ❌ |
 | Top Gear (USA) | ✅ | ✅ | ✅ | ✅ |
 | Top Gear 2 (USA) | ✅ | ✅ | ✅ | ✅ |
@@ -930,7 +930,7 @@ name resolve to their canonical entry via
 | Troy Aikman NFL Football (USA) | ❌ | ✅ | ✅ | ❌ |
 | True Golf Classics - Pebble Beach Golf Links (USA) | ✅ | ✅ | ✅ | ✅ |
 | True Golf Classics - Waialae Country Club (USA) | ❌ | ❌ | ✅ | ✅ |
-| True Golf Classics - Wicked 18 (USA) | ❌ | ✅ | ✅ | ❌ |
+| True Golf Classics - Wicked 18 (USA) | ✅ | ✅ | ✅ | ✅ |
 | True Lies (USA) | ✅ | ✅ | ✅ | ✅ |
 | Tsukikomori (Japan) (Rev 1) (NP) | ❌ | ✅ | ❌ | ❌ |
 | Tuff E Nuff (USA) | ✅ | ✅ | ✅ | ✅ |
@@ -964,7 +964,7 @@ name resolve to their canonical entry via
 | WWF Super WrestleMania (USA) | ✅ | ✅ | ✅ | ✅ |
 | WWF WrestleMania - The Arcade Game (USA) | ✅ | ✅ | ✅ | ✅ |
 | War 2410 (USA) | ❌ | ❌ | ✅ | ✅ |
-| War 3010 - The Revolution (USA) | ❌ | ❌ | ✅ | ✅ |
+| War 3010 - The Revolution (USA) | ❌ | ❌ | ✅ | ❌ |
 | Wario's Woods (USA) | ✅ | ✅ | ✅ | ✅ |
 | Warlock (USA) | ✅ | ✅ | ✅ | ✅ |
 | WarpSpeed (USA) | ✅ | ✅ | ✅ | ✅ |
@@ -976,7 +976,7 @@ name resolve to their canonical entry via
 | Wheel of Fortune (USA) | ❌ | ❌ | ✅ | ✅ |
 | Wheel of Fortune - Deluxe Edition (USA) | ❌ | ❌ | ✅ | ✅ |
 | Where in Time Is Carmen Sandiego (USA) (En,Fr,De,Es,It) | ❌ | ❌ | ✅ | ❌ |
-| Where in the World Is Carmen Sandiego (USA) (En,Fr,De,Es,It) | ❌ | ✅ | ✅ | ❌ |
+| Where in the World Is Carmen Sandiego (USA) (En,Fr,De,Es,It) | ✅ | ✅ | ✅ | ✅ |
 | Whirlo (Europe) | ❌ | ✅ | ❌ | ✅ |
 | Whizz (USA) | ✅ | ✅ | ✅ | ✅ |
 | Wild Guns (USA) | ✅ | ✅ | ✅ | ✅ |

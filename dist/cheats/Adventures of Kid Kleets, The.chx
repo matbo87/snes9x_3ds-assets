@@ -1,12 +1,6 @@
-N,7E035709,Unlimited lives
-N,7E039903,Invincibility
-N,7E198A63,Unlimited time
-N,7E03CC01,Invis. to enemies
-N,7E0E3F00,Bosses immed. die
-N,7E0E0B00,Bosses immed. die2
-N,7E040F00,needed cards = 0
-N,7E040B0B,have all 11 cards
-N,7E03410B,have all 11 cards2
-N,7E0EDB00,Bosses immed. die3
-N,7E19390A,Continue clock = 9
-N,7E1CC809,unlimited credits
+N,DDA0-476A+DDA9-4F6A,Hit Anywhere
+N,7E039903,Infinite Health
+N,7E035709,Infinite Lives
+N,7E198A99+7E198B09,Infinite Time
+N,7E03CBFF,Invincibility
+N,5C88-1D09+7D88-1DA9+DD83-17A9,Moon Jump

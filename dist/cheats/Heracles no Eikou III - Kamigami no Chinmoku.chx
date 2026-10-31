@@ -1,11 +1,34 @@
+N,DD62-AFD0,1 Battle = Max. D
+N,DD8C-A4A5,1 Battle = Max. EXP
+N,7E08A60F+7E08A727,999 Atk
+N,7E08B627+7E08B727,999 Atk.
+N,7E08520F+7E085327+7E08A20F+7E08A327,999 HP
+N,7E08620F+7E086327+7E08B20F+7E08B327,999 HP (alt)
+N,7E08540F+7E085527+7E08A40F+7E08A527,999 MP
+N,7E08640F+7E086527+7E08B40F+7E08B527,999 MP (alt)
+N,7E08ABFF,Agi.
+N,7E08BBFF,Agi. (alt)
+N,DD60-A409,Always Skilled with Weapon
+N,3CA8-6AE6+B6A8-6276+CCA2-4F68+A2CF-6A5C+63CE-025C,Can Withdraw Anything at New Athens
+N,7E08A8FF,Def.
+N,7E08B8FF,Def. (alt)
+N,7E080CFF,Exp.
+N,7E081CFF,Exp. (alt)
+N,22A1-A7D0,Fix Character Join Max. Level Errors
+N,CBB0-6E8C,Get a Harp Record of 200 at New Athens
+N,7E155EFF,Infinite Money
+N,7E08AAFF,Int.
+N,7E08BAFF,Int. (alt)
+N,DDAB-DFA0,Levelup = Max. HP
+N,DDA0-D7D0,Levelup = Max. MP
+N,DDA2-DFA0,Levelup = Max. Stats
+N,6D83-0FA7,No Life Lost from Shallow Water
 N,BAA7-0FA9,No Random Battles
-N,DD8C-A4A5,Max Exp After 1 Battle
-N,22A1-A7D0,Fix Char. Join Max Lv Errors
-N,DD60-A409,Always Skilled With Weapon
-N,6D83-0FA7,No Dmg From Shallow Water
-N,DDEE-6705,Win At Harp Games
-N,3CA8-6AE6,Withdraw Anything (1/5)
-N,B6A8-6276,Withdraw Anything (2/5)
-N,CCA2-4F68,Withdraw Anything (3/5)
-N,A2CF-6A5C,Withdraw Anything (4/5)
-N,63CE-025C,Withdraw Anything (5/5)
+N,6DAF-07A9,No Random Battles (alt)
+N,7E9994BE,Release Date
+N,DDCE-A3E6,Sell an Item for Max. D
+N,7E0856FF,Str.
+N,7E0866FF,Str. (alt)
+N,7E085CFF,Trust
+N,7E086CFF,Trust (alt)
+N,DDEE-6705,Win at Harp Games

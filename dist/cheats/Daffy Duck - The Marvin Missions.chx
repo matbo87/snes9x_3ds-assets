@@ -1,10 +1,114 @@
-N,7E1F2A63,Unl. ammo gun #1
-N,7E1F2C63,Unl. ammo gun #2
-N,7E1F2E63,Unl. ammo gun #3
-N,7E1F3063,Unl. ammo gun #4
-N,7E1F3263,Unl. ammo gun #5
-N,7E1F1603,Unl. nutty attacks
-N,7E1F450A,Unl. jetpack fuel
-N,7E1F1063,Unlimited lives
-N,7E1F0E0C,Invincibility
-N,7E1F8263,Unl. continues
+N,7E00FF80,$1100 Infinite
+N,D4A3-3FA6,2 Extra Lives for Each Life You Buy
+N,D9A3-3FA6,5 Extra Lives for Each Life You Buy
+N,7E1F8299,99 Continues
+N,7E1F1099,99 Lives
+N,4DA8-4D06,Antimatter Gun Ammo Is $200
+N,DDA8-4D06,Antimatter Gun Ammo Is Free
+N,4D23-3FA7,Antimatter Gun Ammo Power-Ups Are Worth 20
+N,F9AC-47A6,Bomb Gun Ammo Is $150
+N,DDAC-47A6,Bomb Gun Ammo Is Free
+N,4D2F-34A7,Bomb Gun Ammo Power-Ups Are Worth 20
+N,4DA5-C7D6,Bought Anti Matter Gun Ammo Is Worth 20
+N,4DAF-C4A6,Bought Bomb Gun Ammo Is Worth 20
+N,4DA9-1406,Bought Electricity Gun Ammo Is Worth 20
+N,4DAE-44D6,Bought Freeze Gun Ammo Is Worth 20 Instead of 10
+N,D1A2-C7A6,Bought Fuel Is Worth 1/2 as Much
+N,FCA2-C7A6,Bought Fuel Is Worth 2x as Much
+N,DDA6-34A6,Bought Gems Worth 0
+N,D9A6-34A6,Bought Gems Worth 5 [1 Continue]
+N,4DA8-1466,Bought Three-Way Gun Ammo Is Worth 20
+N,6DA8-3766,Buy Lives for Cash
+N,DD89-CFAD,Disable Recoil
+N,F9AC-44A6,Electricity Gun Ammo Is $150
+N,DDAC-44A6,Electricity Gun Ammo Is Free
+N,4D26-1DA7,Electricity Gun Ammo Power-Ups Are Worth 20
+N,DD23-34D4,Extra Life Power-Ups Don't Work
+N,D423-34D4,Extra Life Power-Ups Worth 2
+N,D923-34D4,Extra Life Power-Ups Worth 5
+N,DDA3-3FA6,Extra Lives Can't Be Bought
+N,DFA8-4466,Extra Lives Cost $1,500
+N,DDA8-4466,Extra Lives Cost $500
+N,4DAC-4406,Freeze Gun Ammo Is $200
+N,DDAC-4406,Freeze Gun Ammo Is Free
+N,4D28-4FA7,Freeze Gun Ammo Power-Ups Are Worth 20 Instead of 10
+N,DAC8-14A7,Fuel Is Consumed at 1/2 Normal Rate
+N,D1C8-14A7,Fuel Is Consumed at 1/4 Normal Rate
+N,F4C8-14A7,Fuel Is Consumed at 3/4 Normal Rate
+N,D12B-17D4,Fuel Power-Ups Are Worth 1/2 as Much
+N,FC2B-17D4,Fuel Power-Ups Are Worth 2x
+N,DD3C-446D,Gem Power-Ups Worth 0
+N,D93C-446D,Gem Power-Ups Worth 5 [1 Continue]
+N,DDA8-44D6,Gems Are Free
+N,DD26-1FD4+DD3C-1D6D+DD27-CFA7+DD20-C7A4,Get Items from Anywhere
+N,7E00F799+7E00F899,Have $99990 Money
+N,DD33-1DDF,Hit Anywhere
+N,DD85-17DD,Infinite Ammo [Must Have Some Ammo for the Gun to Be Selectable]
+N,7E1F2E99,Infinite Ammo for 3-way Gun
+N,7E1F3299,Infinite Ammo for Antimatter Gun
+N,7E1F3099,Infinite Ammo for Bomb Gun
+N,7E1F2C99,Infinite Ammo for Electricity Gun
+N,7E1F2A99,Infinite Ammo for Freeze Gun
+N,7E00F899,Infinite Cash
+N,DDA2-C76C,Infinite Continues
+N,7E1F4510,Infinite Fuel
+N,7E1F4509,Infinite Fuel (alt)
+N,7E1F0E0C,Infinite Health
+N,7E1F0E09,Infinite Health (alt)
+N,7E1F1003,Infinite Lives
+N,7E1F1607,Infinite Nutty Attacks
+N,7E1F1609,Infinite Nutty Attacks (alt)
+N,7E1F1205,Invincibility
+N,7E1F12FF,Invincibility (alt)
+N,DDA8-4DA6,Jetpack Fuel Is Free
+N,D121-CD64,Juice Cans Set Health to 1/2
+N,DB21-CD64,Juice Cans Set Health to 3/4
+N,0DA8-4F06,Nutty Attacks Are $400
+N,DDA8-4F06,Nutty Attacks Are Free
+N,6D86-17DF,One Hit Kills
+N,DFB9-1D04,Start on Level 1-2
+N,D4B9-1D04,Start on Level 1-3
+N,D7B9-1D04,Start on Level 1-4
+N,D0B9-1D04,Start on Level 2-1
+N,D9B9-1D04,Start on Level 2-2
+N,D1B9-1D04,Start on Level 2-3
+N,D5B9-1D04,Start on Level 2-4
+N,D6B9-1D04,Start on Level 3-1
+N,DBB9-1D04,Start on Level 3-2
+N,DCB9-1D04,Start on Level 3-3
+N,D8B9-1D04,Start on Level 3-4
+N,DAB9-1D04,Start on Level 4-1
+N,D2B9-1D04,Start on Level 4-2
+N,D3B9-1D04,Start on Level 4-3
+N,DEB9-1D04,Start on Level 4-4
+N,FDB9-1D04,Start on Level 5-1
+N,FFB9-1D04,Start on Level 5-2
+N,F4B9-1D04,Start on Level 5-3
+N,F7B9-1D04,Start on Level 5-4
+N,D7BD-C7D4,Start with $3,500
+N,DBBD-C7D4,Start with $9,500
+N,7DBD-C7D4,Start with $30,500
+N,D4BD-C7D4,Start with $2500 Instead of $1500
+N,DDB4-C764,Start with 0 Gems
+N,DFBD-1DA4,Start with 1 Life
+N,D1B4-3DD7,Start with 1/2 Health
+N,F8B4-C404,Start with 2x Fuel
+N,D7BD-CF04,Start with 3 Nutty Attacks
+N,DBB4-3DD7,Start with 3/4 Health
+N,45B4-C404,Start with 3x Fuel
+N,D9BD-CF04,Start with 5 Nutty Attacks
+N,D5BD-CF04,Start with 7 Nutty Attacks
+N,DBBD-1DA4,Start with 9 Lives
+N,FDBF-CF64,Start with 10 Ammo for All Guns [Except Blaster]
+N,FDB4-C764,Start with 10 Gems [2 Continues]
+N,49B4-C764,Start with 25 Gems [5 Continues]
+N,49BD-1DA4,Start with 25 Lives
+N,9DBF-CF64,Start with 50 Ammo for All Guns
+N,9FBD-1DA4,Start with 51 Lives
+N,BDBF-CF64,Start with 90 Ammo for All Guns
+N,DDB4-C404,Start with Almost No Fuel
+N,DDBD-CF04,Start with No Nutty Attacks
+N,7E053DFE,Switch F/X on to Levitate
+N,F9AC-4706,Three-Way Gun Ammo Is $150
+N,DDAC-4706,Three-Way Gun Ammo Is Free
+N,4D20-C7A7,Three-Way Gun Ammo Power-Ups Are Worth 20

@@ -1,3 +1,12 @@
-N,7E050832,Unlimited ammo
-N,7E04FC04,Unlimited tanks
-N,7E07A85A,High bonus
+N,7E1B460A,Custom Ammo Infinite
+N,7E1B420A,Custom Shield Infinite
+N,7E1B440A,Custom Speed Infinite
+N,C232-ADA4,Freeze Bonus Timer
+N,7E07A85A,High Bonus
+N,7E050832,Infinite Ammo
+N,E0C1-6707,Infinite Health
+N,C2C0-DDDF,Infinite Hyperspace
+N,E08F-D40D,Infinite Lives
+N,7E04FC04,Infinite Tanks
+N,DD0D-F64D,Strong Spectre Starts with 9 Shields
+N,DB10-D7A4,Strong Spectre Starts with 9 Speed

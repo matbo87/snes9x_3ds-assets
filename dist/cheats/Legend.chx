@@ -1,11 +1,14 @@
-N,7E006815,Brightness Modifier
-N,7E12AB09+7E12AC09+7E12AD09+7E12AE09+7E12AF09+7E12B009,Gold
-N,7E12B300,Stage/Area Modifier
-N,7E130509,Set Strength +9
-N,7E130D09,Infinite Lives
-N,7E131108,Infinite Health
-N,7E131909,Infinite Magic
-N,7E13D901,Untouchable
-N,7E147100,No Stops
-N,7E148900,Boss One Hit Kill
-N,7E15F309,Infinite Time
+N,8286-C40F,Don't Lose Energy from Special Attack
+N,C23F-1DDD,Freeze Time
+N,6DED-3FD0+40ED-37D0+6DEF-3DA0+40E4-37A0+40E0-3DD0+40E0-3FA0,Hit Anywhere
+N,C2EB-1709,Infinite Energy
+N,C289-1DD7,Infinite Lives
+N,62A6-3FAD+29A6-34DD+F7A6-340D,Invincibility
+N,C282-346F,Invincibility (Alt)
+N,40C6-C469+4081-1F69,One Hit Kill
+N,7E130D08,P1 Infinite Health
+N,7E12F163,P1 Infinite Keys
+N,7E130909,P1 Infinite Lives
+N,7E131509,P1 Infinite Magic
+N,7E15EF09,P1 Infinite Time
+N,CEBF-CF6F+DDBB-CD0F+DDBE-CF0F+DDB5-3FAF,Skip Intro Screens

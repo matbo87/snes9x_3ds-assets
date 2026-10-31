@@ -1,26 +1,62 @@
-N,AFEB63AD,Nobody Gets Hurt
-N,AFFAE1AD,No Out Of Ring Timer
+N,BBB9-3DD4,Another Suplex
+N,70B9-3DD4,Big Fall
+N,7E054200,Can't Be Pinned P1
+N,7E0D86FF,Can't Grab Characters
+N,7E054F01,Choking & Eye Gouging Is Permitted at All Times
+N,3DB9-3DD4,Climb an Invisible Turnbuckle
+N,7E00C601,CPU Doesn't Attack as Much
+N,7E00C701,CPU Isn't as Aggressive
+N,7E0F4401,Enable 2-Punch KO Cheat
+N,2AB9-3DD4,Fall Flat on Your Face
+N,ADB9-3DD4,Fall Like You Were Just Punched from Turnbuckle
+N,30B9-3DD4,Fly Out of Ring and Then Return
+N,23B9-3DD4,Get DDT'd
+N,33B9-3DD4,Go in Invisible Corner
+N,7E054400,Grab Count Never Get to 3
+N,DDB9-3DD4,Harmless Suplex
+N,DD20-1110,Infinite Attribute Points When Editing Wrestlers
 N,7E0A78A0,Infinite Energy P1
 N,7E0A7AA0,Infinite Energy P2
-N,7E0A7800,Lose Energy Quickly P1
-N,7E0A7A00,Lose Energy Quickly P2
 N,7E053C00,Infinite Ringout Time P1
 N,7E053E00,Infinite Ringout Time P2
-N,7E054200,Can't Be Pinned P1
-N,7E054400,Can't Be Pinned P2
-N,C231-36E3,Nobody Gets Hurt
-N,C2E3-C653,No Out Of Ring Timer
-N,3DB9-3DD4,Climb An Invisible Turnbuckle
-N,DDB9-3DD4,Harmless Suplex
-N,7DB9-3DD4,Tag Nobody
-N,30B9-3DD4,Fly Out Of Ring And Return
-N,ADB9-3DD4,Turnbuckle Punch Fall 
-N,33B9-3DD4,Go In Invisible Corner
-N,D6B9-3DD4,Lay On Your Back
-N,2AB9-3DD4,Fall Flat On Your Face
-N,23B9-3DD4,Get DDT'd
-N,BBB9-3DD4,Another Suplex
-N,ACB9-3DD4,Two Close Ropes Run
-N,AOB9-3DD4,Climb Up Or Fall Down
-N,70B9-3DD4,Big Fall
+N,41B9-3DD4,Kick Out of a Non-Existent Pin [Can Sometimes Freeze Game]
+N,D6B9-3DD4,Lay on Your Back
+N,7E0A7800,Lose Energy Quickly P1
+N,7E0A7A00,Lose Energy Quickly P2
 N,30E9-3DD4,Luna's Dream
+N,7E00BB00,Matches Never End
+N,C2E3-C653,No Out of Ring Timer
+N,C231-36E3,Nobody Gets Hurt
+N,7E041901,P1 Has Fake Infinite Health
+N,7E053D01,P1 Is Barred from Entering Ring
+N,7E0B44BE+7E0B4502+7E0B4600,P1 Max Grapple Meter
+N,7E0A7901,P1 Starts with Little Health
+N,7E041B01,P2 Has Fake Infinite Health
+N,7E053F01,P2 Is Barred from Entering Ring
+N,7E0A7B01,P2 Starts with Little Health
+N,7E041D01,P3 Has Fake Infinite Health
+N,7E0A7CA0,P3 Has Infinite Health
+N,7E054000,P3 Has Infinite Time Out of the Ring
+N,7E054101,P3 Is Barred from Entering Ring
+N,7E0A7D01,P3 Starts with Little Health
+N,7E041F01,P4 Has Fake Infinite Health
+N,7E0A7EA0,P4 Has Infinite Health
+N,7E054301,P4 Is Barred from Entering Ring
+N,7E0A7F01,P4 Starts with Little Health
+N,7E053901,Quitting the Game Mid-Match Will Cause Your Opponent to Win
+N,7E054701,Referee Doesn't Do a Ring Out Count on P1
+N,7E054901,Referee Doesn't Do a Ring Out Count on P2
+N,7E054B01,Referee Doesn't Do a Ring Out Count on P3
+N,7E054D01,Referee Doesn't Do a Ring Out Count on P4
+N,DD29-1940,Remove 10 Point Cap from Attributes Editing
+N,ACB9-3DD4,Run Like Caught Between Two Close Ropes
+N,7E064400,Speed
+N,7E064800,Stamina
+N,D7ED-1C7D,Start with Half Energy
+N,7E064600,Strength
+N,7DB9-3DD4,Tag Nobody
+N,DD35-4857,Use Grapple Finishers Anytime
+N,DD35-CB87,Use Ground Finishers Anytime
+N,DD32-C684,Use Turnbuckle-Downed Opponent Finishers Anytime
+N,DD30-4BE7,Use Turnbuckle-Groggy Opponent Finishers Anytime
+N,7E064A00,Weight

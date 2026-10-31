@@ -1,57 +1,235 @@
-N,80D041EA,Infinite Health
-N,80CEC5BD,Infinite Lives
-N,80ED4700,Infinite Weapons
-N,8085F102,Start On Level 02
-N,8085F103,Start On Level 03
-N,8085F104,Start On Level 04
-N,8085F105,Start On Level 05
-N,8085F106,Start On Level 06
-N,8085F107,Start On Level 07
-N,8085F108,Start On Level 08
-N,8085F109,Start On Level 09
-N,8085F10A,Start On Level 10
-N,8085F10B,Start On Level 11
-N,8085F10C,Start On Level 12
-N,8085F10D,Start On Level 13
-N,8085F10E,Start On Level 14
-N,8085F10F,Start On Level 15
-N,8085F110,Start On Level 16
-N,8085F111,Start On Level 17
-N,8085F112,Start On Level 18
-N,8085F113,Start On Level 19
-N,8085F114,Start On Level 20
-N,8085F115,Start On Level 21
-N,8085F116,Start On Level 22
-N,8085F117,Start On Level 23
-N,8085F118,Start On Level 24
-N,8085F119,Start On Level 25
-N,8085F11A,Start On Level 26
-N,8085F11B,Start On Level 27
-N,8085F11C,Start On Level 28
-N,8085F11D,Start On Level 29
-N,8085F11E,Start On Level 30
-N,8085F11F,Start On Level 31
-N,8085F120,Start On Level 32
-N,8085F121,Start On Level 33
-N,8085F122,Start On Level 34
-N,8085F123,Start On Level 35
-N,8085F124,Start On Level 36
-N,8085F125,Start On Level 37
-N,8085F126,Start On Level 38
-N,8085F127,Start On Level 39
-N,8085F128,Start On Level 40
-N,8085F129,Start On Level 41
-N,8085F12A,Start On Level 42
-N,8085F12B,Start On Level 43
-N,8085F12C,Start On Level 44
-N,8085F12D,Start On Level 45
-N,8085F12E,Start On Level 46
-N,8085F12F,Start On Level 47
-N,8085F130,Start On Level 48
-N,8085F131,Start On Credit Level
-N,8085F132,Bonus Level Son Of Dr. Tongue
-N,8085F133,Bonus Lv Day Of The Tentacle
-N,8085F134,Bonus Lv Someplace Very Warm
-N,8085F135,Bonus Lv Curse Of The Pharaohs
-N,8085F136,Bonus Lv Mushroom Men
-N,8085F137,Bonus Lv Cheerl. Vs Monsters
+N,6D29-476B+6D26-4DAB,Always Extra Bonus Player
+N,6D29-476B,Always Extra Bonus Victim
+N,7E0155FF,Always Have "Shoes" Effect [P1]
+N,7E02D5FF,Always Have "Shoes" Effect [P2]
+N,59E8-4FD4,Ancient Artifact Worth 75, Instead of 30
+N,F0B2-3FD2,Baby Worth 1400 Points, Instead of 700
+N,FDE8-4F64,Bazooka Worth 10, Instead of 5
+N,D4BE-CFA2,BBQ Guy Worth 205 Points, Instead of 105
+N,BAA1-44A4,Can Advance to Next Level After Getting 1 Victim
+N,4DB9-37DE,Cheerleader Worth 2000 Points, Instead of 1000
+N,D921-1DD4,Continue with 1/2 Health
+N,FDB0-3FA3,Dog Worth 1000 Points, Instead of 500
+N,DBEF-1F04,Each First Aid Kit Worth 9 on Pick Up
+N,DBED-1FA4,Each Key Worth 9 on Pick Up
+N,DFBA-4F0E,Evil School Teacher Worth 110 Points, Instead of 10
+N,FDB5-CDAE,Explorer Worth 1000 Points, Instead of 500
+N,7E1E7509+7E1E7C30,Finish the Game by Finishing Level 1
+N,D4EC-47A4,Fire Extinguishers Worth 299, Instead of 99
+N,D4EF-1F04,First Aid Kits Worth 2
+N,D5EA-4FA4,Flamethrower Worth 700, Instead of 400
+N,DBEA-4FA4,Flamethrower Worth 900
+N,D823-C4A4,Ghost Kid Potion Lasts 2x Longer
+N,7E1E7509,Gives a Score of 900000000
+N,4DEA-CFD4,Gold Bar Worth 2000 Points, Instead of 1000
+N,FDEB-C404,Gold Pieces Worth 1000 Points, Instead of 500
+N,7E1E7299+7E1E7399+7E1E7499+7E1E7509,Have a Score of 9,999,999
+N,DD8E-C767+DD8D-37D7+DD2F-476D+6DEC-14D4,Hit Anywhere
+N,C930-1407,Infinite Ammo All Weapons
+N,7E1CDE50,Infinite Bananas [P1]
+N,7E1CFE50,Infinite Bananas [P2]
+N,7E1CD650,Infinite Bazooka [P1]
+N,7E1CF650,Infinite Bazooka [P2]
+N,7E1CDA50,Infinite Berries [P1]
+N,7E1CFA50,Infinite Berries [P2]
+N,7E1D1209,Infinite Cold Potion [P1]
+N,7E1D3209,Infinite Cold Potion [P2]
+N,7E1D2009,Infinite Dummy Clown [P1]
+N,7E1D4009,Infinite Dummy Clown [P2]
+N,7E1CCE50,Infinite Extinguisher [P1]
+N,7E1CEE50,Infinite Extinguisher [P2]
+N,7E1CE650,Infinite Flamethrower [P1]
+N,7E1D0650,Infinite Flamethrower [P2]
+N,7E1CE450,Infinite Footballs [P1]
+N,7E1D0450,Infinite Footballs [P2]
+N,3C20-4D0D,Infinite Health
+N,7E1CB80A,Infinite Health [P1]
+N,7E1CBA0A,Infinite Health [P2]
+N,7E1CD450,Infinite Holy Cross [P1]
+N,7E1CF450,Infinite Holy Cross [P2]
+N,7E1D0C09,Infinite Keys [P1]
+N,7E1D2C09,Infinite Keys [P2]
+N,DD3F-1DD4,Infinite Keys Once You Have at Least One
+N,82AA-CF07,Infinite Lives
+N,7E1D4C03,Infinite Lives [P1]
+N,7E1D4E03,Infinite Lives [P2]
+N,7E1CD050,Infinite Martian Gun [P1]
+N,7E1CF050,Infinite Martian Gun [P2]
+N,7E1D1A09,Infinite Medical Kit [P1]
+N,7E1D3A09,Infinite Medical Kit [P2]
+N,7E1D1009,Infinite Monster Potion [P1]
+N,7E1D3009,Infinite Monster Potion [P2]
+N,7E1D1C09,Infinite Pandoras Box [P1]
+N,7E1D3C09,Infinite Pandoras Box [P2]
+N,7E1CE050,Infinite Plates [P1]
+N,7E1D0050,Infinite Plates [P2]
+N,7E1CDC50,Infinite Popsicles [P1]
+N,7E1CFC50,Infinite Popsicles [P2]
+N,7E1D2209,Infinite Radios [P1]
+N,7E1D4209,Infinite Radios [P2]
+N,7E1D1409,Infinite Random a Potion [P1]
+N,7E1D3409,Infinite Random a Potion [P2]
+N,7E1D1609,Infinite Random B Potion [P1]
+N,7E1D3609,Infinite Random B Potion [P2]
+N,7E1D0E09,Infinite Shoes [P1]
+N,7E1D2E09,Infinite Shoes [P2]
+N,7E1CE250,Infinite Silverware [P1]
+N,7E1D0250,Infinite Silverware [P2]
+N,7E1D1E09,Infinite Skeleton Key [P1]
+N,7E1D3E09,Infinite Skeleton Key [P2]
+N,DD36-1DD4,Infinite Skeleton Keys - Both Players
+N,7E1CD850,Infinite Soda Bombs [P1]
+N,7E1CF850,Infinite Soda Bombs [P2]
+N,DD39-34D4,Infinite Special Items (Except Keys and Random Potions)
+N,7E1CCC50,Infinite Squirt Gun [P1]
+N,7E1CEC50,Infinite Squirt Gun [P2]
+N,7E1D1809,Infinite Unknown Potion [P1]
+N,7E1D3809,Infinite Unknown Potion [P2]
+N,DD30-1FA7,Infinite Weapons
+N,7E1CD250,Infinite Weed Wacker [P1]
+N,7E1CF250,Infinite Weed Wacker [P2]
+N,D4B6-170E,Inner-Tuber Worth 200 Points, Instead of 100
+N,DD2F-476D,Invincibility
+N,6DEA-1DA4,Invincibility Against Giant Baby's Stomps - Both Players
+N,6DE8-1DA4,Invincibility Against Jelly Blobs' Slime Shots - Both Players
+N,C9EB-1D04,Invincibility Against Martian Bubble Gun
+N,CBEE-3FAF+4FEE-34DF,Invincibility Plus Keys
+N,7E0174FF,Invincible [P1]
+N,7E02F4FF,Invincible [P2]
+N,C9E0-14D4,Invincible to Ground Hazards - Both Players
+N,6DEE-346F,Invulnerability
+N,DCAD-C404,Items Appear and Disappear and Then Reappear in a Different Spot
+N,D4ED-1FA4,Keys Worth 2
+N,D464-CFAF+D425-4D6B,Less Points Required for Bonus Victims
+N,DBE1-C7A4+DB28-47DB,Max Number of Lives Is 10, Instead of 6
+N,C9AE-C404,Max Objects/Weapons by Standing on Them
+N,DE28-1764,Monster Potion Lasts 2x Longer
+N,D4ED-14A4,Monster Potion Worth 2
+N,7E034C00,No Energy Final Boss (Head Form)
+N,7E055400,No Energy Final Boss (Spider Form)
+N,6D36-1DD7,No Recoil for Bazooka
+N,DF63-14DF,Only 1 Victim to Rescue per Level
+N,7E1D5201,Only Rescue 1 Neighbor to Advance
+N,7E017000,P1 Invincibility Against Jelly Blobs' Slime Shots
+N,6EE0-3DDB+86E0-3D0B+FAE0-3D6B+53E0-3DAB,P1 Start Every Level with Full Health
+N,7E02F000,P2 Invincibility Against Jelly Blobs' Slime Shots
+N,BBE8-4FA4,Package of 5 Bazookas Worth 999
+N,BBE8-44D4,Package of 20 Soda Pop Cans Worth 99
+N,BBE8-4464,Package of 20 Tomatoes Worth 99
+N,DBEC-4704,Package of 99 Squirtgun Shots Worth 999
+N,D4EF-1FA4,Pandora's Box Worth 2
+N,7E1F9400,Prevent Tourist Couple from Transforming into Werewolves
+N,7E00DEAD,Removes "Lower Class" Monsters
+N,7E1CCE50+7E1CEF50,Set Infinite Extinguisher (P1)
+N,7E1CCC50+7E1CCD50,Set Infinite Squirt Gun (P1)
+N,7E1CD250+7E1CD350,Set Infinite Weed Wacker (P1)
+N,D4EF-1404,Skeleton Keys Worth 2
+N,7E0C7C01,Skip Konami and LucasArts Intro Screens
+N,D161-1709,Soda Pop Cans Are 2x Stronger
+N,DB61-1709,Soda Pop Cans Are 3x Stronger
+N,9DE8-44D4,Soda Pop Cans Worth 50, Instead of 20
+N,D4BE-1DA3,Soldier Worth 200 Points, Instead of 100
+N,DD38-470F,Speed Shoes Always Active - Both Players
+N,D134-3464,Speed Shoes Last 2x Longer
+N,D4ED-1404,Speed Shoes Worth 2
+N,D461-1D09,Squirt Gun Is 2x Stronger
+N,D061-1D09,Squirt Gun Is 4x Stronger
+N,D4EC-4704,Squirt Guns Worth 299, Instead of 99
+N,7E1E7C01,Stage Select
+N,CB66-CDAF+D066-CFDF+DD66-CF0F+DD2B-476B+DD2C-44DB,Start Every Level with 04 Neighbors
+N,CB66-CDAF+D566-CFDF+DD66-CF0F+DD2B-476B+DD2C-44DB,Start Every Level with 07 Neighbors
+N,CB66-CDAF+FD66-CFDF+DD66-CF0F+DD2B-476B+DD2C-44DB,Start Every Level with 10 Neighbors
+N,756E-1D0F,Start on Bonus Level Cheerleaders vs the Monsters
+N,796E-1D0F,Start on Bonus Level Curse of the Pharaohs
+N,776E-1D0F,Start on Bonus Level Day of the Tentacle
+N,716E-1D0F,Start on Bonus Level Mushroom Men
+N,706E-1D0F,Start on Bonus Level Someplace Very Warm
+N,746E-1D0F,Start on Bonus Level Son of Dr. Tongue
+N,7F6E-1D0F,Start on Credit Level Monsters Among Us
+N,D46E-1D0F,Start on Level 2
+N,D76E-1D0F,Start on Level 3
+N,D06E-1D0F,Start on Level 4
+N,D96E-1D0F,Start on Level 5
+N,D16E-1D0F,Start on Level 6
+N,D56E-1D0F,Start on Level 7
+N,D66E-1D0F,Start on Level 8
+N,DB6E-1D0F,Start on Level 9
+N,DC6E-1D0F,Start on Level 10
+N,D86E-1D0F,Start on Level 11
+N,DA6E-1D0F,Start on Level 12
+N,D26E-1D0F,Start on Level 13
+N,D36E-1D0F,Start on Level 14
+N,DE6E-1D0F,Start on Level 15
+N,FD6E-1D0F,Start on Level 16
+N,FF6E-1D0F,Start on Level 17
+N,F46E-1D0F,Start on Level 18
+N,F76E-1D0F,Start on Level 19
+N,F06E-1D0F,Start on Level 20
+N,F96E-1D0F,Start on Level 21
+N,F16E-1D0F,Start on Level 22
+N,F56E-1D0F,Start on Level 23
+N,F66E-1D0F,Start on Level 24
+N,FB6E-1D0F,Start on Level 25
+N,FC6E-1D0F,Start on Level 26
+N,F86E-1D0F,Start on Level 27
+N,FA6E-1D0F,Start on Level 28
+N,F26E-1D0F,Start on Level 29
+N,F36E-1D0F,Start on Level 30
+N,FE6E-1D0F,Start on Level 31
+N,4D6E-1D0F,Start on Level 32
+N,4F6E-1D0F,Start on Level 33
+N,446E-1D0F,Start on Level 34
+N,476E-1D0F,Start on Level 35
+N,406E-1D0F,Start on Level 36
+N,496E-1D0F,Start on Level 37
+N,416E-1D0F,Start on Level 38
+N,456E-1D0F,Start on Level 39
+N,466E-1D0F,Start on Level 40
+N,4B6E-1D0F,Start on Level 41
+N,4C6E-1D0F,Start on Level 42
+N,486E-1D0F,Start on Level 43
+N,4A6E-1D0F,Start on Level 44
+N,426E-1D0F,Start on Level 45
+N,436E-1D0F,Start on Level 46
+N,4E6E-1D0F,Start on Level 47
+N,7D6E-1D0F,Start on Level 48
+N,236B-4704,Start with "Peppers"
+N,DD66-4DD4,Start with 1 Life
+N,D965-4464,Start with 1/2 Health
+N,D166-4DD4,Start with 7 Lives
+N,DB6B-4F04,Start with 9 First Aid Kits Instead of 1
+N,DB66-4DD4,Start with 10 Lives
+N,DD6B-4DA4,Start with 50 Ammo for Starting Weapon
+N,DD6B-4D64,Start with 100 Ammo for Starting Weapon
+N,D96B-4DA4,Start with 550 Ammo for Starting Weapon
+N,DB6B-4DA4,Start with 950 Ammo for Starting Weapon
+N,4D6C-4DD4,Start with a Decoy
+N,F46C-4DD4,Start with a Ghost Potion
+N,FD6C-4DD4,Start with a Monster Potion
+N,FA6C-4DD4,Start with a Pandora's Box
+N,F06C-4DD4,Start with a Random Potion
+N,F36C-4DD4,Start with a Skeleton Key
+N,206B-4704,Start with Ancient Artifacts
+N,216B-4704,Start with Bazookas
+N,A36B-4704,Start with Fire Extinguishers
+N,316B-4704+D06B-4DA4,Start with Flamethrower with 450 Ammo
+N,316B-4704+D56B-4DA4,Start with Flamethrower with 750 Ammo
+N,316B-4704+DB6B-4DA4,Start with Flamethrower with 950 Ammo
+N,306B-4704,Start with Footballs
+N,2A6B-4704,Start with Ice Pops
+N,2D6B-4704,Start with Martian Bubble Guns
+N,3D6B-4704,Start with Plates
+N,346B-4704,Start with Silverware
+N,266B-4704,Start with Soda Pop Cans Instead of Squirtguns
+N,D36C-4DD4,Start with Speed Shoes Instead If a First Aid Kit
+N,2C6B-4704,Start with Tomatoes
+N,246B-4704,Start with Weed-Eaters
+N,D0C0-44AA,Tourist Couple Worth 400 Points, Instead of 200
+N,D1BD-1703,Trampoline Girl Worth 600 Points, Instead of 300
+N,C9EA-1704+6924-4DAD,Untouchable
+N,18CC-37DA,Victims Are Invincible
+N,6D3A-47DF+6D3D-14AF,Walk Through Walls
+N,D461-1FA9,Weed-Eater Is 2x Stronger
+N,D061-1FA9,Weed-Eater Is 4x Stronger
+N,D9E8-4DA4,Weed-Eater Worth 500, Instead of 300
+N,7E1CB8A0,You Don't Die

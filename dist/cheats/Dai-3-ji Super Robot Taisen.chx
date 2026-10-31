@@ -1,28 +1,20 @@
-N,7E1006E7,Turn Count (1/2)
-N,7E100703,Turn Count (2/2)
-N,7E18060F,Infinite Energy Ally 1 (1/2)
-N,7E180727,Infinite Energy Ally 1 (2/2)
-N,7E18080F,Infinite Energy Ally 2 (1/2)
-N,7E180927,Infinite Energy Ally 2 (2/2)
-N,7E180A0F,Infinite Energy Ally 3 (1/2)
-N,7E180B27,Infinite Energy Ally 3 (2/2)
-N,7E180C0F,Infinite Energy Ally 4 (1/2)
-N,7E180D27,Infinite Energy Ally 4 (2/2)
-N,7E180E0F,Infinite Energy Ally 5 (1/2)
-N,7E180F27,Infinite Energy Ally 5 (2/2)
-N,7E18100F,Infinite Energy Ally 6 (1/2)
-N,7E181127,Infinite Energy Ally 6 (2/2)
-N,7E18120F,Infinite Energy Ally 7 (1/2)
-N,7E181327,Infinite Energy Ally 7 (2/2)
-N,7E18140F,Infinite Energy Ally 8 (1/2)
-N,7E181527,Infinite Energy Ally 8 (2/2)
-N,7E18160F,Infinite Energy Ally 9 (1/2)
-N,7E181727,Infinite Energy Ally 9 (2/2)
-N,7E1009:42,Tons Of Money (1/2)
-N,7E100A:0F,Tons Of Money (2/2)
-N,CBBC-0DDD,255 Move (1/2)
-N,CB8F-6408,255 Move (2/2)
+N,7E1787FF,255 Max EM [Unit 1]
+N,CBBC-0DDD+CB8F-6408,255 Move
+N,50C5-A701,End Turn or Move to End Battle
+N,DD29-6D08,Get 65535 EXP from Defeating an Enemy
+N,DDC0-0F6D,Get Max Cr from Defeating an Enemy
 N,DDA1-A7A6,Infinite Actions
-N,DD29-6D08,65535 Exp Per Enemy Defeated
-N,DDC0-0F6D,Max Cr From Defeating An Enemy
-N,50C5-A701,End Turn Or Move To End Battle
+N,7E116D00+7E116E00,Max EXP [Pilot 1]
+N,7E116F00+7E117000,Max EXP [Pilot 2]
+N,7E117100+7E117200,Max EXP [Pilot 3]
+N,7E117300+7E117400,Max EXP [Pilot 4]
+N,7E117500+7E117600,Max EXP [Pilot 5]
+N,7E117700+7E117800,Max EXP [Pilot 6]
+N,7E117900+7E117A00,Max EXP [Pilot 7]
+N,7E117B00+7E117C00,Max EXP [Pilot 8]
+N,7E117D00+7E117E00,Max EXP [Pilot 9]
+N,7E117F00+7E118000,Max EXP [Pilot 10]
+N,7E118100+7E118200,Max EXP [Pilot 11]
+N,7E100942+7E100A0F,Tons of Money
+N,7E18160F+7E181727,Turn Count
+N,7E1006E7+7E100703,Turn Count (alt)

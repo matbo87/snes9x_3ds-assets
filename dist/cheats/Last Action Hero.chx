@@ -1,3 +1,17 @@
-N,7E031609,Unlimited lives
-N,7E03B7FA,Invincibility
-N,7E031509,Unlimited time
+N,4022-440F+4023-470F,Continually Hit Anywhere
+N,7E031F00+7E032001,Infinite Energy
+N,7E031FFF,Infinite Health
+N,7E031604,Infinite Lives
+N,7E031559,Infinite Time
+N,7E031599,Infinite Time (alt)
+N,7E03B604,Invincibility
+N,7E03B7FF,Invincibility (Transparent)
+N,183B-1407+4639-44AD+1D39-47DD+4630-346D+1D30-34AD,Invincibility Car Level
+N,7E082200,Normal Enemies Defeated with 1 Hit #1
+N,7E088000,Normal Enemies Defeated with 1 Hit #2
+N,7E08DE00,Normal Enemies Defeated with 1 Hit #3
+N,6D2E-440F,One Hit Kill
+N,7E030F01,Stage Select
+N,DBB6-CFDD,Start with More Lives
+N,1D3D-CF6D,Stop White Trucks
+N,7E07B7FF,Switch F/X on to Levitate Jump

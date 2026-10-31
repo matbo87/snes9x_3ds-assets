@@ -1,34 +1,49 @@
-N,7E00C599,Infinite HP (1/2)
-N,7E00C609,Infinite HP (2/2)
-N,7E00D2FF,Quick Level Gain (1/2)
-N,7E00D3FF,Quick Level Gain (2/2)
-N,7E00C964,Max. Biting Power
-N,7E00CA64,Max. Strength
-N,7E00CB64,Max. Kick
-N,7E00CC64,Max. Strike
-N,7E00CE64,Max. Horn
-N,7E00C799,Max. HP (1/2)
-N,7E00C809,Max. HP (2/2)
-N,7E00CF99,Max. Defence
-N,7E00D1FF,Max. Jumping
-N,7E00D018,Max. Agility
-N,7E00D23F,Max Evolution Points (1/3)
-N,7E00D342,Max Evolution Points (2/3)
-N,7E00D40F,Max Evolution Points (3/3)
-N,7E093B00,Kill Bosses & 1/2 Of Enemies
-N,7E093C00,1/2 Enemies Die With 1 Hit
-N,7E009620,Infinite Reverse Evo Option
-N,C96E-07FB,Protection From Most Hazards
-N,DD60-D18B,Food Heals Fully
-N,D566-A7F8,Less Damage From Creatures
+N,7E00C9FF,255 Bite Power
+N,7E00D1FF,255 Jump Agility
+N,9664-04A7,Advance to Next Chapter
+N,7ED06700,AGILITY
+N,7EC96300,Bite
+N,7E093B00,Bosses and 1/2 of the Enemies Die with 1 Hit
+N,7E030907,Changing the Defense
+N,DD61-D97B,Collect 1 Health to Max It Out
+N,7ECF9900,DEFENSE
+N,7ED20F00,EVO
+N,7ED32700,EVO (alt)
+N,14A4-6578+A3A4-6558,Evo Music and Se Test at Title Screen
+N,6D27-6FAF,Evo Points Not Needed
+N,DD60-D18B,Food Replenishes Hit Points to Full
+N,7E00D213,Good Jump Height
+N,7E00D11E,Good Speed
+N,7ECD6300,HORN
 N,C964-A726,Horn Never Breaks
-N,EEDA-F356,255 Bite Power
-N,EEDA-F386,255 Strength
-N,EEDA-F3E6,255 Kick Power
-N,EEDA-FE76,255 Strike Power
-N,EEDA-FE56,255 Horn Power
-N,**DA-FEE6,Changing The Defense
-N,EED2-FA76,255 Agility
-N,EED2-FA56,255 Jump Agility
-N,FDD2-FA86,Infinite EP (1/2)
-N,45D2-FAE6,Infinite EP (2/2)
+N,7EC59900,HP
+N,6DCC-6762,Infinite 'Review of Evolution' Usage
+N,7E00D210+7E00D327,Infinite EP
+N,7E00C599+7E00C609,Infinite Life
+N,7E009620,Infinite Reverse Evo Option
+N,1D66-072B,Invincibility
+N,7ED16300,Jump
+N,7ECB6300,Kick
+N,D566-A7F8,Less Damage from Stronger Creatures
+N,7E00CAFF,Max Biting Power
+N,7E00D0FF,Max Defense
+N,7E00CEFF,Max Horn
+N,7E00CCFF,Max Kick
+N,7E00C799+7E00C809,MAX Life
+N,7E00CBFF,Max Strength
+N,7E00CDFF,Max Strike
+N,7E00D018,Max. Agility
+N,7E00C964,Max. Biting Power
+N,7E00CF99,Max. Defence
+N,7E00CE64,Max. Horn
+N,7E00CB64,Max. Kick
+N,7E00CA64,Max. Strength
+N,7E00CC64,Max. Strike
+N,7E00D23F+7E00D342+7E00D40F,Maxed Evolution Points
+N,DD6C-AFF2,One Hit Kills Any Enemy
+N,7E093C00,Other 1/2 of the Enemies Die with 1 Hit
+N,4D25-AF64,Permanent 'Review of Evolution'
+N,C96E-07FB,Protection from Most Hazards
+N,7E00D2FF+7E00D3FF,Quick Level Gain
+N,7ECA6300,Strength
+N,7E00D40F,Tons of EVO Points

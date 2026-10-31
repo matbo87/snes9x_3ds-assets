@@ -1,5 +1,39 @@
-N,7E0D6E05,Infinite lives
-N,7E0D1450,Invincibility
-N,01A34CCD,Stop timer
-N,01A8BB09,10 credits
-N,02920500,Food = full restor
+N,DD8D-6F06,Any Food Restores All Energy
+N,7E0D1E01,Attack Speed Greatly Increased
+N,7E11F400+7E11F500,Boss No Life
+N,CBCB-6408+5ECB-6468+69CB-64A8+DECB-67D8,Cody Is Untouchable
+N,CBA3-DD00+EEA3-DD60+BBA3-DDA0+DEA3-DFD0+DDA3-DF00,Cody/Hagger Becomes Untouchable When He Moves or Attacks
+N,7EFFFA01,Debug Mode
+N,EDC0-A4DB,Debug Option
+N,7EFFFCFF,Demo Mode
+N,7E101400,Enemy 1 No Life
+N,7E10B400,Enemy 2 No Life
+N,7E115400,Enemy 3 No Life
+N,A1C5-A7A7,Everyone Is Untouchable [Even Enemies]
+N,DDC9-AFD0,Faster Timer
+N,7E0CBC63,Freeze Timer
+N,40AD-04A0+7DA4-0F00+89A4-0D60+F9A4-0DA0+3CA4-0FD0,Hit Anywhere
+N,7E0D76C8,Hold Enemy Forever
+N,EEC8-D4A1,Infinite Credits
+N,89A1-0DA1+C9C4-AD6C,Infinite Energy
+N,29A1-0DA1+DDCF-A4AC,Infinite Energy (See Note)
+N,7E0D1450,Infinite Life
+N,7E245609,Infinite Lives
+N,7E0D6E05,Infinite Lives (alt)
+N,7E0CBC09,Infinite Time
+N,2DCD-AF6B,Invincibility
+N,7E0D0F79,Invisible [Not Able to Be Hit]
+N,7E242E09+7E242C09+7E242A09+7E242809+7E242609+7E242409+7E242209+7E242009,Max High Score
+N,7E0C9709+7E0C9609+7E0C9509+7E0C9409+7E0C9309+7E0C9209+7E0C9109+7E0C9009,Max Score
+N,7E0D7000,P1 Has a Different Punch
+N,31C9-A76B,P1 Is Untouchable
+N,D4BD-DD01,Pause Game to Enter Test Mode
+N,D4C9-AFD0,Slower Timer
+N,CBB1-0FA5+DFB1-04D5+3CB1-0405+3CB1-0465,Start a New Game on Stage 2 - Subway
+N,CBB1-0FA5+D4B1-04D5+3CB1-0405+3CB1-0465,Start a New Game on Stage 3 - West Side
+N,CBB1-0FA5+D0B1-04D5+3CB1-0405+3CB1-0465,Start a New Game on Stage 4 - Bay Area
+N,CBB1-0FA5+D9B1-04D5+3CB1-0405+3CB1-0465,Start a New Game on Stage 5 - Up Town
+N,DFC8-D4A1,Start with 2 Credits
+N,D9C8-D4A1,Start with 6 Credits
+N,DBC8-D4A1,Start with 10 Credits
+N,A2C0-A7D0,Stop Timer

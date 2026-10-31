@@ -1,5 +1,12 @@
-N,7E1C2299,Infinite Time
-N,7E1C2640,Infinite Health
+N,7E201C01,Enable Stage Select Menu (Start a New Game)
+N,7E201A01,Enable Start with 2x Health Cheat
+N,7E201909,Enable Start with 10 Lives Cheat
+N,8FC9-EF69,Infinite Energy
+N,7E0E0C40,Infinite Health
+N,7E1C2640,Infinite Health (alt)
 N,7E1C2309,Infinite Lives
-N,7E1C2400,1 Hit Kills Bosses
-N,7E1C12XX,Level Modifier
+N,7E1C2263,Infinite Time
+N,7E1C2299,Infinite Time (alt)
+N,7E0E2020,Invincibility
+N,6C8F-5D69,Moon Jump
+N,7E1C2400,One Hit Kills Bosses

@@ -1,45 +1,44 @@
-N,7E15AF05,Infinite Bombs
-N,7E039628,Infinite Shield
-N,7E16EE09,Infinite Lives
+N,7EF0E909,Already Passed (Need to Fly Through 1 Ring to Pass)
+N,DD3F-0F1A,Changes Laser to Other Weapons
+N,4035-DD3A,Changes Nova Bombs to Other Weapons
+N,DD34-0F4A,Changes the Fire Noise
+N,DD37-D44A,Constant Nova Bombs
+N,7E1F0F00,Control Settings
 N,7E14DA12,Double Blasters
-N,5560-DDF3,Never-Ending Launching Tube
-N,0060-DDFB,Zoom In Death Scene
-N,5561-DDF3,Different Launch Perspective 1
-N,1161-DDF3,Different Launch Perspective 2
-N,7E16EE0A,Infinite Lives
-N,7E039635,Invincible
-N,21C0-A7CE,Overkill Code (1/2)
-N,21C0-AFCE,Overkill Code (2/2)
-N,7E14D901,Have Double Lasers
-N,7E14D902,Have See-Through Ship
-N,7E14D903,Double Lasers & Invincible
-N,7E16DB00,Level Selected On Map
 N,7E0347FE,Freeze Level Scrolling
-N,7E18A240,Infinite Health (Slippy)
+N,2D33-DF4A,Full Fire Power
+N,7E14D901,Have Double Lasers
+N,7E14D903,Have Double Lasers & Impervious to Enemy Fire Ship
+N,7E14D902,Have See-Through Ship
+N,7E14D818,Have Twin Laser B
+N,183F-6F1A,If Dead 'Stops and Hovers'
+N,7E15AF05,Infinite Bombs
+N,D1E5-D468+CB34-6D4D+D76B-0BC7+C2D6-1819+1641-D9F1+5319-98F4+DDDD-8A7D,Infinite Energy and Infinite Nova Bombs
 N,7E18A140,Infinite Health (Falco)
 N,7E18A040,Infinite Health (Peppy)
-N,7E18A228,Inf. Shields (Peppy) (Alt.)
-N,7E18A328,Inf. Shields (Falco) (Alt.)
-N,7E18A428,Inf. Shields (Slippy) (Alt.)
-N,7E14D818,Have Twin Laser B
-N,7EF0E909,Fly Through 1 Ring To Pass
-N,7E1F0F00,Control Settings
-N,7E03CC05,Left Wing Never Damaged
-N,7E040205,Right Wing Never Damaged
-N,7E035801,Never Get Hit
-N,D1E5-D468,Inf. Nrg & Nova Bombs (1/7)
-N,CB34-6D4D,Inf. Nrg & Nova Bombs (2/7)
-N,D76B-0BC7,Inf. Nrg & Nova Bombs (3/7)
-N,C2D6-1819,Inf. Nrg & Nova Bombs (4/7)
-N,1641-D9F1,Inf. Nrg & Nova Bombs (5/7)
-N,5319-98F4,Inf. Nrg & Nova Bombs (6/7)
-N,DDDD-8A7D,Inf. Nrg & Nova Bombs (7/7)
-N,C23F-ADC2,Infinite Lives
+N,7E18A240,Infinite Health (Slippy)
+N,7E16EE09,Infinite Lives
+N,7E16EE0A,Infinite Lives (alt)
 N,C230-D44A,Infinite Nova Bombs
-N,183F-6F1A,Stops Starfield On Optn Scrn
-N,C22E-671A,Dmg Is Not Repaired On Death
-N,2D33-DF4A,Full Fire Power
-N,DD34-0F4A,Changes The Fire Noise
-N,DD37-D44A,Constant Nova Bombs
-N,EE25-041A,Small Ship
-N,D1A0-DF0E,Venom - The Final Goal
+N,7E039628,Infinite Shield
+N,7E18A328,Infinite Shields (Falco)
+N,7E18A228,Infinite Shields (Peppy)
+N,7E18A428,Infinite Shields (Slippy)
+N,8921-60EA,Infinite Shields/Invincible (Player and Enemies)
+N,2D29-65EA,Infinite Shields/Invincible (Player Only; Also Affects Certain Bosses)
+N,7E039635,Invincibility
+N,7E03CC05,Left Wing Never Damaged
+N,7E035801,Never Get Hit
+N,5560-DDF3,Never-Ending Launching Tube
+N,21C0-A7CE+21C0-AFCE,Overkill Code
+N,1DC1-DFAE,Removes the Pictures from the Map Screen
+N,7E040205,Right Wing Never Damaged
+N,EE25-041A,Small 'Plane'
+N,D1A0-DF0E,Start on Venom - The Final Goal
+N,1883-AF02,Stops All Pinging Noises
+N,1820-098A,Stops All Shooting
+N,C2ED-698E,Stops Starfield on Option Screen
+N,5561-DDF3,View in Different Perspective of the Launch Pad/Tube
+N,1161-DDF3,View in Different Perspective of the Launch Pad/Tube #2
+N,C22E-671A,When Killed, Damage Is Not Repaired
+N,0060-DDFB,Zoom in on Your Ship When It Explodes in Your Death Scene

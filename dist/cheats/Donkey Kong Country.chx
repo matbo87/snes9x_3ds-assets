@@ -1,7 +1,194 @@
-N,C263-4D0A,Infinite Lives
-N,BF8E88FF,Other Kong Returns
-N,BFA2DB60,Almost Invincible
-N,BFB9ADC4,High Jump (Donkey)
-N,BFB9B5B4,High Jump (Diddy)
-N,809B5E00,End any Level :S+S
-N,BF8FA803,Get Both Kongs Bak
+N,DBC1-3D6D+DCC1-34AD,10 Bananas Needed for an Extra Life
+N,DBC9-340D+DCC1-3D6D,10 Bananas Needed for an Extra Life (alt)
+N,DBC1-3D6D+DCC1-34AD+DBC9-340D+DCC1-3D6D,10 Bananas Needed for an Extra Life (alt 2)
+N,F6C1-3D6D+FBC1-34AD,25 Bananas Needed for an Extra Life
+N,F6C9-340D+FBC1-3D6D,25 Bananas Needed for an Extra Life (alt)
+N,F6C1-3D6D+FBC1-34AD+F6C9-340D+FBC1-3D6D,25 Bananas Needed for an Extra Life (alt 2)
+N,7FC1-3D6D+74C1-34AD,50 Bananas Needed for an Extra Life
+N,7FC9-340D+74C1-3D6D,50 Bananas Needed for an Extra Life (alt)
+N,7FC1-3D6D+74C1-34AD+7FC9-340D+74C1-3D6D,50 Bananas Needed for an Extra Life (alt 2)
+N,0CC1-3D6D+08C1-34AD,75 Bananas Needed for an Extra Life
+N,0CC9-340D+08C1-3D6D,75 Bananas Needed for an Extra Life (alt)
+N,0CC1-3D6D+08C1-34AD+0CC9-340D+08C1-3D6D,75 Bananas Needed for an Extra Life (alt 2)
+N,1DCC-CA7A,Almost Invincible (Switch Off If You Get Stuck)
+N,1DCA-C2EA,Almost Invincible (Switch Off If You Get Stuck) (alt)
+N,1DCC-CA7A+1DCA-C2EA,Almost Invincible (Switch Off If You Get Stuck) (V1.0)
+N,1DC2-63EA,Almost Invincible (Switch Off If You Get Stuck) [Rev 2]
+N,D76B-3FDD+196A-333D,Animals on All Boards Code
+N,DD82-CEEA,Bad Buddy Code [Rev 2]
+N,D76C-337E,Both Kongs Return [Rev 2]
+N,D76B-337E+D76C-327E,Both Kongs Return on Map After Dying (Not Off-Screen)
+N,D76B-337E,Both Kongs Return on Map After Dying (Not Off-Screen) (alt)
+N,D76C-327E,Both Kongs Return on Map After Dying (Not Off-Screen) (alt 2)
+N,DDCB-33E2+3C6C-CABB+DDBA-427B,Cartwheel and Stomp Enemies Who Are Immune to It
+N,DDCA-3A82+3C6C-CABB+DDBA-427B,Cartwheel and Stomp Enemies Who Are Immune to It [Rev 1]
+N,DDC3-3272+3C6C-CABB+DDBA-437B,Cartwheel and Stomp Enemies Who Are Immune to It [Rev 2]
+N,7E002801,Continous Cartwheel (Diddy Kong)
+N,7E002A01,Continous Roll (Donkey Kong)
+N,7E102D01,Diddy Kong Can't Jump
+N,7E1636FE,Diddy Kong Can't Roll or Jump
+N,7E0EF56C,Diddy Kong Moon Jump
+N,7E057D19,Die in Stage to See Dancing Kong
+N,7E088801,Display Hidden Items & Areas
+N,7E102B01,Donkey Kong Can't Jump
+N,7E16E504,Donkey Kong Can't Roll
+N,7E102B00,Donkey Kong Has Slight Pause Before Jump
+N,7E16E500,Donkey Kong Infinite Rolls
+N,7E0EF200+7E0EF36C,Donkey Kong Moon Jump
+N,7E12A911,Drop Slowly
+N,EE80-C373,Expresso MultiJump
+N,EE81-CEE3,Expresso MultiJump [Rev 1]
+N,EE8B-CA53,Expresso MultiJump [Rev 2]
+N,DDB9-3764,EZ Level Exit [Rev 2]
+N,6D20-3E52,Get Banana Bunches from Anywhere
+N,6D25-3282,Get Banana Bunches from Anywhere [Rev 1]
+N,6D2A-3282,Get Banana Bunches from Anywhere [Rev 2]
+N,6D2B-C272,Get KONG Letters from Anywhere
+N,6D28-CE52,Get KONG Letters from Anywhere [Rev 1]
+N,6D2D-3E52,Get KONG Letters from Anywhere [Rev 2]
+N,6DC7-3ABB,Get Life Balloons from Anywhere
+N,6DC7-32FB,Get Life Balloons from Anywhere [Rev 1]
+N,6DC0-32FB,Get Life Balloons from Anywhere [Rev 2]
+N,6DEA-CEBB,Get Midway Barrel from Anywhere
+N,6DE3-CABB,Get Midway Barrel from Anywhere [Rev 1]
+N,6DEF-32FB,Get Midway Barrel from Anywhere [Rev 2]
+N,DD89-32C4+6D88-3A14+DD80-3E34,Get Most Single Bananas from Anywhere
+N,6D80-3E44+DD89-3314+6D88-3244,Get Most Single Bananas from Anywhere [Rev 1]
+N,6D85-4217+DD86-4AC7+6D82-4E17,Get Most Single Bananas from Anywhere [Rev 2]
+N,7E052C09+7E052D09,Have 999 Bananas
+N,A089-CE53,High Jump Animals [Rev 2]
+N,8088-1253,High Jump Diddy Kong [Rev 2]
+N,A08C-1E53,High Jump Donkey Kong [Rev 2]
+N,A08F-C273,High Jump for All Animals
+N,A087-C3E3,High Jump for All Animals (alt)
+N,A08F-C273+A087-C3E3,High Jump for All Animals (alt 2)
+N,8081-1E73,High Jump for Diddy Kong
+N,808B-1AE3,High Jump for Diddy Kong (alt)
+N,8081-1E73+808B-1AE3,High Jump for Diddy Kong (alt 2)
+N,A081-1273,High Jump for Donkey Kong
+N,A086-13E3,High Jump for Donkey Kong (alt)
+N,A081-1273+A086-13E3,High Jump for Donkey Kong (alt 2)
+N,7E110A01,Hyper Diddy Kong
+N,7E110801,Hyper Donkey Kong
+N,7E111201,Hyper King K. Rool
+N,DD8B-C28A,Inactive Player Takes Control with A or Select (2P Team)
+N,DD88-CE5A,Inactive Player Takes Control with A or Select (2P Team) (alt)
+N,DD8B-C28A+DD88-CE5A,Inactive Player Takes Control with A or Select (2P Team) (alt 2)
+N,7E057901,Infinite Health
+N,7E057708,Infinite Lives
+N,7E057763,Infinite Lives (alt)
+N,7E057509,Infinite Lives (alt 2)
+N,7E137F00,Infinite Time
+N,7E137F99+7E13F399,Infinite Time in Bonus Stage
+N,1DA0-3252+DD2F-3E7A,Invincibility
+N,7E16D7FF,Invincibility (Diddy Kong)
+N,7E16D5FF,Invincibility (Donkey Kong)
+N,1DCC-CA7A+F6CF-13EA+F6CC-3E7A,Invincibility [No 'Lockup']
+N,1DCA-C2EA+F6C0-1A8A+F6C2-3AEA,Invincibility [No 'Lockup'] [Rev 1]
+N,1DC2-C3EA+F6C9-128A+F6C3-32EA,Invincibility [No 'Lockup'] [Rev 2]
+N,DD20-325A+1DA1-3E72,Invincibility [Rev 1]
+N,DD2B-325A+1DAB-3E82,Invincibility [Rev 2]
+N,1DC2-C3EA,Invincibility (alt) [Rev 2]
+N,DDCC-CA9B,Invincibility in Mine Cart Carnage
+N,DDCC-CA2B,Invincibility in Mine Cart Carnage [Rev 1]
+N,DDCC-CE9B,Invincibility in Mine Cart Carnage [Rev 2]
+N,7E12A901,Jump 'n Glide Diddy Kong
+N,7E12A701,Jump 'n Glide Donkey Kong
+N,6D84-33EA+4084-1273+6D84-1353+2D87-1273,Jump in Midair
+N,6D89-3A8A+4080-13E3+6D89-1A73+2D89-13E3,Jump in Midair [Rev 1]
+N,6D85-327A+4081-1E53+6D85-1A83+2D85-1E53,Jump in Midair [Rev 2]
+N,1D6B-3FDD+196A-333D+1D6B-3D6D+166A-3ECD,Keep Animals Between Stages
+N,1D6B-3FDD+196A-333D,Keep Animals Between Stages (Fish Can Cause Problems)
+N,1D6B-3D6D+166A-3ECD,Keep Animals Between Stages (Fish Can Cause Problems) (alt)
+N,64A0-3282+6424-3A7A+DDCB-33E2+3C6C-CABB,Kill Enemies on Contact
+N,64A1-3E52+6420-335A+DDCA-3A82+3C6C-CABB,Kill Enemies on Contact [Rev 1]
+N,64AB-3EE2+642B-335A+DDC3-3272+3C6C-CABB,Kill Enemies on Contact [Rev 2]
+N,C4A2-CA7A,Land Animals Roll [Rev 1]
+N,A98B-327A,Land Animals Roll [Rev 2]
+N,7E05F810,Language Select
+N,3089-CE53,Mega Jump Animals [Rev 2]
+N,2D88-1253,Mega Jump Diddy Kong [Rev 2]
+N,3086-13E3,Mega Jump Donkey Kong [Rev 1]
+N,308C-1E53,Mega Jump Donkey Kong [Rev 2]
+N,3D8F-C273,Mega-Jump for All Animals
+N,3087-C3E3,Mega-Jump for All Animals (alt)
+N,3D8F-C273+3087-C3E3,Mega-Jump for All Animals (alt 2)
+N,2D81-1E73,Mega-Jump for Diddy Kong
+N,2D8B-1AE3,Mega-Jump for Diddy Kong (alt)
+N,2D81-1E73+2D8B-1AE3,Mega-Jump for Diddy Kong (alt 2)
+N,3D81-1273,Mega-Jump for Donkey Kong
+N,3D86-13E3,Mega-Jump for Donkey Kong (alt)
+N,3D81-1273+3D86-13E3,Mega-Jump for Donkey Kong (alt 2)
+N,4B84-1253+6D84-1273,Midair Multi-Jump
+N,7E0EF380+7E052B09,Moon Jump
+N,EE8F-C273,Moon Jump Animals
+N,EE87-C3E3,Moon Jump Animals [Rev 1]
+N,EE89-CE53,Moon Jump Animals [Rev 2]
+N,EE81-1E73,Moon Jump Diddy Kong
+N,EE8B-1AE3,Moon Jump Diddy Kong [Rev 1]
+N,EE88-1253,Moon Jump Diddy Kong [Rev 2]
+N,EE81-1273,Moon Jump Donkey Kong
+N,EE86-13E3,Moon Jump Donkey Kong [Rev 1]
+N,EE8C-1E53,Moon Jump Donkey Kong [Rev 2]
+N,6D6D-14D0,Move Through Walls
+N,7E150101,One Hit to Kill Necky Boss
+N,7E150301,One Hit to Kill Very Gnawty Boss
+N,7E057F0E,Only Need Icon "G" of "KONG" for 1-UP
+N,7E057F07,Only Need Icon "K" of "KONG" for 1-UP
+N,7E057F0D,Only Need Icon "N" of "KONG" for 1-UP
+N,7E057F0B,Only Need Icon "O" of "KONG" for 1-UP
+N,7E057102,Only Need One Frog Icon for Bonus Stage
+N,7E057202,Only Need One Ostrich Icon for Bonus Stage
+N,7E057302,Only Need One Rhino Icon for Bonus Stage
+N,7E057402,Only Need One Swordfish Icon for Bonus Stage
+N,7E00740A,Press L for 50 Lives
+N,7E057D08,Press Y at Intro for Bonus Game Mode
+N,7E00700E,Press Y for Free Switching
+N,7E00720E,Press Y for Music Test
+N,EE66-C37E,Return of Kong [Rev 2]
+N,CD68-3FDD+226A-333D,See the Ending of DKC
+N,7E057B63,Set 99 Bananas
+N,DDAB-4FAD+DDAD-3D07+DDEF-47DF+F8E4-3DAD,Skip Intro Screens
+N,DDAB-446D+DDAD-3D67+DDEF-470F+F8E4-3FDD,Skip Intro Screens [Rev 1]
+N,DDA8-446D+DDA8-CFD7+DDEA-370D+F8E2-CFDD,Skip Intro Screens [Rev 2]
+N,DDB9-3DD4,Start + Select Exits Any Level
+N,DDB0-34A4,Start + Select Exits Any Level (alt)
+N,DDB9-3DD4+DDB0-34A4,Start + Select Exits Any Level (alt 2)
+N,D568-C34D,Start with 8 Lives
+N,D568-C33D,Start with 8 Lives (alt)
+N,D568-C34D+D568-C33D,Start with 8 Lives (alt 2)
+N,DC68-C34D,Start with 11 Lives
+N,DC68-C33D,Start with 11 Lives (alt)
+N,DC68-C34D+DC68-C33D,Start with 11 Lives (alt 2)
+N,DE68-C34D,Start with 16 Lives
+N,DE68-C33D,Start with 16 Lives (alt)
+N,DE68-C34D+DE68-C33D,Start with 16 Lives (alt 2)
+N,FB68-C34D,Start with 26 Lives
+N,FB68-C33D,Start with 26 Lives (alt)
+N,FB68-C34D+FB68-C33D,Start with 26 Lives (alt 2)
+N,7468-C34D,Start with 51 Lives
+N,7468-C33D,Start with 51 Lives (alt)
+N,7468-C34D+7468-C33D,Start with 51 Lives (alt 2)
+N,0868-C34D,Start with 76 Lives
+N,0868-C33D,Start with 76 Lives (alt)
+N,0868-C34D+0868-C33D,Start with 76 Lives (alt 2)
+N,1768-C34D,Start with 100 Lives
+N,1768-C33D,Start with 100 Lives (alt)
+N,1768-C34D+1768-C33D,Start with 100 Lives (alt 2)
+N,2D89-CE53,Super Jump Animals [Rev 2]
+N,AD88-1253,Super Jump Diddy Kong [Rev 2]
+N,2D8C-1E53,Super Jump Donkey Kong [Rev 2]
+N,2D8F-C273,Super Jump for All Animals
+N,2D87-C3E3,Super Jump for All Animals (alt)
+N,2D8F-C273+2D87-C3E3,Super Jump for All Animals (alt 2)
+N,AD81-1E73,Super Jump for Diddy Kong
+N,AD8B-1AE3,Super Jump for Diddy Kong (alt)
+N,AD81-1E73+AD8B-1AE3,Super Jump for Diddy Kong (alt 2)
+N,2D81-1273,Super Jump for Donkey Kong
+N,2D86-13E3,Super Jump for Donkey Kong (alt)
+N,2D81-1273+2D86-13E3,Super Jump for Donkey Kong (alt 2)
+N,CB6A-CD0F+F96A-CD6F+6B6A-CDAF+3C6A-CFDF,Swim on Land Levels
+N,F48B-327A,Ultima Jump Rambi [Rev 2]
+N,EE65-C37E+EE66-C27E,When Your Last Kong Is Hit, the Other One Returns (Reset If You Get Stuck
+N,EE65-C37E,When Your Last Kong Is Hit, the Other One Returns (Reset If You Get Stuck)
+N,EE66-C27E,When Your Last Kong Is Hit, the Other One Returns (Reset If You Get Stuck) (alt)

@@ -1,4 +1,64 @@
-N,7E0BA40F,level
-N,7E0BEE07,option 1
-N,7E0BF007,option 2
-N,7E0BB408,no damage
+N,FD7B-5D69,Bananas Restore More HP, Instead of 10 HP
+N,560B-840D,Continue with 10 Lives - Both Players
+N,7E5C7001,Enable 2-Player Same Character Cheat
+N,DD90-87D4,Food Gives EP Bonus Along with HP Bonus
+N,7E1F9886,Freeze Timer
+N,FD76-57D9,Grapes Restore More HP, Instead of 12 HP
+N,FD76-5DD9,Green Apple Restores More HP, Instead of 12 HP
+N,6D6E-5D04+6D6E-54D4+6D61-8DA4+6D64-87A4+6D66-87A4,Hit Anywhere
+N,DD1F-E7D4,Ice Traps Only Do 1 HP of Damage and Then You Are Set Free
+N,CE05-8F0D,Infinite Credits
+N,7E0B9A09,Infinite Health (P1)
+N,7E0C9A09,Infinite Health (P2)
+N,0407-57AF+3C00-5DDF+6900-5D6F+DD1F-E7D4+6DAD-8402+6D54-5FAE,Infinite Health and Magic - Both Players
+N,7E0BEC05,Infinite Lives
+N,7E0BEC09,Infinite Lives (P1)
+N,7E0CEC09,Infinite Lives (P2)
+N,C91D-5707,Infinite Lives P1 & P2
+N,7E1F9499,Infinite Time
+N,7E1F9498,Infinite Time (alt)
+N,7E5C240A,Infinite Time for Player Select
+N,7E0BB402,Invincibility
+N,7E0BB4FF,Invincibility (P1)
+N,7E0CB4FF,Invincibility (P2)
+N,ED76-E4AF+C976-E70F,Invincibility Against Everything - Both Players
+N,6D8E-8404,Invincibility Against Ice Traps - Both Players
+N,DDAE-7DD3,Invincibility Against Mimic (Chest) Traps - Both Players
+N,6D09-7DAE,Invincibility Against Mummies - Both Players
+N,DD53-7DDE,Invincibility Against Slime Enemies - Both Players
+N,C995-84AF,Item Pickups Don't Dissapear Until Picked Up or Left Behind
+N,D46F-540F,Level-Up 2x Faster
+N,7E0D9A00,Lower Enemy/Boss #1 Health
+N,7E0D9B00,Lower Enemy/Boss #2 Health
+N,6DAD-8402,Mimic (Chest) Traps Only Do 1 HP of Damage and Do Not Stick to You
+N,6D01-7F63,Mummies Only Do 1 HP of Damage and Then Release You
+N,C97B-EF6F,Once You're Hit, You'll Be Invincible for the Rest of the Level
+N,4069-EF64+4069-E4D4,One Hit Kill
+N,7E0BA40F,Overall Level (P1)
+N,7E0B9AFF,P1 Has Infinite HP
+N,7E0C9AFF,P2 Has Infinite HP
+N,C9B5-7FDD,Protection from Most Attacks
+N,4D7A-5769,Red Apple Restores More HP, Instead of 24 HP
+N,7E0BEE07,Set Max. Attack (P1)
+N,7E0CEE07,Set Max. Attack (P2)
+N,7E0BF007,Set Max. Defense (P1)
+N,7E0CF007,Set Max. Defense (P2)
+N,7E0BA0FF,Set Max. Health Bar (P1)
+N,7E0CA0FF,Set Max. Health Bar (P2)
+N,7E0C1399+7E0C1499,Set/Gain More EP (P1)
+N,7E0D1399+7E0D1499,Set/Gain More EP (P2)
+N,6D54-5FAE,Slime Traps Only Do 1 HP of Damage and Then You Are Set Free
+N,6959-ED6D,Start at a Higher Level
+N,63F2-546D,Start on Stage 5
+N,6AF2-546D,Start on Stage 12
+N,DBF7-876D,Start with 9 Credits
+N,565A-5FDD,Start with 10 Lives, Instead of 5 - Both Players
+N,6355-E7AD+6956-EF6D,Start with Level 6 Shield
+N,6351-E40D+6955-EDDD,Start with Level 6 Sword
+N,FD76-5F69,Strawberry Restores More HP, Instead of 12 HP
+N,C917-5F0D,Using Magic Doesn't Use Up Any Energy [Cleric Only]
+N,C91C-546D,Using Magic Doesn't Use Up Any Energy [Dwarf Only]
+N,C993-ED67,Using Magic Doesn't Use Up Any Energy [Elf Only]
+N,C91A-7DDD,Using Magic Doesn't Use Up Any Energy [Fighter Only]
+N,C910-74AD,Using Magic Doesn't Use Up Any Energy [Wizard Only]
+N,4D7B-54D9,Yellow Elixir Restores More HP, Instead of 24 HP

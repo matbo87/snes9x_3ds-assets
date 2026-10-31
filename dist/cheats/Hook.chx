@@ -1,3 +1,13 @@
-N,7EF7C103,Energy
-N,7E1F0780,Fly
-N,7E1F0801,Fly
+N,7E1F0780+7E1F0801,Fly
+N,7E1F0003,Infinite Lives
+N,7EF7C103,Infinite Power
+N,3CA5-D70F,Infinite Power [If You Fall, Switch Off Effects, Then Switch Back on to Die]
+N,7E1F1459,Infinite Time
+N,DDC1-A4A4+0AC5-ADA4+45C5-AFD4+C0C5-AF04,Jump in Midair
+N,D466-0FDD,Start with 1 Leaf [You Still See 2 Leaves, but You Can Only Fill 1]
+N,D066-0FDD,Start with 3 Leaves
+N,A268-6F03,Stop Timer
+N,D76B-ADA2,Time Starts at 3 Min. [Stage 1]
+N,D56B-ADA2,Time Starts at 7 Min. [ Stage 1]
+N,CBC8-A7DF+D4C8-A70F,Walk at 2x Run Speed
+N,CBC8-A7DF+D7C8-A70F,Walk at 3x Run Speed

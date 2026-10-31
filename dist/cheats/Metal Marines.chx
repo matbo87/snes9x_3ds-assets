@@ -1,5 +1,18 @@
-N,CB63-07AC+066E-0DDC,All Buildings Built/Upgraded Work As I.C.B.M.s
-N,DD29-64DD,Instant-Maximum Energy
-N,DD24-6D6D,Instant-Maximum War Funds
-N,BA2F-6F6D,Enemy Always Has 0 Energy
-N,BA20-67DD,Enemy Always Has 0 War Funds
+N,CB63-07AC+066E-0DDC,All Buildings Built/Upgraded Work as I.C.B.M.s
+N,DDE7-0FD8,Can Build ICBMs Quickly
+N,6DCE-DD03,Can See Entire Enemy Map
+N,BA21-07AD,Enemy Always Has 0 Energy
+N,BA2F-6F6D,Enemy Always Has 0 Energy (alt)
+N,BA2C-0F0D,Enemy Always Has 0 War Funds
+N,BA20-67DD,Enemy Always Has 0 War Funds (alt)
+N,7E1DAC00,Enemy Can't Attack
+N,1D25-64A8,Enemy Has No Attack Phase
+N,7E1DAA00,Enemy Has No Cash
+N,7E1DA2FF,Infinite Energy
+N,7E1DA0FF,Infinite Money
+N,DD25-04AD,Instant-Max Energy
+N,DD29-64DD,Instant-Max Energy (alt)
+N,DD28-0D0D,Instant-Max War Funds
+N,DD24-6D6D,Instant-Max War Funds (alt)
+N,DD66-AD64,Start Missions with Max. Cash and Energy
+N,6DA1-67AD,When Building an ICBM, It Takes Up Only 1 Space

@@ -1,57 +1,29 @@
-N,7E08F201,P1 Has Get Out Of Jai Card
-N,7E08F401,P2 Has Get Out Of Jai Card
-N,7E08F601,P3 Has Get Out Of Jai Card
-N,7E08F801,P4 Has Get Out Of Jai Card
-N,7E08FA01,P5 Has Get Out Of Jai Card
-N,7E08FC01,P6 Has Get Out Of Jai Card
-N,7E08FE01,P7 Has Get Out Of Jai Card
-N,7E090001,P8 Has Get Out Of Jai Card
-N,1D85-6FDF,Free Rent
-N,CBB3-AF0D,Always Throw Double 6's (1/3)
-N,D1B3-AF6D,Always Throw Double 6's (2/3)
-N,D1B3-AFAD,Always Throw Double 6's (3/3)
-N,CBB3-AF0D,Always Throw Double 5's (1/3)
-N,D9B3-AF6D,Always Throw Double 5's (2/3)
-N,D9B3-AFAD,Always Throw Double 5's (3/3)
-N,CBB3-AF0D,Always Throw Double 4's (1/3)
-N,D0B3-AF6D,Always Throw Double 4's (2/3)
-N,D0B3-AFAD,Always Throw Double 4's (3/3)
-N,CBB3-AF0D,Always Throw Double 3's (1/3)
-N,D4B3-AF6D,Always Throw Double 3's (2/3)
-N,D7B3-AFAD,Always Throw Double 3's (3/3)
-N,CBB3-AF0D,Always Throw Double 2's (1/3)
-N,D4B3-AF6D,Always Throw Double 2's (2/3)
-N,D4B3-AFAD,Always Throw Double 2's (3/3)
-N,CBB3-AF0D,Always Throw Double 1's (1/3)
-N,DFB3-AF6D,Always Throw Double 1's (2/3)
-N,DFB3-AFAD,Always Throw Double 1's (3/3)
-N,3B85-6FDF,Land & Rent Are $50 (1/3)
-N,7485-6F0F,Land & Rent Are $50 (2/3)
-N,DD85-6F6F,Land & Rent Are $50 (3/3)
-N,3B85-6FDF,Land & Rent Are $100 (1/3)
-N,1085-6F0F,Land & Rent Are $100 (2/3)
-N,DD85-6F6F,Land & Rent Are $100 (3/3)
-N,3B85-6FDF,Land & Rent Are $200 (1/3)
-N,A685-6F0F,Land & Rent Are $200 (2/3)
-N,DD85-6F6F,Land & Rent Are $200 (3/3)
-N,3B85-6FDF,Land & Rent Are $500 (1/3)
-N,E085-6F0F,Land & Rent Are $500 (2/3)
-N,DD85-6F6F,Land & Rent Are $500 (3/3)
-N,7E1010FF,Rent Is Free
+N,CBB3-AF0D+DFB3-AF6D+DFB3-AFAD,Always Throw Double 1's
+N,CBB3-AF0D+D4B3-AF6D+D4B3-AFAD,Always Throw Double 2's
+N,CBB3-AF0D+D4B3-AF6D+D7B3-AFAD,Always Throw Double 3's
+N,CBB3-AF0D+D0B3-AF6D+D0B3-AFAD,Always Throw Double 4's
+N,CBB3-AF0D+D9B3-AF6D+D9B3-AFAD,Always Throw Double 5's
+N,CBB3-AF0D+D1B3-AF6D+D1B3-AFAD,Always Throw Double 6's
 N,7E0A0402,Fast Game Speed
-N,7E08C2FF,Infinite Money P1 (1/2)
-N,7E08C3FF,Infinite Money P1 (2/2)
-N,7E08C4FF,Infinite Money P2 (1/2)
-N,7E08C5FF,Infinite Money P2 (2/2)
-N,7E08C6FF,Infinite Money P3 (1/2)
-N,7E08C7FF,Infinite Money P3 (2/2)
-N,7E08C8FF,Infinite Money P4 (1/2)
-N,7E08C9FF,Infinite Money P4 (2/2)
-N,7E08CAFF,Infinite Money P5 (1/2)
-N,7E08CBFF,Infinite Money P5 (2/2)
-N,7E08CCFF,Infinite Money P6 (1/2)
-N,7E08CDFF,Infinite Money P6 (2/2)
-N,7E08CEFF,Infinite Money P7 (1/2)
-N,7E08CFFF,Infinite Money P7 (2/2)
-N,7E08D0FF,Infinite Money P8 (1/2)
-N,7E08D1FF,Infinite Money P8 (2/2)
+N,7E08C2FF+7E08C3FF,Infinite Money P1
+N,7E08C4FF+7E08C5FF,Infinite Money P2
+N,7E08C6FF+7E08C7FF,Infinite Money P3
+N,7E08C8FF+7E08C9FF,Infinite Money P4
+N,7E08CAFF+7E08CBFF,Infinite Money Player 5
+N,7E08CCFF+7E08CDFF,Infinite Money Player 6
+N,7E08CEFF+7E08CFFF,Infinite Money Player 7
+N,7E08D0FF+7E08D1FF,Infinite Money Player 8
+N,7E1010FF,Land, Rent and Some Other Things Are Free
+N,1D85-6FDF,Land, Rent and Some Other Things Are Free [All Players]
+N,3B85-6FDF+7485-6F0F+DD85-6F6F,Land, Rent, and Some Other Things Are $50 (All Players)
+N,3B85-6FDF+1085-6F0F+DD85-6F6F,Land, Rent, and Some Other Things Are $100 (All Players)
+N,3B85-6FDF+A685-6F0F+DD85-6F6F,Land, Rent, and Some Other Things Are $200 (All Players)
+N,3B85-6FDF+E085-6F0F+DD85-6F6F,Land, Rent, and Some Other Things Are $500 (All Players)
+N,7E08F201,P1 Has a "Get Out of Jail" Card
+N,7E08F401,P2 Has a "Get Out of Jail" Card
+N,7E08F601,P3 Has a "Get Out of Jail" Card
+N,7E08F801,P4 Has a "Get Out of Jail" Card
+N,7E08FA01,Player 5 Has a "Get Out of Jail" Card
+N,7E08FC01,Player 6 Has a "Get Out of Jail" Card
+N,7E08FE01,Player 7 Has a "Get Out of Jail" Card
+N,7E090001,Player 8 Has a "Get Out of Jail" Card

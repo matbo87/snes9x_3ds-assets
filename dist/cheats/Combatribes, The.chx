@@ -1,21 +1,56 @@
-N,7E16D400,The Combatribes Player 1 Modifier
-N,7E16A4FA,Player 1 Infinite Health
-N,7E184401,Player 1 Invincibility
-N,7E146663,99 Credits in Options
-N,7E146409,Infinite Credits
-N,7E145801,Enemies Wear Alternate colored attire
-N,7E16A6E6,Player 2 Infinite Health
-N,7E16A800+7E16AA00+7E16AC00+7E16AE00,Enemies Have No Health
-N,7E167401,Player 1 can Knock Enemies Down with 1-Hit
-N,7E167601,Player 2 can Knock Enemies Down with 1-Hit
-N,7E167802+7E167A02+7E167C02+7E167E02,Enemies can Knock Players Down with 1-Hit
-N,7E18C401,Player 1 has Faster Animations
-N,7E18C601,Player 2 has Faster Animations
-N,7E18C801+7E18CA01+7E18CC01+7E18CE01,Enemies have Faster Animations
-N,7E147101,Enemies Die when you Continue
-N,7E16B401,Player 1's Health Drains Rapidly
-N,7E16B601,Player 2's Health Drains Rapidly
-N,7E16B801+7E16BA01+7E16BC01+7E16BE01,Enemies' Health Drains Rapidly
-N,7E15F401,Player 1 Doesn't Stay down long when knocked down
-N,7E15F601,Player 2 Doesn't Stay down long when knocked down
-N,7E15F801+7E15FA01+7E15FC01+7E15FE01,Enemies Don't Stay down long when knocked down
+N,7E157801,"Push Start" Flashes on the Screen During Game Play
+N,7E156409,9 Credits
+N,C23C-04D7+ABB5-D767,Allows Players to Choose the Same Character in Normal Mode
+N,7E16A500,Berzerker's & Blitz's Running Attacks Don't Go as Far
+N,7E157C01,CPU Controls P1 & P2 in vs Mode
+N,7E155801,Enemies Are Wearing Alternate Attire
+N,7E190801+7E190A01+7E190C01+7E190E01,Enemies Bounce After Getting Knocked Down
+N,7E16F800+7E16FA00+7E16FC00+7E16FE00,Enemies Can Hurt Each Other
+N,7E176802+7E176A02+7E176C02+7E176E02,Enemies Can Knock Down Players with 1 Hit
+N,7E16F801+7E16FA01+7E16FC01+7E16FE01,Enemies Can't Hurt P1 or P2 (Untouchable)
+N,7E176801+7E176A01+7E176C01+7E176E01,Enemies Cause Players to Reel Back from 1 Hit
+N,7E157101,Enemies Die When You Die
+N,7E16E801+7E16EA01+7E16EC01+7E16EE01,Enemies Don't Stay on the Ground for Very Long When Knocked Down
+N,7E17A801+7E17AA01+7E17AC01+7E17AE01,Enemies Health Drains Rapidly
+N,7E195901+7E195B01+7E195D01+7E195F01,Enemies Never Attack
+N,7E16E800+7E16EA00+7E16EC00+7E16EE00,Enemies Stay on the Ground When Knocked Down
+N,7E179800,Enemy 1 with No Health
+N,7E179A00,Enemy 2 with No Health
+N,7E179C00,Enemy 3 with No Health
+N,7E179E00,Enemy 4 with No Health
+N,7E008100,Fewer Enemies to Fight
+N,3DBB-076D+DDBB-07AD+DDBC-0DDD+EDBC-0D0D+70BC-0D6D,Hit Anywhere
+N,A2B3-A404,Infinite Credits
+N,3CB5-6F64+CBB5-6FA4+A6B5-64D4+62B5-6464,Infinite Energy
+N,82AE-67DF,Infinite Health
+N,7E1794BE,Infinite P1 Health
+N,7E1796BE,Infinite P2 Health
+N,7E193401,Invincibility
+N,7E179800+7E179A00+7E179C00+7E179E00,Most Enemies Die with 1-Hit
+N,3DA3-64AF+DDA3-67DF+DDA3-670F+40AE-6FAF,One Hit Kill
+N,7E157A01,P1 & P2 Are Invincible
+N,D0B7-0D0D,P1 and P2 Are Untouchable
+N,7E0B1200,P1 as Blitz, Bullova, & Berzerker Can't Throw a Fireball in vs Mode
+N,7E008501,P1 as Blitz, Bullova, & Berzerker Can't Throw a Fireball in vs Mode (alt)
+N,7E176401,P1 Can Knock Down Enemies with 1 Hit
+N,7E160401,P1 Constantly Swings an Enemy by the Ankles
+N,7E16E401,P1 Doesn't Stay on the Ground for Very Long When Knocked Down
+N,7E156802,P1 Has to Only Win 1 Round in vs Mode to Win the Match
+N,7E1794C8,P1 Infinite Health
+N,7E193501,P1 Is Untouchable
+N,7E19B401,P1 Speed Hack
+N,7E17A401,P1's Health Drains Rapidly
+N,7E176601,P2 Can Knock Enemies Down with 1 Hit
+N,7E160601,P2 Constantly Swings an Enemy by the Ankles
+N,7E16E601,P2 Doesn't Stay on They Ground for Very Long When Knocked Down
+N,7E156A02,P2 Has to Only Win 1 Round in vs Mode to Win the Match
+N,7E1796C8,P2 Infinite Health
+N,7E193701,P2 Is Untouchable
+N,7E19B601,P2 Speed Hack
+N,7E17A601,P2's Health Drains Rapidly
+N,7E008F01,Players & Enemies Can Walk into the Background
+N,7E009201,Players & Enemies Can Walk into the Foreground
+N,7E009401,Players & Enemies Can Walk Past the Left Most Barrier on Every Stage
+N,7E0A4230,Rapid Attack by Holding a or X Buttons
+N,7E156663,Start with 99 Credits in Options
+N,7E1EE710,Unlock All Characters in vs Mode

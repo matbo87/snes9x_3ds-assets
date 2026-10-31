@@ -1,6 +1,26 @@
-N,7E008F84,Energy
-N,7E009003,Energy
-N,7E18AF20,Life
-N,7E18B003,Life
-N,7E5B8F01,Enemy
-N,7E5B9000,Enemy
+N,C9C4-3467,"M's Worth 0
+N,FDCF-37A7,"M's Worth 10
+N,7DCF-37A7,"M's Worth 30
+N,CDCF-37A7,"M's Worth 100
+N,DD88-140D,Don't Flash at All
+N,EE88-140D,Flash Longer
+N,82C0-476F,Get Hit and You're Invincible
+N,C2CC-3F07,Green Hearts Worth 0
+N,FDC6-3707,Green Hearts Worth 10
+N,7DC6-3707,Green Hearts Worth 30
+N,CDC6-3707,Green Hearts Worth 100
+N,40C9-1467+40C9-1767+40C6-14A7+40C6-17A7+40C5-14A7+40C0-47DF+40C9-4F6F,Hit Anywhere
+N,7E5B8F01+7E5B9000,Infinite Enemy
+N,7E008F84+7E009003,Infinite Energy
+N,7E18AF20+7E18B003,Infinite Life
+N,C961-146F,Infinite Lives
+N,C282-1F0D,Infinite Mask Power
+N,40C0-47DF+40C9-4F6F,Invincibility
+N,8EBF-3DD4,Mallet Doesn't Use Any Power
+N,CB63-446D+DD63-44AD+DD63-47DD,Start with 1 Life
+N,CB63-446D+D963-44AD+DD63-47DD,Start with 5 Lives
+N,CB63-446D+DB63-44AD+DD63-47DD,Start with 9 Lives
+N,DF6E-44AD,Start with 100 Mask Energy
+N,D76E-44AD,Start with 300 Mask Energy
+N,DB6E-44AD,Start with 900 Mask Energy
+N,C287-4DAF,Walk Through Walls

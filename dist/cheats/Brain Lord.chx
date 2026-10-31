@@ -1,43 +1,49 @@
-N,016F45FF,Character Starts With More HP
-N,7E08C337,Infinite Life
 N,7E08C299,99 Hit Points
-N,7E08C499,99 Maximum Hit Points (1/2)
-N,7E08C527,99 Maximum Hit Points (2/2)
-N,7E08CAFF,99 Power
-N,C299C097,No Enemies
-N,7E08C701,Quick Spell Charge
-N,7E08DD00,Best Status
+N,7E08C499+7E08C527,99 Max Hit Points
 N,7E08D407,Always Faster
-N,7E037697,Have Infinite High Gs
-N,7E08D10?,Have # of Spells
-N,7E0910??,Select Spell 1
-N,7E0911??,Select Spell 2
-N,7E0912??,Select Spell 3
-N,7E0913??,Select Spell 4
-N,7E0914??,Select Spell 5
-N,7E0915??,Select Spell 6
-N,7E0916??,Select Spell 7
-N,7E0917??,Select Spell 8
-N,7E0918??,Select Spell 9
-N,7E0919??,Select Spell 10
-N,7E091A??,Select Spell 11
-N,7E091B??,Select Spell 12
-N,7E091C??,Select Spell 13
-N,B5BA-5DDC,No Enemies
+N,7E427AC8,Anger Jade Quick Lvl Gain
+N,7E08DD00,Best Status
+N,7E14ADFF,Changed Enemies into Different Enemies (Stronger?)
+N,7E4232C8,Crimson Jade Quick Lvl Gain
+N,7E04B506,Debug Menu
+N,D9FB-570F+DDFC-5F6F+E54D-57AF,Debug Option
+N,7E429EC8,Decease Jade Quick Lvl Gain
+N,2DFB-540C,Fewer Enemies
+N,7E4244C8,Foundation Jade Quick Lvl Gain
 N,33B3-54AC,Get Crystal Piece
-N,B5FA-5DDC,No Enemies (Alternate Code)
-N,?XBA-5D0C,Changed Enemies (Stronger?)
-N,?FBA-5D0C,Changed Enemies (Weak?)
-N,?XBA-540C,Enemies Pop-Out And Respawn
-N,?ABA-540C,Enemies Pop-Out And Respawn #2
-N,??BB-546C,No Title, SlowMo & No Enemies
-N,56BB-5D0C,No Title, SlowMo & No Enemies #2
-N,??BA-5FDC,No Enemies (On/Off, #2)
-N,?XBA-5D6C,No Enemies (On/Off, #3)
-N,0ABA-540C,No Enemies (On/Off, #4)
-N,?XBA-5DAC,No Enemies (On/Off, #5)
-N,??BB+5DDC,No Enemies (On/Off, #6)
-N,??BB-54DC,No Enemies (On/Off, #7)
+N,DDED-576B,Get Hearts from Anywhere
+N,7E08D100,Have # of Spells
+N,7E08CAFF,Have 255 Power
+N,7E08C20F+7E08C327,Have 9999 HP
+N,7E08C40F+7E08C527,Have 9999 Max HP
+N,7E037697,Have Infinite High Gs
+N,7E08C400,Hero's Current HP Is 0
+N,7E08C464,Hero's Current HP Is 100
+N,7E08C4FF,Hero's Current HP Is 255
+N,7E08C4E7+7E08C503,Hero's Current HP Is 999
+N,7E08BB00,Hero's Guard Is 0
+N,7E08BB64,Hero's Guard Is 100
+N,7E08BBFF,Hero's Guard Is 255
+N,7E08BBE7+7E08BC03,Hero's Guard Is 999
+N,7E08C200,Hero's Max HP Is 0
+N,7E08C264,Hero's Max HP Is 100
+N,7E08C2FF,Hero's Max HP Is 255
+N,7E08C2E7+7E08C303,Hero's Max HP Is 999
+N,7E08CA00,Hero's Power Is 0
+N,7E08CA64,Hero's Power Is 100
+N,7E08CAE7+7E08CB03,Hero's Power Is 999
+N,7641-7F6E+1841-7FAE,Hit Anywhere
+N,7E08C337,Infinite Life
+N,7E42B0C8,Light Jade Quick Lvl Gain
+N,7E4268C8,Lightning Jade Quick Lvl Gain
+N,56BB-5D0C,Missing Title, Slow Motion and No Enemies #2
+N,B5BA-5DDC,No Enemies
+N,0ABA-540C,No Enemies (On/Off)
+N,B5FA-5DDC,No Enemies Everywhere
+N,DD76-7403,One Hit Kills
+N,7E4256C8,Power Jade Quick Lvl Gain
+N,7E08C701,Quick Spell Charge
 N,2DFB-5DAC,Slow Motion (No Enemies)
 N,2DF6-540C,Super Slow Motion (No Enemies)
-N,2DFB-540C,Fewer Enemies
+N,6D11-74DD,Walk Over Pits
+N,7E428CC8,Water Jade Quick Lvl Gain
