@@ -4,18 +4,18 @@ Input folders are scanned recursively:
 
   python3 scripts/build-cache.py -i <gameplay> --dither checks,32,64,32
   python3 scripts/build-cache.py -i <title> --dither checks,32,64,32
-  python3 scripts/build-cache.py -i <boxart_us-style> -b <1g1r covers>
-  python3 scripts/build-cache.py -i <boxart_japan-style> -b <1g1r covers>
-  python3 scripts/build-cache.py -i <boxart_pal-style> -b <1g1r covers>
+  python3 scripts/build-cache.py -i <cover_us-style> -b <1g1r covers>
+  python3 scripts/build-cache.py -i <cover_japan-style> -b <1g1r covers>
+  python3 scripts/build-cache.py -i <cover_pal-style> -b <1g1r covers>
 
 The default output is dist/thumbnails/<first-input-dir>.cache.gz; use -o to set a
 different output path. Repeat -i to combine cover folders. Use -b to fill
 missing input titles from a fallback folder.
 
 Use -p to render a preview atlas instead of a cache. Example with a custom font:
-python3 scripts/build-cache.py -i <boxart_us-style> -p -f <path/to/my-custom-font.ttf>
+python3 scripts/build-cache.py -i <cover_us-style> -p -f <path/to/my-custom-font.ttf>
 
-All box-art variants are 1G1R. Each prefers its regional style and uses official artwork for remaining titles.
+All cover variants are 1G1R. Each prefers its regional style and uses official artwork for remaining titles.
 PAL-style also includes custom-made PAL-style covers for titles without a PAL-region release.
 """
 

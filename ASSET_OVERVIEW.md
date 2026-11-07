@@ -3,7 +3,7 @@
 Per-game asset coverage for all 1000 entries of the base list:
 [`src/file-list.txt`](src/file-list.txt)
 
-`Gameplay`, `Title` and `Boxart` cover every entry of
+`Gameplay`, `Title` and `Cover` include every entry of
 the base list and have no column here. 
 `Complete` means all sets below are present.
 

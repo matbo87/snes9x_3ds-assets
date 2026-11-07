@@ -14,9 +14,9 @@ GAME_MANIFEST = DIST / "game-assets.txt"
 # In picker order. The emulator inflates each download and stores it at the path
 # without .gz; it only offers paths it has a thumbnail type for.
 CACHE_VARIANTS = [
-    "thumbnails/boxart_us-style.cache.gz",
-    "thumbnails/boxart_japan-style.cache.gz",
-    "thumbnails/boxart_pal-style.cache.gz",
+    "thumbnails/cover_us-style.cache.gz",
+    "thumbnails/cover_japan-style.cache.gz",
+    "thumbnails/cover_pal-style.cache.gz",
     "thumbnails/title.cache.gz",
     "thumbnails/gameplay.cache.gz",
 ]
