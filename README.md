@@ -2,12 +2,16 @@
 
 Cheats and image assets for the [snes9x_3ds emulator](https://github.com/matbo87/snes9x_3ds/releases).
 
-The sets follow a one game, one region (1G1R) selection:
+The current asset packs and instructions are intended for **snes9x_3ds v2.0+**.
+
+For older emulator versions, see the [v1.1.0 asset release](https://github.com/matbo87/snes9x_3ds-assets/releases/tag/v1.1.0) and [its README](https://github.com/matbo87/snes9x_3ds-assets/blob/v1.1.0/README.md).
+
+The asset sets use one version of each game, following a one game, one region (1G1R) selection:
 
 - No hacks, betas, prototypes or unlicensed games
 - Region preference: **USA > Europe > Japan**
 
-The focus is on USA and European releases. Japanese exclusives are partially covered.
+The focus is on US and European releases, with partial coverage of Japanese exclusives.
 
 ## Download
 
@@ -27,7 +31,9 @@ Per-game asset coverage: [`ASSET_OVERVIEW.md`](ASSET_OVERVIEW.md)
 | --- | ---: | --- |
 | Gameplay | 1000 | Used for `thumbnails/gameplay.cache` and `backgrounds/game_screen` |
 | Title | 1000 | Used for `thumbnails/title.cache` |
-| Cover styles | 1000 each | **US:** `thumbnails/cover_us-style.cache`; [`277 entries`](src/fallback/cover_us-style.cache.txt) use the 1G1R cover (Europe > Japan).<br>**Japan:** `thumbnails/cover_japan-style.cache`; [`305 entries`](src/fallback/cover_japan-style.cache.txt) use the 1G1R cover (USA > Europe).<br>**PAL:** `thumbnails/cover_pal-style.cache` and `backgrounds/second_screen_cover_art`; [`160 entries`](src/fallback/cover_pal-style.cache.txt) use the 1G1R cover (USA > Japan). |
+| Cover (US) | 1000 | Used for `thumbnails/cover_us-style.cache`<br>[`277 entries`](src/fallback/cover_us-style.cache.txt) use the 1G1R cover (Europe > Japan). |
+| Cover (Japan) | 1000 | Used for `thumbnails/cover_japan-style.cache`<br>[`305 entries`](src/fallback/cover_japan-style.cache.txt) use the 1G1R cover (USA > Europe). |
+| Cover (PAL) | 1000 | Used for `thumbnails/cover_pal-style.cache` and `backgrounds/second_screen_cover_art`<br>[`160 entries`](src/fallback/cover_pal-style.cache.txt) use the 1G1R cover (USA > Japan). |
 | Console (EU/JP) | 840 | Used for `backgrounds/second_screen_console/eu_jp`<br>Missing titles: [`src/missing/console_eu_jp.txt`](src/missing/console_eu_jp.txt) |
 | Console (USA) | 723 | Used for `backgrounds/second_screen_console/us`<br>Missing titles: [`src/missing/console_us.txt`](src/missing/console_us.txt) |
 | Cheats | 882 | Used for `cheats` (`.chx` format)<br>Missing titles: [`src/missing/cheats.txt`](src/missing/cheats.txt) |
@@ -39,20 +45,20 @@ Per-game asset coverage: [`ASSET_OVERVIEW.md`](ASSET_OVERVIEW.md)
 
 ### Overlays
 
-Overlays are currently provided as demo examples only: a [default bezel](dist/defaults/overlay.png) and a [Super Mario World overlay](dist/overlays/Super%20Mario%20World.png).
+Two example overlays are available: a [default bezel](dist/defaults/overlay.png) and a [Super Mario World overlay](dist/overlays/Super%20Mario%20World.png).
 
-Broad overlay coverage is not planned.
+There are no plans to add overlays for the full game set.
 
 ## Usage
 
 Each asset set is optional. Choose backgrounds, overlays, and cheats for the games you play.
 
-You can download thumbnails, backgrounds, and cheats through **Emulator > Online Updater**. Load a game first to download its backgrounds or cheats.
+Download thumbnails, backgrounds, and cheats from **Emulator > Online Updater**. Load a game first to download its backgrounds or cheats.
 
 For manual installation, place your chosen files in the matching folders under `/3ds/snes9x_3ds` on your SD card, as shown below.
-Thumbnail caches need to be extracted first (see [Thumbnails](#thumbnails)).
+Extract the thumbnail caches before copying them (see [Thumbnails](#thumbnails)).
 
-For second-screen backgrounds, copy images from your chosen variant into `backgrounds/second_screen` (one variant per game; copying another replaces it).
+For second-screen backgrounds, copy images from your chosen variant into `backgrounds/second_screen`. Only one variant can be installed per game; copying a different variant overwrites the existing image.
 
 ```text
 /3ds/
@@ -133,7 +139,9 @@ Example:
 
 This lets one image match multiple regions and revisions.
 
-Some regional titles use a shared name through the emulator's [name mappings](src/mappings.txt). For example, `Kirby's Fun Pak (Europe).sfc` uses `Kirby Super Star.png`.
+The emulator's [name mappings](src/mappings.txt) let games with different regional titles share the same assets. For example, `Kirby's Fun Pak (Europe).sfc` uses `Kirby Super Star.png`. 
+
+To use a separate image for a mapped regional title, rename the ROM to a name not listed in the mappings and give the image the same name. For example, `Kirby's Fun Pak - PAL.sfc` would use `Kirby's Fun Pak - PAL.png`.
 
 ## Add your own cheat files
 
